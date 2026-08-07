@@ -162,12 +162,12 @@ int socket          args((int domain, int type, int protocol));
 #include <sys/fcntl.h>
 #endif
 
-#if     defined(linux)
-int close           args((int fd));
-int gettimeofday    args((struct timeval * tp, struct timezone * tzp));
-int select          args((int width, fd_set * readfds, fd_set * writefds, fd_set * exceptfds, struct timeval * timeout));
-int socket          args((int domain, int type, int protocol));
-#endif
+/*
+ * Historically Linux needed local prototypes for close/gettimeofday/select/
+ * socket. Modern systems (glibc on Amazon Linux 2023 arm64, etc.) declare
+ * gettimeofday as (struct timeval *, void *); redeclaring it with
+ * struct timezone * causes a hard conflict. System headers are enough now.
+ */
 
 #if     defined(macintosh)
 #include <console.h>
