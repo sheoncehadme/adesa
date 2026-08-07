@@ -85,8 +85,9 @@ typedef struct duel_player_data DUEL_PLAYER_DATA;
 typedef struct duel_watcher_data DUEL_WATCHER_DATA;
 typedef struct duel_obj_data DUEL_OBJ_DATA;
 
-DUEL_DATA *first_duel;
-DUEL_DATA *last_duel;
+/* Defined in duel.c — must be extern here (GCC 10+ defaults to -fno-common). */
+extern DUEL_DATA *first_duel;
+extern DUEL_DATA *last_duel;
 
 struct duel_obj_data {
     DUEL_OBJ_DATA *next;

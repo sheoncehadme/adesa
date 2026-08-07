@@ -7879,7 +7879,7 @@ void do_autostance(CHAR_DATA *ch, char *argument)
 void 
 do_max_players(CHAR_DATA *ch, char *argument)
 {
-    extern int save_max_players_t;
+    extern time_t save_max_players_t;
     extern int save_max_players;
     char       buf[MAX_STRING_LENGTH];
     char       buf2[MSL];

@@ -310,7 +310,8 @@ char                *nameserver = NULL;
 int                 pixbonus = 30;
 int                 elfbonus = 40;
 int                 arenacharm = 0;
-int                 save_max_players_t = 0;
+/* time_t on arm64 is 64-bit; must match externs in macros.c / act_info.c */
+time_t              save_max_players_t = 0;
 int                 save_max_players = 0;
 int                 maxdoncount = 20;
 int                 avnuminc = 1;

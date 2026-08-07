@@ -64,7 +64,7 @@ extern int elfbonus;
 extern int pixbonus;
 extern int arenacharm;
 extern int save_max_players;
-extern int save_max_players_t;
+extern time_t save_max_players_t;
 extern int maxdoncount;
 extern int avnuminc;
 extern int fighttimer;
