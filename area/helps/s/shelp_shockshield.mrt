@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Shockshield
+    @@cClasses:@@N Sorcerer(55)
+   @@aDuration:@@N ( Cast Level / 7 )
+   @@bModifies:@@N N/A
+       @@GType:@@N Defensive
+@@mDescription:@@N Surrounds your character with a blue shield of electricity that
+             causes damage to your enemies upon impact.
+@@y*******************************************************************************@@N

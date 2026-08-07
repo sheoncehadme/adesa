@@ -1,0 +1,28 @@
+There are now a number of _main_ boards on the game:
+
+INFO Board - 5 rooms west of Midgaard Temple, this is used to hold rules and
+
+	     general information.  Only Immortals can write on this board.
+
+IDEA Board - In Midgaard Temple, this is inteneded to be used by players to
+
+	     leave ideas for the mud.
+
+
+There is also a board for players to use, for personal messages, etc.  It is
+
+located 4 rooms west, 2 rooms south of Midgaard Temple.
+
+To use the boards, you must be in a room with one :)
+
+Type: WRITE <header> to leave a message, with the specified header/title.
+
+      WRITE to:<name> to leave a private message.
+
+      READ <number> to read a message.
+
+To find out what messages are on a board, simply look at it.
+
+There are also several other boards in the game, for clan and race use, as
+
+well as various other use.

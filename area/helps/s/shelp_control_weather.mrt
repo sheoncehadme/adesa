@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Control Weather		
+    @@cClasses:@@N Mage(58), Cleric(79)
+   @@aDuration:@@N N/A
+   @@bModifies:@@N Weather Conditions
+       @@GType:@@N N/A
+@@mDescription:@@N This spells allows the caster to make the weather conditions
+             either 'better' or 'worse'.
+@@y*******************************************************************************@@N

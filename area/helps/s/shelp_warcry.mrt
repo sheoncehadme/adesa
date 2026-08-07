@@ -1,0 +1,10 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Warcy
+    @@cClasses:@@N Warrior(5)
+   @@aDuration:@@N 4 + ( Cast Level * 6 )
+   @@bModifies:@@N Hitroll, Saving Throw
+       @@GType:@@N Defensive
+@@mDescription:@@N By unleashing a primal instinct, the warrior can geather
+             enough power from within for better accuracy and an innate
+             ability to shrug off minor spellcastings.
+@@y*******************************************************************************@@N

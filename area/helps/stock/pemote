@@ -1,0 +1,7 @@
+PEMOTE acts in the same way as emote, except that where emote adds your name
+
+before the argument, PEMOTE adds you name PLUS the characters 's
+
+Eg PEMOTE feeling rather annoyed with Immortals         would be shown as:
+
+Stephen's feeling rather annoyed with Immortals.

@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Cure Light		
+    @@cClasses:@@N Cleric(5)
+   @@aDuration:@@N Permanent
+   @@bModifies:@@N N/A
+       @@GType:@@N Defensive
+@@mDescription:@@N This spell allows the caster to cure light wounds of the
+             target.
+@@y*******************************************************************************@@N

@@ -1933,7 +1933,13 @@ send_help(void *to, char *argument, int type, bool desc)
         if (!desc)
             send_to_char("Error opening help list file. Contact an Immortal.\n\r", ch);
 
-        return TRUE;
+        /*
+         * Must return FALSE so callers (notably the login greeting in
+         * new_descriptor) still send a fallback message. Returning TRUE
+         * here left new connections with only the MCCP telnet negotiation
+         * and a blank screen when helps/ is missing.
+         */
+        return FALSE;
     }
 
     for (;;) {

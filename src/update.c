@@ -172,7 +172,8 @@ init_alarm_handler()
     struct sigaction    sa;
 
     sa.sa_handler = alarm_handler;
-    sa.sa_flags = 1;            /* Restart interrupted system calls */
+    /* Was hardcoded to 1 (wrong on modern Linux/macOS). SA_RESTART is portable. */
+    sa.sa_flags = SA_RESTART;
     sigemptyset(&sa.sa_mask);
     sigaddset(&sa.sa_mask, SIGABRT);    /* block abort() in the handler
                                          * so we can get a good coredump */

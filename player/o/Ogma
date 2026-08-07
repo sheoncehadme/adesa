@@ -1,0 +1,1164 @@
+#PLAYER
+Revision      9
+Name          Ogma~
+ShortDescr    @@dAn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N~
+LongDescr     ~
+Description   @@dA@@gn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N @@Wi@@cs @@gl@@ay@@di@@gn@@cg @@ah@@ce@@dr@@ge.@@N
+
+~
+Prompt        %n<%hhp %mm %vmv> ~
+Battleprompt  @@N@@g[%n @@d(%b@@d)@@g] [%N @@d(%B@@d)@@g]@@N%c~
+Noteprompt    @@N@@R[@@e[@@W[@@g You have @@y%a @@gnew note%s @@W]@@e]@@R]@@N%c~
+Sex           1
+LoginSex      1
+Afkmsg        (null)~
+Class         1
+Race          8
+Level         2
+Sentence      0
+Invis         90
+m/c           90 90 90  2 90 
+Remort        90 90 90 90 90 
+Adeptlevel    20
+Avatar        1
+Trust         90
+Wizbit        1
+Played        1311
+NewsLastRead  1786119502
+Room          1025
+HpManaMove    30000 82 30000 133 30000 114
+Energy        30000 30000
+EnergyLevel   100
+EnergyUsed    0
+Gold          1000000
+Balance       1000000
+Exp           999999999
+Act           50484856
+Config        1
+AffectedBy    0
+Position      7
+Practice      500
+SavingThrow   9
+Alignment     0
+Hitroll       27
+Damroll       26
+Armor         -24
+Wimpy         0
+Deaf          0
+Deaf2         0
+Generation    0
+Clan          0
+Order         1 2 0 3 4
+Index         2 0 1 3 4
+Mkills        21
+Mkilled       0
+Circlesatt    0
+Circlesland   0
+Pkills        0
+Unpkills      0
+Pkilled       0
+Password      5f4dcc3b5aa765d61d8327deb882cf99~
+Bamfin        arrives in a flash of immortal light~
+Bamfout       vanishes in a flash of immortal light~
+Roomenter     flys at you from~
+Roomexit      flys away~
+Title          the Implementor~
+Immskll       wizhelp creator ) finger sedit alink board mpcr mpstat halls lhunt sstat cset whoname clutchinfo advance setclass areasave doggy dc togbuild togleader ihelps isnoop trust resetpassword iwhere fights allow iban deny freeze reboo reboot hotreboo hotreboot shutdow shutdown users wizify wizlock imtlset for force log maffect mload monitor mset mudset noemote nopray nopk dblxp notell oload oset owhere orare opotion pardon peace purge iquest restore rset shedit silence sla slay snoop sset transfer at bamfin bamfout echo goto holylight invis makeimm memory mfind mfindlev mstat mwhere mlist ofind ostat recho roomlist mecho return rstat slookup switch immtalk : reward xpreward setcouncil resetgain exlist vlist olmsg ofindlev prename scheck immbrand otype owear olist oreset ocount oflag mflag loadlink xlook xlookaff ctalk atalk nocmd nospell deimm rsockets rconnect rdisconnect rignore mailq rchanset rping icommand isetup ilist ichannels mpasound mpjunk mpecho mpechoat mpechoaround mpkill mpmload mpoload mppurge mpgoto mpat mptransfer mpforce mptongue irename idlecheck~
+Whoname       WMP~
+Monitor       0
+Host          127.0.0.1~
+Failures      0
+LastLogint    1786120800
+Deserttime    0
+HiCol         a~
+DimCol        c~
+Alias_Name0   <none>~
+Alias0        <none>~
+Alias_Name1   <none>~
+Alias1        <none>~
+Alias_Name2   <none>~
+Alias2        <none>~
+Alias_Name3   <none>~
+Alias3        <none>~
+Alias_Name4   <none>~
+Alias4        <none>~
+Alias_Name5   <none>~
+Alias5        <none>~
+Alias_Name6   <none>~
+Alias6        <none>~
+Alias_Name7   <none>~
+Alias7        <none>~
+Alias_Name8   <none>~
+Alias8        <none>~
+Alias_Name9   <none>~
+Alias9        <none>~
+Alias_Name10   <none>~
+Alias10        <none>~
+Alias_Name11   <none>~
+Alias11        <none>~
+Colours      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+AttrPerm      25 25 25 25 25
+AttrMod       0 0 0 0 0
+AttrMax       25 25 25 25 25
+Questpoints   10000
+RecallVnum    3001
+KeepVnum      0
+KdonVnum      0
+GainMana      104
+GainHp        32
+GainMove      114
+Condition     0 14 14
+Pagelen       40
+Pflags        0
+Autostance    ~
+Skill         99 'acid blast'
+Skill         99 'armor'
+Skill         99 'animate'
+Skill         99 'bad breath'
+Skill         99 'bark skin'
+Skill         99 'bless'
+Skill         99 'blindness'
+Skill         99 'bloody tears'
+Skill         99 'burning hands'
+Skill         99 'call lightning'
+Skill         99 'calm'
+Skill         99 'cause critical'
+Skill         99 'cause light'
+Skill         99 'cause serious'
+Skill         99 'change sex'
+Skill         99 'charm person'
+Skill         99 'chill touch'
+Skill         99 'colour spray'
+Skill         99 'continual light'
+Skill         99 'control weather'
+Skill         99 'create food'
+Skill         99 'create spring'
+Skill         99 'create water'
+Skill         99 'cure blindness'
+Skill         99 'cure critical'
+Skill         99 'cure light'
+Skill         99 'cure poison'
+Skill         99 'cure serious'
+Skill         99 'curse'
+Skill         99 'detect evil'
+Skill         99 'detect hidden'
+Skill         99 'detect invis'
+Skill         99 'detect magic'
+Skill         99 'detect poison'
+Skill         99 'detect undead'
+Skill         99 'detection'
+Skill         99 'dimension blade'
+Skill         99 'dispel magic'
+Skill         99 'earthquake'
+Skill         99 'ego whip'
+Skill         99 'enchant weapon'
+Skill         99 'enhance weapon'
+Skill         99 'faerie fire'
+Skill         99 'faerie fog'
+Skill         99 'fighting trance'
+Skill         99 'fireball'
+Skill         99 'fire blade'
+Skill         99 'flamestrike'
+Skill         99 'flare'
+Skill         99 'fly'
+Skill         99 'gate'
+Skill         99 'giant strength'
+Skill         99 'harm'
+Skill         99 'heal'
+Skill         99 'hypnosis'
+Skill         99 'identify'
+Skill         99 'infravision'
+Skill         99 'influx'
+Skill         99 'invis'
+Skill         99 'know alignment'
+Skill         99 'know weakness'
+Skill         99 'know critical'
+Skill         99 'know item'
+Skill         99 'laser bolt'
+Skill         99 'lightning bolt'
+Skill         99 'locate object'
+Skill         99 'magic missile'
+Skill         99 'mass invis'
+Skill         99 'mind flail'
+Skill         99 'mystic armour'
+Skill         99 'nerve fire'
+Skill         99 'night vision'
+Skill         99 'pass door'
+Skill         99 'phase'
+Skill         99 'physic crush'
+Skill         99 'physic thrust'
+Skill         99 'poison'
+Skill         99 'produce food'
+Skill         99 'protection'
+Skill         99 'refresh'
+Skill         99 'remove curse'
+Skill         99 'sanctuary'
+Skill         99 'seal room'
+Skill         99 'see magic'
+Skill         99 'sense evil'
+Skill         99 'shield'
+Skill         99 'shocking grasp'
+Skill         99 'sight'
+Skill         99 'sleep'
+Skill         99 'stalker'
+Skill         99 'stone skin'
+Skill         99 'suffocate'
+Skill         99 'summon'
+Skill         99 'teleport'
+Skill         99 'travel'
+Skill         99 'ventriloquate'
+Skill         99 'warcry'
+Skill         99 'weaken'
+Skill         99 'beacon'
+Skill         99 'portal'
+Skill         99 'window'
+Skill         99 'word of recall'
+Skill         99 'hellspawn'
+Skill         99 'planergy'
+Skill         99 'visit'
+Skill         99 'barrier'
+Skill         99 'phobia'
+Skill         99 'mind bolt'
+Skill         99 'mindflame'
+Skill         99 'chain lightning'
+Skill         99 'static'
+Skill         99 'cloak:absorption'
+Skill         99 'cloak:reflection'
+Skill         99 'cloak:flaming'
+Skill         99 'cloak:mana'
+Skill         99 'cloak:adept'
+Skill         99 'cloak:regeneration'
+Skill         99 'acid breath'
+Skill         99 'fire breath'
+Skill         99 'frost breath'
+Skill         99 'gas breath'
+Skill         99 'lightning breath'
+Skill         99 'appraise'
+Skill         99 'bash'
+Skill         99 'berserk'
+Skill         99 'climb'
+Skill         99 'dirt'
+Skill         99 'nodisarm'
+Skill         99 'notrip'
+Skill         99 'smash'
+Skill         99 'trip'
+Skill         99 'circle'
+Skill         99 'backstab'
+Skill         99 'disarm'
+Skill         99 'dodge'
+Skill         99 'dualwield'
+Skill         99 'enhanced damage'
+Skill         99 'find doors'
+Skill         99 'fourth attack'
+Skill         99 'headbutt'
+Skill         99 'hide'
+Skill         99 'hunt'
+Skill         99 'kick'
+Skill         99 'knee'
+Skill         99 'martial arts'
+Skill         99 'parry'
+Skill         99 'peek'
+Skill         99 'pick lock'
+Skill         99 'punch'
+Skill         99 'rescue'
+Skill         99 'second attack'
+Skill         99 'shadowform'
+Skill         99 'shield block'
+Skill         99 'sneak'
+Skill         99 'steal'
+Skill         99 'stun'
+Skill         99 'third attack'
+Skill         99 'disguise'
+Skill         99 'frenzy'
+Skill         99 'emotion control'
+Skill         99 'general purpose'
+Skill         99 'high explosive'
+Skill         99 'deflect weapon'
+Skill         99 'black hand'
+Skill         99 'throwing needle'
+Skill         99 'morale'
+Skill         99 'leadership'
+Skill         99 'ice bolt'
+Skill         99 'water elemental'
+Skill         99 'skeleton'
+Skill         99 'poison weapon'
+Skill         99 'ethereal travel'
+Skill         99 'adrenaline'
+Skill         99 'throwing star'
+Skill         99 'adrenaline bonus'
+Skill         99 'fire elemental'
+Skill         99 'rune:fire'
+Skill         99 'rune:shock'
+Skill         99 'rune:poison'
+Skill         99 'healing light'
+Skill         99 'withering shadow'
+Skill         99 'mana flare'
+Skill         99 'mana drain'
+Skill         99 'cage'
+Skill         99 'room dispel'
+Skill         99 'soul net'
+Skill         99 'condense soul'
+Skill         99 'restoration'
+Skill         99 'infuse'
+Skill         99 'fifth attack'
+Skill         99 'sixth attack'
+Skill         99 'holy light'
+Skill         99 'target'
+Skill         99 'charge'
+Skill         99 'scout'
+Skill         99 'mount'
+Skill         99 'divine intervention'
+Skill         99 'holy armor'
+Skill         99 'unit tactics'
+Skill         99 'earth elemental'
+Skill         99 'iron golem'
+Skill         99 'diamond golem'
+Skill         99 'soul thief'
+Skill         99 'holy avenger'
+Skill         99 'heat armor'
+Skill         99 'retributive strike'
+Skill         99 'lava burst'
+Skill         99 'fireshield'
+Skill         99 'iceshield'
+Skill         99 'shockshield'
+Skill         99 'demonshield'
+Skill         99 'shadowshield'
+Skill         99 'thoughtshield'
+Skill         99 'summon pegasus'
+Skill         99 'summon nightmare'
+Skill         99 'summon beast'
+Skill         99 'summon devourer'
+Skill         99 'summon shadow'
+Skill         99 'creature bond'
+Skill         99 'corrupt bond'
+Skill         99 'group heal'
+Skill         99 'carapace'
+Skill         99 'summon shadowdragon'
+Skill         99 'grab'
+Skill         99 'lsd'
+Skill         99 'hellfire'
+Skill         99 'equestrian proficiency'
+Skill         99 'rune:warning'
+Skill         99 'gaze mirror'
+End
+
+#OBJECT
+Nest         0
+Id           14
+Name         emerald monocle monocles~
+ShortDescr   @@dAn @@rEmerald @@aM@@co@@dn@@go@@dc@@cl@@ae@@N~
+Description  @@dAn @@rEmerald @@aM@@co@@dn@@go@@dc@@cl@@ae @@dis here to aid you@@y.@@N
+
+~
+Vnum         20117
+ExtraFlags   0
+WearFlags    32769
+WearLoc      18
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         95
+Values       5 0 0 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Id           15
+Name         sash pride~
+ShortDescr   @@dAn @@aA@@cd@@de@@gs@@Wa @@dS@@ga@@ms@@ph @@dof Pride@@N~
+Description  @@dAn @@aA@@cd@@de@@gs@@Wa @@dS@@ga@@ms@@ph @@dof Pride is here for you to wear proudly@@y.@@N
+
+~
+Vnum         20120
+ExtraFlags   2
+WearFlags    257
+WearLoc      10
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         45
+Values       3 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 -3 17 0
+Affect       -1 -1 5 5 0
+Affect       -1 -1 5 4 0
+Affect       -1 -1 2 1 0
+End
+
+#OBJECT
+Nest         0
+Id           16
+Name         adze granite~
+ShortDescr   @@gA @@dG@@gr@@Wa@@gn@@di@@gt@@We @@aA@@cd@@dz@@ge@@N~
+Description  @@gA @@dG@@gr@@Wa@@gn@@di@@gt@@We @@aA@@cd@@dz@@ge@@g is cast in rock.@@N
+
+~
+Vnum         20121
+ExtraFlags   0
+WearFlags    8193
+WearLoc      16
+ItemApply    1
+ItemType     5
+Weight       1
+Level        1
+Timer        0
+Cost         187
+Values       0 3 4 2
+Affect       -1 -1 5 4 0
+Affect       -1 -1 5 5 0
+Affect       -1 -1 -10 17 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+Affect       -1 -1 8 13 0
+Affect       -1 -1 8 12 0
+End
+
+#OBJECT
+Nest         0
+Id           17
+Name         bracelet shell~
+ShortDescr   @@gA @@bS@@gh@@be@@gl@@bl @@bB@@gr@@ba@@gc@@be@@gl@@be@@gt@@N~
+Description  @@gA @@bB@@gr@@ba@@gc@@be@@gl@@be@@gt @@gmade of @@bS@@gh@@be@@gl@@bl@@gs lies here.@@N
+
+~
+Vnum         20113
+ExtraFlags   0
+WearFlags    4097
+WearLoc      14
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         66
+Values       4 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 -5 17 0
+End
+
+#OBJECT
+Nest         0
+Id           18
+Name         worn lynx fur~
+ShortDescr   @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@N~
+Description  @@ySome @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@y is lying here.@@N
+
+~
+Vnum         20107
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         50
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           19
+Name         lynx claws~
+ShortDescr   @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys@@N~
+Description  @@yA @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys is lying here.@@N
+
+~
+Vnum         20109
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         35
+Values       3 0 0 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Id           20
+Name         hide~
+ShortDescr   @@yThe @@yL@@by@@yn@@bx@@y'@@bs @@yH@@bi@@yd@@be@@N~
+Description  @@yThe H@@bi@@yd@@be @@yof a baby L@@by@@yn@@bx @@yis here.@@N
+
+~
+Vnum         20103
+ExtraFlags   0
+WearFlags    9
+WearLoc      5
+ItemApply    1
+ItemType     9
+Weight       5
+Level        1
+Timer        0
+Cost         10
+Values       5 0 0 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 12 0
+End
+
+#OBJECT
+Nest         0
+Id           13
+Name         body bag~
+ShortDescr   @@dAn @@aA@@cd@@de@@gs@@Wa@@gn @@dB@@god@@dy B@@Wa@@dg@@N~
+Description  @@dAn @@aA@@cd@@de@@gs@@Wa@@gn @@dB@@god@@dy B@@Wa@@dg@@d is here@@y,@@d waiting for you to fill it@@y.@@N
+
+~
+Vnum         20119
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemApply    1
+ItemType     15
+Weight       1
+Level        1
+Timer        0
+Cost         10
+Values       500 0 0 0
+End
+
+#OBJECT
+Nest         0
+Id           12
+Name         body bag~
+ShortDescr   @@dAn @@aA@@cd@@de@@gs@@Wa@@gn @@dB@@god@@dy B@@Wa@@dg@@N~
+Description  @@dAn @@aA@@cd@@de@@gs@@Wa@@gn @@dB@@god@@dy B@@Wa@@dg@@d is here@@y,@@d waiting for you to fill it@@y.@@N
+
+~
+Vnum         20119
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemApply    1
+ItemType     15
+Weight       1
+Level        1
+Timer        0
+Cost         10
+Values       500 0 0 0
+End
+
+#OBJECT
+Nest         0
+Id           43
+Name         shield hide ~
+ShortDescr   @@gA @@WSp@@gid@@der@@gs @@dHi@@gd@@We Sh@@gie@@dld@@N~
+Description  @@gA @@WSh@@gie@@dld @@gmade of @@WSp@@gid@@der@@gs @@dHi@@Wde @@gis here@@y,@@g rotting away@@y.@@N
+
+~
+Vnum         20104
+ExtraFlags   0
+WearFlags    513
+WearLoc      11
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         39
+Values       3 0 0 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -4 17 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         0
+Id           44
+Name         belt web spider~
+ShortDescr   @@gA @@WSp@@gid@@der W@@ge@@Wb B@@gel@@dt@@N~
+Description  @@gA @@WSp@@gid@@der W@@ge@@Wb B@@gel@@dt is here@@y,@@d sticking to everything@@y.@@N
+
+~
+Vnum         20112
+ExtraFlags   0
+WearFlags    2049
+WearLoc      13
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         51
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 2 18 0
+End
+
+#OBJECT
+Nest         0
+Id           45
+Name         wing wings bat~
+ShortDescr   @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@N~
+Description  @@dA pair of @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@d are flapping around like mad@@y.@@N
+
+~
+Vnum         20111
+ExtraFlags   0
+WearFlags    1025
+WearLoc      12
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         46
+Values       3 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           46
+Name         vampire bat ears~
+ShortDescr   @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@N~
+Description  @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@d are waiting for you to figure out@@y.@@N
+
+~
+Vnum         20106
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         51
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           47
+Name         legs bat bloody~
+ShortDescr   @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@N~
+Description  @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@d are rotting here@@y.@@N
+
+~
+Vnum         20110
+ExtraFlags   0
+WearFlags    33
+WearLoc      7
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         11
+Values       4 0 0 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           48
+Name         wing wings bat~
+ShortDescr   @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@N~
+Description  @@dA pair of @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@d are flapping around like mad@@y.@@N
+
+~
+Vnum         20111
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         46
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           49
+Name         vampire bat ears~
+ShortDescr   @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@N~
+Description  @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@d are waiting for you to figure out@@y.@@N
+
+~
+Vnum         20106
+ExtraFlags   0
+WearFlags    17
+WearLoc      6
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         51
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           50
+Name         legs bat bloody~
+ShortDescr   @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@N~
+Description  @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@d are rotting here@@y.@@N
+
+~
+Vnum         20110
+ExtraFlags   0
+WearFlags    33
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         11
+Values       4 0 0 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           51
+Name         wing wings bat~
+ShortDescr   @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@N~
+Description  @@dA pair of @@eB@@Rl@@go@@do@@Rd@@ey @@dB@@ga@@dt @@RW@@di@@gn@@Rg@@ds@@d are flapping around like mad@@y.@@N
+
+~
+Vnum         20111
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         46
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           52
+Name         vampire bat ears~
+ShortDescr   @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@N~
+Description  @@RVa@@dm@@ep@@di@@Rre @@dB@@ga@@dt@@d @@eE@@da@@Rr@@ds@@d are waiting for you to figure out@@y.@@N
+
+~
+Vnum         20106
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         51
+Values       5 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           53
+Name         legs bat bloody~
+ShortDescr   @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@N~
+Description  @@RBl@@do@@go@@ed@@Ry @@dB@@ga@@dt @@RL@@de@@eg@@ds@@d are rotting here@@y.@@N
+
+~
+Vnum         20110
+ExtraFlags   0
+WearFlags    33
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         11
+Values       4 0 0 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           54
+Name         certificate competence~
+ShortDescr   @@dAn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N~
+Description  @@dA@@gn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N @@Wi@@cs @@gl@@ay@@di@@gn@@cg @@ah@@ce@@dr@@ge.@@N
+
+~
+Vnum         20115
+ExtraFlags   64
+WearFlags    16385
+WearLoc      0
+ItemApply    9
+ItemType     1
+Weight       1
+Level        1
+Timer        0
+Cost         71
+Values       0 0 -1 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 10 13 0
+End
+
+#OBJECT
+Nest         0
+Id           55
+Name         spiked collar~
+ShortDescr   @@dA @@BS@@mp@@Bi@@mk@@Be@@md @@RC@@do@@gl@@gl@@da@@Rr@@N~
+Description  @@dA @@BS@@mp@@Bi@@mk@@Be@@md @@RC@@do@@gl@@gl@@da@@Rr@@d is here@@y,@@d waiting to be worn@@y.@@N
+
+~
+Vnum         20105
+ExtraFlags   0
+WearFlags    5
+WearLoc      3
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         107
+Values       5 0 0 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 10 12 0
+End
+
+#OBJECT
+Nest         0
+Id           56
+Name         spiked collar~
+ShortDescr   @@dA @@BS@@mp@@Bi@@mk@@Be@@md @@RC@@do@@gl@@gl@@da@@Rr@@N~
+Description  @@dA @@BS@@mp@@Bi@@mk@@Be@@md @@RC@@do@@gl@@gl@@da@@Rr@@d is here@@y,@@d waiting to be worn@@y.@@N
+
+~
+Vnum         20105
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         107
+Values       5 0 0 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 10 12 0
+End
+
+#OBJECT
+Nest         0
+Id           57
+Name         hoop golden earring~
+ShortDescr   @@gA @@yGolden Hoop@@N~
+Description  @@gA @@yLarge Golden Hoop@@g is lying here.@@N
+
+~
+Vnum         20118
+ExtraFlags   0
+WearFlags    65537
+WearLoc      19
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         35
+Values       4 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Name         map~
+ShortDescr   @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@lNewbie @@rMap@@N~
+Description  @@lA map to show you your way around is lying here.@@N
+
+~
+Vnum         20122
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemApply    1
+ItemType     13
+Weight       1
+Level        1
+Timer        0
+Cost         10
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Id           58
+Name         worn lynx fur~
+ShortDescr   @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@N~
+Description  @@ySome @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@y is lying here.@@N
+
+~
+Vnum         20107
+ExtraFlags   0
+WearFlags    65
+WearLoc      8
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         50
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           59
+Name         lynx claws~
+ShortDescr   @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys@@N~
+Description  @@yA @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys is lying here.@@N
+
+~
+Vnum         20109
+ExtraFlags   0
+WearFlags    129
+WearLoc      9
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         35
+Values       3 0 0 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Id           60
+Name         hide~
+ShortDescr   @@yThe @@yL@@by@@yn@@bx@@y'@@bs @@yH@@bi@@yd@@be@@N~
+Description  @@yThe H@@bi@@yd@@be @@yof a baby L@@by@@yn@@bx @@yis here.@@N
+
+~
+Vnum         20103
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       5
+Level        1
+Timer        0
+Cost         10
+Values       5 0 0 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 12 0
+End
+
+#OBJECT
+Nest         0
+Id           61
+Name         worn lynx fur~
+ShortDescr   @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@N~
+Description  @@ySome @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@y is lying here.@@N
+
+~
+Vnum         20107
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         50
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           62
+Name         lynx claws~
+ShortDescr   @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys@@N~
+Description  @@yA @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys is lying here.@@N
+
+~
+Vnum         20109
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         35
+Values       3 0 0 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Id           63
+Name         hide~
+ShortDescr   @@yThe @@yL@@by@@yn@@bx@@y'@@bs @@yH@@bi@@yd@@be@@N~
+Description  @@yThe H@@bi@@yd@@be @@yof a baby L@@by@@yn@@bx @@yis here.@@N
+
+~
+Vnum         20103
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       5
+Level        1
+Timer        0
+Cost         10
+Values       5 0 0 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 12 0
+End
+
+#OBJECT
+Nest         0
+Id           64
+Name         worn lynx fur~
+ShortDescr   @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@N~
+Description  @@ySome @@bWorn @@yL@@by@@yn@@bx @@yF@@bu@@yr@@y is lying here.@@N
+
+~
+Vnum         20107
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         50
+Values       4 0 0 0
+Affect       -1 -1 -5 17 0
+Affect       -1 -1 1 13 0
+Affect       -1 -1 1 19 0
+End
+
+#OBJECT
+Nest         0
+Id           65
+Name         lynx claws~
+ShortDescr   @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys@@N~
+Description  @@yA @@yL@@by@@yn@@bx@@y @@yC@@bl@@ya@@bw@@ys is lying here.@@N
+
+~
+Vnum         20109
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemApply    1
+ItemType     9
+Weight       1
+Level        1
+Timer        0
+Cost         35
+Values       4 0 0 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -3 17 0
+End
+
+#OBJECT
+Nest         0
+Id           66
+Name         certificate competence~
+ShortDescr   @@dAn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N~
+Description  @@dA@@gn @@aA@@cd@@de@@gs@@Wa C@@ge@@dr@@ct@@ai@@gf@@di@@cc@@ga@@Wt@@ce @@go@@cf @@WC@@go@@dm@@cp@@ae@@gt@@de@@an@@Wc@@ce@@N @@Wi@@cs @@gl@@ay@@di@@gn@@cg @@ah@@ce@@dr@@ge.@@N
+~
+Vnum         20115
+ExtraFlags   64
+WearFlags    16385
+WearLoc      0
+ItemApply    9
+ItemType     1
+Weight       1
+Level        1
+Timer        0
+Cost         71
+Values       0 0 -1 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 10 13 0
+End
+
+#END

@@ -4529,6 +4529,7 @@ load_mudset(void)
         if (!strcmp(word, "End"))
             break;
 
+        found = FALSE;
         for (cnt = 0; mudset_table[cnt].name[0] != '\0'; cnt++)
             if (!str_cmp(word, mudset_table[cnt].name)) {
                 found = TRUE;
@@ -4561,6 +4562,13 @@ load_mudset(void)
 
                     free_string(*type_string);
                     *type_string = fread_string(fp);
+                    /* Legacy save bug wrote printf("%s", NULL) as "(null)". */
+                    if (*type_string != NULL
+                        && (!str_cmp(*type_string, "(null)")
+                            || (*type_string)[0] == '\0')) {
+                        free_string(*type_string);
+                        *type_string = NULL;
+                    }
                     break;
 
                 default:

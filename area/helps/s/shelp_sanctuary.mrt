@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Sanctuary		
+    @@cClasses:@@N Cleric(70)
+   @@aDuration:@@N 5 + ( Cast Level / 20 )
+   @@bModifies:@@N N/A
+       @@GType:@@N Defensive
+@@mDescription:@@N This spell surrounds the target with a glowing white aura,
+             which serves to protect the target from any damage sustained.
+@@y*******************************************************************************@@N

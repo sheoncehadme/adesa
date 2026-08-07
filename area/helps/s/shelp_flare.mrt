@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Flare
+    @@cClasses:@@N Cleric(20)
+   @@aDuration:@@N 1 + ( Cast Level / 4 )
+   @@bModifies:@@N Hitroll
+       @@GType:@@N Offensive
+@@mDescription:@@N Spell that grants the wielder to summon the mystical
+             powers of Ra to blind an opponent.
+@@y*******************************************************************************@@N

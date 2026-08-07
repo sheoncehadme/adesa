@@ -93,19 +93,15 @@ void dns_setup(void)
     }
 #endif
 
+    /*
+     * Bind locally. Prefer inet_addr over gethostbyname("0.0.0.0") — the
+     * latter is unreliable / deprecated on modern resolvers (macOS arm64).
+     */
     memset(&sa, 0, sizeof(struct sockaddr_in));
-    sa.sin_addr.s_addr = INADDR_ANY;
     sa.sin_family = AF_INET;
-
-    if (!(host = gethostbyname(BIND_ADDR))) {
-        xlogf("dns_setup: gethostbyname");
-        close(dns.fd);
-        dns.fd = -1;
-        return;
-    }
-
-    memcpy((char *)&sa.sin_addr, host->h_addr, host->h_length);
-    sa.sin_family = host->h_addrtype;
+    sa.sin_addr.s_addr = inet_addr(BIND_ADDR);
+    if (sa.sin_addr.s_addr == (in_addr_t) -1)
+        sa.sin_addr.s_addr = INADDR_ANY;
     sa.sin_port = htons(dns.bind_port);
 
     if (bind(dns.fd, (struct sockaddr *)&sa, sizeof(sa)) < 0) {
@@ -116,7 +112,10 @@ void dns_setup(void)
     }
 
     if (!(host = gethostbyname(nameserver))) {
-        xlogf("dns_setup: gethostbyname");
+        xlogf("dns_setup: gethostbyname (nameserver '%s')", nameserver);
+        close(dns.fd);
+        dns.fd = -1;
+        return;
     }
 
     memset(&sa, 0, sizeof(sa));

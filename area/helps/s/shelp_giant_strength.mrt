@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Giant Strength		
+    @@cClasses:@@N Mage(18)
+   @@aDuration:@@N 2 + ( Cast Level / 4 )
+   @@bModifies:@@N Strength
+       @@GType:@@N Defensive
+@@mDescription:@@N This spell summons forth the power of the Great Giants into
+             the target, resulting in a Strength bonus.
+@@y*******************************************************************************@@N

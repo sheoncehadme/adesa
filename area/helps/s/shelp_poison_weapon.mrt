@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Poison Weapon
+    @@cClasses:@@N Necromancer(25), Assassin(18)
+   @@aDuration:@@N Permanent
+   @@bModifies:@@N Weapons
+       @@GType:@@N Enchantment
+@@mDescription:@@N Poison weapon will permanently poison your weapon, adding damage
+             roll and poisoning any enemies that the weapon strikes.
+@@y*******************************************************************************@@N

@@ -1,0 +1,13 @@
+Firstly, please note the spelling: coloUr.  This is an English mud, so we
+
+use English spellings :)
+
+The mud now supports "ansi" colour.  Use the config command to turn on
+
+or off this option.  The COLOUR command allows you to set uo what colours
+
+you see different things in.  Please note:  The list of things you can
+
+configure WILL be expanding!
+
+To find out what colours are available, type 'COLOUR HELP'.

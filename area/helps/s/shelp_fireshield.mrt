@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Fireshield
+    @@cClasses:@@N Sorcerer(80)
+   @@aDuration:@@N ( Cast Level / 10 )
+   @@bModifies:@@N N/A
+       @@GType:@@N Defensive
+@@mDescription:@@N Surrounds you with a flaming shield that does an extensive amount
+             of damage to anyone who strikes you with a spell or an attack.
+@@y*******************************************************************************@@N

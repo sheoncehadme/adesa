@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Cloak:Flaming
+    @@cClasses:@@N Necromancer(60), Assassin(78), Sorcerer(70)
+   @@aDuration:@@N ( Cast Level / 8 )
+   @@bModifies:@@N N/A
+       @@GType:@@N Defensive
+@@mDescription:@@N Surround you with a flaming cloak that will burn enemies when
+             they hit you.
+@@y*******************************************************************************@@N

@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Rune:Shock
+    @@cClasses:@@N Monk(15), Sorcerer(13)
+   @@aDuration:@@N ( Cast Level + (2 to 20) )
+   @@bModifies:@@N N/A
+       @@GType:@@N Room Affect
+@@mDescription:@@N Creates a rune that will explode when the room is entered,
+             shocking the first person in the room.
+@@y*******************************************************************************@@N

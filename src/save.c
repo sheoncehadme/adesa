@@ -2402,7 +2402,11 @@ save_mudsets()
                 break;
             case MUDSET_TYPE_STRING:
                 type_string = (char **)mudset_table[cnt].var;
-                FPRINTF(fp, "%s %s~\n", mudset_table[cnt].name, *type_string);
+                /* Never printf a NULL %s — glibc/macOS print "(null)", which
+                 * then reloads as a real string and breaks optional settings
+                 * (e.g. nameserver) on modern platforms. */
+                FPRINTF(fp, "%s %s~\n", mudset_table[cnt].name,
+                        (*type_string && **type_string) ? *type_string : "");
                 break;
             default:
                 break;

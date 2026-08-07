@@ -1,9 +1,39 @@
-CC      = cc
-PROF    = 
+# Adesa MUD — Makefile for modern Unix (macOS arm64/x86_64, Linux)
+#
+# Historically this used -ansi and -lcrypt unconditionally. Modern macOS has
+# crypt(3) in libc (no -lcrypt), and clang's default ABI is 64-bit arm64/x86_64.
+
+CC      ?= cc
+PROF    =
 NOCRYPT =
 
-C_FLAGS = -O -g -Wall -ansi
-L_FLAGS = -O -g
+# Detect OS for library differences
+UNAME_S := $(shell uname -s 2>/dev/null || echo Unknown)
+
+# Prefer a slightly modern dialect with GNU extensions (inline, etc.) while
+# remaining close to the original C89-era code. Avoid pure -ansi: it hides
+# POSIX prototypes (crypt, strncasecmp, socklen_t helpers, etc.).
+C_FLAGS = -O2 -g -Wall -std=gnu89 $(PROF)
+L_FLAGS = -O2 -g $(PROF)
+
+# Feature-test macros: expose POSIX / platform APIs without inventing symbols.
+ifeq ($(UNAME_S),Darwin)
+  C_FLAGS += -D_DARWIN_C_SOURCE
+  # crypt(3) lives in libc on macOS; there is no -lcrypt
+  CRYPT_LIB =
+else
+  C_FLAGS += -D_DEFAULT_SOURCE -D_BSD_SOURCE
+  # Linux / most Unix still need libxcrypt or libcrypt
+  CRYPT_LIB = -lcrypt
+endif
+
+# Optional: make NOCRYPT=1 to store passwords in plain text (legacy US export flag)
+ifneq ($(NOCRYPT),)
+  C_FLAGS += -DNOCRYPT
+  CRYPT_LIB =
+endif
+
+LIBS = -lm -lz $(CRYPT_LIB)
 
 O_FILES = auction.o dns.o treasury.o act_comm.o act_info.o act_move.o act_obj.o act_wiz.o comm.o const.o \
           db.o fight.o handler.o interp.o magic.o magic2.o mob_commands.o mob_prog.o \
@@ -20,8 +50,8 @@ build: all
 
 merc: $(O_FILES)
 	rm -f merc
-	$(CC) $(L_FLAGS) -o merc $(O_FILES) -lm -lz -lcrypt
-	@mv version.c version.c.last
+	$(CC) $(L_FLAGS) -o merc $(O_FILES) $(LIBS)
+	@mv version.c version.c.last 2>/dev/null || true
 
 .c.o: merc.h
 	$(CC) -c $(C_FLAGS) $<
@@ -30,5 +60,6 @@ version.c: version.c.sh
 	@/bin/sh ./version.c.sh
 
 clean:
-	rm -f $(O_FILES) merc ../area/core*
+	rm -f $(O_FILES) merc version.c merc.save ../area/core*
 
+.PHONY: all build clean

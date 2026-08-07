@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Deflect Weapon
+    @@cClasses:@@N Monk(10)
+   @@aDuration:@@N ( Cast Level + 2 )
+   @@bModifies:@@N Armor Class
+       @@GType:@@N Defensive
+@@mDescription:@@N Is a medium level defensive spell that increases armor class
+             temporarily.
+@@y*******************************************************************************@@N

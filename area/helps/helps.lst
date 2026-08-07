@@ -1,0 +1,1755 @@
+.~
+stock/auction~
+abandon~
+a/abandon.mrt~
+accept~
+a/accept.mrt~
+accept banish make~
+stock/accept~
+ack~
+a/ack.mrt~
+ackmud~
+a/ackmud.mrt~
+adapt~
+a/adapt.mrt~
+adept~
+a/adept.mrt~
+affected~
+a/affected.mrt~
+afk~
+a/afk.mrt~
+alias~
+a/alias.mrt~
+answer~
+a/answer.mrt~
+appraise~
+a/appraise.mrt~
+areas~
+a/areas.mrt~
+ask~
+a/ask.mrt~
+assassin~
+a/assassin.mrt~
+assassinate~
+a/assassinate.mrt~
+assemble~
+a/assemble.mrt~
+assist~
+a/assist.mrt~
+auction~
+a/auction.mrt~
+auction gossip . newbie question answer shout yell flame zzz music~
+stock/auction~
+autobrief~
+a/autobrief.mrt~
+autoexit~
+a/autoexit.mrt~
+autoloot~
+a/autoloot.mrt~
+autosac~
+a/autosac.mrt~
+bad~
+stock/bad~
+bad breath~
+stock/bad~
+banish~
+b/banish.mrt~
+bank~
+b/bank.mrt~
+beep~
+b/beep.mrt~
+bid~
+b/bid.mrt~
+blank~
+b/blank.mrt~
+boards~
+b/boards.mrt~
+brandish~
+b/brandish.mrt~
+brawl~
+b/brawl.mrt~
+breath~
+stock/bad~
+brief~
+b/brief.mrt~
+bug~
+b/bug.mrt~
+build_addhelp~
+b/build_addhelp.imm~
+build_addmob~
+b/build_addmob.imm~
+build_addobject~
+b/build_addobject.imm~
+build_addreset~
+b/build_addreset.imm~
+build_addroom~
+b/build_addroom.imm~
+build_aobj~
+b/build_aobj.imm~
+build_bmotd~
+b/build_bmotd.imm~
+build_building~
+b/build_building.imm~
+build_clutch~
+b/build_clutch.imm~
+build_delhelp~
+b/build_delhelp.imm~
+build_delmobile~
+b/build_delmobile.imm~
+build_delobject~
+b/build_delobject.imm~
+build_delreset~
+b/build_delreset.imm~
+build_delroom~
+b/build_delroom.imm~
+build_dig~
+b/build_dig.imm~
+build_doors~
+b/build_doors.imm~
+build_editor~
+b/build_editor.imm~
+build_extra~
+b/build_extra.imm~
+build_findarea~
+b/build_findarea.imm~
+build_findmob~
+b/build_findmob.imm~
+build_findmobroom~
+b/build_findmobroom.imm~
+build_findobject~
+b/build_findobject.imm~
+build_findroom~
+b/build_findroom.imm~
+build_flags~
+b/build_flags.imm~
+build_forcereset~
+b/build_forcereset.imm~
+build_goto~
+b/build_goto.imm~
+build_helpedit~
+b/build_helpedit.imm~
+build_liquids~
+b/build_liquids.imm~
+build_list~
+b/build_list.imm~
+build_loc~
+b/build_loc.imm~
+build_maff~
+b/build_maff.imm~
+build_makearea~
+b/build_makearea.imm~
+build_medit~
+b/build_medit.imm~
+build_mflags~
+b/build_mflags.imm~
+build_mobiles~
+b/build_mobiles.imm~
+build_nedit~
+b/build_nedit.imm~
+build_oaff~
+b/build_oaff.imm~
+build_objects~
+b/build_objects.imm~
+build_oedit~
+b/build_oedit.imm~
+build_oflags~
+b/build_oflags.imm~
+build_otypes~
+b/build_otypes.imm~
+build_owear~
+b/build_owear.imm~
+build_redit~
+b/build_redit.imm~
+build_resets~
+b/build_resets.imm~
+build_rexit~
+b/build_rexit.imm~
+build_rflags~
+b/build_rflags.imm~
+build_rooms~
+b/build_rooms.imm~
+build_rsector~
+b/build_rsector.imm~
+build_set~
+b/build_set.imm~
+build_setvnum~
+b/build_setvnum.imm~
+build_shops~
+b/build_shops.imm~
+build_showarea~
+b/build_showarea.imm~
+build_showmob~
+b/build_showmob.imm~
+build_showobject~
+b/build_showobject.imm~
+build_showresets~
+b/build_showresets.imm~
+build_showroom~
+b/build_showroom.imm~
+build_specials~
+b/build_specials.imm~
+build_spells~
+b/build_spells.imm~
+build_stop~
+b/build_stop.imm~
+build_strings~
+b/build_strings.imm~
+build_sysdata~
+b/build_sysdata.imm~
+build_tagline~
+b/build_tagline.imm~
+build_test~
+stock/build_test~
+build_values~
+b/build_values.imm~
+build_vnums~
+b/build_vnums.imm~
+build_weapons~
+b/build_weapons.imm~
+build_x~
+b/build_x.imm~
+buy~
+b/buy.mrt~
+cast~
+c/cast.mrt~
+cdonate~
+c/cdonate.mrt~
+channels~
+c/channels.mrt~
+charmed~
+c/charmed.mrt~
+charmies~
+c/charmies.mrt~
+chwere~
+stock/chwere~
+clan~
+stock/clan~
+clan leave~
+stock/clan~
+clan-eq~
+c/clan-eq.mrt~
+clans~
+c/clans.mrt~
+cleric~
+c/cleric.mrt~
+client~
+stock/zmud~
+clist~
+c/clist.mrt~
+close~
+c/close.mrt~
+clutch~
+c/clutch.mrt~
+coins~
+c/coins.mrt~
+colist~
+c/colist.mrt~
+color~
+c/color.mrt~
+colour~
+stock/colour~
+colour color~
+stock/colour~
+combat~
+c/combat.mrt~
+combine~
+c/combine.mrt~
+commands~
+c/commands.mrt~
+communication~
+c/communication.mrt~
+compare~
+c/compare.mrt~
+config~
+c/config.mrt~
+consider~
+c/consider.mrt~
+cooldown~
+c/cooldown.mrt~
+credits~
+c/credits.mrt~
+crusade~
+stock/crusade~
+crusade crusades~
+stock/crusade~
+crusades~
+c/crusades.mrt~
+currency~
+c/currency.mrt~
+cwhere~
+c/cwhere.mrt~
+cwhere cdonate home~
+stock/cwhere~
+cybertown~
+stock/cybertown~
+death~
+d/death.mrt~
+delete~
+d/delete.mrt~
+description~
+d/description.mrt~
+diagnose~
+d/diagnose.mrt~
+diku~
+d/diku.mrt~
+dirt~
+stock/dirt~
+dm~
+d/dm.mrt~
+donate~
+d/donate.mrt~
+down~
+d/down.mrt~
+drink~
+d/drink.mrt~
+drop~
+d/drop.mrt~
+durability~
+d/durability.mrt~
+east~
+e/east.mrt~
+eat~
+e/eat.mrt~
+edit~
+e/edit.mrt~
+email~
+e/email.mrt~
+emote~
+e/emote.mrt~
+enchant~
+e/enchant.mrt~
+enter~
+e/enter.mrt~
+equipment~
+e/equipment.mrt~
+everify~
+e/everify.mrt~
+examine~
+e/examine.mrt~
+exits~
+e/exits.mrt~
+experience~
+e/experience.mrt~
+experience level xp~
+stock/experience~
+fill~
+f/fill.mrt~
+flame~
+f/flame.mrt~
+follow~
+f/follow.mrt~
+gain~
+g/gain.mrt~
+game~
+g/game.mrt~
+get~
+g/get.mrt~
+give~
+g/give.mrt~
+gold~
+g/gold.mrt~
+gossip~
+g/gossip.mrt~
+greeting0~
+g/greeting0.mrt~
+greeting1~
+g/greeting1.mrt~
+greeting2~
+g/greeting2.mrt~
+greeting3~
+g/greeting3.mrt~
+greeting4~
+g/greeting4.mrt~
+greeting5~
+g/greeting5.mrt~
+group~
+g/group.mrt~
+gtell~
+g/gtell.mrt~
+guild~
+stock/guild~
+heal~
+h/heal.mrt~
+help~
+h/help.mrt~
+hold~
+h/hold.mrt~
+home~
+h/home.mrt~
+houses~
+h/houses.mrt~
+idea~
+i/idea.mrt~
+ignore~
+i/ignore.mrt~
+imm_alink~
+a/alink.imm~
+imm_alist~
+a/alist.imm~
+imm_allow~
+a/allow.imm~
+imm_areasave~
+a/areasave.imm~
+imm_at~
+a/at.imm~
+imm_autodig~
+a/autodig.imm~
+imm_bamfin~
+b/bamfin.imm~
+imm_bamfout~
+b/bamfout.imm~
+imm_build~
+b/build.imm~
+imm_census~
+c/census.imm~
+imm_creator~
+c/creator.imm~
+imm_cset~
+c/cset.imm~
+imm_deathmatch~
+d/deathmatch.imm~
+imm_deny~
+d/deny.imm~
+imm_disable~
+d/disable.imm~
+imm_doggy~
+d/doggy.imm~
+imm_echo~
+e/echo.imm~
+imm_email~
+e/email.imm~
+imm_exlist~
+e/exlist.imm~
+imm_fights~
+f/fights.imm~
+imm_findreset~
+f/findreset.imm~
+imm_for~
+f/for.imm~
+imm_force~
+f/force.imm~
+imm_freeze~
+f/freeze.imm~
+imm_goto~
+g/goto.imm~
+imm_halls~
+h/halls.imm~
+imm_holylight~
+h/holylight.imm~
+imm_hotreboot~
+h/hotreboot.imm~
+imm_iban~
+i/iban.imm~
+imm_imm~
+stock/imm_imm~
+imm_immbrand~
+i/immbrand.imm~
+imm_immortal~
+stock/imm_imm~
+imm_immortals~
+stock/imm_imm~
+imm_immrules~
+i/immrules.imm~
+imm_immtalk~
+i/immtalk.imm~
+imm_imotd~
+i/imotd.imm~
+imm_invis~
+i/invis.imm~
+imm_iquest~
+i/iquest.imm~
+imm_iscore~
+i/iscore.imm~
+imm_isnoop~
+i/isnoop.imm~
+imm_iwhere~
+i/iwhere.imm~
+imm_lhunt~
+l/lhunt.imm~
+imm_log~
+l/log.imm~
+imm_lua~
+l/lua.imm~
+imm_memory~
+m/memory.imm~
+imm_mfind~
+m/mfind.imm~
+imm_mfindlev~
+m/mfindlev.imm~
+imm_mgive~
+m/mgive.imm~
+imm_mload~
+m/mload.imm~
+imm_monitor~
+m/monitor.imm~
+imm_mpcr~
+m/mpcr.imm~
+imm_mset~
+m/mset.imm~
+imm_mstat~
+m/mstat.imm~
+imm_mwhere~
+m/mwhere.imm~
+imm_noemote~
+n/noemote.imm~
+imm_nopray~
+n/nopray.imm~
+imm_notell~
+n/notell.imm~
+imm_ofind~
+o/ofind.imm~
+imm_ofindlev~
+o/ofindlev.imm~
+imm_olmsg~
+o/olmsg.imm~
+imm_oload~
+o/oload.imm~
+imm_oset~
+o/oset.imm~
+imm_ostat~
+o/ostat.imm~
+imm_otype~
+o/otype.imm~
+imm_owear~
+o/owear.imm~
+imm_owhere~
+o/owhere.imm~
+imm_pardon~
+p/pardon.imm~
+imm_peace~
+p/peace.imm~
+imm_prename~
+p/prename.imm~
+imm_purge~
+p/purge.imm~
+imm_reboot~
+r/reboot.imm~
+imm_recho~
+r/recho.imm~
+imm_resetgain~
+r/resetgain.imm~
+imm_resetpasswd~
+r/resetpasswd.imm~
+imm_restore~
+r/restore.imm~
+imm_return~
+r/return.imm~
+imm_reward~
+r/reward.imm~
+imm_rstat~
+r/rstat.imm~
+imm_scheck~
+s/scheck.imm~
+imm_sedit~
+s/sedit.imm~
+imm_setclass~
+s/setclass.imm~
+imm_setcouncil~
+s/setcouncil.imm~
+imm_shutdown~
+s/shutdown.imm~
+imm_silence~
+s/silence.imm~
+imm_slay~
+s/slay.imm~
+imm_slookup~
+s/slookup.imm~
+imm_snoop~
+s/snoop.imm~
+imm_sset~
+s/sset.imm~
+imm_sstat~
+s/sstat.imm~
+imm_switch~
+s/switch.imm~
+imm_sysdata~
+s/sysdata.imm~
+imm_togbuild~
+t/togbuild.imm~
+imm_togleader~
+t/togleader.imm~
+imm_transdm~
+t/transdm.imm~
+imm_transfer~
+t/transfer.imm~
+imm_trust~
+t/trust.imm~
+imm_users~
+u/users.imm~
+imm_vlist~
+v/vlist.imm~
+imm_whoname~
+w/whoname.imm~
+imm_wizhelp~
+w/wizhelp.imm~
+imm_wizify~
+w/wizify.imm~
+imm_wizlock~
+w/wizlock.imm~
+influx~
+stock/influx~
+information~
+i/information.mrt~
+inventory~
+i/inventory.mrt~
+kill~
+k/kill.mrt~
+knight~
+k/knight.mrt~
+law~
+stock/law~
+law wanted lawless~
+stock/law~
+lawless~
+l/lawless.mrt~
+laws~
+l/laws.mrt~
+leave~
+stock/clan~
+letters~
+l/letters.mrt~
+level~
+l/level.mrt~
+list~
+l/list.mrt~
+lock~
+l/lock.mrt~
+logins~
+l/logins.mrt~
+look~
+l/look.mrt~
+loot~
+l/loot.mrt~
+mage~
+m/mage.mrt~
+mail~
+m/mail.mrt~
+make~
+m/make.mrt~
+map~
+m/map.mrt~
+merc~
+m/merc.mrt~
+money~
+m/money.mrt~
+monk~
+m/monk.mrt~
+motd~
+m/motd.mrt~
+movement~
+m/movement.mrt~
+mquest~
+m/mquest.mrt~
+mudinfo~
+m/mudinfo.mrt~
+multi~
+stock/multi~
+multi multiclass~
+stock/multi~
+multiclass~
+stock/multi~
+murder~
+m/murder.mrt~
+music~
+m/music.mrt~
+necromancer~
+n/necromancer.mrt~
+newbie~
+n/newbie.mrt~
+newun~
+n/newun.mrt~
+north~
+n/north.mrt~
+note~
+stock/note~
+note mail~
+stock/note~
+notes~
+n/notes.mrt~
+objects~
+o/objects.mrt~
+ooc~
+o/ooc.mrt~
+open~
+o/open.mrt~
+order~
+o/order.mrt~
+other~
+o/other.mrt~
+pagelength~
+p/pagelength.mrt~
+password~
+p/password.mrt~
+pemote~
+p/pemote.mrt~
+pkok~
+p/pkok.mrt~
+politics~
+p/politics.mrt~
+practice~
+p/practice.mrt~
+pray~
+p/pray.mrt~
+prompt~
+p/prompt.mrt~
+psionicist~
+p/psionicist.mrt~
+put~
+p/put.mrt~
+qp~
+stock/qp~
+qp questpoints~
+stock/qp~
+qps~
+q/qps.mrt~
+qpspend~
+q/qpspend.mrt~
+quaff~
+q/quaff.mrt~
+quest~
+q/quest.mrt~
+question~
+q/question.mrt~
+questmaster~
+q/questmaster.mrt~
+questpoints~
+q/questpoints.mrt~
+quit~
+q/quit.mrt~
+races~
+r/races.mrt~
+read~
+r/read.mrt~
+recall~
+r/recall.mrt~
+recite~
+r/recite.mrt~
+remort~
+r/remort.mrt~
+remove~
+r/remove.mrt~
+repair~
+r/repair.mrt~
+reply~
+r/reply.mrt~
+report~
+r/report.mrt~
+rest~
+r/rest.mrt~
+rlist~
+r/rlist.mrt~
+rulers~
+r/rulers.mrt~
+runes~
+r/runes.mrt~
+sacrifice~
+s/sacrifice.mrt~
+safe~
+s/safe.mrt~
+save~
+s/save.mrt~
+say~
+s/say.mrt~
+scan~
+s/scan.mrt~
+score~
+s/score.mrt~
+sell~
+s/sell.mrt~
+setemail~
+s/setemail.mrt~
+shelp~
+s/shelp.mrt~
+shelp acid blast~
+s/shelp_acid_blast.mrt~
+shelp adrenaline~
+s/shelp_adrenaline.mrt~
+shelp animate~
+s/shelp_animate.mrt~
+shelp appraise~
+s/shelp_appraise.mrt~
+shelp armor~
+s/shelp_armor.mrt~
+shelp backstab~
+s/shelp_backstab.mrt~
+shelp bad breath~
+s/shelp_bad_breath.mrt~
+shelp bark skin~
+s/shelp_bark_skin.mrt~
+shelp barrier~
+s/shelp_barrier.mrt~
+shelp bash~
+s/shelp_bash.mrt~
+shelp beacon~
+s/shelp_beacon.mrt~
+shelp berserk~
+s/shelp_berserk.mrt~
+shelp black curse~
+s/shelp_black_curse.mrt~
+shelp black hand~
+s/shelp_black_hand.mrt~
+shelp bless~
+s/shelp_bless.mrt~
+shelp blindness~
+s/shelp_blindness.mrt~
+shelp bloody tears~
+s/shelp_bloody_tears.mrt~
+shelp burning hands~
+s/shelp_burning_hands.mrt~
+shelp cage~
+s/shelp_cage.mrt~
+shelp call lightning~
+s/shelp_call_lightning.mrt~
+shelp calm~
+s/shelp_calm.mrt~
+shelp cause critical~
+s/shelp_cause_critical.mrt~
+shelp cause light~
+s/shelp_cause_light.mrt~
+shelp cause serious~
+s/shelp_cause_serious.mrt~
+shelp chain lightning~
+s/shelp_chain_lightning.mrt~
+shelp change sex~
+s/shelp_change_sex.mrt~
+shelp charge~
+s/shelp_charge.mrt~
+shelp charm person~
+s/shelp_charm_person.mrt~
+shelp chill touch~
+s/shelp_chill_touch.mrt~
+shelp circle~
+s/shelp_circle.mrt~
+shelp climb~
+s/shelp_climb.mrt~
+shelp cloak absorption~
+s/shelp_cloak_absorption.mrt~
+shelp cloak adept~
+s/shelp_cloak_adept.mrt~
+shelp cloak flaming~
+s/shelp_cloak_flaming.mrt~
+shelp cloak misery~
+s/shelp_cloak_misery.mrt~
+shelp cloak reflection~
+s/shelp_cloak_reflection.mrt~
+shelp cloak regeneration~
+s/shelp_cloak_regeneration.mrt~
+shelp cloth armor~
+s/shelp_cloth_armor.mrt~
+shelp color spray~
+s/shelp_color_spray.mrt~
+shelp combat prowess~
+s/shelp_combat_prowess.mrt~
+shelp condense soul~
+s/shelp_condense_soul.mrt~
+shelp cone of cold~
+s/shelp_cone_of_cold.mrt~
+shelp continual light~
+s/shelp_continual_light.mrt~
+shelp control weather~
+s/shelp_control_weather.mrt~
+shelp corrupt bond~
+s/shelp_corrupt_bond.mrt~
+shelp create food~
+s/shelp_create_food.mrt~
+shelp create spring~
+s/shelp_create_spring.mrt~
+shelp create water~
+s/shelp_create_water.mrt~
+shelp creature bond~
+s/shelp_creature_bond.mrt~
+shelp crushing blow~
+s/shelp_crushing_blow.mrt~
+shelp cure blindness~
+s/shelp_cure_blindness.mrt~
+shelp cure critical~
+s/shelp_cure_critical.mrt~
+shelp cure light~
+s/shelp_cure_light.mrt~
+shelp cure poison~
+s/shelp_cure_poison.mrt~
+shelp cure serious~
+s/shelp_cure_serious.mrt~
+shelp curse~
+s/shelp_curse.mrt~
+shelp deflect weapon~
+s/shelp_deflect_weapon.mrt~
+shelp detect evil~
+s/shelp_detect_evil.mrt~
+shelp detect hidden~
+s/shelp_detect_hidden.mrt~
+shelp detect invis~
+s/shelp_detect_invis.mrt~
+shelp detect magic~
+s/shelp_detect_magic.mrt~
+shelp detect poison~
+s/shelp_detect_poison.mrt~
+shelp detect undead~
+s/shelp_detect_undead.mrt~
+shelp detection~
+s/shelp_detection.mrt~
+shelp diamond golem~
+s/shelp_diamond_golem.mrt~
+shelp dirt~
+s/shelp_dirt.mrt~
+shelp disarm~
+s/shelp_disarm.mrt~
+shelp disguise~
+s/shelp_disguise.mrt~
+shelp dispel magic~
+s/shelp_dispel_magic.mrt~
+shelp divine intervention~
+s/shelp_divine_intervention.mrt~
+shelp dodge~
+s/shelp_dodge.mrt~
+shelp dualwield~
+s/shelp_dualwield.mrt~
+shelp earth elemental~
+s/shelp_earth_elemental.mrt~
+shelp earthquake~
+s/shelp_earthquake.mrt~
+shelp ego whip~
+s/shelp_ego_whip.mrt~
+shelp emotion control~
+s/shelp_emotion_control.mrt~
+shelp enchant weapon~
+s/shelp_enchant_weapon.mrt~
+shelp enhanced damage~
+s/shelp_enhanced_damage.mrt~
+shelp enhanced reflexes~
+s/shelp_enhanced_reflexes.mrt~
+shelp ethereal travel~
+s/shelp_ethereal_travel.mrt~
+shelp faerie fire~
+s/shelp_faerie_fire.mrt~
+shelp faerie fog~
+s/shelp_faerie_fog.mrt~
+shelp fighting trance~
+s/shelp_fighting_trance.mrt~
+shelp find doors~
+s/shelp_find_doors.mrt~
+shelp fire blade~
+s/shelp_fire_blade.mrt~
+shelp fire blast~
+s/shelp_fire_blast.mrt~
+shelp fire elemental~
+s/shelp_fire_elemental.mrt~
+shelp fireball~
+s/shelp_fireball.mrt~
+shelp fireshield~
+s/shelp_fireshield.mrt~
+shelp flamestrike~
+s/shelp_flamestrike.mrt~
+shelp flare~
+s/shelp_flare.mrt~
+shelp fly~
+s/shelp_fly.mrt~
+shelp frenzy~
+s/shelp_frenzy.mrt~
+shelp giant strength~
+s/shelp_giant_strength.mrt~
+shelp harm~
+s/shelp_harm.mrt~
+shelp headbutt~
+s/shelp_headbutt.mrt~
+shelp heal~
+s/shelp_heal.mrt~
+shelp healing light~
+s/shelp_healing_light.mrt~
+shelp heat armor~
+s/shelp_heat_armor.mrt~
+shelp hellspawn~
+s/shelp_hellspawn.mrt~
+shelp hide~
+s/shelp_hide.mrt~
+shelp holy armor~
+s/shelp_holy_armor.mrt~
+shelp holy avenger~
+s/shelp_holy_avenger.mrt~
+shelp holy light~
+s/shelp_holy_light.mrt~
+shelp holy wrath~
+s/shelp_holy_wrath.mrt~
+shelp hunt~
+s/shelp_hunt.mrt~
+shelp hypnosis~
+s/shelp_hypnosis.mrt~
+shelp ice bolt~
+s/shelp_ice_bolt.mrt~
+shelp iceshield~
+s/shelp_iceshield.mrt~
+shelp identify~
+s/shelp_identify.mrt~
+shelp influx~
+s/shelp_influx.mrt~
+shelp infravision~
+s/shelp_infravision.mrt~
+shelp infuse~
+s/shelp_infuse.mrt~
+shelp invis~
+s/shelp_invis.mrt~
+shelp iron golem~
+s/shelp_iron_golem.mrt~
+shelp kick~
+s/shelp_kick.mrt~
+shelp knee~
+s/shelp_knee.mrt~
+shelp know alignment~
+s/shelp_know_alignment.mrt~
+shelp know critical~
+s/shelp_know_critical.mrt~
+shelp know item~
+s/shelp_know_item.mrt~
+shelp know weakness~
+s/shelp_know_weakness.mrt~
+shelp lava burst~
+s/shelp_lava_burst.mrt~
+shelp leadership~
+s/shelp_leadership.mrt~
+shelp leather armor~
+s/shelp_leather_armor.mrt~
+shelp lightning bolt~
+s/shelp_lightning_bolt.mrt~
+shelp locate object~
+s/shelp_locate_object.mrt~
+shelp magic missile~
+s/shelp_magic_missile.mrt~
+shelp mail armor~
+s/shelp_mail_armor.mrt~
+shelp mana drain~
+s/shelp_mana_drain.mrt~
+shelp mana flare~
+s/shelp_mana_flare.mrt~
+shelp martial arts~
+s/shelp_martial_arts.mrt~
+shelp mass invis~
+s/shelp_mass_invis.mrt~
+shelp mind bolt~
+s/shelp_mind_bolt.mrt~
+shelp mind flail~
+s/shelp_mind_flail.mrt~
+shelp mindflame~
+s/shelp_mindflame.mrt~
+shelp morale~
+s/shelp_morale.mrt~
+shelp mount~
+s/shelp_mount.mrt~
+shelp mystic armor~
+s/shelp_mystic_armor.mrt~
+shelp mystical focus~
+s/shelp_mystical_focus.mrt~
+shelp mystical potency~
+s/shelp_mystical_potency.mrt~
+shelp nerve fire~
+s/shelp_nerve_fire.mrt~
+shelp night vision~
+s/shelp_night_vision.mrt~
+shelp nodisarm~
+s/shelp_nodisarm.mrt~
+shelp notrip~
+s/shelp_notrip.mrt~
+shelp outline~
+s/shelp_outline.mrt~
+shelp parry~
+s/shelp_parry.mrt~
+shelp pass door~
+s/shelp_pass_door.mrt~
+shelp peek~
+s/shelp_peek.mrt~
+shelp phase~
+s/shelp_phase.mrt~
+shelp phobia~
+s/shelp_phobia.mrt~
+shelp pick lock~
+s/shelp_pick_lock.mrt~
+shelp planergy~
+s/shelp_planergy.mrt~
+shelp plate armor~
+s/shelp_plate_armor.mrt~
+shelp poison~
+s/shelp_poison.mrt~
+shelp poison arsenic~
+s/shelp_poison_arsenic.mrt~
+shelp poison quinine~
+s/shelp_poison_quinine.mrt~
+shelp poison weapon~
+s/shelp_poison_weapon.mrt~
+shelp portal~
+s/shelp_portal.mrt~
+shelp produce food~
+s/shelp_produce_food.mrt~
+shelp protection~
+s/shelp_protection.mrt~
+shelp psychic crush~
+s/shelp_psychic_crush.mrt~
+shelp psychic thrust~
+s/shelp_psychic_thrust.mrt~
+shelp punch~
+s/shelp_punch.mrt~
+shelp quickstrike~
+s/shelp_quickstrike.mrt~
+shelp redemption~
+s/shelp_redemption.mrt~
+shelp refresh~
+s/shelp_refresh.mrt~
+shelp remove curse~
+s/shelp_remove_curse.mrt~
+shelp rescue~
+s/shelp_rescue.mrt~
+shelp retributive strike~
+s/shelp_retributive_strike.mrt~
+shelp room dispel~
+s/shelp_room_dispel.mrt~
+shelp rune fire~
+s/shelp_rune_fire.mrt~
+shelp rune poison~
+s/shelp_rune_poison.mrt~
+shelp rune shock~
+s/shelp_rune_shock.mrt~
+shelp sanctuary~
+s/shelp_sanctuary.mrt~
+shelp scout~
+s/shelp_scout.mrt~
+shelp seal room~
+s/shelp_seal_room.mrt~
+shelp see magic~
+s/shelp_see_magic.mrt~
+shelp sense evil~
+s/shelp_sense_evil.mrt~
+shelp shadowform~
+s/shelp_shadowform.mrt~
+shelp shield~
+s/shelp_shield.mrt~
+shelp shield block~
+s/shelp_shield_block.mrt~
+shelp shock storm~
+s/shelp_shock_storm.mrt~
+shelp shocking grasp~
+s/shelp_shocking_grasp.mrt~
+shelp shockshield~
+s/shelp_shockshield.mrt~
+shelp sight~
+s/shelp_sight.mrt~
+shelp skeleton~
+s/shelp_skeleton.mrt~
+shelp sleep~
+s/shelp_sleep.mrt~
+shelp sleight of hand~
+s/shelp_sleight_of_hand.mrt~
+shelp smash~
+s/shelp_smash.mrt~
+shelp sneak~
+s/shelp_sneak.mrt~
+shelp sonic blast~
+s/shelp_sonic_blast.mrt~
+shelp soul net~
+s/shelp_soul_net.mrt~
+shelp soul thief~
+s/shelp_soul_thief.mrt~
+shelp static~
+s/shelp_static.mrt~
+shelp steal~
+s/shelp_steal.mrt~
+shelp stone skin~
+s/shelp_stone_skin.mrt~
+shelp stun~
+s/shelp_stun.mrt~
+shelp suffocate~
+s/shelp_suffocate.mrt~
+shelp summon~
+s/shelp_summon.mrt~
+shelp summon beast~
+s/shelp_summon_beast.mrt~
+shelp summon devourer~
+s/shelp_summon_devourer.mrt~
+shelp summon nightmare~
+s/shelp_summon_nightmare.mrt~
+shelp summon pegasus~
+s/shelp_summon_pegasus.mrt~
+shelp summon shadow~
+s/shelp_summon_shadow.mrt~
+shelp target~
+s/shelp_target.mrt~
+shelp teleport~
+s/shelp_teleport.mrt~
+shelp thaumatergy~
+s/shelp_thaumatergy.mrt~
+shelp thought vise~
+s/shelp_thought_vise.mrt~
+shelp throwing needle~
+s/shelp_throwing_needle.mrt~
+shelp throwing star~
+s/shelp_throwing_star.mrt~
+shelp trip~
+s/shelp_trip.mrt~
+shelp unit tactics~
+s/shelp_unit_tactics.mrt~
+shelp ventriloquate~
+s/shelp_ventriloquate.mrt~
+shelp visit~
+s/shelp_visit.mrt~
+shelp warcry~
+s/shelp_warcry.mrt~
+shelp water elemental~
+s/shelp_water_elemental.mrt~
+shelp weaken~
+s/shelp_weaken.mrt~
+shelp window~
+s/shelp_window.mrt~
+shelp withering shadow~
+s/shelp_withering_shadow.mrt~
+shelp word of recall~
+s/shelp_word_of_recall.mrt~
+shelp wraith touch~
+s/shelp_wraith_touch.mrt~
+shelp_acid_blast~
+s/shelp_acid_blast.mrt~
+shelp_adrenaline~
+s/shelp_adrenaline.mrt~
+shelp_animate~
+s/shelp_animate.mrt~
+shelp_appraise~
+s/shelp_appraise.mrt~
+shelp_armor~
+s/shelp_armor.mrt~
+shelp_backstab~
+s/shelp_backstab.mrt~
+shelp_bad_breath~
+s/shelp_bad_breath.mrt~
+shelp_bark_skin~
+s/shelp_bark_skin.mrt~
+shelp_barrier~
+s/shelp_barrier.mrt~
+shelp_bash~
+s/shelp_bash.mrt~
+shelp_beacon~
+s/shelp_beacon.mrt~
+shelp_berserk~
+s/shelp_berserk.mrt~
+shelp_black_curse~
+s/shelp_black_curse.mrt~
+shelp_black_hand~
+s/shelp_black_hand.mrt~
+shelp_bless~
+s/shelp_bless.mrt~
+shelp_blindness~
+s/shelp_blindness.mrt~
+shelp_bloody_tears~
+s/shelp_bloody_tears.mrt~
+shelp_burning_hands~
+s/shelp_burning_hands.mrt~
+shelp_cage~
+s/shelp_cage.mrt~
+shelp_call_lightning~
+s/shelp_call_lightning.mrt~
+shelp_calm~
+s/shelp_calm.mrt~
+shelp_cause_critical~
+s/shelp_cause_critical.mrt~
+shelp_cause_light~
+s/shelp_cause_light.mrt~
+shelp_cause_serious~
+s/shelp_cause_serious.mrt~
+shelp_chain_lightning~
+s/shelp_chain_lightning.mrt~
+shelp_change_sex~
+s/shelp_change_sex.mrt~
+shelp_charge~
+s/shelp_charge.mrt~
+shelp_charm_person~
+s/shelp_charm_person.mrt~
+shelp_chill_touch~
+s/shelp_chill_touch.mrt~
+shelp_circle~
+s/shelp_circle.mrt~
+shelp_climb~
+s/shelp_climb.mrt~
+shelp_cloak_absorption~
+s/shelp_cloak_absorption.mrt~
+shelp_cloak_adept~
+s/shelp_cloak_adept.mrt~
+shelp_cloak_flaming~
+s/shelp_cloak_flaming.mrt~
+shelp_cloak_misery~
+s/shelp_cloak_misery.mrt~
+shelp_cloak_reflection~
+s/shelp_cloak_reflection.mrt~
+shelp_cloak_regeneration~
+s/shelp_cloak_regeneration.mrt~
+shelp_cloth_armor~
+s/shelp_cloth_armor.mrt~
+shelp_color_spray~
+s/shelp_color_spray.mrt~
+shelp_combat_prowess~
+s/shelp_combat_prowess.mrt~
+shelp_condense_soul~
+s/shelp_condense_soul.mrt~
+shelp_cone_of_cold~
+s/shelp_cone_of_cold.mrt~
+shelp_continual_light~
+s/shelp_continual_light.mrt~
+shelp_control_weather~
+s/shelp_control_weather.mrt~
+shelp_corrupt_bond~
+s/shelp_corrupt_bond.mrt~
+shelp_create_food~
+s/shelp_create_food.mrt~
+shelp_create_spring~
+s/shelp_create_spring.mrt~
+shelp_create_water~
+s/shelp_create_water.mrt~
+shelp_creature_bond~
+s/shelp_creature_bond.mrt~
+shelp_crushing_blow~
+s/shelp_crushing_blow.mrt~
+shelp_cure_blindness~
+s/shelp_cure_blindness.mrt~
+shelp_cure_critical~
+s/shelp_cure_critical.mrt~
+shelp_cure_light~
+s/shelp_cure_light.mrt~
+shelp_cure_poison~
+s/shelp_cure_poison.mrt~
+shelp_cure_serious~
+s/shelp_cure_serious.mrt~
+shelp_curse~
+s/shelp_curse.mrt~
+shelp_deflect_weapon~
+s/shelp_deflect_weapon.mrt~
+shelp_detect_evil~
+s/shelp_detect_evil.mrt~
+shelp_detect_hidden~
+s/shelp_detect_hidden.mrt~
+shelp_detect_invis~
+s/shelp_detect_invis.mrt~
+shelp_detect_magic~
+s/shelp_detect_magic.mrt~
+shelp_detect_poison~
+s/shelp_detect_poison.mrt~
+shelp_detect_undead~
+s/shelp_detect_undead.mrt~
+shelp_detection~
+s/shelp_detection.mrt~
+shelp_diamond_golem~
+s/shelp_diamond_golem.mrt~
+shelp_dirt~
+s/shelp_dirt.mrt~
+shelp_disarm~
+s/shelp_disarm.mrt~
+shelp_disguise~
+s/shelp_disguise.mrt~
+shelp_dispel_magic~
+s/shelp_dispel_magic.mrt~
+shelp_divine_intervention~
+s/shelp_divine_intervention.mrt~
+shelp_dodge~
+s/shelp_dodge.mrt~
+shelp_dualwield~
+s/shelp_dualwield.mrt~
+shelp_earth_elemental~
+s/shelp_earth_elemental.mrt~
+shelp_earthquake~
+s/shelp_earthquake.mrt~
+shelp_ego_whip~
+s/shelp_ego_whip.mrt~
+shelp_emotion_control~
+s/shelp_emotion_control.mrt~
+shelp_enchant_weapon~
+s/shelp_enchant_weapon.mrt~
+shelp_enhanced_damage~
+s/shelp_enhanced_damage.mrt~
+shelp_enhanced_reflexes~
+s/shelp_enhanced_reflexes.mrt~
+shelp_ethereal_travel~
+s/shelp_ethereal_travel.mrt~
+shelp_faerie_fire~
+s/shelp_faerie_fire.mrt~
+shelp_faerie_fog~
+s/shelp_faerie_fog.mrt~
+shelp_fighting_trance~
+s/shelp_fighting_trance.mrt~
+shelp_find_doors~
+s/shelp_find_doors.mrt~
+shelp_fire_blade~
+s/shelp_fire_blade.mrt~
+shelp_fire_blast~
+s/shelp_fire_blast.mrt~
+shelp_fire_elemental~
+s/shelp_fire_elemental.mrt~
+shelp_fireball~
+s/shelp_fireball.mrt~
+shelp_fireshield~
+s/shelp_fireshield.mrt~
+shelp_flamestrike~
+s/shelp_flamestrike.mrt~
+shelp_flare~
+s/shelp_flare.mrt~
+shelp_fly~
+s/shelp_fly.mrt~
+shelp_frenzy~
+s/shelp_frenzy.mrt~
+shelp_giant_strength~
+s/shelp_giant_strength.mrt~
+shelp_harm~
+s/shelp_harm.mrt~
+shelp_headbutt~
+s/shelp_headbutt.mrt~
+shelp_heal~
+s/shelp_heal.mrt~
+shelp_healing_light~
+s/shelp_healing_light.mrt~
+shelp_heat_armor~
+s/shelp_heat_armor.mrt~
+shelp_hellspawn~
+s/shelp_hellspawn.mrt~
+shelp_hide~
+s/shelp_hide.mrt~
+shelp_holy_armor~
+s/shelp_holy_armor.mrt~
+shelp_holy_avenger~
+s/shelp_holy_avenger.mrt~
+shelp_holy_light~
+s/shelp_holy_light.mrt~
+shelp_holy_wrath~
+s/shelp_holy_wrath.mrt~
+shelp_hunt~
+s/shelp_hunt.mrt~
+shelp_hypnosis~
+s/shelp_hypnosis.mrt~
+shelp_ice_bolt~
+s/shelp_ice_bolt.mrt~
+shelp_iceshield~
+s/shelp_iceshield.mrt~
+shelp_identify~
+s/shelp_identify.mrt~
+shelp_influx~
+s/shelp_influx.mrt~
+shelp_infravision~
+s/shelp_infravision.mrt~
+shelp_infuse~
+s/shelp_infuse.mrt~
+shelp_invis~
+s/shelp_invis.mrt~
+shelp_iron_golem~
+s/shelp_iron_golem.mrt~
+shelp_kick~
+s/shelp_kick.mrt~
+shelp_knee~
+s/shelp_knee.mrt~
+shelp_know_alignment~
+s/shelp_know_alignment.mrt~
+shelp_know_critical~
+s/shelp_know_critical.mrt~
+shelp_know_item~
+s/shelp_know_item.mrt~
+shelp_know_weakness~
+s/shelp_know_weakness.mrt~
+shelp_lava_burst~
+s/shelp_lava_burst.mrt~
+shelp_leadership~
+s/shelp_leadership.mrt~
+shelp_leather_armor~
+s/shelp_leather_armor.mrt~
+shelp_lightning_bolt~
+s/shelp_lightning_bolt.mrt~
+shelp_locate_object~
+s/shelp_locate_object.mrt~
+shelp_magic_missile~
+s/shelp_magic_missile.mrt~
+shelp_mail_armor~
+s/shelp_mail_armor.mrt~
+shelp_mana_drain~
+s/shelp_mana_drain.mrt~
+shelp_mana_flare~
+s/shelp_mana_flare.mrt~
+shelp_martial_arts~
+s/shelp_martial_arts.mrt~
+shelp_mass_invis~
+s/shelp_mass_invis.mrt~
+shelp_mind_bolt~
+s/shelp_mind_bolt.mrt~
+shelp_mind_flail~
+s/shelp_mind_flail.mrt~
+shelp_mindflame~
+s/shelp_mindflame.mrt~
+shelp_morale~
+s/shelp_morale.mrt~
+shelp_mount~
+s/shelp_mount.mrt~
+shelp_mystic_armor~
+s/shelp_mystic_armor.mrt~
+shelp_mystical_focus~
+s/shelp_mystical_focus.mrt~
+shelp_mystical_potency~
+s/shelp_mystical_potency.mrt~
+shelp_nerve_fire~
+s/shelp_nerve_fire.mrt~
+shelp_night_vision~
+s/shelp_night_vision.mrt~
+shelp_nodisarm~
+s/shelp_nodisarm.mrt~
+shelp_notrip~
+s/shelp_notrip.mrt~
+shelp_outline~
+s/shelp_outline.mrt~
+shelp_parry~
+s/shelp_parry.mrt~
+shelp_pass_door~
+s/shelp_pass_door.mrt~
+shelp_peek~
+s/shelp_peek.mrt~
+shelp_phase~
+s/shelp_phase.mrt~
+shelp_phobia~
+s/shelp_phobia.mrt~
+shelp_pick_lock~
+s/shelp_pick_lock.mrt~
+shelp_planergy~
+s/shelp_planergy.mrt~
+shelp_plate_armor~
+s/shelp_plate_armor.mrt~
+shelp_poison~
+s/shelp_poison.mrt~
+shelp_poison_arsenic~
+s/shelp_poison_arsenic.mrt~
+shelp_poison_quinine~
+s/shelp_poison_quinine.mrt~
+shelp_poison_weapon~
+s/shelp_poison_weapon.mrt~
+shelp_portal~
+s/shelp_portal.mrt~
+shelp_produce_food~
+s/shelp_produce_food.mrt~
+shelp_protection~
+s/shelp_protection.mrt~
+shelp_psychic_crush~
+s/shelp_psychic_crush.mrt~
+shelp_psychic_thrust~
+s/shelp_psychic_thrust.mrt~
+shelp_punch~
+s/shelp_punch.mrt~
+shelp_quickstrike~
+s/shelp_quickstrike.mrt~
+shelp_redemption~
+s/shelp_redemption.mrt~
+shelp_refresh~
+s/shelp_refresh.mrt~
+shelp_remove_curse~
+s/shelp_remove_curse.mrt~
+shelp_rescue~
+s/shelp_rescue.mrt~
+shelp_retributive_strike~
+s/shelp_retributive_strike.mrt~
+shelp_room_dispel~
+s/shelp_room_dispel.mrt~
+shelp_rune_fire~
+s/shelp_rune_fire.mrt~
+shelp_rune_poison~
+s/shelp_rune_poison.mrt~
+shelp_rune_shock~
+s/shelp_rune_shock.mrt~
+shelp_sanctuary~
+s/shelp_sanctuary.mrt~
+shelp_scout~
+s/shelp_scout.mrt~
+shelp_seal_room~
+s/shelp_seal_room.mrt~
+shelp_see_magic~
+s/shelp_see_magic.mrt~
+shelp_sense_evil~
+s/shelp_sense_evil.mrt~
+shelp_shadowform~
+s/shelp_shadowform.mrt~
+shelp_shield~
+s/shelp_shield.mrt~
+shelp_shield_block~
+s/shelp_shield_block.mrt~
+shelp_shock_storm~
+s/shelp_shock_storm.mrt~
+shelp_shocking_grasp~
+s/shelp_shocking_grasp.mrt~
+shelp_shockshield~
+s/shelp_shockshield.mrt~
+shelp_sight~
+s/shelp_sight.mrt~
+shelp_skeleton~
+s/shelp_skeleton.mrt~
+shelp_sleep~
+s/shelp_sleep.mrt~
+shelp_sleight_of_hand~
+s/shelp_sleight_of_hand.mrt~
+shelp_smash~
+s/shelp_smash.mrt~
+shelp_sneak~
+s/shelp_sneak.mrt~
+shelp_sonic_blast~
+s/shelp_sonic_blast.mrt~
+shelp_soul_net~
+s/shelp_soul_net.mrt~
+shelp_soul_thief~
+s/shelp_soul_thief.mrt~
+shelp_static~
+s/shelp_static.mrt~
+shelp_steal~
+s/shelp_steal.mrt~
+shelp_stone_skin~
+s/shelp_stone_skin.mrt~
+shelp_stun~
+s/shelp_stun.mrt~
+shelp_suffocate~
+s/shelp_suffocate.mrt~
+shelp_summon~
+s/shelp_summon.mrt~
+shelp_summon_beast~
+s/shelp_summon_beast.mrt~
+shelp_summon_devourer~
+s/shelp_summon_devourer.mrt~
+shelp_summon_nightmare~
+s/shelp_summon_nightmare.mrt~
+shelp_summon_pegasus~
+s/shelp_summon_pegasus.mrt~
+shelp_summon_shadow~
+s/shelp_summon_shadow.mrt~
+shelp_target~
+s/shelp_target.mrt~
+shelp_teleport~
+s/shelp_teleport.mrt~
+shelp_thaumatergy~
+s/shelp_thaumatergy.mrt~
+shelp_thought_vise~
+s/shelp_thought_vise.mrt~
+shelp_throwing_needle~
+s/shelp_throwing_needle.mrt~
+shelp_throwing_star~
+s/shelp_throwing_star.mrt~
+shelp_trip~
+s/shelp_trip.mrt~
+shelp_unit_tactics~
+s/shelp_unit_tactics.mrt~
+shelp_ventriloquate~
+s/shelp_ventriloquate.mrt~
+shelp_visit~
+s/shelp_visit.mrt~
+shelp_warcry~
+s/shelp_warcry.mrt~
+shelp_water_elemental~
+s/shelp_water_elemental.mrt~
+shelp_weaken~
+s/shelp_weaken.mrt~
+shelp_window~
+s/shelp_window.mrt~
+shelp_withering_shadow~
+s/shelp_withering_shadow.mrt~
+shelp_word_of_recall~
+s/shelp_word_of_recall.mrt~
+shelp_wraith_touch~
+s/shelp_wraith_touch.mrt~
+shout~
+s/shout.mrt~
+sleep~
+s/sleep.mrt~
+slist~
+s/slist.mrt~
+socials~
+s/socials.mrt~
+sorcerer~
+s/sorcerer.mrt~
+south~
+s/south.mrt~
+spells~
+s/spells.mrt~
+split~
+s/split.mrt~
+stance~
+s/stance.mrt~
+stand~
+s/stand.mrt~
+statraise~
+s/statraise.mrt~
+status~
+s/status.mrt~
+stop~
+s/stop.mrt~
+summary~
+stock/summary~
+take~
+t/take.mrt~
+tell~
+t/tell.mrt~
+thanks~
+t/thanks.mrt~
+thief~
+t/thief.mrt~
+time~
+t/time.mrt~
+title~
+t/title.mrt~
+togemail~
+t/togemail.mrt~
+tongue~
+t/tongue.mrt~
+train~
+t/train.mrt~
+typo~
+t/typo.mrt~
+unlock~
+u/unlock.mrt~
+up~
+u/up.mrt~
+value~
+v/value.mrt~
+vampire~
+v/vampire.mrt~
+visible~
+v/visible.mrt~
+wake~
+w/wake.mrt~
+wanted~
+w/wanted.mrt~
+warcry~
+stock/warcry~
+warrior~
+w/warrior.mrt~
+wear~
+w/wear.mrt~
+weather~
+w/weather.mrt~
+west~
+w/west.mrt~
+where~
+w/where.mrt~
+whisper~
+w/whisper.mrt~
+whitelist~
+w/whitelist.mrt~
+who~
+w/who.mrt~
+whois~
+w/whois.mrt~
+wield~
+w/wield.mrt~
+wimpy~
+w/wimpy.mrt~
+wiz list~
+w/wiz_list.mrt~
+wiz_list~
+w/wiz_list.mrt~
+wizlist~
+w/wizlist.mrt~
+worth~
+w/worth.mrt~
+write~
+w/write.mrt~
+xp~
+x/xp.mrt~
+yell~
+y/yell.mrt~
+zap~
+z/zap.mrt~
+zmud~
+stock/zmud~
+zmud client~
+stock/zmud~
+zzz~
+z/zzz.mrt~
+0

@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Healing Light
+    @@cClasses:@@N Knight(25), Monk(33)
+   @@aDuration:@@N ( ( Cast Level / 8 ) + ( 2 to 10 ) )
+   @@bModifies:@@N N/A
+       @@GType:@@N Room Affect
+@@mDescription:@@N A room affect that will allow players and mobiles to regenerate
+             more quickly.
+@@y*******************************************************************************@@N

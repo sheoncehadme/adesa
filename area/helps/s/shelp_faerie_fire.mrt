@@ -1,0 +1,10 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Faerie Fire		
+    @@cClasses:@@N Mage(3)
+   @@aDuration:@@N 5 + (Cast Level / 4)
+   @@bModifies:@@N Armor Class
+       @@GType:@@N Defensive
+@@mDescription:@@N This spell engulfs the victim's body, making it easy for those
+             figting the victim to see him/her, effectively raising the
+             victim's Armor Class.
+@@y*******************************************************************************@@N

@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Adrenaline
+    @@cClasses:@@N Knight(38), Monk(28)
+   @@aDuration:@@N N/A
+   @@bModifies:@@N Damroll
+       @@GType:@@N Defensive
+@@mDescription:@@N When hit hard enough, adrenaline will take over and you will gain
+             damroll. Adrenaline will damage you when it wears off.
+@@y*******************************************************************************@@N

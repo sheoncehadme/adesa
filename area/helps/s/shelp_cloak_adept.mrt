@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Cloak:Adept
+    @@cClasses:@@N Adept(1)
+   @@aDuration:@@N ( Cast Level / 5 )
+   @@bModifies:@@N Damage
+       @@GType:@@N Defensive
+@@mDescription:@@N This ability allows the user to cloak themselves with additional
+             power.
+@@y*******************************************************************************@@N

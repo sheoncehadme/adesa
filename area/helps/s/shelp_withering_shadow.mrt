@@ -1,0 +1,9 @@
+@@y*******************************************************************************@@N
+       @@WName:@@N Withering Shadow
+    @@cClasses:@@N Assassin(35), Necromancer(17)
+   @@aDuration:@@N ( Cast Level / 8 ) + ( 2 to 10 ) )
+   @@bModifies:@@N Regen
+       @@GType:@@N Room Affect
+@@mDescription:@@N Withering shadow will cause players in a room to lose health
+             as long as they remain in the room.
+@@y*******************************************************************************@@N

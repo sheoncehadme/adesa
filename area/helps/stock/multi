@@ -1,0 +1,26 @@
+Ack! Mud now supports players having more than one class.
+
+Eg, a player may chose to be Mage/Conjuerer or Thief/Warrior.
+
+WHO and SCORE now report the levels gained.  A ' - ' character means that
+
+the specified class is not available, eg:
+
+Mag:23 Cle: - Thi: - , etc.  This means that player can advance in Mage levels,
+
+but not in Cleric or Thief.
+
+Skills and spells become available when ANY class' level meets the minimum
+
+level required to use it.  The max level of the player is not used.
+
+When casting spells, like above, the maximum level of THE CLASS THAT HAS ACCESS
+
+TO THAT SPELL is used.  This way a char who is Mag:2 and War:50 won't be able
+
+to cast 50th level Mage spells.
+
+
+Level gain is no longer automatic.  The GAIN command must now be used instead,
+
+to advance in the specified class.  See 'HELP GAIN' for more details.
