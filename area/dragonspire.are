@@ -1,0 +1,1232 @@
+#AREA
+@@RDragonspire Peaks@@N~
+Z 3
+C 9236
+K dragonspire~
+L @@W{ @@r75 85@@W }@@N~
+N 49
+I 75 85
+V 23600 23699
+X 0
+F 15
+U A great wing blots out the sun.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23600
+Entrance to Dragonspire Peaks~
+You stand in entrance to dragonspire peaks. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire. The path west returns toward Demonweb Approaches.~
+0 1
+D1
+East.~
+~
+0 -1 23601
+D2
+South.~
+~
+0 -1 23607
+D3
+West.~
+~
+0 -1 23501
+S
+#23601
+Broken Lance Alcove~
+You stand in broken lance alcove. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire. A trail leads east toward Astral Court of Trials.~
+0 1
+D1
+East.~
+~
+0 -1 23700
+D2
+South.~
+~
+0 -1 23608
+D3
+West.~
+~
+0 -1 23600
+S
+#23602
+Mixed Hoard Hall~
+You stand in mixed hoard hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D1
+East.~
+~
+0 -1 23603
+D2
+South.~
+~
+0 -1 23609
+D3
+West.~
+~
+0 -1 23601
+S
+#23603
+Hoard Foyer~
+You stand in hoard foyer. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D1
+East.~
+~
+0 -1 23604
+D2
+South.~
+~
+0 -1 23610
+D3
+West.~
+~
+0 -1 23602
+S
+#23604
+Dragon Priest Quarters~
+You stand in dragon priest quarters. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D1
+East.~
+~
+0 -1 23605
+D2
+South.~
+~
+0 -1 23611
+D3
+West.~
+~
+0 -1 23603
+S
+#23605
+Trophy of Heroes~
+You stand in trophy of heroes. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D1
+East.~
+~
+0 -1 23606
+D2
+South.~
+~
+0 -1 23612
+D3
+West.~
+~
+0 -1 23604
+S
+#23606
+Map of Realms~
+You stand in map of realms. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D2
+South.~
+~
+0 -1 23613
+D3
+West.~
+~
+0 -1 23605
+S
+#23607
+Hatchery~
+You stand in hatchery. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23600
+D1
+East.~
+~
+0 -1 23608
+D2
+South.~
+~
+0 -1 23614
+S
+#23608
+Egg Clutch Room~
+You stand in egg clutch room. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23601
+D1
+East.~
+~
+0 -1 23609
+D2
+South.~
+~
+0 -1 23615
+D3
+West.~
+~
+0 -1 23607
+S
+#23609
+Lower Hoard~
+You stand in lower hoard. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23602
+D1
+East.~
+~
+0 -1 23610
+D2
+South.~
+~
+0 -1 23616
+D3
+West.~
+~
+0 -1 23608
+S
+#23610
+Treasure Shelf~
+You stand in treasure shelf. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23603
+D1
+East.~
+~
+0 -1 23611
+D2
+South.~
+~
+0 -1 23617
+D3
+West.~
+~
+0 -1 23609
+S
+#23611
+Frosted Ledge~
+You stand in frosted ledge. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23604
+D1
+East.~
+~
+0 -1 23612
+D2
+South.~
+~
+0 -1 23618
+D3
+West.~
+~
+0 -1 23610
+S
+#23612
+Heart of the Spire~
+You stand in heart of the spire. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23605
+D1
+East.~
+~
+0 -1 23613
+D2
+South.~
+~
+0 -1 23619
+D3
+West.~
+~
+0 -1 23611
+S
+#23613
+Wyvern Roost~
+You stand in wyvern roost. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23606
+D2
+South.~
+~
+0 -1 23620
+D3
+West.~
+~
+0 -1 23612
+S
+#23614
+Bone Throne Approach~
+You stand in bone throne approach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23607
+D1
+East.~
+~
+0 -1 23615
+D2
+South.~
+~
+0 -1 23621
+S
+#23615
+Dragonspire Base~
+You stand in dragonspire base. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23608
+D1
+East.~
+~
+0 -1 23616
+D2
+South.~
+~
+0 -1 23622
+D3
+West.~
+~
+0 -1 23614
+S
+#23616
+Dragon's Eye Chamber~
+You stand in dragon's eye chamber. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23609
+D1
+East.~
+~
+0 -1 23617
+D2
+South.~
+~
+0 -1 23623
+D3
+West.~
+~
+0 -1 23615
+S
+#23617
+Summit~
+You stand in summit. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23610
+D1
+East.~
+~
+0 -1 23618
+D2
+South.~
+~
+0 -1 23624
+D3
+West.~
+~
+0 -1 23616
+S
+#23618
+Coin Beach~
+You stand in coin beach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23611
+D1
+East.~
+~
+0 -1 23619
+D2
+South.~
+~
+0 -1 23625
+D3
+West.~
+~
+0 -1 23617
+S
+#23619
+High Roost~
+You stand in high roost. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23612
+D1
+East.~
+~
+0 -1 23620
+D2
+South.~
+~
+0 -1 23626
+D3
+West.~
+~
+0 -1 23618
+S
+#23620
+Gem Cascade~
+You stand in gem cascade. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23613
+D2
+South.~
+~
+0 -1 23627
+D3
+West.~
+~
+0 -1 23619
+S
+#23621
+Wing Stretch Platform~
+You stand in wing stretch platform. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23614
+D1
+East.~
+~
+0 -1 23622
+D2
+South.~
+~
+0 -1 23628
+S
+#23622
+Final Approach~
+You stand in final approach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23615
+D1
+East.~
+~
+0 -1 23623
+D2
+South.~
+~
+0 -1 23629
+D3
+West.~
+~
+0 -1 23621
+S
+#23623
+Observation Ledge~
+You stand in observation ledge. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23616
+D1
+East.~
+~
+0 -1 23624
+D2
+South.~
+~
+0 -1 23630
+D3
+West.~
+~
+0 -1 23622
+S
+#23624
+Dragon Sleep Chamber~
+You stand in dragon sleep chamber. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23617
+D1
+East.~
+~
+0 -1 23625
+D2
+South.~
+~
+0 -1 23631
+D3
+West.~
+~
+0 -1 23623
+S
+#23625
+Cave Mouth~
+You stand in cave mouth. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23618
+D1
+East.~
+~
+0 -1 23626
+D2
+South.~
+~
+0 -1 23632
+D3
+West.~
+~
+0 -1 23624
+S
+#23626
+Knight's Last Stand~
+You stand in knight's last stand. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23619
+D1
+East.~
+~
+0 -1 23627
+D2
+South.~
+~
+0 -1 23633
+D3
+West.~
+~
+0 -1 23625
+S
+#23627
+True Nest~
+You stand in true nest. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23620
+D2
+South.~
+~
+0 -1 23634
+D3
+West.~
+~
+0 -1 23626
+S
+#23628
+Acid-scarred Tunnel~
+You stand in acid-scarred tunnel. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23621
+D1
+East.~
+~
+0 -1 23629
+D2
+South.~
+~
+0 -1 23635
+S
+#23629
+Servitor Camp~
+You stand in servitor camp. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23622
+D1
+East.~
+~
+0 -1 23630
+D2
+South.~
+~
+0 -1 23636
+D3
+West.~
+~
+0 -1 23628
+S
+#23630
+Relic Pedestal~
+You stand in relic pedestal. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23623
+D1
+East.~
+~
+0 -1 23631
+D2
+South.~
+~
+0 -1 23637
+D3
+West.~
+~
+0 -1 23629
+S
+#23631
+Kobold Minion Warrens~
+You stand in kobold minion warrens. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23624
+D1
+East.~
+~
+0 -1 23632
+D2
+South.~
+~
+0 -1 23638
+D3
+West.~
+~
+0 -1 23630
+S
+#23632
+Black Dragon Mire Side~
+You stand in black dragon mire side. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23625
+D1
+East.~
+~
+0 -1 23633
+D2
+South.~
+~
+0 -1 23639
+D3
+West.~
+~
+0 -1 23631
+S
+#23633
+Chain of Captives~
+You stand in chain of captives. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23626
+D1
+East.~
+~
+0 -1 23634
+D2
+South.~
+~
+0 -1 23640
+D3
+West.~
+~
+0 -1 23632
+S
+#23634
+Charred Banner Hall~
+You stand in charred banner hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23627
+D2
+South.~
+~
+0 -1 23641
+D3
+West.~
+~
+0 -1 23633
+S
+#23635
+Green Dragon Glade Cave~
+You stand in green dragon glade cave. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23628
+D1
+East.~
+~
+0 -1 23636
+D2
+South.~
+~
+0 -1 23642
+S
+#23636
+Scorched Timberline~
+You stand in scorched timberline. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23629
+D1
+East.~
+~
+0 -1 23637
+D2
+South.~
+~
+0 -1 23643
+D3
+West.~
+~
+0 -1 23635
+S
+#23637
+Guardian Circle~
+You stand in guardian circle. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23630
+D1
+East.~
+~
+0 -1 23638
+D2
+South.~
+~
+0 -1 23644
+D3
+West.~
+~
+0 -1 23636
+S
+#23638
+Cultist Shrine~
+You stand in cultist shrine. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23631
+D1
+East.~
+~
+0 -1 23639
+D2
+South.~
+~
+0 -1 23645
+D3
+West.~
+~
+0 -1 23637
+S
+#23639
+Vent of Breath~
+You stand in vent of breath. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23632
+D1
+East.~
+~
+0 -1 23640
+D2
+South.~
+~
+0 -1 23646
+D3
+West.~
+~
+0 -1 23638
+S
+#23640
+Mountain Path~
+You stand in mountain path. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23633
+D1
+East.~
+~
+0 -1 23641
+D2
+South.~
+~
+0 -1 23647
+D3
+West.~
+~
+0 -1 23639
+S
+#23641
+Blue Dragon Spire~
+You stand in blue dragon spire. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23634
+D2
+South.~
+~
+0 -1 23648
+D3
+West.~
+~
+0 -1 23640
+S
+#23642
+False Nest~
+You stand in false nest. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23635
+D1
+East.~
+~
+0 -1 23643
+S
+#23643
+Red Dragon Gallery~
+You stand in red dragon gallery. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23636
+D1
+East.~
+~
+0 -1 23644
+D3
+West.~
+~
+0 -1 23642
+S
+#23644
+Escape Chimney~
+You stand in escape chimney. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23637
+D1
+East.~
+~
+0 -1 23645
+D3
+West.~
+~
+0 -1 23643
+S
+#23645
+White Dragon Ice Shelf~
+You stand in white dragon ice shelf. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23638
+D1
+East.~
+~
+0 -1 23646
+D3
+West.~
+~
+0 -1 23644
+S
+#23646
+Lightning-split Hall~
+You stand in lightning-split hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23639
+D1
+East.~
+~
+0 -1 23647
+D3
+West.~
+~
+0 -1 23645
+S
+#23647
+Sky Breach~
+You stand in sky breach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+0 1
+D0
+North.~
+~
+0 -1 23640
+D1
+East.~
+~
+0 -1 23648
+D3
+West.~
+~
+0 -1 23646
+S
+#23648
+Sanctum of an ancient red dragon~
+This is the heart of Dragonspire Peaks. An ancient red dragon fills the summit. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 23641
+D3
+West.~
+~
+0 -1 23647
+S
+#0
+#MOBILES
+#23650
+wyvern~
+a wyvern~
+A wyvern shrieks.
+~
+A wyvern looks ready for battle.
+~
+97 0 -300 S
+74 1
+-196 90 73 640 0
+! 0 0 0 7 0 0 0
+#23651
+dragon cultist~
+a dragon cultist~
+A dragon cultist kneels then attacks.
+~
+A dragon cultist looks ready for battle.
+~
+97 0 -300 S
+76 1
+-191 91 73 650 0
+! 0 0 0 7 0 0 0
+#23652
+half-dragon~
+a half-dragon warrior~
+A half-dragon warrior roars.
+~
+A half-dragon warrior looks ready for battle.
+~
+97 0 -300 S
+79 1
+-186 92 74 660 0
+! 0 0 0 7 0 0 0
+#23653
+young red dragon~
+a young red dragon~
+A young red dragon uncoils.
+~
+A young red dragon looks ready for battle.
+~
+97 0 -300 S
+80 1
+-181 93 74 670 0
+! 0 0 0 7 0 0 0
+#23654
+drake~
+a fire drake~
+A fire drake spits embers.
+~
+A fire drake looks ready for battle.
+~
+97 0 -300 S
+79 1
+-176 94 75 680 0
+! 0 0 0 7 0 0 0
+#23655
+kobold dragonshield~
+a kobold dragonshield~
+A kobold dragonshield stands firm.
+~
+A kobold dragonshield looks ready for battle.
+~
+97 0 -300 S
+82 1
+-171 95 75 690 0
+! 0 0 0 7 0 0 0
+#23656
+dragon priest~
+a dragon priest~
+A dragon priest raises a scale idol.
+~
+A dragon priest looks ready for battle.
+~
+97 0 -300 S
+85 1
+-166 96 76 700 0
+! 0 0 0 7 0 0 0
+#23657
+adult dragon spawn~
+a dragon spawn~
+A dragon spawn flexes wings.
+~
+A dragon spawn looks ready for battle.
+~
+97 0 -300 S
+84 1
+-161 97 76 710 0
+! 0 0 0 7 0 0 0
+#23658
+ancient red~
+an ancient red dragon~
+An ancient red dragon fills the summit.
+~
+An ancient red dragon radiates terrible power.
+~
+35 0 -1000 S
+88 1
+-216 105 88 1920 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23670
+dragonfang lance~
+@@ydragonfang lance@@N~
+@@yDragonfang lance@@N lies here, humming with power.~
+5 67 8193 1
+5 26 0 3
+10
+A 18 26
+A 19 26
+A 1 4
+L 75
+#23671
+dragonspire breastplate armor~
+@@WDragonspire breastplate@@N~
+A @@WDragonspire breastplate@@N rests here.~
+9 65 9 1
+16 0 0 0
+15
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+A 12 80
+L 75
+#23672
+dragonspire helm~
+@@WDragonspire helm@@N~
+A @@WDragonspire helm@@N lies on the ground.~
+9 65 17 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23673
+dragonspire greaves~
+@@WDragonspire greaves@@N~
+@@WDragonspire greaves@@N are discarded here.~
+9 65 33 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23674
+dragonspire boots~
+@@WDragonspire boots@@N~
+A pair of @@WDragonspire boots@@N sits here.~
+9 65 65 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23675
+dragonspire gauntlets~
+@@WDragonspire gauntlets@@N~
+@@WDragonspire gauntlets@@N lie in a pile.~
+9 65 129 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23676
+dragonspire shield~
+@@WDragonspire shield@@N~
+A @@WDragonspire shield@@N leans against the wall.~
+9 65 513 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23677
+dragonspire cloak~
+@@WDragonspire cloak@@N~
+A @@WDragonspire cloak@@N is folded here.~
+9 65 1025 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+A 12 80
+L 75
+#23678
+dragonspire ring~
+@@WDragonspire ring@@N~
+A @@WDragonspire ring@@N glints on the ground.~
+9 65 3 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23679
+dragonspire amulet~
+@@WDragonspire amulet@@N~
+A @@WDragonspire amulet@@N hangs from a peg.~
+9 65 5 1
+16 0 0 0
+5
+A 17 -160
+A 13 160
+A 18 20
+A 19 20
+L 75
+#23680
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+80 0 0 0
+1
+L 1
+#23681
+unique dragonfang lance legendary~
+@@Ran ancient red dragon's weapon@@N~
+@@RThe legendary weapon of an ancient red dragon@@N lies here.~
+5 67 8193 1
+6 40 0 3
+12
+A 18 31
+A 19 31
+A 13 160
+A 1 2
+L 80
+#0
+#RESETS
+M 0 23650 2 23600
+E 0 23675 0 9
+E 0 23677 0 12
+E 0 23678 0 1
+M 0 23651 2 23601
+E 0 23671 0 5
+E 0 23679 0 3
+E 0 23677 0 12
+M 0 23652 2 23602
+E 0 23672 0 6
+E 0 23674 0 8
+E 0 23671 0 5
+M 0 23653 2 23603
+E 0 23674 0 8
+E 0 23677 0 12
+E 0 23671 0 5
+M 0 23654 2 23604
+E 0 23674 0 8
+E 0 23671 0 5
+E 0 23675 0 9
+M 0 23655 2 23605
+E 0 23672 0 6
+E 0 23678 0 1
+E 0 23670 0 16
+M 0 23656 2 23606
+E 0 23677 0 12
+E 0 23672 0 6
+E 0 23674 0 8
+G 0 23680 0
+M 0 23657 2 23607
+E 0 23677 0 12
+E 0 23676 0 11
+E 0 23674 0 8
+M 0 23658 1 23648
+E 0 23681 0 16
+E 0 23671 0 5
+E 0 23672 0 6
+E 0 23673 0 7
+E 0 23674 0 8
+E 0 23675 0 9
+E 0 23676 0 11
+E 0 23677 0 12
+E 0 23679 0 3
+E 0 23678 0 1
+G 0 23680 0
+G 0 23680 0
+S
+#$

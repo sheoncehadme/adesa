@@ -1,0 +1,1234 @@
+#AREA
+@@dVault of Shadows@@N~
+Z 3
+C 9232
+K vaultshadow~
+L @@W{ @@r50 60@@W }@@N~
+N 49
+I 50 60
+V 23200 23299
+X 0
+F 15
+U Whispers in an elven tongue echo from below.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23200
+Entrance to Vault of Shadows~
+You stand in entrance to vault of shadows. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow. The path west returns toward Descent into the Underdark.~
+0 0
+D1
+East.~
+~
+0 -1 23201
+D2
+South.~
+~
+0 -1 23207
+D3
+West.~
+~
+0 -1 23101
+S
+#23201
+Arena of Blood~
+You stand in arena of blood. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow. A trail leads east toward Temple of the Four Elements.~
+0 0
+D1
+East.~
+~
+0 -1 23300
+D2
+South.~
+~
+0 -1 23208
+D3
+West.~
+~
+0 -1 23200
+S
+#23202
+Vault Gates~
+You stand in vault gates. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D1
+East.~
+~
+0 -1 23203
+D2
+South.~
+~
+0 -1 23209
+D3
+West.~
+~
+0 -1 23201
+S
+#23203
+War Council Room~
+You stand in war council room. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D1
+East.~
+~
+0 -1 23204
+D2
+South.~
+~
+0 -1 23210
+D3
+West.~
+~
+0 -1 23202
+S
+#23204
+Prison of Light~
+You stand in prison of light. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D1
+East.~
+~
+0 -1 23205
+D2
+South.~
+~
+0 -1 23211
+D3
+West.~
+~
+0 -1 23203
+S
+#23205
+False Treasure Room~
+You stand in false treasure room. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D1
+East.~
+~
+0 -1 23206
+D2
+South.~
+~
+0 -1 23212
+D3
+West.~
+~
+0 -1 23204
+S
+#23206
+True Vault Door~
+You stand in true vault door. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D2
+South.~
+~
+0 -1 23213
+D3
+West.~
+~
+0 -1 23205
+S
+#23207
+Moonless Courtyard~
+You stand in moonless courtyard. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23200
+D1
+East.~
+~
+0 -1 23208
+D2
+South.~
+~
+0 -1 23214
+S
+#23208
+Warded Hall~
+You stand in warded hall. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23201
+D1
+East.~
+~
+0 -1 23209
+D2
+South.~
+~
+0 -1 23215
+D3
+West.~
+~
+0 -1 23207
+S
+#23209
+Summoning Circle~
+You stand in summoning circle. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23202
+D1
+East.~
+~
+0 -1 23210
+D2
+South.~
+~
+0 -1 23216
+D3
+West.~
+~
+0 -1 23208
+S
+#23210
+Last Defense~
+You stand in last defense. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23203
+D1
+East.~
+~
+0 -1 23211
+D2
+South.~
+~
+0 -1 23217
+D3
+West.~
+~
+0 -1 23209
+S
+#23211
+Idol Sanctum~
+You stand in idol sanctum. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23204
+D1
+East.~
+~
+0 -1 23212
+D2
+South.~
+~
+0 -1 23218
+D3
+West.~
+~
+0 -1 23210
+S
+#23212
+Torture Salon~
+You stand in torture salon. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23205
+D1
+East.~
+~
+0 -1 23213
+D2
+South.~
+~
+0 -1 23219
+D3
+West.~
+~
+0 -1 23211
+S
+#23213
+High Priestess Chamber~
+You stand in high priestess chamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23206
+D2
+South.~
+~
+0 -1 23220
+D3
+West.~
+~
+0 -1 23212
+S
+#23214
+Matron's Throne~
+You stand in matron's throne. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23207
+D1
+East.~
+~
+0 -1 23215
+D2
+South.~
+~
+0 -1 23221
+S
+#23215
+Relic Pedestal~
+You stand in relic pedestal. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23208
+D1
+East.~
+~
+0 -1 23216
+D2
+South.~
+~
+0 -1 23222
+D3
+West.~
+~
+0 -1 23214
+S
+#23216
+Spider Cathedral~
+You stand in spider cathedral. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23209
+D1
+East.~
+~
+0 -1 23217
+D2
+South.~
+~
+0 -1 23223
+D3
+West.~
+~
+0 -1 23215
+S
+#23217
+Rune Circle~
+You stand in rune circle. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23210
+D1
+East.~
+~
+0 -1 23218
+D2
+South.~
+~
+0 -1 23224
+D3
+West.~
+~
+0 -1 23216
+S
+#23218
+Upper Spire~
+You stand in upper spire. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23211
+D1
+East.~
+~
+0 -1 23219
+D2
+South.~
+~
+0 -1 23225
+D3
+West.~
+~
+0 -1 23217
+S
+#23219
+Beast Pens~
+You stand in beast pens. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23212
+D1
+East.~
+~
+0 -1 23220
+D2
+South.~
+~
+0 -1 23226
+D3
+West.~
+~
+0 -1 23218
+S
+#23220
+Map Room of the Underdark~
+You stand in map room of the underdark. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23213
+D2
+South.~
+~
+0 -1 23227
+D3
+West.~
+~
+0 -1 23219
+S
+#23221
+Ambush Corridor~
+You stand in ambush corridor. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23214
+D1
+East.~
+~
+0 -1 23222
+D2
+South.~
+~
+0 -1 23228
+S
+#23222
+Guard Barracks~
+You stand in guard barracks. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23215
+D1
+East.~
+~
+0 -1 23223
+D2
+South.~
+~
+0 -1 23229
+D3
+West.~
+~
+0 -1 23221
+S
+#23223
+Web Bridge~
+You stand in web bridge. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23216
+D1
+East.~
+~
+0 -1 23224
+D2
+South.~
+~
+0 -1 23230
+D3
+West.~
+~
+0 -1 23222
+S
+#23224
+Wine Cellar~
+You stand in wine cellar. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23217
+D1
+East.~
+~
+0 -1 23225
+D2
+South.~
+~
+0 -1 23231
+D3
+West.~
+~
+0 -1 23223
+S
+#23225
+Arcane Laboratory~
+You stand in arcane laboratory. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23218
+D1
+East.~
+~
+0 -1 23226
+D2
+South.~
+~
+0 -1 23232
+D3
+West.~
+~
+0 -1 23224
+S
+#23226
+Obsidian Mirror Hall~
+You stand in obsidian mirror hall. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23219
+D1
+East.~
+~
+0 -1 23227
+D2
+South.~
+~
+0 -1 23233
+D3
+West.~
+~
+0 -1 23225
+S
+#23227
+Lower Dungeon~
+You stand in lower dungeon. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23220
+D2
+South.~
+~
+0 -1 23234
+D3
+West.~
+~
+0 -1 23226
+S
+#23228
+Velvet Chamber~
+You stand in velvet chamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23221
+D1
+East.~
+~
+0 -1 23229
+D2
+South.~
+~
+0 -1 23235
+S
+#23229
+Escape Tunnel~
+You stand in escape tunnel. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23222
+D1
+East.~
+~
+0 -1 23230
+D2
+South.~
+~
+0 -1 23236
+D3
+West.~
+~
+0 -1 23228
+S
+#23230
+Fountain of Night~
+You stand in fountain of night. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23223
+D1
+East.~
+~
+0 -1 23231
+D2
+South.~
+~
+0 -1 23237
+D3
+West.~
+~
+0 -1 23229
+S
+#23231
+Poison Garden~
+You stand in poison garden. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23224
+D1
+East.~
+~
+0 -1 23232
+D2
+South.~
+~
+0 -1 23238
+D3
+West.~
+~
+0 -1 23230
+S
+#23232
+Noble Gallery~
+You stand in noble gallery. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23225
+D1
+East.~
+~
+0 -1 23233
+D2
+South.~
+~
+0 -1 23239
+D3
+West.~
+~
+0 -1 23231
+S
+#23233
+Balcony Over the Vault~
+You stand in balcony over the vault. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23226
+D1
+East.~
+~
+0 -1 23234
+D2
+South.~
+~
+0 -1 23240
+D3
+West.~
+~
+0 -1 23232
+S
+#23234
+Heart of the Vault~
+You stand in heart of the vault. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23227
+D2
+South.~
+~
+0 -1 23241
+D3
+West.~
+~
+0 -1 23233
+S
+#23235
+Scrying Pool~
+You stand in scrying pool. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23228
+D1
+East.~
+~
+0 -1 23236
+D2
+South.~
+~
+0 -1 23242
+S
+#23236
+Priestess Balcony~
+You stand in priestess balcony. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23229
+D1
+East.~
+~
+0 -1 23237
+D2
+South.~
+~
+0 -1 23243
+D3
+West.~
+~
+0 -1 23235
+S
+#23237
+Treasure Antechamber~
+You stand in treasure antechamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23230
+D1
+East.~
+~
+0 -1 23238
+D2
+South.~
+~
+0 -1 23244
+D3
+West.~
+~
+0 -1 23236
+S
+#23238
+Crypt of Matrons~
+You stand in crypt of matrons. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23231
+D1
+East.~
+~
+0 -1 23239
+D2
+South.~
+~
+0 -1 23245
+D3
+West.~
+~
+0 -1 23237
+S
+#23239
+Hall of Whispers~
+You stand in hall of whispers. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23232
+D1
+East.~
+~
+0 -1 23240
+D2
+South.~
+~
+0 -1 23246
+D3
+West.~
+~
+0 -1 23238
+S
+#23240
+Slave Market Ruins~
+You stand in slave market ruins. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23233
+D1
+East.~
+~
+0 -1 23241
+D2
+South.~
+~
+0 -1 23247
+D3
+West.~
+~
+0 -1 23239
+S
+#23241
+Armory of Envenomed Blades~
+You stand in armory of envenomed blades. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23234
+D2
+South.~
+~
+0 -1 23248
+D3
+West.~
+~
+0 -1 23240
+S
+#23242
+Silent Library~
+You stand in silent library. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23235
+D1
+East.~
+~
+0 -1 23243
+S
+#23243
+Assassin's Alley~
+You stand in assassin's alley. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23236
+D1
+East.~
+~
+0 -1 23244
+D3
+West.~
+~
+0 -1 23242
+S
+#23244
+Gem Hoard~
+You stand in gem hoard. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23237
+D1
+East.~
+~
+0 -1 23245
+D3
+West.~
+~
+0 -1 23243
+S
+#23245
+Shadow Portcullis~
+You stand in shadow portcullis. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23238
+D1
+East.~
+~
+0 -1 23246
+D3
+West.~
+~
+0 -1 23244
+S
+#23246
+Secret Passage~
+You stand in secret passage. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23239
+D1
+East.~
+~
+0 -1 23247
+D3
+West.~
+~
+0 -1 23245
+S
+#23247
+Noble Quarters~
+You stand in noble quarters. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+0 0
+D0
+North.~
+~
+0 -1 23240
+D1
+East.~
+~
+0 -1 23248
+D3
+West.~
+~
+0 -1 23246
+S
+#23248
+Sanctum of the Queen of Shadows~
+This is the heart of Vault of Shadows. The Queen of Shadows smiles without warmth. The air itself feels heavier here.~
+0 0
+D0
+North.~
+~
+0 -1 23241
+D3
+West.~
+~
+0 -1 23247
+S
+#0
+#MOBILES
+#23250
+drow elite~
+a drow elite guard~
+A drow elite guard bows mockingly.
+~
+A drow elite guard looks ready for battle.
+~
+97 0 -300 S
+51 1
+-141 62 50 440 0
+! 0 0 0 7 0 0 0
+#23251
+yochlol~
+a yochlol~
+A yochlol shifts between forms.
+~
+A yochlol looks ready for battle.
+~
+97 0 -300 S
+53 1
+-136 63 50 450 0
+! 0 0 0 7 0 0 0
+#23252
+shadow demon~
+a shadow demon~
+A shadow demon bleeds darkness.
+~
+A shadow demon looks ready for battle.
+~
+97 0 -300 S
+53 1
+-131 64 51 460 0
+! 0 0 0 7 0 0 0
+#23253
+drow mage~
+a drow mage~
+A drow mage's hands crackle.
+~
+A drow mage looks ready for battle.
+~
+97 0 -300 S
+54 1
+-126 65 51 470 0
+! 0 0 0 7 0 0 0
+#23254
+retriever~
+a retriever~
+A construct spider eyes you.
+~
+A retriever looks ready for battle.
+~
+97 0 -300 S
+55 1
+-121 66 52 480 0
+! 0 0 0 7 0 0 0
+#23255
+assassin~
+a vault assassin~
+A vault assassin vanishes into gloom.
+~
+A vault assassin looks ready for battle.
+~
+97 0 -300 S
+59 1
+-116 67 52 490 0
+! 0 0 0 7 0 0 0
+#23256
+priestess~
+a vault priestess~
+A vault priestess chants.
+~
+A vault priestess looks ready for battle.
+~
+97 0 -300 S
+60 1
+-111 68 53 500 0
+! 0 0 0 7 0 0 0
+#23257
+noble drow~
+a drow noble~
+A drow noble draws a fine blade.
+~
+A drow noble looks ready for battle.
+~
+97 0 -300 S
+59 1
+-106 69 53 510 0
+! 0 0 0 7 0 0 0
+#23258
+queen of shadows~
+the Queen of Shadows~
+The Queen of Shadows smiles without warmth.
+~
+The Queen of Shadows radiates terrible power.
+~
+35 0 -1000 S
+63 1
+-161 77 65 1320 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23270
+venom-kissed rapier~
+@@yvenom-kissed rapier@@N~
+@@yVenom-kissed rapier@@N lies here, humming with power.~
+5 67 8193 1
+3 18 0 3
+10
+A 18 18
+A 19 18
+A 1 2
+L 50
+#23271
+vault breastplate armor~
+@@WVault breastplate@@N~
+A @@WVault breastplate@@N rests here.~
+9 65 9 1
+11 0 0 0
+15
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+A 12 55
+L 50
+#23272
+vault helm~
+@@WVault helm@@N~
+A @@WVault helm@@N lies on the ground.~
+9 65 17 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23273
+vault greaves~
+@@WVault greaves@@N~
+@@WVault greaves@@N are discarded here.~
+9 65 33 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23274
+vault boots~
+@@WVault boots@@N~
+A pair of @@WVault boots@@N sits here.~
+9 65 65 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23275
+vault gauntlets~
+@@WVault gauntlets@@N~
+@@WVault gauntlets@@N lie in a pile.~
+9 65 129 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23276
+vault shield~
+@@WVault shield@@N~
+A @@WVault shield@@N leans against the wall.~
+9 65 513 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23277
+vault cloak~
+@@WVault cloak@@N~
+A @@WVault cloak@@N is folded here.~
+9 65 1025 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+A 12 55
+L 50
+#23278
+vault ring~
+@@WVault ring@@N~
+A @@WVault ring@@N glints on the ground.~
+9 65 3 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23279
+vault amulet~
+@@WVault amulet@@N~
+A @@WVault amulet@@N hangs from a peg.~
+9 65 5 1
+11 0 0 0
+5
+A 17 -110
+A 13 110
+A 18 13
+A 19 13
+L 50
+#23280
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+55 0 0 0
+1
+L 1
+#23281
+unique venom-kissed rapier legendary~
+@@Rthe Queen of Shadows's weapon@@N~
+@@RThe legendary weapon of the Queen of Shadows@@N lies here.~
+5 67 8193 1
+4 27 0 3
+12
+A 18 23
+A 19 23
+A 13 110
+A 1 2
+L 55
+#0
+#RESETS
+M 0 23250 2 23200
+E 0 23270 0 16
+E 0 23274 0 8
+E 0 23277 0 12
+M 0 23251 2 23201
+E 0 23276 0 11
+E 0 23277 0 12
+E 0 23271 0 5
+G 0 23280 0
+M 0 23252 2 23202
+E 0 23278 0 1
+E 0 23277 0 12
+E 0 23274 0 8
+M 0 23253 2 23203
+E 0 23270 0 16
+E 0 23271 0 5
+E 0 23277 0 12
+G 0 23280 0
+M 0 23254 2 23204
+E 0 23270 0 16
+E 0 23278 0 1
+E 0 23277 0 12
+M 0 23255 2 23205
+E 0 23279 0 3
+E 0 23278 0 1
+E 0 23275 0 9
+G 0 23280 0
+M 0 23256 2 23206
+E 0 23271 0 5
+E 0 23272 0 6
+E 0 23278 0 1
+M 0 23257 2 23207
+E 0 23275 0 9
+E 0 23279 0 3
+E 0 23277 0 12
+M 0 23258 1 23248
+E 0 23281 0 16
+E 0 23271 0 5
+E 0 23272 0 6
+E 0 23273 0 7
+E 0 23274 0 8
+E 0 23275 0 9
+E 0 23276 0 11
+E 0 23277 0 12
+E 0 23279 0 3
+E 0 23278 0 1
+G 0 23280 0
+G 0 23280 0
+S
+#$

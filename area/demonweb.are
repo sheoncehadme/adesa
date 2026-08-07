@@ -1,0 +1,1234 @@
+#AREA
+@@RDemonweb Approaches@@N~
+Z 3
+C 9235
+K demonweb~
+L @@W{ @@r70 80@@W }@@N~
+N 49
+I 70 80
+V 23500 23599
+X 0
+F 15
+U Silk threads vibrate with planar malice.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23500
+Entrance to Demonweb Approaches~
+You stand in entrance to demonweb approaches. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb. The path west returns toward Tomb of Whispering Bones.~
+0 1
+D1
+East.~
+~
+0 -1 23501
+D2
+South.~
+~
+0 -1 23507
+D3
+West.~
+~
+0 -1 23401
+S
+#23501
+Strand Maze~
+You stand in strand maze. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb. A trail leads east toward Dragonspire Peaks.~
+0 1
+D1
+East.~
+~
+0 -1 23600
+D2
+South.~
+~
+0 -1 23508
+D3
+West.~
+~
+0 -1 23500
+S
+#23502
+Escape Line~
+You stand in escape line. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D1
+East.~
+~
+0 -1 23503
+D2
+South.~
+~
+0 -1 23509
+D3
+West.~
+~
+0 -1 23501
+S
+#23503
+Hunter's Nest~
+You stand in hunter's nest. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D1
+East.~
+~
+0 -1 23504
+D2
+South.~
+~
+0 -1 23510
+D3
+West.~
+~
+0 -1 23502
+S
+#23504
+Judgment Web~
+You stand in judgment web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D1
+East.~
+~
+0 -1 23505
+D2
+South.~
+~
+0 -1 23511
+D3
+West.~
+~
+0 -1 23503
+S
+#23505
+War Spire~
+You stand in war spire. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D1
+East.~
+~
+0 -1 23506
+D2
+South.~
+~
+0 -1 23512
+D3
+West.~
+~
+0 -1 23504
+S
+#23506
+Demonic Barracks~
+You stand in demonic barracks. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D2
+South.~
+~
+0 -1 23513
+D3
+West.~
+~
+0 -1 23505
+S
+#23507
+Lower Web~
+You stand in lower web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23500
+D1
+East.~
+~
+0 -1 23508
+D2
+South.~
+~
+0 -1 23514
+S
+#23508
+Demonweb Landing~
+You stand in demonweb landing. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23501
+D1
+East.~
+~
+0 -1 23509
+D2
+South.~
+~
+0 -1 23515
+D3
+West.~
+~
+0 -1 23507
+S
+#23509
+Black Silk Vault~
+You stand in black silk vault. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23502
+D1
+East.~
+~
+0 -1 23510
+D2
+South.~
+~
+0 -1 23516
+D3
+West.~
+~
+0 -1 23508
+S
+#23510
+Retrievers' Den~
+You stand in retrievers' den. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23503
+D1
+East.~
+~
+0 -1 23511
+D2
+South.~
+~
+0 -1 23517
+D3
+West.~
+~
+0 -1 23509
+S
+#23511
+Spider Court~
+You stand in spider court. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23504
+D1
+East.~
+~
+0 -1 23512
+D2
+South.~
+~
+0 -1 23518
+D3
+West.~
+~
+0 -1 23510
+S
+#23512
+Gate of Eight Legs~
+You stand in gate of eight legs. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23505
+D1
+East.~
+~
+0 -1 23513
+D2
+South.~
+~
+0 -1 23519
+D3
+West.~
+~
+0 -1 23511
+S
+#23513
+Lolthite Shrine~
+You stand in lolthite shrine. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23506
+D2
+South.~
+~
+0 -1 23520
+D3
+West.~
+~
+0 -1 23512
+S
+#23514
+Egg Sac Nursery~
+You stand in egg sac nursery. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23507
+D1
+East.~
+~
+0 -1 23515
+D2
+South.~
+~
+0 -1 23521
+S
+#23515
+Web Cathedral~
+You stand in web cathedral. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23508
+D1
+East.~
+~
+0 -1 23516
+D2
+South.~
+~
+0 -1 23522
+D3
+West.~
+~
+0 -1 23514
+S
+#23516
+Strand Bridge~
+You stand in strand bridge. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23509
+D1
+East.~
+~
+0 -1 23517
+D2
+South.~
+~
+0 -1 23523
+D3
+West.~
+~
+0 -1 23515
+S
+#23517
+Upper Spindle~
+You stand in upper spindle. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23510
+D1
+East.~
+~
+0 -1 23518
+D2
+South.~
+~
+0 -1 23524
+D3
+West.~
+~
+0 -1 23516
+S
+#23518
+Silk Approach~
+You stand in silk approach. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23511
+D1
+East.~
+~
+0 -1 23519
+D2
+South.~
+~
+0 -1 23525
+D3
+West.~
+~
+0 -1 23517
+S
+#23519
+Poison Mist Hall~
+You stand in poison mist hall. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23512
+D1
+East.~
+~
+0 -1 23520
+D2
+South.~
+~
+0 -1 23526
+D3
+West.~
+~
+0 -1 23518
+S
+#23520
+Abyssal Overlook~
+You stand in abyssal overlook. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23513
+D2
+South.~
+~
+0 -1 23527
+D3
+West.~
+~
+0 -1 23519
+S
+#23521
+Silk Throne Approach~
+You stand in silk throne approach. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23514
+D1
+East.~
+~
+0 -1 23522
+D2
+South.~
+~
+0 -1 23528
+S
+#23522
+Yochlol Chamber~
+You stand in yochlol chamber. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23515
+D1
+East.~
+~
+0 -1 23523
+D2
+South.~
+~
+0 -1 23529
+D3
+West.~
+~
+0 -1 23521
+S
+#23523
+Broken Strand~
+You stand in broken strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23516
+D1
+East.~
+~
+0 -1 23524
+D2
+South.~
+~
+0 -1 23530
+D3
+West.~
+~
+0 -1 23522
+S
+#23524
+Web Map Room~
+You stand in web map room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23517
+D1
+East.~
+~
+0 -1 23525
+D2
+South.~
+~
+0 -1 23531
+D3
+West.~
+~
+0 -1 23523
+S
+#23525
+Silk Stair~
+You stand in silk stair. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23518
+D1
+East.~
+~
+0 -1 23526
+D2
+South.~
+~
+0 -1 23532
+D3
+West.~
+~
+0 -1 23524
+S
+#23526
+Outer Void~
+You stand in outer void. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23519
+D1
+East.~
+~
+0 -1 23527
+D2
+South.~
+~
+0 -1 23533
+D3
+West.~
+~
+0 -1 23525
+S
+#23527
+Void Between Strands~
+You stand in void between strands. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23520
+D2
+South.~
+~
+0 -1 23534
+D3
+West.~
+~
+0 -1 23526
+S
+#23528
+Abyss Wind Platform~
+You stand in abyss wind platform. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23521
+D1
+East.~
+~
+0 -1 23529
+D2
+South.~
+~
+0 -1 23535
+S
+#23529
+Ivory Gate~
+You stand in ivory gate. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23522
+D1
+East.~
+~
+0 -1 23530
+D2
+South.~
+~
+0 -1 23536
+D3
+West.~
+~
+0 -1 23528
+S
+#23530
+Scrying Web~
+You stand in scrying web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23523
+D1
+East.~
+~
+0 -1 23531
+D2
+South.~
+~
+0 -1 23537
+D3
+West.~
+~
+0 -1 23529
+S
+#23531
+Falling Silk~
+You stand in falling silk. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23524
+D1
+East.~
+~
+0 -1 23532
+D2
+South.~
+~
+0 -1 23538
+D3
+West.~
+~
+0 -1 23530
+S
+#23532
+Last Strand~
+You stand in last strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23525
+D1
+East.~
+~
+0 -1 23533
+D2
+South.~
+~
+0 -1 23539
+D3
+West.~
+~
+0 -1 23531
+S
+#23533
+Cocoon Prison~
+You stand in cocoon prison. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23526
+D1
+East.~
+~
+0 -1 23534
+D2
+South.~
+~
+0 -1 23540
+D3
+West.~
+~
+0 -1 23532
+S
+#23534
+Dead God Shrine~
+You stand in dead god shrine. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23527
+D2
+South.~
+~
+0 -1 23541
+D3
+West.~
+~
+0 -1 23533
+S
+#23535
+Web Nexus~
+You stand in web nexus. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23528
+D1
+East.~
+~
+0 -1 23536
+D2
+South.~
+~
+0 -1 23542
+S
+#23536
+Venom Armory~
+You stand in venom armory. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23529
+D1
+East.~
+~
+0 -1 23537
+D2
+South.~
+~
+0 -1 23543
+D3
+West.~
+~
+0 -1 23535
+S
+#23537
+Tremor Strand~
+You stand in tremor strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23530
+D1
+East.~
+~
+0 -1 23538
+D2
+South.~
+~
+0 -1 23544
+D3
+West.~
+~
+0 -1 23536
+S
+#23538
+Venom Font~
+You stand in venom font. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23531
+D1
+East.~
+~
+0 -1 23539
+D2
+South.~
+~
+0 -1 23545
+D3
+West.~
+~
+0 -1 23537
+S
+#23539
+Shadow Spinner Room~
+You stand in shadow spinner room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23532
+D1
+East.~
+~
+0 -1 23540
+D2
+South.~
+~
+0 -1 23546
+D3
+West.~
+~
+0 -1 23538
+S
+#23540
+Sacrificial Web~
+You stand in sacrificial web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23533
+D1
+East.~
+~
+0 -1 23541
+D2
+South.~
+~
+0 -1 23547
+D3
+West.~
+~
+0 -1 23539
+S
+#23541
+Court of Whispers~
+You stand in court of whispers. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23534
+D2
+South.~
+~
+0 -1 23548
+D3
+West.~
+~
+0 -1 23540
+S
+#23542
+Mirror of Planes~
+You stand in mirror of planes. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23535
+D1
+East.~
+~
+0 -1 23543
+S
+#23543
+Heart of the Demonweb~
+You stand in heart of the demonweb. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23536
+D1
+East.~
+~
+0 -1 23544
+D3
+West.~
+~
+0 -1 23542
+S
+#23544
+Floating Platform~
+You stand in floating platform. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23537
+D1
+East.~
+~
+0 -1 23545
+D3
+West.~
+~
+0 -1 23543
+S
+#23545
+Priestess Balcony~
+You stand in priestess balcony. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23538
+D1
+East.~
+~
+0 -1 23546
+D3
+West.~
+~
+0 -1 23544
+S
+#23546
+Spindle Gallery~
+You stand in spindle gallery. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23539
+D1
+East.~
+~
+0 -1 23547
+D3
+West.~
+~
+0 -1 23545
+S
+#23547
+Hanging Cocoon Room~
+You stand in hanging cocoon room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+0 1
+D0
+North.~
+~
+0 -1 23540
+D1
+East.~
+~
+0 -1 23548
+D3
+West.~
+~
+0 -1 23546
+S
+#23548
+Sanctum of the Web Queen~
+This is the heart of Demonweb Approaches. The Web Queen sits upon a throne of silk. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 23541
+D3
+West.~
+~
+0 -1 23547
+S
+#0
+#MOBILES
+#23550
+bebilith~
+a bebilith~
+A bebilith hunts across the strands.
+~
+A bebilith looks ready for battle.
+~
+97 0 -300 S
+69 1
+-185 84 68 600 0
+! 0 0 0 7 0 0 0
+#23551
+yochlol~
+a yochlol servant~
+A yochlol servant melts and reforms.
+~
+A yochlol servant looks ready for battle.
+~
+97 0 -300 S
+73 1
+-180 85 68 610 0
+! 0 0 0 7 0 0 0
+#23552
+vrock~
+a vrock~
+A vrock screeches.
+~
+A vrock looks ready for battle.
+~
+97 0 -300 S
+74 1
+-175 86 69 620 0
+! 0 0 0 7 0 0 0
+#23553
+glabrezu~
+a glabrezu~
+A glabrezu offers a false bargain.
+~
+A glabrezu looks ready for battle.
+~
+97 0 -300 S
+76 1
+-170 87 69 630 0
+! 0 0 0 7 0 0 0
+#23554
+drider champion~
+a drider champion~
+A drider champion salutes.
+~
+A drider champion looks ready for battle.
+~
+97 0 -300 S
+76 1
+-165 88 70 640 0
+! 0 0 0 7 0 0 0
+#23555
+demonweb spider~
+a demonweb spider~
+A demonweb spider drops from above.
+~
+A demonweb spider looks ready for battle.
+~
+97 0 -300 S
+78 1
+-160 89 70 650 0
+! 0 0 0 7 0 0 0
+#23556
+marilith~
+a marilith~
+A marilith's blades whirl.
+~
+A marilith looks ready for battle.
+~
+97 0 -300 S
+77 1
+-155 90 71 660 0
+! 0 0 0 7 0 0 0
+#23557
+priestess of lolth~
+a priestess of Lolth~
+A priestess of Lolth laughs.
+~
+A priestess of Lolth looks ready for battle.
+~
+97 0 -300 S
+82 1
+-150 91 71 670 0
+! 0 0 0 7 0 0 0
+#23558
+web queen~
+the Web Queen~
+The Web Queen sits upon a throne of silk.
+~
+The Web Queen radiates terrible power.
+~
+35 0 -1000 S
+83 1
+-205 99 83 1800 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23570
+strandrazor~
+@@ystrandrazor@@N~
+@@yStrandrazor@@N lies here, humming with power.~
+5 67 8193 1
+5 25 0 3
+10
+A 18 25
+A 19 25
+A 1 3
+L 70
+#23571
+demonweb breastplate armor~
+@@WDemonweb breastplate@@N~
+A @@WDemonweb breastplate@@N rests here.~
+9 65 9 1
+15 0 0 0
+15
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+A 12 75
+L 70
+#23572
+demonweb helm~
+@@WDemonweb helm@@N~
+A @@WDemonweb helm@@N lies on the ground.~
+9 65 17 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23573
+demonweb greaves~
+@@WDemonweb greaves@@N~
+@@WDemonweb greaves@@N are discarded here.~
+9 65 33 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23574
+demonweb boots~
+@@WDemonweb boots@@N~
+A pair of @@WDemonweb boots@@N sits here.~
+9 65 65 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23575
+demonweb gauntlets~
+@@WDemonweb gauntlets@@N~
+@@WDemonweb gauntlets@@N lie in a pile.~
+9 65 129 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23576
+demonweb shield~
+@@WDemonweb shield@@N~
+A @@WDemonweb shield@@N leans against the wall.~
+9 65 513 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23577
+demonweb cloak~
+@@WDemonweb cloak@@N~
+A @@WDemonweb cloak@@N is folded here.~
+9 65 1025 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+A 12 75
+L 70
+#23578
+demonweb ring~
+@@WDemonweb ring@@N~
+A @@WDemonweb ring@@N glints on the ground.~
+9 65 3 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23579
+demonweb amulet~
+@@WDemonweb amulet@@N~
+A @@WDemonweb amulet@@N hangs from a peg.~
+9 65 5 1
+15 0 0 0
+5
+A 17 -150
+A 13 150
+A 18 18
+A 19 18
+L 70
+#23580
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+75 0 0 0
+1
+L 1
+#23581
+unique strandrazor legendary~
+@@Rthe Web Queen's weapon@@N~
+@@RThe legendary weapon of the Web Queen@@N lies here.~
+5 67 8193 1
+6 37 0 3
+12
+A 18 30
+A 19 30
+A 13 150
+A 1 2
+L 75
+#0
+#RESETS
+M 0 23550 2 23500
+E 0 23574 0 8
+E 0 23571 0 5
+E 0 23575 0 9
+M 0 23551 2 23501
+E 0 23571 0 5
+E 0 23579 0 3
+E 0 23574 0 8
+M 0 23552 2 23502
+E 0 23578 0 1
+E 0 23574 0 8
+E 0 23575 0 9
+M 0 23553 2 23503
+E 0 23575 0 9
+E 0 23574 0 8
+E 0 23578 0 1
+G 0 23580 0
+M 0 23554 2 23504
+E 0 23578 0 1
+E 0 23575 0 9
+E 0 23570 0 16
+M 0 23555 2 23505
+E 0 23575 0 9
+E 0 23571 0 5
+E 0 23576 0 11
+G 0 23580 0
+M 0 23556 2 23506
+E 0 23572 0 6
+E 0 23570 0 16
+E 0 23577 0 12
+M 0 23557 2 23507
+E 0 23574 0 8
+E 0 23570 0 16
+E 0 23576 0 11
+G 0 23580 0
+M 0 23558 1 23548
+E 0 23581 0 16
+E 0 23571 0 5
+E 0 23572 0 6
+E 0 23573 0 7
+E 0 23574 0 8
+E 0 23575 0 9
+E 0 23576 0 11
+E 0 23577 0 12
+E 0 23579 0 3
+E 0 23578 0 1
+G 0 23580 0
+G 0 23580 0
+S
+#$

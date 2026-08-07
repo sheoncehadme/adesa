@@ -1,0 +1,1234 @@
+#AREA
+@@WTomb of Whispering Bones@@N~
+Z 3
+C 9234
+K tombwhispers~
+L @@W{ @@r60 70@@W }@@N~
+N 49
+I 60 70
+V 23400 23499
+X 0
+F 15
+U A dry rattle of bones rolls down stone corridors.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23400
+Entrance to Tomb of Whispering Bones~
+You stand in entrance to tomb of whispering bones. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers. The path west returns toward Temple of the Four Elements.~
+0 0
+D1
+East.~
+~
+0 -1 23401
+D2
+South.~
+~
+0 -1 23407
+D3
+West.~
+~
+0 -1 23301
+S
+#23401
+Judgment Chamber~
+You stand in judgment chamber. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers. A trail leads east toward Demonweb Approaches.~
+0 0
+D1
+East.~
+~
+0 -1 23500
+D2
+South.~
+~
+0 -1 23408
+D3
+West.~
+~
+0 -1 23400
+S
+#23402
+Throne of the Dead~
+You stand in throne of the dead. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D1
+East.~
+~
+0 -1 23403
+D2
+South.~
+~
+0 -1 23409
+D3
+West.~
+~
+0 -1 23401
+S
+#23403
+Whisper Gallery~
+You stand in whisper gallery. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D1
+East.~
+~
+0 -1 23404
+D2
+South.~
+~
+0 -1 23410
+D3
+West.~
+~
+0 -1 23402
+S
+#23404
+Offering Room~
+You stand in offering room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D1
+East.~
+~
+0 -1 23405
+D2
+South.~
+~
+0 -1 23411
+D3
+West.~
+~
+0 -1 23403
+S
+#23405
+Glyph Chamber~
+You stand in glyph chamber. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D1
+East.~
+~
+0 -1 23406
+D2
+South.~
+~
+0 -1 23412
+D3
+West.~
+~
+0 -1 23404
+S
+#23406
+Mummy Niche~
+You stand in mummy niche. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D2
+South.~
+~
+0 -1 23413
+D3
+West.~
+~
+0 -1 23405
+S
+#23407
+Cursed Treasury~
+You stand in cursed treasury. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23400
+D1
+East.~
+~
+0 -1 23408
+D2
+South.~
+~
+0 -1 23414
+S
+#23408
+Extinguished Shrine~
+You stand in extinguished shrine. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23401
+D1
+East.~
+~
+0 -1 23409
+D2
+South.~
+~
+0 -1 23415
+D3
+West.~
+~
+0 -1 23407
+S
+#23409
+Heart of the Tomb~
+You stand in heart of the tomb. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23402
+D1
+East.~
+~
+0 -1 23410
+D2
+South.~
+~
+0 -1 23416
+D3
+West.~
+~
+0 -1 23408
+S
+#23410
+Bone Chandelier Hall~
+You stand in bone chandelier hall. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23403
+D1
+East.~
+~
+0 -1 23411
+D2
+South.~
+~
+0 -1 23417
+D3
+West.~
+~
+0 -1 23409
+S
+#23411
+Seal Breaker's Hall~
+You stand in seal breaker's hall. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23404
+D1
+East.~
+~
+0 -1 23412
+D2
+South.~
+~
+0 -1 23418
+D3
+West.~
+~
+0 -1 23410
+S
+#23412
+Canopic Room~
+You stand in canopic room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23405
+D1
+East.~
+~
+0 -1 23413
+D2
+South.~
+~
+0 -1 23419
+D3
+West.~
+~
+0 -1 23411
+S
+#23413
+Rolling Stone Path~
+You stand in rolling stone path. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23406
+D2
+South.~
+~
+0 -1 23420
+D3
+West.~
+~
+0 -1 23412
+S
+#23414
+Hidden Door Room~
+You stand in hidden door room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23407
+D1
+East.~
+~
+0 -1 23415
+D2
+South.~
+~
+0 -1 23421
+S
+#23415
+Lower Catacombs~
+You stand in lower catacombs. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23408
+D1
+East.~
+~
+0 -1 23416
+D2
+South.~
+~
+0 -1 23422
+D3
+West.~
+~
+0 -1 23414
+S
+#23416
+Puzzle Door Hall~
+You stand in puzzle door hall. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23409
+D1
+East.~
+~
+0 -1 23417
+D2
+South.~
+~
+0 -1 23423
+D3
+West.~
+~
+0 -1 23415
+S
+#23417
+Bone-strewn Hall~
+You stand in bone-strewn hall. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23410
+D1
+East.~
+~
+0 -1 23418
+D2
+South.~
+~
+0 -1 23424
+D3
+West.~
+~
+0 -1 23416
+S
+#23418
+Crypt of Captains~
+You stand in crypt of captains. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23411
+D1
+East.~
+~
+0 -1 23419
+D2
+South.~
+~
+0 -1 23425
+D3
+West.~
+~
+0 -1 23417
+S
+#23419
+Dead End Niche~
+You stand in dead end niche. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23412
+D1
+East.~
+~
+0 -1 23420
+D2
+South.~
+~
+0 -1 23426
+D3
+West.~
+~
+0 -1 23418
+S
+#23420
+Sarcophagus Chamber~
+You stand in sarcophagus chamber. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23413
+D2
+South.~
+~
+0 -1 23427
+D3
+West.~
+~
+0 -1 23419
+S
+#23421
+Pit Trap Room~
+You stand in pit trap room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23414
+D1
+East.~
+~
+0 -1 23422
+D2
+South.~
+~
+0 -1 23428
+S
+#23422
+True Burial Vault~
+You stand in true burial vault. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23415
+D1
+East.~
+~
+0 -1 23423
+D2
+South.~
+~
+0 -1 23429
+D3
+West.~
+~
+0 -1 23421
+S
+#23423
+Labyrinth Turn~
+You stand in labyrinth turn. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23416
+D1
+East.~
+~
+0 -1 23424
+D2
+South.~
+~
+0 -1 23430
+D3
+West.~
+~
+0 -1 23422
+S
+#23424
+Warding Circle~
+You stand in warding circle. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23417
+D1
+East.~
+~
+0 -1 23425
+D2
+South.~
+~
+0 -1 23431
+D3
+West.~
+~
+0 -1 23423
+S
+#23425
+Silent Crypt~
+You stand in silent crypt. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23418
+D1
+East.~
+~
+0 -1 23426
+D2
+South.~
+~
+0 -1 23432
+D3
+West.~
+~
+0 -1 23424
+S
+#23426
+Shadow Stair~
+You stand in shadow stair. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23419
+D1
+East.~
+~
+0 -1 23427
+D2
+South.~
+~
+0 -1 23433
+D3
+West.~
+~
+0 -1 23425
+S
+#23427
+Guardian Statue Hall~
+You stand in guardian statue hall. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23420
+D2
+South.~
+~
+0 -1 23434
+D3
+West.~
+~
+0 -1 23426
+S
+#23428
+Mummy Wrapping Room~
+You stand in mummy wrapping room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23421
+D1
+East.~
+~
+0 -1 23429
+D2
+South.~
+~
+0 -1 23435
+S
+#23429
+Mirrored Passage~
+You stand in mirrored passage. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23422
+D1
+East.~
+~
+0 -1 23430
+D2
+South.~
+~
+0 -1 23436
+D3
+West.~
+~
+0 -1 23428
+S
+#23430
+Soul Well~
+You stand in soul well. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23423
+D1
+East.~
+~
+0 -1 23431
+D2
+South.~
+~
+0 -1 23437
+D3
+West.~
+~
+0 -1 23429
+S
+#23431
+Upper Gallery~
+You stand in upper gallery. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23424
+D1
+East.~
+~
+0 -1 23432
+D2
+South.~
+~
+0 -1 23438
+D3
+West.~
+~
+0 -1 23430
+S
+#23432
+Rubble Crawl~
+You stand in rubble crawl. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23425
+D1
+East.~
+~
+0 -1 23433
+D2
+South.~
+~
+0 -1 23439
+D3
+West.~
+~
+0 -1 23431
+S
+#23433
+Antechamber of Dust~
+You stand in antechamber of dust. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23426
+D1
+East.~
+~
+0 -1 23434
+D2
+South.~
+~
+0 -1 23440
+D3
+West.~
+~
+0 -1 23432
+S
+#23434
+Priest's Tomb~
+You stand in priest's tomb. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23427
+D2
+South.~
+~
+0 -1 23441
+D3
+West.~
+~
+0 -1 23433
+S
+#23435
+Warrior's Tomb~
+You stand in warrior's tomb. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23428
+D1
+East.~
+~
+0 -1 23436
+D2
+South.~
+~
+0 -1 23442
+S
+#23436
+Spike Gallery~
+You stand in spike gallery. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23429
+D1
+East.~
+~
+0 -1 23437
+D2
+South.~
+~
+0 -1 23443
+D3
+West.~
+~
+0 -1 23435
+S
+#23437
+Door of Seals~
+You stand in door of seals. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23430
+D1
+East.~
+~
+0 -1 23438
+D2
+South.~
+~
+0 -1 23444
+D3
+West.~
+~
+0 -1 23436
+S
+#23438
+False Treasure Room~
+You stand in false treasure room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23431
+D1
+East.~
+~
+0 -1 23439
+D2
+South.~
+~
+0 -1 23445
+D3
+West.~
+~
+0 -1 23437
+S
+#23439
+Ossuary~
+You stand in ossuary. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23432
+D1
+East.~
+~
+0 -1 23440
+D2
+South.~
+~
+0 -1 23446
+D3
+West.~
+~
+0 -1 23438
+S
+#23440
+Funeral Barge Room~
+You stand in funeral barge room. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23433
+D1
+East.~
+~
+0 -1 23441
+D2
+South.~
+~
+0 -1 23447
+D3
+West.~
+~
+0 -1 23439
+S
+#23441
+False Corridor~
+You stand in false corridor. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23434
+D2
+South.~
+~
+0 -1 23448
+D3
+West.~
+~
+0 -1 23440
+S
+#23442
+Collapsed Wing~
+You stand in collapsed wing. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23435
+D1
+East.~
+~
+0 -1 23443
+S
+#23443
+Escape Crack~
+You stand in escape crack. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23436
+D1
+East.~
+~
+0 -1 23444
+D3
+West.~
+~
+0 -1 23442
+S
+#23444
+Sand-filled Corridor~
+You stand in sand-filled corridor. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23437
+D1
+East.~
+~
+0 -1 23445
+D3
+West.~
+~
+0 -1 23443
+S
+#23445
+Tomb Entrance~
+You stand in tomb entrance. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23438
+D1
+East.~
+~
+0 -1 23446
+D3
+West.~
+~
+0 -1 23444
+S
+#23446
+Gas Trap Alcove~
+You stand in gas trap alcove. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23439
+D1
+East.~
+~
+0 -1 23447
+D3
+West.~
+~
+0 -1 23445
+S
+#23447
+Incense Chamber~
+You stand in incense chamber. The surroundings show dust, bone, and ancient stone seals. This place tests travelers of roughly levels 60-70. Paths lead onward through the tombwhispers.~
+0 0
+D0
+North.~
+~
+0 -1 23440
+D1
+East.~
+~
+0 -1 23448
+D3
+West.~
+~
+0 -1 23446
+S
+#23448
+Sanctum of the Whispering Lich~
+This is the heart of Tomb of Whispering Bones. The Whispering Lich speaks your name. The air itself feels heavier here.~
+0 0
+D0
+North.~
+~
+0 -1 23441
+D3
+West.~
+~
+0 -1 23447
+S
+#0
+#MOBILES
+#23450
+skeleton warrior~
+a skeleton warrior~
+A skeleton warrior raises a notched blade.
+~
+A skeleton warrior looks ready for battle.
+~
+97 0 -300 S
+59 1
+-163 73 59 520 0
+! 0 0 0 7 0 0 0
+#23451
+mummy~
+a mummy~
+A mummy's bandages stir.
+~
+A mummy looks ready for battle.
+~
+97 0 -300 S
+62 1
+-158 74 59 530 0
+! 0 0 0 7 0 0 0
+#23452
+wraith~
+a wraith~
+A wraith drains the warmth from the air.
+~
+A wraith looks ready for battle.
+~
+97 0 -300 S
+64 1
+-153 75 60 540 0
+! 0 0 0 7 0 0 0
+#23453
+ghoul~
+a ghoul~
+A ghoul licks cracked lips.
+~
+A ghoul looks ready for battle.
+~
+97 0 -300 S
+65 1
+-148 76 60 550 0
+! 0 0 0 7 0 0 0
+#23454
+spectre~
+a spectre~
+A spectre phases through stone.
+~
+A spectre looks ready for battle.
+~
+97 0 -300 S
+65 1
+-143 77 61 560 0
+! 0 0 0 7 0 0 0
+#23455
+tomb guardian~
+a tomb guardian construct~
+A stone guardian grinds awake.
+~
+A tomb guardian construct looks ready for battle.
+~
+97 0 -300 S
+68 1
+-138 78 61 570 0
+! 0 0 0 7 0 0 0
+#23456
+lichling~
+a lesser lich~
+A lesser lich fingers a phylactery shard.
+~
+A lesser lich looks ready for battle.
+~
+97 0 -300 S
+68 1
+-133 79 62 580 0
+! 0 0 0 7 0 0 0
+#23457
+bone naga~
+a bone naga~
+A bone naga coils among urns.
+~
+A bone naga looks ready for battle.
+~
+97 0 -300 S
+70 1
+-128 80 62 590 0
+! 0 0 0 7 0 0 0
+#23458
+whispering lich~
+the Whispering Lich~
+The Whispering Lich speaks your name.
+~
+The Whispering Lich radiates terrible power.
+~
+35 0 -1000 S
+73 1
+-183 88 74 1560 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23470
+tomb-iron scimitar~
+@@ytomb-iron scimitar@@N~
+@@yTomb-iron scimitar@@N lies here, humming with power.~
+5 67 8193 1
+4 21 0 3
+10
+A 18 21
+A 19 21
+A 1 3
+L 60
+#23471
+sepulcher breastplate armor~
+@@WSepulcher breastplate@@N~
+A @@WSepulcher breastplate@@N rests here.~
+9 65 9 1
+13 0 0 0
+15
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+A 12 65
+L 60
+#23472
+sepulcher helm~
+@@WSepulcher helm@@N~
+A @@WSepulcher helm@@N lies on the ground.~
+9 65 17 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23473
+sepulcher greaves~
+@@WSepulcher greaves@@N~
+@@WSepulcher greaves@@N are discarded here.~
+9 65 33 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23474
+sepulcher boots~
+@@WSepulcher boots@@N~
+A pair of @@WSepulcher boots@@N sits here.~
+9 65 65 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23475
+sepulcher gauntlets~
+@@WSepulcher gauntlets@@N~
+@@WSepulcher gauntlets@@N lie in a pile.~
+9 65 129 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23476
+sepulcher shield~
+@@WSepulcher shield@@N~
+A @@WSepulcher shield@@N leans against the wall.~
+9 65 513 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23477
+sepulcher cloak~
+@@WSepulcher cloak@@N~
+A @@WSepulcher cloak@@N is folded here.~
+9 65 1025 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+A 12 65
+L 60
+#23478
+sepulcher ring~
+@@WSepulcher ring@@N~
+A @@WSepulcher ring@@N glints on the ground.~
+9 65 3 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23479
+sepulcher amulet~
+@@WSepulcher amulet@@N~
+A @@WSepulcher amulet@@N hangs from a peg.~
+9 65 5 1
+13 0 0 0
+5
+A 17 -130
+A 13 130
+A 18 16
+A 19 16
+L 60
+#23480
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+65 0 0 0
+1
+L 1
+#23481
+unique tomb-iron scimitar legendary~
+@@Rthe Whispering Lich's weapon@@N~
+@@RThe legendary weapon of the Whispering Lich@@N lies here.~
+5 67 8193 1
+5 32 0 3
+12
+A 18 26
+A 19 26
+A 13 130
+A 1 2
+L 65
+#0
+#RESETS
+M 0 23450 2 23400
+E 0 23479 0 3
+E 0 23470 0 16
+E 0 23475 0 9
+M 0 23451 2 23401
+E 0 23471 0 5
+E 0 23474 0 8
+E 0 23478 0 1
+G 0 23480 0
+M 0 23452 2 23402
+E 0 23478 0 1
+E 0 23474 0 8
+E 0 23471 0 5
+M 0 23453 2 23403
+E 0 23477 0 12
+E 0 23478 0 1
+E 0 23471 0 5
+M 0 23454 2 23404
+E 0 23470 0 16
+E 0 23477 0 12
+E 0 23475 0 9
+M 0 23455 2 23405
+E 0 23479 0 3
+E 0 23474 0 8
+E 0 23472 0 6
+M 0 23456 2 23406
+E 0 23475 0 9
+E 0 23470 0 16
+E 0 23478 0 1
+G 0 23480 0
+M 0 23457 2 23407
+E 0 23474 0 8
+E 0 23477 0 12
+E 0 23470 0 16
+G 0 23480 0
+M 0 23458 1 23448
+E 0 23481 0 16
+E 0 23471 0 5
+E 0 23472 0 6
+E 0 23473 0 7
+E 0 23474 0 8
+E 0 23475 0 9
+E 0 23476 0 11
+E 0 23477 0 12
+E 0 23479 0 3
+E 0 23478 0 1
+G 0 23480 0
+G 0 23480 0
+S
+#$

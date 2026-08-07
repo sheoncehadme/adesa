@@ -1,0 +1,1236 @@
+#AREA
+@@aAstral Court of Trials@@N~
+Z 3
+C 9237
+K astralcourt~
+L @@W{ @@r80 90@@W }@@N~
+N 49
+I 80 90
+V 23700 23799
+X 0
+F 15
+U Stars rearrange themselves into judgment.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23700
+Entrance to Astral Court of Trials~
+You stand in entrance to astral court of trials. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt. The path west returns toward Dragonspire Peaks.~
+0 1
+D1
+East.~
+~
+0 -1 23701
+D2
+South.~
+~
+0 -1 23707
+D3
+West.~
+~
+0 -1 23601
+S
+#23701
+Name Vault~
+You stand in name vault. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D1
+East.~
+~
+0 -1 23702
+D2
+South.~
+~
+0 -1 23708
+D3
+West.~
+~
+0 -1 23700
+S
+#23702
+Crystal Spire~
+You stand in crystal spire. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D1
+East.~
+~
+0 -1 23703
+D2
+South.~
+~
+0 -1 23709
+D3
+West.~
+~
+0 -1 23701
+S
+#23703
+Broken God Fragment~
+You stand in broken god fragment. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D1
+East.~
+~
+0 -1 23704
+D2
+South.~
+~
+0 -1 23710
+D3
+West.~
+~
+0 -1 23702
+S
+#23704
+Advocate's Desk~
+You stand in advocate's desk. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D1
+East.~
+~
+0 -1 23705
+D2
+South.~
+~
+0 -1 23711
+D3
+West.~
+~
+0 -1 23703
+S
+#23705
+Throne of Judgment~
+You stand in throne of judgment. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D1
+East.~
+~
+0 -1 23706
+D2
+South.~
+~
+0 -1 23712
+D3
+West.~
+~
+0 -1 23704
+S
+#23706
+Beyond the Verdict~
+You stand in beyond the verdict. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D2
+South.~
+~
+0 -1 23713
+D3
+West.~
+~
+0 -1 23705
+S
+#23707
+Silent Choir~
+You stand in silent choir. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23700
+D1
+East.~
+~
+0 -1 23708
+D2
+South.~
+~
+0 -1 23714
+S
+#23708
+Silver Void Path~
+You stand in silver void path. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23701
+D1
+East.~
+~
+0 -1 23709
+D2
+South.~
+~
+0 -1 23715
+D3
+West.~
+~
+0 -1 23707
+S
+#23709
+Watchers' Circle~
+You stand in watchers' circle. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23702
+D1
+East.~
+~
+0 -1 23710
+D2
+South.~
+~
+0 -1 23716
+D3
+West.~
+~
+0 -1 23708
+S
+#23710
+Mirror of Selves~
+You stand in mirror of selves. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23703
+D1
+East.~
+~
+0 -1 23711
+D2
+South.~
+~
+0 -1 23717
+D3
+West.~
+~
+0 -1 23709
+S
+#23711
+Heart of the Court~
+You stand in heart of the court. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23704
+D1
+East.~
+~
+0 -1 23712
+D2
+South.~
+~
+0 -1 23718
+D3
+West.~
+~
+0 -1 23710
+S
+#23712
+Trial of Mercy~
+You stand in trial of mercy. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23705
+D1
+East.~
+~
+0 -1 23713
+D2
+South.~
+~
+0 -1 23719
+D3
+West.~
+~
+0 -1 23711
+S
+#23713
+Mind Storm~
+You stand in mind storm. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23706
+D2
+South.~
+~
+0 -1 23720
+D3
+West.~
+~
+0 -1 23712
+S
+#23714
+Githyanki Outpost~
+You stand in githyanki outpost. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23707
+D1
+East.~
+~
+0 -1 23715
+D2
+South.~
+~
+0 -1 23721
+S
+#23715
+Gate of Return~
+You stand in gate of return. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23708
+D1
+East.~
+~
+0 -1 23716
+D2
+South.~
+~
+0 -1 23722
+D3
+West.~
+~
+0 -1 23714
+S
+#23716
+Portal Ring~
+You stand in portal ring. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23709
+D1
+East.~
+~
+0 -1 23717
+D2
+South.~
+~
+0 -1 23723
+D3
+West.~
+~
+0 -1 23715
+S
+#23717
+Quiet Between~
+You stand in quiet between. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23710
+D1
+East.~
+~
+0 -1 23718
+D2
+South.~
+~
+0 -1 23724
+D3
+West.~
+~
+0 -1 23716
+S
+#23718
+Witness Stands~
+You stand in witness stands. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23711
+D1
+East.~
+~
+0 -1 23719
+D2
+South.~
+~
+0 -1 23725
+D3
+West.~
+~
+0 -1 23717
+S
+#23719
+Floating Isle~
+You stand in floating isle. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23712
+D1
+East.~
+~
+0 -1 23720
+D2
+South.~
+~
+0 -1 23726
+D3
+West.~
+~
+0 -1 23718
+S
+#23720
+Fallen Star Garden~
+You stand in fallen star garden. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23713
+D2
+South.~
+~
+0 -1 23727
+D3
+West.~
+~
+0 -1 23719
+S
+#23721
+Relic of Ages~
+You stand in relic of ages. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23714
+D1
+East.~
+~
+0 -1 23722
+D2
+South.~
+~
+0 -1 23728
+S
+#23722
+Silver Cord Path~
+You stand in silver cord path. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23715
+D1
+East.~
+~
+0 -1 23723
+D2
+South.~
+~
+0 -1 23729
+D3
+West.~
+~
+0 -1 23721
+S
+#23723
+Last Argument~
+You stand in last argument. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23716
+D1
+East.~
+~
+0 -1 23724
+D2
+South.~
+~
+0 -1 23730
+D3
+West.~
+~
+0 -1 23722
+S
+#23724
+Orbital Balcony~
+You stand in orbital balcony. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23717
+D1
+East.~
+~
+0 -1 23725
+D2
+South.~
+~
+0 -1 23731
+D3
+West.~
+~
+0 -1 23723
+S
+#23725
+Dreamer's Rest~
+You stand in dreamer's rest. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23718
+D1
+East.~
+~
+0 -1 23726
+D2
+South.~
+~
+0 -1 23732
+D3
+West.~
+~
+0 -1 23724
+S
+#23726
+Astral Dreadnought Wake~
+You stand in astral dreadnought wake. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23719
+D1
+East.~
+~
+0 -1 23727
+D2
+South.~
+~
+0 -1 23733
+D3
+West.~
+~
+0 -1 23725
+S
+#23727
+Nightmare Breach~
+You stand in nightmare breach. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23720
+D2
+South.~
+~
+0 -1 23734
+D3
+West.~
+~
+0 -1 23726
+S
+#23728
+Trial of Strength~
+You stand in trial of strength. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23721
+D1
+East.~
+~
+0 -1 23729
+D2
+South.~
+~
+0 -1 23735
+S
+#23729
+Antechamber of Heroes~
+You stand in antechamber of heroes. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23722
+D1
+East.~
+~
+0 -1 23730
+D2
+South.~
+~
+0 -1 23736
+D3
+West.~
+~
+0 -1 23728
+S
+#23730
+Star Forge~
+You stand in star forge. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23723
+D1
+East.~
+~
+0 -1 23731
+D2
+South.~
+~
+0 -1 23737
+D3
+West.~
+~
+0 -1 23729
+S
+#23731
+Trial of Wit~
+You stand in trial of wit. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23724
+D1
+East.~
+~
+0 -1 23732
+D2
+South.~
+~
+0 -1 23738
+D3
+West.~
+~
+0 -1 23730
+S
+#23732
+Void Gallery~
+You stand in void gallery. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23725
+D1
+East.~
+~
+0 -1 23733
+D2
+South.~
+~
+0 -1 23739
+D3
+West.~
+~
+0 -1 23731
+S
+#23733
+Psychic Winds~
+You stand in psychic winds. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23726
+D1
+East.~
+~
+0 -1 23734
+D2
+South.~
+~
+0 -1 23740
+D3
+West.~
+~
+0 -1 23732
+S
+#23734
+Court Gallery~
+You stand in court gallery. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23727
+D2
+South.~
+~
+0 -1 23741
+D3
+West.~
+~
+0 -1 23733
+S
+#23735
+End of Roads~
+You stand in end of roads. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23728
+D1
+East.~
+~
+0 -1 23736
+D2
+South.~
+~
+0 -1 23742
+S
+#23736
+Hall of Trials~
+You stand in hall of trials. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23729
+D1
+East.~
+~
+0 -1 23737
+D2
+South.~
+~
+0 -1 23743
+D3
+West.~
+~
+0 -1 23735
+S
+#23737
+Trial of Will~
+You stand in trial of will. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23730
+D1
+East.~
+~
+0 -1 23738
+D2
+South.~
+~
+0 -1 23744
+D3
+West.~
+~
+0 -1 23736
+S
+#23738
+Memory Archive~
+You stand in memory archive. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23731
+D1
+East.~
+~
+0 -1 23739
+D2
+South.~
+~
+0 -1 23745
+D3
+West.~
+~
+0 -1 23737
+S
+#23739
+Scale of Souls~
+You stand in scale of souls. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23732
+D1
+East.~
+~
+0 -1 23740
+D2
+South.~
+~
+0 -1 23746
+D3
+West.~
+~
+0 -1 23738
+S
+#23740
+Champion's Mark~
+You stand in champion's mark. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23733
+D1
+East.~
+~
+0 -1 23741
+D2
+South.~
+~
+0 -1 23747
+D3
+West.~
+~
+0 -1 23739
+S
+#23741
+Constellation Hall~
+You stand in constellation hall. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23734
+D2
+South.~
+~
+0 -1 23748
+D3
+West.~
+~
+0 -1 23740
+S
+#23742
+Accuser's Pillar~
+You stand in accuser's pillar. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23735
+D1
+East.~
+~
+0 -1 23743
+S
+#23743
+Final Gate~
+You stand in final gate. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23736
+D1
+East.~
+~
+0 -1 23744
+D3
+West.~
+~
+0 -1 23742
+S
+#23744
+Color Pool Shore~
+You stand in color pool shore. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23737
+D1
+East.~
+~
+0 -1 23745
+D3
+West.~
+~
+0 -1 23743
+S
+#23745
+Trial of Courage~
+You stand in trial of courage. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23738
+D1
+East.~
+~
+0 -1 23746
+D3
+West.~
+~
+0 -1 23744
+S
+#23746
+Astral Landing~
+You stand in astral landing. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23739
+D1
+East.~
+~
+0 -1 23747
+D3
+West.~
+~
+0 -1 23745
+S
+#23747
+Bridge of Stars~
+You stand in bridge of stars. The surroundings show silver nothingness and hard starlight. This place tests travelers of roughly levels 80-90. Paths lead onward through the astralcourt.~
+0 1
+D0
+North.~
+~
+0 -1 23740
+D1
+East.~
+~
+0 -1 23748
+D3
+West.~
+~
+0 -1 23746
+S
+#23748
+Sanctum of the Astral Judge~
+This is the heart of Astral Court of Trials. The Astral Judge opens the book of names. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 23741
+D3
+West.~
+~
+0 -1 23747
+S
+#0
+#MOBILES
+#23750
+githyanki~
+a githyanki warrior~
+A githyanki warrior salutes with a silver sword.
+~
+A githyanki warrior looks ready for battle.
+~
+97 0 -300 S
+79 1
+-207 95 77 680 0
+! 0 0 0 7 0 0 0
+#23751
+astral construct~
+an astral construct~
+An astral construct hums.
+~
+An astral construct looks ready for battle.
+~
+97 0 -300 S
+83 1
+-202 96 77 690 0
+! 0 0 0 7 0 0 0
+#23752
+deva~
+a stern deva~
+A stern deva bars the path.
+~
+A stern deva looks ready for battle.
+~
+97 0 -300 S
+81 1
+-197 97 78 700 0
+! 0 0 0 7 0 0 0
+#23753
+modron~
+a modron examiner~
+A modron examiner ticks.
+~
+A modron examiner looks ready for battle.
+~
+97 0 -300 S
+83 1
+-192 98 78 710 0
+! 0 0 0 7 0 0 0
+#23754
+psychic wind~
+a psychic wind elemental~
+A psychic wind elemental howls.
+~
+A psychic wind elemental looks ready for battle.
+~
+97 0 -300 S
+86 1
+-187 99 79 720 0
+! 0 0 0 7 0 0 0
+#23755
+star reaver~
+a star reaver~
+A star reaver grins with too many teeth.
+~
+A star reaver looks ready for battle.
+~
+97 0 -300 S
+86 1
+-182 100 79 730 0
+! 0 0 0 7 0 0 0
+#23756
+court bailiff~
+a court bailiff~
+A court bailiff demands order.
+~
+A court bailiff looks ready for battle.
+~
+97 0 -300 S
+90 1
+-177 101 80 740 0
+! 0 0 0 7 0 0 0
+#23757
+fallen planetar~
+a fallen planetar~
+A fallen planetar weeps light.
+~
+A fallen planetar looks ready for battle.
+~
+97 0 -300 S
+89 1
+-172 102 80 750 0
+! 0 0 0 7 0 0 0
+#23758
+astral judge~
+the Astral Judge~
+The Astral Judge opens the book of names.
+~
+The Astral Judge radiates terrible power.
+~
+35 0 -1000 S
+93 1
+-227 110 92 2040 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23770
+starforged blade~
+@@ystarforged blade@@N~
+@@yStarforged blade@@N lies here, humming with power.~
+5 67 8193 1
+5 28 0 3
+10
+A 18 28
+A 19 28
+A 1 4
+L 80
+#23771
+astral breastplate armor~
+@@WAstral breastplate@@N~
+A @@WAstral breastplate@@N rests here.~
+9 65 9 1
+17 0 0 0
+15
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+A 12 85
+L 80
+#23772
+astral helm~
+@@WAstral helm@@N~
+A @@WAstral helm@@N lies on the ground.~
+9 65 17 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23773
+astral greaves~
+@@WAstral greaves@@N~
+@@WAstral greaves@@N are discarded here.~
+9 65 33 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23774
+astral boots~
+@@WAstral boots@@N~
+A pair of @@WAstral boots@@N sits here.~
+9 65 65 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23775
+astral gauntlets~
+@@WAstral gauntlets@@N~
+@@WAstral gauntlets@@N lie in a pile.~
+9 65 129 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23776
+astral shield~
+@@WAstral shield@@N~
+A @@WAstral shield@@N leans against the wall.~
+9 65 513 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23777
+astral cloak~
+@@WAstral cloak@@N~
+A @@WAstral cloak@@N is folded here.~
+9 65 1025 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+A 12 85
+L 80
+#23778
+astral ring~
+@@WAstral ring@@N~
+A @@WAstral ring@@N glints on the ground.~
+9 65 3 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23779
+astral amulet~
+@@WAstral amulet@@N~
+A @@WAstral amulet@@N hangs from a peg.~
+9 65 5 1
+17 0 0 0
+5
+A 17 -170
+A 13 170
+A 18 21
+A 19 21
+L 80
+#23780
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+85 0 0 0
+1
+L 1
+#23781
+unique starforged blade legendary~
+@@Rthe Astral Judge's weapon@@N~
+@@RThe legendary weapon of the Astral Judge@@N lies here.~
+5 67 8193 1
+7 42 0 3
+12
+A 18 33
+A 19 33
+A 13 170
+A 1 2
+L 85
+#0
+#RESETS
+M 0 23750 2 23700
+E 0 23770 0 16
+E 0 23774 0 8
+E 0 23778 0 1
+G 0 23780 0
+M 0 23751 2 23701
+E 0 23779 0 3
+E 0 23774 0 8
+E 0 23771 0 5
+M 0 23752 2 23702
+E 0 23778 0 1
+E 0 23771 0 5
+E 0 23777 0 12
+G 0 23780 0
+M 0 23753 2 23703
+E 0 23777 0 12
+E 0 23774 0 8
+E 0 23772 0 6
+G 0 23780 0
+M 0 23754 2 23704
+E 0 23775 0 9
+E 0 23770 0 16
+E 0 23778 0 1
+G 0 23780 0
+M 0 23755 2 23705
+E 0 23775 0 9
+E 0 23776 0 11
+E 0 23772 0 6
+G 0 23780 0
+M 0 23756 2 23706
+E 0 23771 0 5
+E 0 23770 0 16
+E 0 23778 0 1
+M 0 23757 2 23707
+E 0 23774 0 8
+E 0 23777 0 12
+E 0 23772 0 6
+M 0 23758 1 23748
+E 0 23781 0 16
+E 0 23771 0 5
+E 0 23772 0 6
+E 0 23773 0 7
+E 0 23774 0 8
+E 0 23775 0 9
+E 0 23776 0 11
+E 0 23777 0 12
+E 0 23779 0 3
+E 0 23778 0 1
+G 0 23780 0
+G 0 23780 0
+S
+#$

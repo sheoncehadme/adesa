@@ -1,0 +1,1227 @@
+#AREA
+@@cGlacial Hold of the Frost Giants@@N~
+Z 3
+C 9229
+K frosthold~
+L @@W{ @@r25 35@@W }@@N~
+N 49
+I 25 35
+V 22900 22999
+X 0
+F 15
+U Icy winds howl through the glacial halls.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#22900
+Entrance to Glacial Hold of the Frost Giants~
+You stand in entrance to glacial hold of the frost giants. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold. The path west returns toward Steading of the Hill Giant Chief.~
+0 1
+D1
+East.~
+~
+0 -1 22901
+D2
+South.~
+~
+0 -1 22907
+D3
+West.~
+~
+0 -1 22801
+S
+#22901
+Crystal Stair~
+You stand in crystal stair. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold. A trail leads east toward Hall of the Fire Giant King.~
+0 1
+D1
+East.~
+~
+0 -1 23000
+D2
+South.~
+~
+0 -1 22908
+D3
+West.~
+~
+0 -1 22900
+S
+#22902
+Glacial Hall~
+You stand in glacial hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D1
+East.~
+~
+0 -1 22903
+D2
+South.~
+~
+0 -1 22909
+D3
+West.~
+~
+0 -1 22901
+S
+#22903
+Prison of Ice~
+You stand in prison of ice. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D1
+East.~
+~
+0 -1 22904
+D2
+South.~
+~
+0 -1 22910
+D3
+West.~
+~
+0 -1 22902
+S
+#22904
+Sled Yard~
+You stand in sled yard. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D1
+East.~
+~
+0 -1 22905
+D2
+South.~
+~
+0 -1 22911
+D3
+West.~
+~
+0 -1 22903
+S
+#22905
+Southern Crevasse~
+You stand in southern crevasse. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D1
+East.~
+~
+0 -1 22906
+D2
+South.~
+~
+0 -1 22912
+D3
+West.~
+~
+0 -1 22904
+S
+#22906
+Trophy of Mammoths~
+You stand in trophy of mammoths. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D2
+South.~
+~
+0 -1 22913
+D3
+West.~
+~
+0 -1 22905
+S
+#22907
+Rime Forge~
+You stand in rime forge. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22900
+D1
+East.~
+~
+0 -1 22908
+D2
+South.~
+~
+0 -1 22914
+S
+#22908
+Snow Cave~
+You stand in snow cave. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22901
+D1
+East.~
+~
+0 -1 22909
+D2
+South.~
+~
+0 -1 22915
+D3
+West.~
+~
+0 -1 22907
+S
+#22909
+Howling Gallery~
+You stand in howling gallery. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22902
+D1
+East.~
+~
+0 -1 22910
+D2
+South.~
+~
+0 -1 22916
+D3
+West.~
+~
+0 -1 22908
+S
+#22910
+Frozen Well~
+You stand in frozen well. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22903
+D1
+East.~
+~
+0 -1 22911
+D2
+South.~
+~
+0 -1 22917
+D3
+West.~
+~
+0 -1 22909
+S
+#22911
+Ice Approach~
+You stand in ice approach. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22904
+D1
+East.~
+~
+0 -1 22912
+D2
+South.~
+~
+0 -1 22918
+D3
+West.~
+~
+0 -1 22910
+S
+#22912
+Cold Storage~
+You stand in cold storage. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22905
+D1
+East.~
+~
+0 -1 22913
+D2
+South.~
+~
+0 -1 22919
+D3
+West.~
+~
+0 -1 22911
+S
+#22913
+Whalebone Hall~
+You stand in whalebone hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22906
+D2
+South.~
+~
+0 -1 22920
+D3
+West.~
+~
+0 -1 22912
+S
+#22914
+Wolf Pens~
+You stand in wolf pens. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22907
+D1
+East.~
+~
+0 -1 22915
+D2
+South.~
+~
+0 -1 22921
+S
+#22915
+Subglacial Tunnel~
+You stand in subglacial tunnel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22908
+D1
+East.~
+~
+0 -1 22916
+D2
+South.~
+~
+0 -1 22922
+D3
+West.~
+~
+0 -1 22914
+S
+#22916
+Cold Larder~
+You stand in cold larder. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22909
+D1
+East.~
+~
+0 -1 22917
+D2
+South.~
+~
+0 -1 22923
+D3
+West.~
+~
+0 -1 22915
+S
+#22917
+Northern Rampart~
+You stand in northern rampart. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22910
+D1
+East.~
+~
+0 -1 22918
+D2
+South.~
+~
+0 -1 22924
+D3
+West.~
+~
+0 -1 22916
+S
+#22918
+Frostbite Alcove~
+You stand in frostbite alcove. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22911
+D1
+East.~
+~
+0 -1 22919
+D2
+South.~
+~
+0 -1 22925
+D3
+West.~
+~
+0 -1 22917
+S
+#22919
+Icefall Path~
+You stand in icefall path. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22912
+D1
+East.~
+~
+0 -1 22920
+D2
+South.~
+~
+0 -1 22926
+D3
+West.~
+~
+0 -1 22918
+S
+#22920
+Echoing Cold~
+You stand in echoing cold. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22913
+D2
+South.~
+~
+0 -1 22927
+D3
+West.~
+~
+0 -1 22919
+S
+#22921
+Pale Light Chamber~
+You stand in pale light chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22914
+D1
+East.~
+~
+0 -1 22922
+D2
+South.~
+~
+0 -1 22928
+S
+#22922
+Pack Ice Room~
+You stand in pack ice room. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22915
+D1
+East.~
+~
+0 -1 22923
+D2
+South.~
+~
+0 -1 22929
+D3
+West.~
+~
+0 -1 22921
+S
+#22923
+Throne of Rime~
+You stand in throne of rime. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22916
+D1
+East.~
+~
+0 -1 22924
+D2
+South.~
+~
+0 -1 22930
+D3
+West.~
+~
+0 -1 22922
+S
+#22924
+Icicle Gallery~
+You stand in icicle gallery. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22917
+D1
+East.~
+~
+0 -1 22925
+D2
+South.~
+~
+0 -1 22931
+D3
+West.~
+~
+0 -1 22923
+S
+#22925
+Guard Glacier~
+You stand in guard glacier. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22918
+D1
+East.~
+~
+0 -1 22926
+D2
+South.~
+~
+0 -1 22932
+D3
+West.~
+~
+0 -1 22924
+S
+#22926
+Frozen Chapel~
+You stand in frozen chapel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22919
+D1
+East.~
+~
+0 -1 22927
+D2
+South.~
+~
+0 -1 22933
+D3
+West.~
+~
+0 -1 22925
+S
+#22927
+Last Fire Pit~
+You stand in last fire pit. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22920
+D2
+South.~
+~
+0 -1 22934
+D3
+West.~
+~
+0 -1 22926
+S
+#22928
+Ice Prison Cell~
+You stand in ice prison cell. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22921
+D1
+East.~
+~
+0 -1 22929
+D2
+South.~
+~
+0 -1 22935
+S
+#22929
+Whiteout Courtyard~
+You stand in whiteout courtyard. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22922
+D1
+East.~
+~
+0 -1 22930
+D2
+South.~
+~
+0 -1 22936
+D3
+West.~
+~
+0 -1 22928
+S
+#22930
+Armory of Ice~
+You stand in armory of ice. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22923
+D1
+East.~
+~
+0 -1 22931
+D2
+South.~
+~
+0 -1 22937
+D3
+West.~
+~
+0 -1 22929
+S
+#22931
+Aurora Balcony~
+You stand in aurora balcony. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22924
+D1
+East.~
+~
+0 -1 22932
+D2
+South.~
+~
+0 -1 22938
+D3
+West.~
+~
+0 -1 22930
+S
+#22932
+Frost Giant Barracks~
+You stand in frost giant barracks. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22925
+D1
+East.~
+~
+0 -1 22933
+D2
+South.~
+~
+0 -1 22939
+D3
+West.~
+~
+0 -1 22931
+S
+#22933
+Sastrugi Field~
+You stand in sastrugi field. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22926
+D1
+East.~
+~
+0 -1 22934
+D2
+South.~
+~
+0 -1 22940
+D3
+West.~
+~
+0 -1 22932
+S
+#22934
+Hidden Crevasse~
+You stand in hidden crevasse. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22927
+D2
+South.~
+~
+0 -1 22941
+D3
+West.~
+~
+0 -1 22933
+S
+#22935
+Watch Cairn~
+You stand in watch cairn. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22928
+D1
+East.~
+~
+0 -1 22936
+D2
+South.~
+~
+0 -1 22942
+S
+#22936
+Chief's Chamber~
+You stand in chief's chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22929
+D1
+East.~
+~
+0 -1 22937
+D2
+South.~
+~
+0 -1 22943
+D3
+West.~
+~
+0 -1 22935
+S
+#22937
+Observatory Spire~
+You stand in observatory spire. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22930
+D1
+East.~
+~
+0 -1 22938
+D2
+South.~
+~
+0 -1 22944
+D3
+West.~
+~
+0 -1 22936
+S
+#22938
+Blue Ice Vault~
+You stand in blue ice vault. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22931
+D1
+East.~
+~
+0 -1 22939
+D2
+South.~
+~
+0 -1 22945
+D3
+West.~
+~
+0 -1 22937
+S
+#22939
+Wind Tunnel~
+You stand in wind tunnel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22932
+D1
+East.~
+~
+0 -1 22940
+D2
+South.~
+~
+0 -1 22946
+D3
+West.~
+~
+0 -1 22938
+S
+#22940
+Runic Circle~
+You stand in runic circle. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22933
+D1
+East.~
+~
+0 -1 22941
+D2
+South.~
+~
+0 -1 22947
+D3
+West.~
+~
+0 -1 22939
+S
+#22941
+Shaman's Hut~
+You stand in shaman's hut. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22934
+D2
+South.~
+~
+0 -1 22948
+D3
+West.~
+~
+0 -1 22940
+S
+#22942
+Rim of the Glacier~
+You stand in rim of the glacier. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22935
+D1
+East.~
+~
+0 -1 22943
+S
+#22943
+Sleet Bridge~
+You stand in sleet bridge. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22936
+D1
+East.~
+~
+0 -1 22944
+D3
+West.~
+~
+0 -1 22942
+S
+#22944
+Snowdrift Chamber~
+You stand in snowdrift chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22937
+D1
+East.~
+~
+0 -1 22945
+D3
+West.~
+~
+0 -1 22943
+S
+#22945
+Bone Totem Hall~
+You stand in bone totem hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22938
+D1
+East.~
+~
+0 -1 22946
+D3
+West.~
+~
+0 -1 22944
+S
+#22946
+Frozen Gate~
+You stand in frozen gate. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22939
+D1
+East.~
+~
+0 -1 22947
+D3
+West.~
+~
+0 -1 22945
+S
+#22947
+Seal Meat Store~
+You stand in seal meat store. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+0 1
+D0
+North.~
+~
+0 -1 22940
+D1
+East.~
+~
+0 -1 22948
+D3
+West.~
+~
+0 -1 22946
+S
+#22948
+Sanctum of the Frost Giant Jarl~
+This is the heart of Glacial Hold of the Frost Giants. The Frost Giant Jarl sits on a throne of ice. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 22941
+D3
+West.~
+~
+0 -1 22947
+S
+#0
+#MOBILES
+#22950
+frost giant~
+a frost giant~
+A frost giant exhales a cloud of frost.
+~
+A frost giant looks ready for battle.
+~
+97 0 -300 S
+26 1
+-86 35 28 240 0
+! 0 0 0 7 0 0 0
+#22951
+winter wolf~
+a winter wolf~
+A winter wolf's eyes glow blue.
+~
+A winter wolf looks ready for battle.
+~
+97 0 -300 S
+25 1
+-81 36 28 250 0
+! 0 0 0 7 0 0 0
+#22952
+ice troll~
+an ice troll~
+An ice troll regenerates in the cold.
+~
+An ice troll looks ready for battle.
+~
+97 0 -300 S
+28 1
+-76 37 29 260 0
+! 0 0 0 7 0 0 0
+#22953
+yeti~
+a yeti~
+A yeti bellows.
+~
+A yeti looks ready for battle.
+~
+97 0 -300 S
+28 1
+-71 38 29 270 0
+! 0 0 0 7 0 0 0
+#22954
+frost giant jarl guard~
+a jarl's guard~
+A jarl's guard stamps the ice.
+~
+A jarl's guard looks ready for battle.
+~
+97 0 -300 S
+29 1
+-66 39 30 280 0
+! 0 0 0 7 0 0 0
+#22955
+remorhaz~
+a remorhaz~
+A remorhaz radiates heat.
+~
+A remorhaz looks ready for battle.
+~
+97 0 -300 S
+31 1
+-61 40 30 290 0
+! 0 0 0 7 0 0 0
+#22956
+ice mephit~
+an ice mephit~
+An ice mephit cackles.
+~
+An ice mephit looks ready for battle.
+~
+97 0 -300 S
+32 1
+-56 41 31 300 0
+! 0 0 0 7 0 0 0
+#22957
+frost shaman~
+a frost giant shaman~
+A frost giant shaman rattles bones.
+~
+A frost giant shaman looks ready for battle.
+~
+97 0 -300 S
+35 1
+-51 42 31 310 0
+! 0 0 0 7 0 0 0
+#22958
+frost giant jarl~
+the Frost Giant Jarl~
+The Frost Giant Jarl sits on a throne of ice.
+~
+The Frost Giant Jarl radiates terrible power.
+~
+35 0 -1000 S
+38 1
+-106 50 43 720 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#22970
+glacial greataxe~
+@@yglacial greataxe@@N~
+@@yGlacial greataxe@@N lies here, humming with power.~
+5 66 8193 1
+2 10 0 3
+10
+A 18 10
+A 19 10
+A 1 1
+L 25
+#22971
+rime breastplate armor~
+@@WRime breastplate@@N~
+A @@WRime breastplate@@N rests here.~
+9 64 9 1
+6 0 0 0
+15
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+A 12 30
+L 25
+#22972
+rime helm~
+@@WRime helm@@N~
+A @@WRime helm@@N lies on the ground.~
+9 64 17 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22973
+rime greaves~
+@@WRime greaves@@N~
+@@WRime greaves@@N are discarded here.~
+9 64 33 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22974
+rime boots~
+@@WRime boots@@N~
+A pair of @@WRime boots@@N sits here.~
+9 64 65 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22975
+rime gauntlets~
+@@WRime gauntlets@@N~
+@@WRime gauntlets@@N lie in a pile.~
+9 64 129 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22976
+rime shield~
+@@WRime shield@@N~
+A @@WRime shield@@N leans against the wall.~
+9 64 513 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22977
+rime cloak~
+@@WRime cloak@@N~
+A @@WRime cloak@@N is folded here.~
+9 64 1025 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+A 12 30
+L 25
+#22978
+rime ring~
+@@WRime ring@@N~
+A @@WRime ring@@N glints on the ground.~
+9 64 3 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22979
+rime amulet~
+@@WRime amulet@@N~
+A @@WRime amulet@@N hangs from a peg.~
+9 64 5 1
+6 0 0 0
+5
+A 17 -60
+A 13 60
+A 18 7
+A 19 7
+L 25
+#22980
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+30 0 0 0
+1
+L 1
+#22981
+unique glacial greataxe legendary~
+@@Rthe Frost Giant Jarl's weapon@@N~
+@@RThe legendary weapon of the Frost Giant Jarl@@N lies here.~
+5 67 8193 1
+2 15 0 3
+12
+A 18 15
+A 19 15
+A 13 60
+A 1 2
+L 30
+#0
+#RESETS
+M 0 22950 3 22900
+E 0 22975 0 9
+E 0 22971 0 5
+M 0 22951 3 22901
+E 0 22971 0 5
+E 0 22978 0 1
+M 0 22952 3 22902
+E 0 22976 0 11
+E 0 22970 0 16
+M 0 22953 3 22903
+E 0 22975 0 9
+E 0 22978 0 1
+M 0 22954 3 22904
+E 0 22978 0 1
+E 0 22975 0 9
+E 0 22971 0 5
+M 0 22955 3 22905
+E 0 22971 0 5
+E 0 22978 0 1
+E 0 22979 0 3
+M 0 22956 3 22906
+E 0 22970 0 16
+E 0 22978 0 1
+E 0 22976 0 11
+M 0 22957 3 22907
+E 0 22979 0 3
+E 0 22972 0 6
+E 0 22974 0 8
+M 0 22958 1 22948
+E 0 22981 0 16
+E 0 22971 0 5
+E 0 22972 0 6
+E 0 22973 0 7
+E 0 22974 0 8
+E 0 22975 0 9
+E 0 22976 0 11
+E 0 22977 0 12
+E 0 22979 0 3
+E 0 22978 0 1
+G 0 22980 0
+G 0 22980 0
+S
+#$

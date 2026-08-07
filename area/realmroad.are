@@ -1,0 +1,950 @@
+#AREA
+@@WThe Realm Road@@N~
+Z 3
+C 9225
+K realmroad~
+L @@W{ @@yHUB@@W }@@N~
+N 36
+I 1 90
+V 22500 22599
+X 0
+F 15
+U Caravan bells and hoofbeats echo along the Realm Road.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#22500
+Entrance to The Realm Road~
+You stand in entrance to the realm road. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+8 1
+D1
+East.~
+~
+0 -1 22501
+D2
+South.~
+~
+0 -1 22506
+S
+#22501
+Shrine of Safe Passage~
+You stand in shrine of safe passage. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad. A trail leads east toward Keep on the Borderlands.~
+0 1
+D1
+East.~
+~
+0 -1 22600
+D2
+South.~
+~
+0 -1 22507
+D3
+West.~
+~
+0 -1 22500
+S
+#22502
+North Road Gate~
+You stand in north road gate. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D1
+East.~
+~
+0 -1 22503
+D2
+South.~
+~
+0 -1 22508
+D3
+West.~
+~
+0 -1 22501
+S
+#22503
+Lantern Row~
+You stand in lantern row. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D1
+East.~
+~
+0 -1 22504
+D2
+South.~
+~
+0 -1 22509
+D3
+West.~
+~
+0 -1 22502
+S
+#22504
+Roadside Chapel~
+You stand in roadside chapel. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D1
+East.~
+~
+0 -1 22505
+D2
+South.~
+~
+0 -1 22510
+D3
+West.~
+~
+0 -1 22503
+S
+#22505
+Adventurer Camp~
+You stand in adventurer camp. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D2
+South.~
+~
+0 -1 22511
+D3
+West.~
+~
+0 -1 22504
+S
+#22506
+Traveler's Rest~
+You stand in traveler's rest. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22500
+D1
+East.~
+~
+0 -1 22507
+D2
+South.~
+~
+0 -1 22512
+S
+#22507
+Well of Welcome~
+You stand in well of welcome. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22501
+D1
+East.~
+~
+0 -1 22508
+D2
+South.~
+~
+0 -1 22513
+D3
+West.~
+~
+0 -1 22506
+S
+#22508
+Copper Bell Tower~
+You stand in copper bell tower. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22502
+D1
+East.~
+~
+0 -1 22509
+D2
+South.~
+~
+0 -1 22514
+D3
+West.~
+~
+0 -1 22507
+S
+#22509
+Dusty Wagon Ring~
+You stand in dusty wagon ring. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22503
+D1
+East.~
+~
+0 -1 22510
+D2
+South.~
+~
+0 -1 22515
+D3
+West.~
+~
+0 -1 22508
+S
+#22510
+Provisioner's Cart~
+You stand in provisioner's cart. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22504
+D1
+East.~
+~
+0 -1 22511
+D2
+South.~
+~
+0 -1 22516
+D3
+West.~
+~
+0 -1 22509
+S
+#22511
+Guard Post~
+You stand in guard post. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22505
+D2
+South.~
+~
+0 -1 22517
+D3
+West.~
+~
+0 -1 22510
+S
+#22512
+Horse Path~
+You stand in horse path. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22506
+D1
+East.~
+~
+0 -1 22513
+D2
+South.~
+~
+0 -1 22518
+S
+#22513
+Signpost Junction~
+You stand in signpost junction. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22507
+D1
+East.~
+~
+0 -1 22514
+D2
+South.~
+~
+0 -1 22519
+D3
+West.~
+~
+0 -1 22512
+S
+#22514
+Rain Shelter~
+You stand in rain shelter. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22508
+D1
+East.~
+~
+0 -1 22515
+D2
+South.~
+~
+0 -1 22520
+D3
+West.~
+~
+0 -1 22513
+S
+#22515
+Healer's Tent~
+You stand in healer's tent. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22509
+D1
+East.~
+~
+0 -1 22516
+D2
+South.~
+~
+0 -1 22521
+D3
+West.~
+~
+0 -1 22514
+S
+#22516
+Caravan Square~
+You stand in caravan square. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22510
+D1
+East.~
+~
+0 -1 22517
+D2
+South.~
+~
+0 -1 22522
+D3
+West.~
+~
+0 -1 22515
+S
+#22517
+Mapmaker's Table~
+You stand in mapmaker's table. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22511
+D2
+South.~
+~
+0 -1 22523
+D3
+West.~
+~
+0 -1 22516
+S
+#22518
+Message Board Plaza~
+You stand in message board plaza. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22512
+D1
+East.~
+~
+0 -1 22519
+D2
+South.~
+~
+0 -1 22524
+S
+#22519
+Supply Depot~
+You stand in supply depot. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22513
+D1
+East.~
+~
+0 -1 22520
+D2
+South.~
+~
+0 -1 22525
+D3
+West.~
+~
+0 -1 22518
+S
+#22520
+Smithy Yard~
+You stand in smithy yard. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22514
+D1
+East.~
+~
+0 -1 22521
+D2
+South.~
+~
+0 -1 22526
+D3
+West.~
+~
+0 -1 22519
+S
+#22521
+Old Milestone~
+You stand in old milestone. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22515
+D1
+East.~
+~
+0 -1 22522
+D2
+South.~
+~
+0 -1 22527
+D3
+West.~
+~
+0 -1 22520
+S
+#22522
+Stone Bench Alcove~
+You stand in stone bench alcove. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22516
+D1
+East.~
+~
+0 -1 22523
+D2
+South.~
+~
+0 -1 22528
+D3
+West.~
+~
+0 -1 22521
+S
+#22523
+South Road Gate~
+You stand in south road gate. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22517
+D2
+South.~
+~
+0 -1 22529
+D3
+West.~
+~
+0 -1 22522
+S
+#22524
+East Trailhead~
+You stand in east trailhead. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22518
+D1
+East.~
+~
+0 -1 22525
+D2
+South.~
+~
+0 -1 22530
+S
+#22525
+Grain Silo Path~
+You stand in grain silo path. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22519
+D1
+East.~
+~
+0 -1 22526
+D2
+South.~
+~
+0 -1 22531
+D3
+West.~
+~
+0 -1 22524
+S
+#22526
+Hitching Posts~
+You stand in hitching posts. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22520
+D1
+East.~
+~
+0 -1 22527
+D2
+South.~
+~
+0 -1 22532
+D3
+West.~
+~
+0 -1 22525
+S
+#22527
+Crossroads of Realms~
+You stand in crossroads of realms. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22521
+D1
+East.~
+~
+0 -1 22528
+D2
+South.~
+~
+0 -1 22533
+D3
+West.~
+~
+0 -1 22526
+S
+#22528
+Stable Yard~
+You stand in stable yard. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22522
+D1
+East.~
+~
+0 -1 22529
+D2
+South.~
+~
+0 -1 22534
+D3
+West.~
+~
+0 -1 22527
+S
+#22529
+Guild Notice Board~
+You stand in guild notice board. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22523
+D2
+South.~
+~
+0 -1 22535
+D3
+West.~
+~
+0 -1 22528
+S
+#22530
+Portal Circle~
+You stand in portal circle. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22524
+D1
+East.~
+~
+0 -1 22531
+S
+#22531
+Wayfarer's Inn Yard~
+You stand in wayfarer's inn yard. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22525
+D1
+East.~
+~
+0 -1 22532
+D3
+West.~
+~
+0 -1 22530
+S
+#22532
+Storyteller's Fire~
+You stand in storyteller's fire. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22526
+D1
+East.~
+~
+0 -1 22533
+D3
+West.~
+~
+0 -1 22531
+S
+#22533
+Fountain Court~
+You stand in fountain court. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22527
+D1
+East.~
+~
+0 -1 22534
+D3
+West.~
+~
+0 -1 22532
+S
+#22534
+Merchant Stalls~
+You stand in merchant stalls. The surroundings show dusty packed earth and wagon ruts. This place tests travelers of roughly levels 1-90. Paths lead onward through the realmroad.~
+0 1
+D0
+North.~
+~
+0 -1 22528
+D1
+East.~
+~
+0 -1 22535
+D3
+West.~
+~
+0 -1 22533
+S
+#22535
+Sanctum of the Road Warden~
+This is the heart of The Realm Road. The Road Warden surveys the crossroads. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 22529
+D3
+West.~
+~
+0 -1 22534
+S
+#0
+#MOBILES
+#22550
+merchant caravan~
+a caravan merchant~
+A caravan merchant haggles loudly.
+~
+A caravan merchant looks ready for battle.
+~
+65 0 0 S
+1 1
+-42 13 10 80 0
+! 0 0 0 7 0 0 0
+#22551
+road guard~
+a road guard~
+A road guard watches the traffic.
+~
+A road guard looks ready for battle.
+~
+65 0 0 S
+13 1
+-37 14 10 90 0
+! 0 0 0 7 0 0 0
+#22552
+stablehand~
+a stablehand~
+A stablehand brushes a horse.
+~
+A stablehand looks ready for battle.
+~
+65 0 0 S
+27 1
+-32 15 11 100 0
+! 0 0 0 7 0 0 0
+#22553
+healer pilgrim~
+a pilgrim healer~
+A pilgrim healer offers bandages.
+~
+A pilgrim healer looks ready for battle.
+~
+65 0 0 S
+40 1
+-27 16 11 110 0
+! 0 0 0 7 0 0 0
+#22554
+storyteller~
+an old storyteller~
+An old storyteller spins a yarn.
+~
+An old storyteller looks ready for battle.
+~
+65 0 0 S
+50 1
+-22 17 12 120 0
+! 0 0 0 7 0 0 0
+#22555
+porter~
+a hired porter~
+A hired porter waits for work.
+~
+A hired porter looks ready for battle.
+~
+65 0 0 S
+64 1
+-17 18 12 130 0
+! 0 0 0 7 0 0 0
+#22556
+scout ranger~
+a trail scout~
+A trail scout studies the horizon.
+~
+A trail scout looks ready for battle.
+~
+65 0 0 S
+77 1
+-12 19 13 140 0
+! 0 0 0 7 0 0 0
+#22557
+blacksmith~
+a traveling blacksmith~
+A blacksmith hammers a horseshoe.
+~
+A traveling blacksmith looks ready for battle.
+~
+65 0 0 S
+91 1
+-7 20 13 150 0
+! 0 0 0 7 0 0 0
+#22558
+road warden~
+the Road Warden~
+The Road Warden surveys the crossroads.
+~
+The Road Warden radiates terrible power.
+~
+3 0 500 S
+90 1
+-62 28 25 240 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#22570
+traveler's shortsword~
+@@ytraveler's shortsword@@N~
+@@yTraveler's shortsword@@N lies here, humming with power.~
+5 3 8193 1
+3 15 0 3
+10
+A 18 3
+A 19 3
+A 1 2
+L 1
+#22571
+wayfarer breastplate armor~
+@@WWayfarer breastplate@@N~
+A @@WWayfarer breastplate@@N rests here.~
+9 1 9 1
+9 0 0 0
+15
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+A 12 10
+L 1
+#22572
+wayfarer helm~
+@@WWayfarer helm@@N~
+A @@WWayfarer helm@@N lies on the ground.~
+9 1 17 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22573
+wayfarer greaves~
+@@WWayfarer greaves@@N~
+@@WWayfarer greaves@@N are discarded here.~
+9 1 33 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22574
+wayfarer boots~
+@@WWayfarer boots@@N~
+A pair of @@WWayfarer boots@@N sits here.~
+9 1 65 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22575
+wayfarer gauntlets~
+@@WWayfarer gauntlets@@N~
+@@WWayfarer gauntlets@@N lie in a pile.~
+9 1 129 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22576
+wayfarer shield~
+@@WWayfarer shield@@N~
+A @@WWayfarer shield@@N leans against the wall.~
+9 1 513 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22577
+wayfarer cloak~
+@@WWayfarer cloak@@N~
+A @@WWayfarer cloak@@N is folded here.~
+9 1 1025 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+A 12 10
+L 1
+#22578
+wayfarer ring~
+@@WWayfarer ring@@N~
+A @@WWayfarer ring@@N glints on the ground.~
+9 1 3 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22579
+wayfarer amulet~
+@@WWayfarer amulet@@N~
+A @@WWayfarer amulet@@N hangs from a peg.~
+9 1 5 1
+9 0 0 0
+5
+A 17 -20
+A 13 20
+A 18 2
+A 19 2
+L 1
+#22580
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+45 0 0 0
+1
+L 1
+#0
+#RESETS
+M 0 22550 3 22500
+E 0 22571 0 5
+G 0 22580 0
+M 0 22551 3 22501
+E 0 22574 0 8
+G 0 22580 0
+M 0 22552 3 22502
+E 0 22574 0 8
+M 0 22553 2 22503
+E 0 22578 0 1
+G 0 22580 0
+M 0 22554 2 22504
+E 0 22570 0 16
+G 0 22580 0
+M 0 22555 2 22505
+E 0 22575 0 9
+G 0 22580 0
+M 0 22556 2 22506
+E 0 22578 0 1
+G 0 22580 0
+M 0 22557 2 22507
+E 0 22574 0 8
+G 0 22580 0
+M 0 22558 1 22535
+E 0 22570 0 16
+E 0 22571 0 5
+E 0 22572 0 6
+E 0 22573 0 7
+E 0 22574 0 8
+E 0 22575 0 9
+E 0 22576 0 11
+E 0 22577 0 12
+E 0 22579 0 3
+E 0 22578 0 1
+G 0 22580 0
+G 0 22580 0
+O 0 22570 2 22500
+S
+#$

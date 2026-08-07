@@ -1,0 +1,1234 @@
+#AREA
+@@mDescent into the Underdark@@N~
+Z 3
+C 9231
+K underdark~
+L @@W{ @@r40 50@@W }@@N~
+N 49
+I 40 50
+V 23100 23199
+X 0
+F 15
+U Something scuttles in the lightless deep.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23100
+Entrance to Descent into the Underdark~
+You stand in entrance to descent into the underdark. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark. The path west returns toward Hall of the Fire Giant King.~
+0 0
+D1
+East.~
+~
+0 -1 23101
+D2
+South.~
+~
+0 -1 23107
+D3
+West.~
+~
+0 -1 23001
+S
+#23101
+Abyss of Roots~
+You stand in abyss of roots. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark. A trail leads east toward Vault of Shadows.~
+0 0
+D1
+East.~
+~
+0 -1 23200
+D2
+South.~
+~
+0 -1 23108
+D3
+West.~
+~
+0 -1 23100
+S
+#23102
+Echo Well~
+You stand in echo well. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D1
+East.~
+~
+0 -1 23103
+D2
+South.~
+~
+0 -1 23109
+D3
+West.~
+~
+0 -1 23101
+S
+#23103
+Drow Patrol Path~
+You stand in drow patrol path. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D1
+East.~
+~
+0 -1 23104
+D2
+South.~
+~
+0 -1 23110
+D3
+West.~
+~
+0 -1 23102
+S
+#23104
+Duergar Outpost~
+You stand in duergar outpost. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D1
+East.~
+~
+0 -1 23105
+D2
+South.~
+~
+0 -1 23111
+D3
+West.~
+~
+0 -1 23103
+S
+#23105
+Crystal Spire Room~
+You stand in crystal spire room. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D1
+East.~
+~
+0 -1 23106
+D2
+South.~
+~
+0 -1 23112
+D3
+West.~
+~
+0 -1 23104
+S
+#23106
+Guard Web~
+You stand in guard web. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D2
+South.~
+~
+0 -1 23113
+D3
+West.~
+~
+0 -1 23105
+S
+#23107
+Map of the Depths~
+You stand in map of the depths. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23100
+D1
+East.~
+~
+0 -1 23108
+D2
+South.~
+~
+0 -1 23114
+S
+#23108
+Myconid Circle~
+You stand in myconid circle. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23101
+D1
+East.~
+~
+0 -1 23109
+D2
+South.~
+~
+0 -1 23115
+D3
+West.~
+~
+0 -1 23107
+S
+#23109
+Air Shaft~
+You stand in air shaft. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23102
+D1
+East.~
+~
+0 -1 23110
+D2
+South.~
+~
+0 -1 23116
+D3
+West.~
+~
+0 -1 23108
+S
+#23110
+Still Air Chamber~
+You stand in still air chamber. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23103
+D1
+East.~
+~
+0 -1 23111
+D2
+South.~
+~
+0 -1 23117
+D3
+West.~
+~
+0 -1 23109
+S
+#23111
+Illithid Echo~
+You stand in illithid echo. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23104
+D1
+East.~
+~
+0 -1 23112
+D2
+South.~
+~
+0 -1 23118
+D3
+West.~
+~
+0 -1 23110
+S
+#23112
+Upper Landing~
+You stand in upper landing. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23105
+D1
+East.~
+~
+0 -1 23113
+D2
+South.~
+~
+0 -1 23119
+D3
+West.~
+~
+0 -1 23111
+S
+#23113
+Slave Caravan Rest~
+You stand in slave caravan rest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23106
+D2
+South.~
+~
+0 -1 23120
+D3
+West.~
+~
+0 -1 23112
+S
+#23114
+Underdark Crossroads~
+You stand in underdark crossroads. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23107
+D1
+East.~
+~
+0 -1 23115
+D2
+South.~
+~
+0 -1 23121
+S
+#23115
+Watch Fissure~
+You stand in watch fissure. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23108
+D1
+East.~
+~
+0 -1 23116
+D2
+South.~
+~
+0 -1 23122
+D3
+West.~
+~
+0 -1 23114
+S
+#23116
+Escape Shaft~
+You stand in escape shaft. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23109
+D1
+East.~
+~
+0 -1 23117
+D2
+South.~
+~
+0 -1 23123
+D3
+West.~
+~
+0 -1 23115
+S
+#23117
+Black Water Crossing~
+You stand in black water crossing. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23110
+D1
+East.~
+~
+0 -1 23118
+D2
+South.~
+~
+0 -1 23124
+D3
+West.~
+~
+0 -1 23116
+S
+#23118
+Idol of Lolth~
+You stand in idol of lolth. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23111
+D1
+East.~
+~
+0 -1 23119
+D2
+South.~
+~
+0 -1 23125
+D3
+West.~
+~
+0 -1 23117
+S
+#23119
+Spore Cloud Room~
+You stand in spore cloud room. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23112
+D1
+East.~
+~
+0 -1 23120
+D2
+South.~
+~
+0 -1 23126
+D3
+West.~
+~
+0 -1 23118
+S
+#23120
+Cave Fisher Ledge~
+You stand in cave fisher ledge. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23113
+D2
+South.~
+~
+0 -1 23127
+D3
+West.~
+~
+0 -1 23119
+S
+#23121
+Bone Cairn~
+You stand in bone cairn. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23114
+D1
+East.~
+~
+0 -1 23122
+D2
+South.~
+~
+0 -1 23128
+S
+#23122
+Phosphor Cave~
+You stand in phosphor cave. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23115
+D1
+East.~
+~
+0 -1 23123
+D2
+South.~
+~
+0 -1 23129
+D3
+West.~
+~
+0 -1 23121
+S
+#23123
+Collapsed Temple~
+You stand in collapsed temple. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23116
+D1
+East.~
+~
+0 -1 23124
+D2
+South.~
+~
+0 -1 23130
+D3
+West.~
+~
+0 -1 23122
+S
+#23124
+Last Torchlight~
+You stand in last torchlight. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23117
+D1
+East.~
+~
+0 -1 23125
+D2
+South.~
+~
+0 -1 23131
+D3
+West.~
+~
+0 -1 23123
+S
+#23125
+Torture Niche~
+You stand in torture niche. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23118
+D1
+East.~
+~
+0 -1 23126
+D2
+South.~
+~
+0 -1 23132
+D3
+West.~
+~
+0 -1 23124
+S
+#23126
+Stalactite Bridge~
+You stand in stalactite bridge. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23119
+D1
+East.~
+~
+0 -1 23127
+D2
+South.~
+~
+0 -1 23133
+D3
+West.~
+~
+0 -1 23125
+S
+#23127
+Webbed Tunnel~
+You stand in webbed tunnel. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23120
+D2
+South.~
+~
+0 -1 23134
+D3
+West.~
+~
+0 -1 23126
+S
+#23128
+Whispering Crack~
+You stand in whispering crack. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23121
+D1
+East.~
+~
+0 -1 23129
+D2
+South.~
+~
+0 -1 23135
+S
+#23129
+Blind Fish Pool~
+You stand in blind fish pool. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23122
+D1
+East.~
+~
+0 -1 23130
+D2
+South.~
+~
+0 -1 23136
+D3
+West.~
+~
+0 -1 23128
+S
+#23130
+Sunless Stair~
+You stand in sunless stair. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23123
+D1
+East.~
+~
+0 -1 23131
+D2
+South.~
+~
+0 -1 23137
+D3
+West.~
+~
+0 -1 23129
+S
+#23131
+Darkmantle Nest~
+You stand in darkmantle nest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23124
+D1
+East.~
+~
+0 -1 23132
+D2
+South.~
+~
+0 -1 23138
+D3
+West.~
+~
+0 -1 23130
+S
+#23132
+Spider Den~
+You stand in spider den. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23125
+D1
+East.~
+~
+0 -1 23133
+D2
+South.~
+~
+0 -1 23139
+D3
+West.~
+~
+0 -1 23131
+S
+#23133
+Mind Flayer Spire Base~
+You stand in mind flayer spire base. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23126
+D1
+East.~
+~
+0 -1 23134
+D2
+South.~
+~
+0 -1 23140
+D3
+West.~
+~
+0 -1 23132
+S
+#23134
+Dark Elf Barracks~
+You stand in dark elf barracks. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23127
+D2
+South.~
+~
+0 -1 23141
+D3
+West.~
+~
+0 -1 23133
+S
+#23135
+Fungal Stair~
+You stand in fungal stair. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23128
+D1
+East.~
+~
+0 -1 23136
+D2
+South.~
+~
+0 -1 23142
+S
+#23136
+Amethyst Vein~
+You stand in amethyst vein. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23129
+D1
+East.~
+~
+0 -1 23137
+D2
+South.~
+~
+0 -1 23143
+D3
+West.~
+~
+0 -1 23135
+S
+#23137
+Silent Gallery~
+You stand in silent gallery. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23130
+D1
+East.~
+~
+0 -1 23138
+D2
+South.~
+~
+0 -1 23144
+D3
+West.~
+~
+0 -1 23136
+S
+#23138
+Lower Descent~
+You stand in lower descent. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23131
+D1
+East.~
+~
+0 -1 23139
+D2
+South.~
+~
+0 -1 23145
+D3
+West.~
+~
+0 -1 23137
+S
+#23139
+Hanging Roots~
+You stand in hanging roots. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23132
+D1
+East.~
+~
+0 -1 23140
+D2
+South.~
+~
+0 -1 23146
+D3
+West.~
+~
+0 -1 23138
+S
+#23140
+Rockslide Path~
+You stand in rockslide path. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23133
+D1
+East.~
+~
+0 -1 23141
+D2
+South.~
+~
+0 -1 23147
+D3
+West.~
+~
+0 -1 23139
+S
+#23141
+Drow Waystation~
+You stand in drow waystation. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23134
+D2
+South.~
+~
+0 -1 23148
+D3
+West.~
+~
+0 -1 23140
+S
+#23142
+Silent Market Ruins~
+You stand in silent market ruins. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23135
+D1
+East.~
+~
+0 -1 23143
+S
+#23143
+Mushroom Forest~
+You stand in mushroom forest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23136
+D1
+East.~
+~
+0 -1 23144
+D3
+West.~
+~
+0 -1 23142
+S
+#23144
+Underground Lake Shore~
+You stand in underground lake shore. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23137
+D1
+East.~
+~
+0 -1 23145
+D3
+West.~
+~
+0 -1 23143
+S
+#23145
+Venom Cache~
+You stand in venom cache. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23138
+D1
+East.~
+~
+0 -1 23146
+D3
+West.~
+~
+0 -1 23144
+S
+#23146
+Chitin Passage~
+You stand in chitin passage. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23139
+D1
+East.~
+~
+0 -1 23147
+D3
+West.~
+~
+0 -1 23145
+S
+#23147
+Psionic Residue Hall~
+You stand in psionic residue hall. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+0 0
+D0
+North.~
+~
+0 -1 23140
+D1
+East.~
+~
+0 -1 23148
+D3
+West.~
+~
+0 -1 23146
+S
+#23148
+Sanctum of the Matron of the Depths~
+This is the heart of Descent into the Underdark. The Matron of the Depths regards you. The air itself feels heavier here.~
+0 0
+D0
+North.~
+~
+0 -1 23141
+D3
+West.~
+~
+0 -1 23147
+S
+#0
+#MOBILES
+#23150
+drow warrior~
+a drow warrior~
+A drow warrior smiles cruelly.
+~
+A drow warrior looks ready for battle.
+~
+97 0 -300 S
+42 1
+-119 51 41 360 0
+! 0 0 0 7 0 0 0
+#23151
+drider~
+a drider~
+A drider skitters forward.
+~
+A drider looks ready for battle.
+~
+97 0 -300 S
+43 1
+-114 52 41 370 0
+! 0 0 0 7 0 0 0
+#23152
+mind flayer~
+a mind flayer~
+A mind flayer's tentacles writhe.
+~
+A mind flayer looks ready for battle.
+~
+97 0 -300 S
+44 1
+-109 53 42 380 0
+! 0 0 0 7 0 0 0
+#23153
+duergar~
+a duergar scout~
+A duergar scout levels a crossbow.
+~
+A duergar scout looks ready for battle.
+~
+97 0 -300 S
+44 1
+-104 54 42 390 0
+! 0 0 0 7 0 0 0
+#23154
+hook horror~
+a hook horror~
+A hook horror clicks its claws.
+~
+A hook horror looks ready for battle.
+~
+97 0 -300 S
+47 1
+-99 55 43 400 0
+! 0 0 0 7 0 0 0
+#23155
+quaggoth~
+a quaggoth~
+A quaggoth howls.
+~
+A quaggoth looks ready for battle.
+~
+97 0 -300 S
+47 1
+-94 56 43 410 0
+! 0 0 0 7 0 0 0
+#23156
+cave fisher~
+a cave fisher~
+A cave fisher waits above.
+~
+A cave fisher looks ready for battle.
+~
+97 0 -300 S
+48 1
+-89 57 44 420 0
+! 0 0 0 7 0 0 0
+#23157
+drow priestess~
+a drow priestess~
+A drow priestess raises a spider idol.
+~
+A drow priestess looks ready for battle.
+~
+97 0 -300 S
+51 1
+-84 58 44 430 0
+! 0 0 0 7 0 0 0
+#23158
+matron mother~
+the Matron of the Depths~
+The Matron of the Depths regards you.
+~
+The Matron of the Depths radiates terrible power.
+~
+35 0 -1000 S
+53 1
+-139 66 56 1080 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23170
+adamantine shortsword~
+@@yadamantine shortsword@@N~
+@@yAdamantine shortsword@@N lies here, humming with power.~
+5 67 8193 1
+3 15 0 3
+10
+A 18 15
+A 19 15
+A 1 2
+L 40
+#23171
+underdark breastplate armor~
+@@WUnderdark breastplate@@N~
+A @@WUnderdark breastplate@@N rests here.~
+9 65 9 1
+9 0 0 0
+15
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+A 12 45
+L 40
+#23172
+underdark helm~
+@@WUnderdark helm@@N~
+A @@WUnderdark helm@@N lies on the ground.~
+9 65 17 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23173
+underdark greaves~
+@@WUnderdark greaves@@N~
+@@WUnderdark greaves@@N are discarded here.~
+9 65 33 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23174
+underdark boots~
+@@WUnderdark boots@@N~
+A pair of @@WUnderdark boots@@N sits here.~
+9 65 65 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23175
+underdark gauntlets~
+@@WUnderdark gauntlets@@N~
+@@WUnderdark gauntlets@@N lie in a pile.~
+9 65 129 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23176
+underdark shield~
+@@WUnderdark shield@@N~
+A @@WUnderdark shield@@N leans against the wall.~
+9 65 513 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23177
+underdark cloak~
+@@WUnderdark cloak@@N~
+A @@WUnderdark cloak@@N is folded here.~
+9 65 1025 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+A 12 45
+L 40
+#23178
+underdark ring~
+@@WUnderdark ring@@N~
+A @@WUnderdark ring@@N glints on the ground.~
+9 65 3 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23179
+underdark amulet~
+@@WUnderdark amulet@@N~
+A @@WUnderdark amulet@@N hangs from a peg.~
+9 65 5 1
+9 0 0 0
+5
+A 17 -90
+A 13 90
+A 18 11
+A 19 11
+L 40
+#23180
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+45 0 0 0
+1
+L 1
+#23181
+unique adamantine shortsword legendary~
+@@Rthe Matron of the Depths's weapon@@N~
+@@RThe legendary weapon of the Matron of the Depths@@N lies here.~
+5 67 8193 1
+3 22 0 3
+12
+A 18 20
+A 19 20
+A 13 90
+A 1 2
+L 45
+#0
+#RESETS
+M 0 23150 2 23100
+E 0 23172 0 6
+E 0 23171 0 5
+E 0 23179 0 3
+M 0 23151 2 23101
+E 0 23172 0 6
+E 0 23171 0 5
+E 0 23174 0 8
+M 0 23152 2 23102
+E 0 23172 0 6
+E 0 23179 0 3
+E 0 23177 0 12
+M 0 23153 2 23103
+E 0 23178 0 1
+E 0 23172 0 6
+E 0 23179 0 3
+G 0 23180 0
+M 0 23154 2 23104
+E 0 23170 0 16
+E 0 23179 0 3
+E 0 23171 0 5
+G 0 23180 0
+M 0 23155 2 23105
+E 0 23171 0 5
+E 0 23179 0 3
+E 0 23177 0 12
+M 0 23156 2 23106
+E 0 23174 0 8
+E 0 23177 0 12
+E 0 23171 0 5
+G 0 23180 0
+M 0 23157 2 23107
+E 0 23177 0 12
+E 0 23171 0 5
+E 0 23176 0 11
+M 0 23158 1 23148
+E 0 23181 0 16
+E 0 23171 0 5
+E 0 23172 0 6
+E 0 23173 0 7
+E 0 23174 0 8
+E 0 23175 0 9
+E 0 23176 0 11
+E 0 23177 0 12
+E 0 23179 0 3
+E 0 23178 0 1
+G 0 23180 0
+G 0 23180 0
+S
+#$

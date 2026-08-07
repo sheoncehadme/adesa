@@ -1,0 +1,1231 @@
+#AREA
+@@eTemple of the Four Elements@@N~
+Z 3
+C 9233
+K elementaltemple~
+L @@W{ @@r55 65@@W }@@N~
+N 49
+I 55 65
+V 23300 23399
+X 0
+F 15
+U The four elements roar in unnatural harmony.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#23300
+Entrance to Temple of the Four Elements~
+You stand in entrance to temple of the four elements. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple. The path west returns toward Vault of Shadows.~
+0 1
+D1
+East.~
+~
+0 -1 23301
+D2
+South.~
+~
+0 -1 23307
+D3
+West.~
+~
+0 -1 23201
+S
+#23301
+Outer Cloister~
+You stand in outer cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple. A trail leads east toward Tomb of Whispering Bones.~
+0 1
+D1
+East.~
+~
+0 -1 23400
+D2
+South.~
+~
+0 -1 23308
+D3
+West.~
+~
+0 -1 23300
+S
+#23302
+Central Nexus~
+You stand in central nexus. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D1
+East.~
+~
+0 -1 23303
+D2
+South.~
+~
+0 -1 23309
+D3
+West.~
+~
+0 -1 23301
+S
+#23303
+Heart of the Temple~
+You stand in heart of the temple. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D1
+East.~
+~
+0 -1 23304
+D2
+South.~
+~
+0 -1 23310
+D3
+West.~
+~
+0 -1 23302
+S
+#23304
+Scriptorium~
+You stand in scriptorium. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D1
+East.~
+~
+0 -1 23305
+D2
+South.~
+~
+0 -1 23311
+D3
+West.~
+~
+0 -1 23303
+S
+#23305
+Air Gallery~
+You stand in air gallery. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D1
+East.~
+~
+0 -1 23306
+D2
+South.~
+~
+0 -1 23312
+D3
+West.~
+~
+0 -1 23304
+S
+#23306
+Elemental Crossroads~
+You stand in elemental crossroads. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D2
+South.~
+~
+0 -1 23313
+D3
+West.~
+~
+0 -1 23305
+S
+#23307
+Ice Font~
+You stand in ice font. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23300
+D1
+East.~
+~
+0 -1 23308
+D2
+South.~
+~
+0 -1 23314
+S
+#23308
+Processional~
+You stand in processional. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23301
+D1
+East.~
+~
+0 -1 23309
+D2
+South.~
+~
+0 -1 23315
+D3
+West.~
+~
+0 -1 23307
+S
+#23309
+Root Cellar of Stone~
+You stand in root cellar of stone. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23302
+D1
+East.~
+~
+0 -1 23310
+D2
+South.~
+~
+0 -1 23316
+D3
+West.~
+~
+0 -1 23308
+S
+#23310
+Balance Scale Room~
+You stand in balance scale room. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23303
+D1
+East.~
+~
+0 -1 23311
+D2
+South.~
+~
+0 -1 23317
+D3
+West.~
+~
+0 -1 23309
+S
+#23311
+Ash Altar~
+You stand in ash altar. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23304
+D1
+East.~
+~
+0 -1 23312
+D2
+South.~
+~
+0 -1 23318
+D3
+West.~
+~
+0 -1 23310
+S
+#23312
+Stone Garden~
+You stand in stone garden. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23305
+D1
+East.~
+~
+0 -1 23313
+D2
+South.~
+~
+0 -1 23319
+D3
+West.~
+~
+0 -1 23311
+S
+#23313
+Last Seal~
+You stand in last seal. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23306
+D2
+South.~
+~
+0 -1 23320
+D3
+West.~
+~
+0 -1 23312
+S
+#23314
+Guardian Circle~
+You stand in guardian circle. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23307
+D1
+East.~
+~
+0 -1 23315
+D2
+South.~
+~
+0 -1 23321
+S
+#23315
+Observatory~
+You stand in observatory. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23308
+D1
+East.~
+~
+0 -1 23316
+D2
+South.~
+~
+0 -1 23322
+D3
+West.~
+~
+0 -1 23314
+S
+#23316
+Fourfold Gate~
+You stand in fourfold gate. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23309
+D1
+East.~
+~
+0 -1 23317
+D2
+South.~
+~
+0 -1 23323
+D3
+West.~
+~
+0 -1 23315
+S
+#23317
+Inferno Aisle~
+You stand in inferno aisle. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23310
+D1
+East.~
+~
+0 -1 23318
+D2
+South.~
+~
+0 -1 23324
+D3
+West.~
+~
+0 -1 23316
+S
+#23318
+Fire Shrine~
+You stand in fire shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23311
+D1
+East.~
+~
+0 -1 23319
+D2
+South.~
+~
+0 -1 23325
+D3
+West.~
+~
+0 -1 23317
+S
+#23319
+Containment Rune~
+You stand in containment rune. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23312
+D1
+East.~
+~
+0 -1 23320
+D2
+South.~
+~
+0 -1 23326
+D3
+West.~
+~
+0 -1 23318
+S
+#23320
+Trial of Air~
+You stand in trial of air. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23313
+D2
+South.~
+~
+0 -1 23327
+D3
+West.~
+~
+0 -1 23319
+S
+#23321
+Earth Shrine~
+You stand in earth shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23314
+D1
+East.~
+~
+0 -1 23322
+D2
+South.~
+~
+0 -1 23328
+S
+#23322
+Air Shrine~
+You stand in air shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23315
+D1
+East.~
+~
+0 -1 23323
+D2
+South.~
+~
+0 -1 23329
+D3
+West.~
+~
+0 -1 23321
+S
+#23323
+Broken Seal Hall~
+You stand in broken seal hall. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23316
+D1
+East.~
+~
+0 -1 23324
+D2
+South.~
+~
+0 -1 23330
+D3
+West.~
+~
+0 -1 23322
+S
+#23324
+Lightning Spire~
+You stand in lightning spire. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23317
+D1
+East.~
+~
+0 -1 23325
+D2
+South.~
+~
+0 -1 23331
+D3
+West.~
+~
+0 -1 23323
+S
+#23325
+Trial of Fire~
+You stand in trial of fire. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23318
+D1
+East.~
+~
+0 -1 23326
+D2
+South.~
+~
+0 -1 23332
+D3
+West.~
+~
+0 -1 23324
+S
+#23326
+Crystal Cavern~
+You stand in crystal cavern. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23319
+D1
+East.~
+~
+0 -1 23327
+D2
+South.~
+~
+0 -1 23333
+D3
+West.~
+~
+0 -1 23325
+S
+#23327
+Trial of Water~
+You stand in trial of water. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23320
+D2
+South.~
+~
+0 -1 23334
+D3
+West.~
+~
+0 -1 23326
+S
+#23328
+Relic Vault~
+You stand in relic vault. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23321
+D1
+East.~
+~
+0 -1 23329
+D2
+South.~
+~
+0 -1 23335
+S
+#23329
+Earth Crypt~
+You stand in earth crypt. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23322
+D1
+East.~
+~
+0 -1 23330
+D2
+South.~
+~
+0 -1 23336
+D3
+West.~
+~
+0 -1 23328
+S
+#23330
+Whirlwind Chamber~
+You stand in whirlwind chamber. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23323
+D1
+East.~
+~
+0 -1 23331
+D2
+South.~
+~
+0 -1 23337
+D3
+West.~
+~
+0 -1 23329
+S
+#23331
+Flooded Crypt~
+You stand in flooded crypt. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23324
+D1
+East.~
+~
+0 -1 23332
+D2
+South.~
+~
+0 -1 23338
+D3
+West.~
+~
+0 -1 23330
+S
+#23332
+Mist Cloister~
+You stand in mist cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23325
+D1
+East.~
+~
+0 -1 23333
+D2
+South.~
+~
+0 -1 23339
+D3
+West.~
+~
+0 -1 23331
+S
+#23333
+Ember Choir~
+You stand in ember choir. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23326
+D1
+East.~
+~
+0 -1 23334
+D2
+South.~
+~
+0 -1 23340
+D3
+West.~
+~
+0 -1 23332
+S
+#23334
+Quake Hall~
+You stand in quake hall. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23327
+D2
+South.~
+~
+0 -1 23341
+D3
+West.~
+~
+0 -1 23333
+S
+#23335
+Storm Balcony~
+You stand in storm balcony. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23328
+D1
+East.~
+~
+0 -1 23336
+D2
+South.~
+~
+0 -1 23342
+S
+#23336
+Water Shrine~
+You stand in water shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23329
+D1
+East.~
+~
+0 -1 23337
+D2
+South.~
+~
+0 -1 23343
+D3
+West.~
+~
+0 -1 23335
+S
+#23337
+Thunder Stair~
+You stand in thunder stair. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23330
+D1
+East.~
+~
+0 -1 23338
+D2
+South.~
+~
+0 -1 23344
+D3
+West.~
+~
+0 -1 23336
+S
+#23338
+Trial of Earth~
+You stand in trial of earth. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23331
+D1
+East.~
+~
+0 -1 23339
+D2
+South.~
+~
+0 -1 23345
+D3
+West.~
+~
+0 -1 23337
+S
+#23339
+Inner Sanctum~
+You stand in inner sanctum. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23332
+D1
+East.~
+~
+0 -1 23340
+D2
+South.~
+~
+0 -1 23346
+D3
+West.~
+~
+0 -1 23338
+S
+#23340
+Fire Sanctum~
+You stand in fire sanctum. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23333
+D1
+East.~
+~
+0 -1 23341
+D2
+South.~
+~
+0 -1 23347
+D3
+West.~
+~
+0 -1 23339
+S
+#23341
+Magma Font~
+You stand in magma font. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23334
+D2
+South.~
+~
+0 -1 23348
+D3
+West.~
+~
+0 -1 23340
+S
+#23342
+Antechamber~
+You stand in antechamber. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23335
+D1
+East.~
+~
+0 -1 23343
+S
+#23343
+Rift Leak~
+You stand in rift leak. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23336
+D1
+East.~
+~
+0 -1 23344
+D3
+West.~
+~
+0 -1 23342
+S
+#23344
+Water Cloister~
+You stand in water cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23337
+D1
+East.~
+~
+0 -1 23345
+D3
+West.~
+~
+0 -1 23343
+S
+#23345
+Hall of Balance~
+You stand in hall of balance. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23338
+D1
+East.~
+~
+0 -1 23346
+D3
+West.~
+~
+0 -1 23344
+S
+#23346
+High Priest Quarters~
+You stand in high priest quarters. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23339
+D1
+East.~
+~
+0 -1 23347
+D3
+West.~
+~
+0 -1 23345
+S
+#23347
+Tidal Basin~
+You stand in tidal basin. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+0 1
+D0
+North.~
+~
+0 -1 23340
+D1
+East.~
+~
+0 -1 23348
+D3
+West.~
+~
+0 -1 23346
+S
+#23348
+Sanctum of the Elemental Tyrant~
+This is the heart of Temple of the Four Elements. The Elemental Tyrant wears all four crowns. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 23341
+D3
+West.~
+~
+0 -1 23347
+S
+#0
+#MOBILES
+#23350
+air elemental~
+an air elemental~
+An air elemental howls.
+~
+An air elemental looks ready for battle.
+~
+97 0 -300 S
+55 1
+-152 68 55 480 0
+! 0 0 0 7 0 0 0
+#23351
+earth elemental~
+an earth elemental~
+An earth elemental grinds forward.
+~
+An earth elemental looks ready for battle.
+~
+97 0 -300 S
+55 1
+-147 69 55 490 0
+! 0 0 0 7 0 0 0
+#23352
+fire elemental~
+a fire elemental~
+A fire elemental blazes.
+~
+A fire elemental looks ready for battle.
+~
+97 0 -300 S
+57 1
+-142 70 56 500 0
+! 0 0 0 7 0 0 0
+#23353
+water elemental~
+a water elemental~
+A water elemental surges.
+~
+A water elemental looks ready for battle.
+~
+97 0 -300 S
+60 1
+-137 71 56 510 0
+! 0 0 0 7 0 0 0
+#23354
+elemental cultist~
+an elemental cultist~
+An elemental cultist chants.
+~
+An elemental cultist looks ready for battle.
+~
+97 0 -300 S
+59 1
+-132 72 57 520 0
+! 0 0 0 7 0 0 0
+#23355
+templar~
+a temple guardian~
+A temple guardian bars the way.
+~
+A temple guardian looks ready for battle.
+~
+97 0 -300 S
+61 1
+-127 73 57 530 0
+! 0 0 0 7 0 0 0
+#23356
+mephit swarm~
+a mephit~
+A mephit zips past your ear.
+~
+A mephit looks ready for battle.
+~
+97 0 -300 S
+62 1
+-122 74 58 540 0
+! 0 0 0 7 0 0 0
+#23357
+high cultist~
+a high cultist~
+A high cultist raises four symbols.
+~
+A high cultist looks ready for battle.
+~
+97 0 -300 S
+65 1
+-117 75 58 550 0
+! 0 0 0 7 0 0 0
+#23358
+elemental tyrant~
+the Elemental Tyrant~
+The Elemental Tyrant wears all four crowns.
+~
+The Elemental Tyrant radiates terrible power.
+~
+35 0 -1000 S
+68 1
+-172 83 70 1440 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#23370
+elemental warblade~
+@@yelemental warblade@@N~
+@@yElemental warblade@@N lies here, humming with power.~
+5 67 8193 1
+4 20 0 3
+10
+A 18 20
+A 19 20
+A 1 3
+L 55
+#23371
+elemental breastplate armor~
+@@WElemental breastplate@@N~
+A @@WElemental breastplate@@N rests here.~
+9 65 9 1
+12 0 0 0
+15
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+A 12 60
+L 55
+#23372
+elemental helm~
+@@WElemental helm@@N~
+A @@WElemental helm@@N lies on the ground.~
+9 65 17 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23373
+elemental greaves~
+@@WElemental greaves@@N~
+@@WElemental greaves@@N are discarded here.~
+9 65 33 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23374
+elemental boots~
+@@WElemental boots@@N~
+A pair of @@WElemental boots@@N sits here.~
+9 65 65 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23375
+elemental gauntlets~
+@@WElemental gauntlets@@N~
+@@WElemental gauntlets@@N lie in a pile.~
+9 65 129 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23376
+elemental shield~
+@@WElemental shield@@N~
+A @@WElemental shield@@N leans against the wall.~
+9 65 513 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23377
+elemental cloak~
+@@WElemental cloak@@N~
+A @@WElemental cloak@@N is folded here.~
+9 65 1025 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+A 12 60
+L 55
+#23378
+elemental ring~
+@@WElemental ring@@N~
+A @@WElemental ring@@N glints on the ground.~
+9 65 3 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23379
+elemental amulet~
+@@WElemental amulet@@N~
+A @@WElemental amulet@@N hangs from a peg.~
+9 65 5 1
+12 0 0 0
+5
+A 17 -120
+A 13 120
+A 18 15
+A 19 15
+L 55
+#23380
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+60 0 0 0
+1
+L 1
+#23381
+unique elemental warblade legendary~
+@@Rthe Elemental Tyrant's weapon@@N~
+@@RThe legendary weapon of the Elemental Tyrant@@N lies here.~
+5 67 8193 1
+5 30 0 3
+12
+A 18 25
+A 19 25
+A 13 120
+A 1 2
+L 60
+#0
+#RESETS
+M 0 23350 2 23300
+E 0 23379 0 3
+E 0 23376 0 11
+E 0 23371 0 5
+M 0 23351 2 23301
+E 0 23379 0 3
+E 0 23372 0 6
+E 0 23374 0 8
+M 0 23352 2 23302
+E 0 23379 0 3
+E 0 23372 0 6
+E 0 23370 0 16
+M 0 23353 2 23303
+E 0 23379 0 3
+E 0 23376 0 11
+E 0 23378 0 1
+M 0 23354 2 23304
+E 0 23374 0 8
+E 0 23372 0 6
+E 0 23371 0 5
+M 0 23355 2 23305
+E 0 23376 0 11
+E 0 23375 0 9
+E 0 23377 0 12
+M 0 23356 2 23306
+E 0 23374 0 8
+E 0 23372 0 6
+E 0 23378 0 1
+M 0 23357 2 23307
+E 0 23375 0 9
+E 0 23378 0 1
+E 0 23376 0 11
+M 0 23358 1 23348
+E 0 23381 0 16
+E 0 23371 0 5
+E 0 23372 0 6
+E 0 23373 0 7
+E 0 23374 0 8
+E 0 23375 0 9
+E 0 23376 0 11
+E 0 23377 0 12
+E 0 23379 0 3
+E 0 23378 0 1
+G 0 23380 0
+G 0 23380 0
+S
+#$

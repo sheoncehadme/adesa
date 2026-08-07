@@ -1,0 +1,1227 @@
+#AREA
+@@ySteading of the Hill Giant Chief@@N~
+Z 3
+C 9228
+K hillgiant~
+L @@W{ @@r15 25@@W }@@N~
+N 49
+I 15 25
+V 22800 22899
+X 0
+F 15
+U The ground trembles under giant footfalls.~
+O adesa-gen~
+R all~
+W all~
+T You can teleport into here
+#ROOMS
+#22800
+Entrance to Steading of the Hill Giant Chief~
+You stand in entrance to steading of the hill giant chief. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant. The path west returns toward Caves of Chaos.~
+0 1
+D1
+East.~
+~
+0 -1 22801
+D2
+South.~
+~
+0 -1 22807
+D3
+West.~
+~
+0 -1 22701
+S
+#22801
+Steading Gates~
+You stand in steading gates. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant. A trail leads east toward Glacial Hold of the Frost Giants.~
+0 1
+D1
+East.~
+~
+0 -1 22900
+D2
+South.~
+~
+0 -1 22808
+D3
+West.~
+~
+0 -1 22800
+S
+#22802
+Hidden Crawl~
+You stand in hidden crawl. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D1
+East.~
+~
+0 -1 22803
+D2
+South.~
+~
+0 -1 22809
+D3
+West.~
+~
+0 -1 22801
+S
+#22803
+Larder~
+You stand in larder. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D1
+East.~
+~
+0 -1 22804
+D2
+South.~
+~
+0 -1 22810
+D3
+West.~
+~
+0 -1 22802
+S
+#22804
+Boulder Field~
+You stand in boulder field. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D1
+East.~
+~
+0 -1 22805
+D2
+South.~
+~
+0 -1 22811
+D3
+West.~
+~
+0 -1 22803
+S
+#22805
+Chief's Bedchamber~
+You stand in chief's bedchamber. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D1
+East.~
+~
+0 -1 22806
+D2
+South.~
+~
+0 -1 22812
+D3
+West.~
+~
+0 -1 22804
+S
+#22806
+Giant Boot Rack~
+You stand in giant boot rack. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D2
+South.~
+~
+0 -1 22813
+D3
+West.~
+~
+0 -1 22805
+S
+#22807
+Back Gate~
+You stand in back gate. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22800
+D1
+East.~
+~
+0 -1 22808
+D2
+South.~
+~
+0 -1 22814
+S
+#22808
+Weapon Rack Room~
+You stand in weapon rack room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22801
+D1
+East.~
+~
+0 -1 22809
+D2
+South.~
+~
+0 -1 22815
+D3
+West.~
+~
+0 -1 22807
+S
+#22809
+Woodpile Yard~
+You stand in woodpile yard. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22802
+D1
+East.~
+~
+0 -1 22810
+D2
+South.~
+~
+0 -1 22816
+D3
+West.~
+~
+0 -1 22808
+S
+#22810
+Sheep Pen~
+You stand in sheep pen. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22803
+D1
+East.~
+~
+0 -1 22811
+D2
+South.~
+~
+0 -1 22817
+D3
+West.~
+~
+0 -1 22809
+S
+#22811
+Beer Vat Room~
+You stand in beer vat room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22804
+D1
+East.~
+~
+0 -1 22812
+D2
+South.~
+~
+0 -1 22818
+D3
+West.~
+~
+0 -1 22810
+S
+#22812
+Slave Pens~
+You stand in slave pens. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22805
+D1
+East.~
+~
+0 -1 22813
+D2
+South.~
+~
+0 -1 22819
+D3
+West.~
+~
+0 -1 22811
+S
+#22813
+Messy Pantry~
+You stand in messy pantry. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22806
+D2
+South.~
+~
+0 -1 22820
+D3
+West.~
+~
+0 -1 22812
+S
+#22814
+Stone Circle~
+You stand in stone circle. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22807
+D1
+East.~
+~
+0 -1 22815
+D2
+South.~
+~
+0 -1 22821
+S
+#22815
+Prison Pit~
+You stand in prison pit. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22808
+D1
+East.~
+~
+0 -1 22816
+D2
+South.~
+~
+0 -1 22822
+D3
+West.~
+~
+0 -1 22814
+S
+#22816
+Chief's Throne~
+You stand in chief's throne. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22809
+D1
+East.~
+~
+0 -1 22817
+D2
+South.~
+~
+0 -1 22823
+D3
+West.~
+~
+0 -1 22815
+S
+#22817
+Chimney Flue~
+You stand in chimney flue. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22810
+D1
+East.~
+~
+0 -1 22818
+D2
+South.~
+~
+0 -1 22824
+D3
+West.~
+~
+0 -1 22816
+S
+#22818
+Storage Barn~
+You stand in storage barn. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22811
+D1
+East.~
+~
+0 -1 22819
+D2
+South.~
+~
+0 -1 22825
+D3
+West.~
+~
+0 -1 22817
+S
+#22819
+Rubble Court~
+You stand in rubble court. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22812
+D1
+East.~
+~
+0 -1 22820
+D2
+South.~
+~
+0 -1 22826
+D3
+West.~
+~
+0 -1 22818
+S
+#22820
+Loot Vault~
+You stand in loot vault. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22813
+D2
+South.~
+~
+0 -1 22827
+D3
+West.~
+~
+0 -1 22819
+S
+#22821
+Smokehouse~
+You stand in smokehouse. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22814
+D1
+East.~
+~
+0 -1 22822
+D2
+South.~
+~
+0 -1 22828
+S
+#22822
+Barracks Bunks~
+You stand in barracks bunks. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22815
+D1
+East.~
+~
+0 -1 22823
+D2
+South.~
+~
+0 -1 22829
+D3
+West.~
+~
+0 -1 22821
+S
+#22823
+Great Hall~
+You stand in great hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22816
+D1
+East.~
+~
+0 -1 22824
+D2
+South.~
+~
+0 -1 22830
+D3
+West.~
+~
+0 -1 22822
+S
+#22824
+Root Tunnel~
+You stand in root tunnel. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22817
+D1
+East.~
+~
+0 -1 22825
+D2
+South.~
+~
+0 -1 22831
+D3
+West.~
+~
+0 -1 22823
+S
+#22825
+Mead Cellar~
+You stand in mead cellar. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22818
+D1
+East.~
+~
+0 -1 22826
+D2
+South.~
+~
+0 -1 22832
+D3
+West.~
+~
+0 -1 22824
+S
+#22826
+Concubine Room~
+You stand in concubine room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22819
+D1
+East.~
+~
+0 -1 22827
+D2
+South.~
+~
+0 -1 22833
+D3
+West.~
+~
+0 -1 22825
+S
+#22827
+Smith Corner~
+You stand in smith corner. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22820
+D2
+South.~
+~
+0 -1 22834
+D3
+West.~
+~
+0 -1 22826
+S
+#22828
+Courtyard Muck~
+You stand in courtyard muck. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22821
+D1
+East.~
+~
+0 -1 22829
+D2
+South.~
+~
+0 -1 22835
+S
+#22829
+Kitchen Hearth~
+You stand in kitchen hearth. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22822
+D1
+East.~
+~
+0 -1 22830
+D2
+South.~
+~
+0 -1 22836
+D3
+West.~
+~
+0 -1 22828
+S
+#22830
+Outer Palisade~
+You stand in outer palisade. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22823
+D1
+East.~
+~
+0 -1 22831
+D2
+South.~
+~
+0 -1 22837
+D3
+West.~
+~
+0 -1 22829
+S
+#22831
+Giant Footprint Mud~
+You stand in giant footprint mud. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22824
+D1
+East.~
+~
+0 -1 22832
+D2
+South.~
+~
+0 -1 22838
+D3
+West.~
+~
+0 -1 22830
+S
+#22832
+Armory~
+You stand in armory. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22825
+D1
+East.~
+~
+0 -1 22833
+D2
+South.~
+~
+0 -1 22839
+D3
+West.~
+~
+0 -1 22831
+S
+#22833
+Trophy Hall~
+You stand in trophy hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22826
+D1
+East.~
+~
+0 -1 22834
+D2
+South.~
+~
+0 -1 22840
+D3
+West.~
+~
+0 -1 22832
+S
+#22834
+Map Room~
+You stand in map room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22827
+D2
+South.~
+~
+0 -1 22841
+D3
+West.~
+~
+0 -1 22833
+S
+#22835
+Outer Ditch~
+You stand in outer ditch. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22828
+D1
+East.~
+~
+0 -1 22836
+D2
+South.~
+~
+0 -1 22842
+S
+#22836
+Hilltop Approach~
+You stand in hilltop approach. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22829
+D1
+East.~
+~
+0 -1 22837
+D2
+South.~
+~
+0 -1 22843
+D3
+West.~
+~
+0 -1 22835
+S
+#22837
+Side Corridor~
+You stand in side corridor. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22830
+D1
+East.~
+~
+0 -1 22838
+D2
+South.~
+~
+0 -1 22844
+D3
+West.~
+~
+0 -1 22836
+S
+#22838
+Hill Path~
+You stand in hill path. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22831
+D1
+East.~
+~
+0 -1 22839
+D2
+South.~
+~
+0 -1 22845
+D3
+West.~
+~
+0 -1 22837
+S
+#22839
+Watch Platform~
+You stand in watch platform. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22832
+D1
+East.~
+~
+0 -1 22840
+D2
+South.~
+~
+0 -1 22846
+D3
+West.~
+~
+0 -1 22838
+S
+#22840
+Dog Kennels~
+You stand in dog kennels. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22833
+D1
+East.~
+~
+0 -1 22841
+D2
+South.~
+~
+0 -1 22847
+D3
+West.~
+~
+0 -1 22839
+S
+#22841
+Watch Cairn~
+You stand in watch cairn. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22834
+D2
+South.~
+~
+0 -1 22848
+D3
+West.~
+~
+0 -1 22840
+S
+#22842
+Hill Crest~
+You stand in hill crest. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22835
+D1
+East.~
+~
+0 -1 22843
+S
+#22843
+Lower Cellar~
+You stand in lower cellar. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22836
+D1
+East.~
+~
+0 -1 22844
+D3
+West.~
+~
+0 -1 22842
+S
+#22844
+Feasting Table~
+You stand in feasting table. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22837
+D1
+East.~
+~
+0 -1 22845
+D3
+West.~
+~
+0 -1 22843
+S
+#22845
+Upper Gallery~
+You stand in upper gallery. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22838
+D1
+East.~
+~
+0 -1 22846
+D3
+West.~
+~
+0 -1 22844
+S
+#22846
+Guard Nook~
+You stand in guard nook. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22839
+D1
+East.~
+~
+0 -1 22847
+D3
+West.~
+~
+0 -1 22845
+S
+#22847
+War Planning Hall~
+You stand in war planning hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+0 1
+D0
+North.~
+~
+0 -1 22840
+D1
+East.~
+~
+0 -1 22848
+D3
+West.~
+~
+0 -1 22846
+S
+#22848
+Sanctum of the Hill Giant Chief~
+This is the heart of Steading of the Hill Giant Chief. The Hill Giant Chief fills the throne. The air itself feels heavier here.~
+0 1
+D0
+North.~
+~
+0 -1 22841
+D3
+West.~
+~
+0 -1 22847
+S
+#0
+#MOBILES
+#22850
+hill giant~
+a hill giant~
+A hill giant brandishes a tree trunk.
+~
+A hill giant looks ready for battle.
+~
+97 0 -300 S
+14 1
+-64 24 19 160 0
+! 0 0 0 7 0 0 0
+#22851
+ogre mercenary~
+an ogre mercenary~
+An ogre mercenary grins.
+~
+An ogre mercenary looks ready for battle.
+~
+97 0 -300 S
+17 1
+-59 25 19 170 0
+! 0 0 0 7 0 0 0
+#22852
+orc servant~
+an orc servant~
+An orc servant scurries.
+~
+An orc servant looks ready for battle.
+~
+97 0 -300 S
+19 1
+-54 26 20 180 0
+! 0 0 0 7 0 0 0
+#22853
+dire wolf~
+a dire wolf~
+A dire wolf growls.
+~
+A dire wolf looks ready for battle.
+~
+97 0 -300 S
+21 1
+-49 27 20 190 0
+! 0 0 0 7 0 0 0
+#22854
+giant thrall~
+a giant thrall~
+A battered thrall looks up.
+~
+A giant thrall looks ready for battle.
+~
+97 0 -300 S
+20 1
+-44 28 21 200 0
+! 0 0 0 7 0 0 0
+#22855
+hill giant guard~
+a hill giant guard~
+A hill giant guard blocks the way.
+~
+A hill giant guard looks ready for battle.
+~
+97 0 -300 S
+22 1
+-39 29 21 210 0
+! 0 0 0 7 0 0 0
+#22856
+stone thrower~
+a stone-throwing giant~
+A giant hefts a boulder.
+~
+A stone-throwing giant looks ready for battle.
+~
+97 0 -300 S
+25 1
+-34 30 22 220 0
+! 0 0 0 7 0 0 0
+#22857
+ogre mage~
+an ogre mage~
+An ogre mage fingers a charm.
+~
+An ogre mage looks ready for battle.
+~
+97 0 -300 S
+25 1
+-29 31 22 230 0
+! 0 0 0 7 0 0 0
+#22858
+hill giant chief~
+the Hill Giant Chief~
+The Hill Giant Chief fills the throne.
+~
+The Hill Giant Chief radiates terrible power.
+~
+35 0 -1000 S
+28 1
+-84 39 34 480 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#22870
+tree-trunk club~
+@@ytree-trunk club@@N~
+@@yTree-trunk club@@N lies here, humming with power.~
+5 64 8193 1
+1 6 0 3
+10
+A 18 6
+A 19 6
+A 1 1
+L 15
+#22871
+steading breastplate armor~
+@@WSteading breastplate@@N~
+A @@WSteading breastplate@@N rests here.~
+9 64 9 1
+4 0 0 0
+15
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+A 12 20
+L 15
+#22872
+steading helm~
+@@WSteading helm@@N~
+A @@WSteading helm@@N lies on the ground.~
+9 64 17 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22873
+steading greaves~
+@@WSteading greaves@@N~
+@@WSteading greaves@@N are discarded here.~
+9 64 33 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22874
+steading boots~
+@@WSteading boots@@N~
+A pair of @@WSteading boots@@N sits here.~
+9 64 65 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22875
+steading gauntlets~
+@@WSteading gauntlets@@N~
+@@WSteading gauntlets@@N lie in a pile.~
+9 64 129 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22876
+steading shield~
+@@WSteading shield@@N~
+A @@WSteading shield@@N leans against the wall.~
+9 64 513 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22877
+steading cloak~
+@@WSteading cloak@@N~
+A @@WSteading cloak@@N is folded here.~
+9 64 1025 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+A 12 20
+L 15
+#22878
+steading ring~
+@@WSteading ring@@N~
+A @@WSteading ring@@N glints on the ground.~
+9 64 3 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22879
+steading amulet~
+@@WSteading amulet@@N~
+A @@WSteading amulet@@N hangs from a peg.~
+9 64 5 1
+4 0 0 0
+5
+A 17 -40
+A 13 40
+A 18 5
+A 19 5
+L 15
+#22880
+healing potion red~
+a red healing potion~
+A red healing potion sits here.~
+10 0 1 1
+20 0 0 0
+1
+L 1
+#22881
+unique tree-trunk club legendary~
+@@Rthe Hill Giant Chief's weapon@@N~
+@@RThe legendary weapon of the Hill Giant Chief@@N lies here.~
+5 67 8193 1
+2 10 0 3
+12
+A 18 11
+A 19 11
+A 13 40
+A 1 2
+L 20
+#0
+#RESETS
+M 0 22850 3 22800
+E 0 22871 0 5
+E 0 22870 0 16
+G 0 22880 0
+M 0 22851 3 22801
+E 0 22870 0 16
+E 0 22872 0 6
+M 0 22852 3 22802
+E 0 22874 0 8
+E 0 22878 0 1
+M 0 22853 3 22803
+E 0 22875 0 9
+E 0 22874 0 8
+M 0 22854 3 22804
+E 0 22878 0 1
+E 0 22870 0 16
+M 0 22855 3 22805
+E 0 22879 0 3
+E 0 22871 0 5
+G 0 22880 0
+M 0 22856 3 22806
+E 0 22871 0 5
+E 0 22876 0 11
+G 0 22880 0
+M 0 22857 3 22807
+E 0 22871 0 5
+E 0 22874 0 8
+G 0 22880 0
+M 0 22858 1 22848
+E 0 22881 0 16
+E 0 22871 0 5
+E 0 22872 0 6
+E 0 22873 0 7
+E 0 22874 0 8
+E 0 22875 0 9
+E 0 22876 0 11
+E 0 22877 0 12
+E 0 22879 0 3
+E 0 22878 0 1
+G 0 22880 0
+G 0 22880 0
+S
+#$
