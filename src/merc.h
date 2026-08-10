@@ -4199,8 +4199,16 @@ bool writeCompressed   (DESCRIPTOR_DATA *desc, char *txt, int length);
 /* trade.c */
 void trade_abort args((CHAR_DATA *ch));
 
-/* md5c.c */
-char *md5string args((char *text, char *out));
+/* md5c.c / password hashing */
+char *md5string              args((char *text, char *out));
+char *hash_password          args((const char *plain, char *out, int outlen));
+bool  check_password         args((const char *plain, const char *stored));
+bool  password_needs_rehash  args((const char *stored));
+#define PWD_MIN_LEN  8
+#define PWD_MAX_LEN  64
+#define PWD_STOR_LEN 64         /* buffer for $s$salt$hash */
+
+void safe_strcpy             args((int max_len, char *dest, const char *source));
 
 #undef  CD
 #undef  MID

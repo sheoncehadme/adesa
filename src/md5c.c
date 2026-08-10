@@ -17,8 +17,23 @@
 
 #include <string.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <unistd.h>
 
 #include "md5.h"
+
+/* Local bool so this unit does not depend on merc.h */
+#ifndef TRUE
+# define TRUE  1
+# define FALSE 0
+#endif
+typedef unsigned char bool;
+
+#if !defined(NOCRYPT)
+extern char *crypt(const char *key, const char *salt);
+#endif
+
 
 IDSTRING(rcsid, "$Id: md5c.c,v 1.3 2003/02/09 18:48:34 dave Exp $");
 
@@ -291,4 +306,169 @@ md5string(char *text, char *out)
         sprintf(out + (i * 2), "%.2x", digest[i]);
 
     return out;
+}
+
+/*
+ * Salted, iterated password storage.
+ *
+ * Format:  $s$<16 hex salt>$<32 hex md5>
+ * Algorithm: dig0 = MD5(salt || plain); dig_{n+1} = MD5(dig_n || salt || plain)
+ * for PWD_ROUNDS iterations (constant below).
+ *
+ * Still not Argon2/bcrypt, but far harder than unsalted MD5 for offline attack,
+ * with no new library dependency. Legacy DES (crypt) and plain 32-char MD5
+ * continue to verify; successful login should re-hash to $s$.
+ */
+#define PWD_SALT_HEX_LEN  16
+#define PWD_ROUNDS        5000
+#define PWD_HASH_BUF      64    /* $s$ + 16 + $ + 32 + NUL */
+
+static void
+pwd_digest(const char *plain, const char *salt16, char *out33)
+{
+    char                buf[1024];
+    char                dig[33];
+    int                 r;
+    size_t              plen, slen;
+
+    if (!plain)
+        plain = "";
+    if (!salt16)
+        salt16 = "0000000000000000";
+
+    plen = strlen(plain);
+    slen = strlen(salt16);
+    if (slen > PWD_SALT_HEX_LEN)
+        slen = PWD_SALT_HEX_LEN;
+
+    if (slen + plen + 1 >= sizeof(buf))
+        plen = sizeof(buf) - slen - 1;
+
+    memcpy(buf, salt16, slen);
+    memcpy(buf + slen, plain, plen);
+    buf[slen + plen] = '\0';
+    md5string(buf, dig);
+
+    for (r = 1; r < PWD_ROUNDS; r++) {
+        /* dig (32) + salt + plain */
+        if (32 + slen + plen + 1 >= sizeof(buf))
+            break;
+        memcpy(buf, dig, 32);
+        memcpy(buf + 32, salt16, slen);
+        memcpy(buf + 32 + slen, plain, plen);
+        buf[32 + slen + plen] = '\0';
+        md5string(buf, dig);
+    }
+    memcpy(out33, dig, 33);
+}
+
+static void
+pwd_random_salt(char *salt17)
+{
+    static unsigned long rng;
+    unsigned int        i;
+    unsigned char       b;
+    FILE               *ur;
+
+    /* Prefer OS entropy when available */
+    ur = fopen("/dev/urandom", "rb");
+    if (ur) {
+        unsigned char       raw[8];
+
+        if (fread(raw, 1, 8, ur) == 8) {
+            fclose(ur);
+            for (i = 0; i < 8; i++)
+                sprintf(salt17 + i * 2, "%02x", raw[i]);
+            salt17[16] = '\0';
+            return;
+        }
+        fclose(ur);
+    }
+
+    if (rng == 0)
+        rng = (unsigned long) time(NULL) ^ (unsigned long) getpid() ^ 0xA5A5u;
+    for (i = 0; i < 8; i++) {
+        rng = rng * 1103515245UL + 12345UL;
+        b = (unsigned char) ((rng >> 16) & 0xFF);
+        sprintf(salt17 + i * 2, "%02x", b);
+    }
+    salt17[16] = '\0';
+}
+
+char               *
+hash_password(const char *plain, char *out, int outlen)
+{
+    char                salt[PWD_SALT_HEX_LEN + 1];
+    char                dig[33];
+
+    if (!out || outlen < PWD_HASH_BUF) {
+        if (out && outlen > 0)
+            out[0] = '\0';
+        return out;
+    }
+
+    pwd_random_salt(salt);
+    pwd_digest(plain, salt, dig);
+    sprintf(out, "$s$%s$%s", salt, dig);
+    return out;
+}
+
+bool
+check_password(const char *plain, const char *stored)
+{
+    char                dig[33];
+    char                salt[PWD_SALT_HEX_LEN + 1];
+    const char         *p;
+    int                 i;
+
+    if (!plain || !stored || stored[0] == '\0')
+        return FALSE;
+
+#ifdef NOCRYPT
+    return !strcmp(plain, stored);
+#else
+    /* New salted format: $s$<16 hex>$<32 hex> */
+    if (stored[0] == '$' && stored[1] == 's' && stored[2] == '$') {
+        p = stored + 3;
+        for (i = 0; i < PWD_SALT_HEX_LEN; i++) {
+            if (!p[i] || p[i] == '$')
+                return FALSE;
+            salt[i] = p[i];
+        }
+        salt[PWD_SALT_HEX_LEN] = '\0';
+        if (p[PWD_SALT_HEX_LEN] != '$')
+            return FALSE;
+        p += PWD_SALT_HEX_LEN + 1;
+        if (strlen(p) != 32)
+            return FALSE;
+        pwd_digest(plain, salt, dig);
+        return strcmp(dig, p) == 0;
+    }
+
+    /* Unsalted MD5 (legacy 32 hex chars) */
+    if (strlen(stored) == 32) {
+        md5string((char *) plain, dig);
+        return strcmp(dig, stored) == 0;
+    }
+
+    /* Ancient DES crypt() storage */
+    {
+        char               *crypted;
+
+        crypted = crypt(plain, stored);
+        if (!crypted)
+            return FALSE;
+        return strcmp(crypted, stored) == 0;
+    }
+#endif
+}
+
+bool
+password_needs_rehash(const char *stored)
+{
+    if (!stored || !*stored)
+        return TRUE;
+    if (stored[0] == '$' && stored[1] == 's' && stored[2] == '$')
+        return FALSE;
+    return TRUE;                /* DES or plain MD5 */
 }

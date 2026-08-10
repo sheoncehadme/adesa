@@ -4258,7 +4258,6 @@ void
 do_resetpassword(CHAR_DATA *ch, char *argument)
 {
     char                arg1[MAX_INPUT_LENGTH];
-    char                md5buf[33];
     CHAR_DATA          *victim;
     char               *pwdnew;
 
@@ -4288,12 +4287,19 @@ do_resetpassword(CHAR_DATA *ch, char *argument)
         return;
     }
 
-    if (strlen(argument) < 5) {
-        send_to_char("New password must be at least five characters long.\n\r", ch);
+    if (strlen(argument) < PWD_MIN_LEN) {
+        send_to_char("New password must be at least 8 characters long.\n\r", ch);
+        return;
+    }
+    if (strlen(argument) > PWD_MAX_LEN) {
+        send_to_char("New password must be 64 characters or less.\n\r", ch);
         return;
     }
 
-    pwdnew = md5string(argument, md5buf);
+    {
+        static char hashbuf[PWD_STOR_LEN];
+        pwdnew = hash_password(argument, hashbuf, sizeof(hashbuf));
+    }
 
     free_string(victim->pcdata->pwd);
     victim->pcdata->pwd = str_dup(pwdnew);

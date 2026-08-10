@@ -125,8 +125,8 @@ do { \
     (item) = getmem(sizeof(*(item))); \
   else { \
     if ( !(freelist)->is_free ) { \
-      bug("GET_FREE: freelist head is NOT FREE!  Hanging..."); \
-      for (;;); \
+      /* Do not infinite-loop the whole process (DoS). Abort cleanly. */ \
+      hang("GET_FREE: freelist head is NOT FREE!"); \
     } \
     (item) = (freelist); \
     (freelist) = (item)->next; \
@@ -137,8 +137,7 @@ do { \
 #define PUT_FREE(item, freelist) \
 do { \
   if ( (item)->is_free ) { \
-    bug("PUT_FREE: item is ALREADY FREE!  Hanging..."); \
-    for (;;); \
+      hang("PUT_FREE: item is ALREADY FREE!"); \
   } \
   (item)->next = (freelist); \
   (item)->is_free = TRUE; /* This sets is_free flag */ \

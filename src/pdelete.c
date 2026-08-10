@@ -56,7 +56,6 @@ do_sdelete(CHAR_DATA *ch, char *argument)
     char               *pArg;
     char                cEnd;
     char                buf[MAX_INPUT_LENGTH];
-    char                md5buf[33];
     RULER_DATA         *ruler = NULL;
 
     if (IS_NPC(ch))
@@ -73,7 +72,7 @@ do_sdelete(CHAR_DATA *ch, char *argument)
     if (*argument == '\'' || *argument == '"')
         cEnd = *argument++;
 
-    while (*argument != '\0') {
+    while (*argument != '\0' && (pArg - arg1) < (MAX_INPUT_LENGTH - 1)) {
         if (*argument == cEnd) {
             argument++;
             break;
@@ -88,7 +87,7 @@ do_sdelete(CHAR_DATA *ch, char *argument)
         return;
     }
     if ((ch->pcdata->pwd != NULL)
-        && (strcmp(md5string(arg1, md5buf), ch->pcdata->pwd))) {
+        && !check_password(arg1, ch->pcdata->pwd)) {
         WAIT_STATE(ch, 40);
         send_to_char("Wrong password.  Wait 10 seconds.\n\r", ch);
         return;

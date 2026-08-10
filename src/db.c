@@ -4281,6 +4281,25 @@ mprog_read_programs(FILE * fp, MOB_INDEX_DATA *pMobIndex)
 }
 
 void
+safe_strcpy(int max_len, char *dest, const char *source)
+{
+    int                 n;
+
+    if (dest == NULL || max_len < 1)
+        return;
+    if (source == NULL) {
+        dest[0] = '\0';
+        return;
+    }
+    n = 0;
+    while (n < max_len - 1 && source[n] != '\0') {
+        dest[n] = source[n];
+        n++;
+    }
+    dest[n] = '\0';
+}
+
+void
 safe_strcat(int max_len, char *dest, char *source)
 {
     int                 a;

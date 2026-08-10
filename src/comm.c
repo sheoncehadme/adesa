@@ -51,6 +51,7 @@
 #include <fcntl.h>
 #include <netdb.h>
 #include <netinet/in.h>
+#include <arpa/inet.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
@@ -591,6 +592,15 @@ init_socket(int port)
     sa = sa_zero;
     sa.sin_family = AF_INET;
     sa.sin_port = htons(port);
+    {
+        const char         *bind_addr = getenv("MUD_BIND");
+
+        /* Default: all interfaces. Set MUD_BIND=127.0.0.1 (etc.) to restrict. */
+        if (bind_addr && *bind_addr)
+            sa.sin_addr.s_addr = inet_addr(bind_addr);
+        else
+            sa.sin_addr.s_addr = htonl(INADDR_ANY);
+    }
 
     if (bind(fd, (struct sockaddr *) &sa, sizeof(sa)) < 0) {
         perror("Init_socket: bind");
@@ -609,6 +619,86 @@ init_socket(int port)
 #endif
 
 int                 cur_hour = -1;
+
+/* Per-IP failed-auth tracking (login brute-force throttle) */
+#define AUTH_FAIL_SLOTS   128
+#define AUTH_FAIL_LIMIT   10
+#define AUTH_FAIL_WINDOW  300   /* seconds */
+
+struct auth_fail_ent {
+    char    ip[64];
+    int     count;
+    time_t  window_start;
+};
+static struct auth_fail_ent auth_fails[AUTH_FAIL_SLOTS];
+
+static int
+auth_fail_index(const char *ip)
+{
+    int i, free_i = -1;
+    time_t now = current_time;
+
+    if (!ip || !*ip)
+        ip = "?";
+
+    for (i = 0; i < AUTH_FAIL_SLOTS; i++) {
+        if (auth_fails[i].ip[0] == '\0') {
+            if (free_i < 0)
+                free_i = i;
+            continue;
+        }
+        if (now - auth_fails[i].window_start > AUTH_FAIL_WINDOW) {
+            auth_fails[i].ip[0] = '\0';
+            auth_fails[i].count = 0;
+            if (free_i < 0)
+                free_i = i;
+            continue;
+        }
+        if (!strcmp(auth_fails[i].ip, ip))
+            return i;
+    }
+    if (free_i < 0)
+        free_i = 0;
+    safe_strcpy(sizeof(auth_fails[free_i].ip), auth_fails[free_i].ip, ip);
+    auth_fails[free_i].count = 0;
+    auth_fails[free_i].window_start = now;
+    return free_i;
+}
+
+static int
+auth_is_throttled(const char *ip)
+{
+    int i = auth_fail_index(ip);
+    return auth_fails[i].count >= AUTH_FAIL_LIMIT;
+}
+
+static void
+auth_note_failure(const char *ip)
+{
+    int i = auth_fail_index(ip);
+    if (current_time - auth_fails[i].window_start > AUTH_FAIL_WINDOW) {
+        auth_fails[i].count = 0;
+        auth_fails[i].window_start = current_time;
+    }
+    auth_fails[i].count++;
+}
+
+static void
+auth_clear_failures(const char *ip)
+{
+    int i;
+    if (!ip)
+        return;
+    for (i = 0; i < AUTH_FAIL_SLOTS; i++) {
+        if (auth_fails[i].ip[0] && !strcmp(auth_fails[i].ip, ip)) {
+            auth_fails[i].ip[0] = '\0';
+            auth_fails[i].count = 0;
+            return;
+        }
+    }
+}
+
+
 
 #ifndef BPORT
 int                 cur_min = -1;
@@ -2947,40 +3037,42 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
 #if defined(unix)
         write_to_buffer(d, "\n\r", 2);
 #endif
+        if (auth_is_throttled(d->ip ? d->ip : d->host)) {
+            write_to_buffer(d, "Too many failed login attempts from your address. Try again later.\n\r", 0);
+            sprintf(buf, "THROTTLED LOGIN for %s from site %s.", ch->name, d->host);
+            monitor_chan(buf, MONITOR_CONNECT);
+            log_string(buf);
+            close_socket(d);
+            return;
+        }
+
         if (d->challenge[0] == '\0') {
-            char                buf1[MSL];
-            char                buf2[MSL];
-
-            if (strlen(ch->pcdata->pwd) < 32) {
-                strcpy(buf1, crypt(argument, ch->pcdata->pwd));
-                strcpy(buf2, ch->pcdata->pwd);
-            }
-            else {
-                strcpy(buf1, md5string(argument, md5buf));
-                strcpy(buf2, ch->pcdata->pwd);
-            }
-
-            if (strcmp(buf1, buf2)) {
+            if (!check_password(argument, ch->pcdata->pwd)) {
                 write_to_buffer(d, "Wrong password.\n\r", 0);
                 sprintf(buf, "FAILED LOGIN for %s from site %s.", ch->name, d->host);
                 monitor_chan(buf, MONITOR_CONNECT);
                 log_string(buf);
                 ch->pcdata->failures++;
+                auth_note_failure(d->ip ? d->ip : d->host);
                 save_char_obj(ch);
                 close_socket(d);
                 return;
             }
-            else if (strlen(buf1) < 32) {
-                if (ch->pcdata->pwd)
-                    free_string(ch->pcdata->pwd);
-                ch->pcdata->pwd = str_dup(md5string(argument, md5buf));
+            /* Upgrade DES / plain MD5 to salted iterated hash on successful login */
+            if (password_needs_rehash(ch->pcdata->pwd)) {
+                char                newhash[PWD_STOR_LEN];
 
-                write_to_buffer(d, "Your password algorithm has changed from DES to MD5. See help md5 for information.\n\r", 0);
+                hash_password(argument, newhash, sizeof(newhash));
+                free_string(ch->pcdata->pwd);
+                ch->pcdata->pwd = str_dup(newhash);
+                write_to_buffer(d, "Your password storage has been upgraded. See help password.\n\r", 0);
             }
+            auth_clear_failures(d->ip ? d->ip : d->host);
         }
         else {
             char                buf1[MSL];
 
+            /* Challenge clients: MD5(challenge || stored_hash_field) */
             sprintf(buf1, "%s%s", d->challenge, ch->pcdata->pwd);
             (void) md5string(buf1, md5buf);
 
@@ -2989,10 +3081,12 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
                 sprintf(buf, "FAILED CHALLENGE for %s from site %s.", ch->name, d->host);
                 monitor_chan(buf, MONITOR_CONNECT);
                 ch->pcdata->failures++;
+                auth_note_failure(d->ip ? d->ip : d->host);
                 save_char_obj(ch);
                 close_socket(d);
                 return;
             }
+            auth_clear_failures(d->ip ? d->ip : d->host);
         }
 
         write_to_buffer(d, (char *) echo_on_str, 0);
@@ -3048,17 +3142,20 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
         write_to_buffer(d, "\n\r", 2);
 #endif
 
-        if (strlen(argument) < 5) {
-            write_to_buffer(d, "Password must be at least five characters long.\n\rPassword: ", 0);
+        if (strlen(argument) < PWD_MIN_LEN) {
+            write_to_buffer(d, "Password must be at least 8 characters long.\n\rPassword: ", 0);
             return;
         }
 
-        if (strlen(argument) > 64) {
+        if (strlen(argument) > PWD_MAX_LEN) {
             write_to_buffer(d, "Password must be 64 characters or less.\n\rPassword: ", 0);
             return;
         }
 
-        pwdnew = md5string(argument, md5buf);
+        {
+            static char         hashbuf[PWD_STOR_LEN];
+            pwdnew = hash_password(argument, hashbuf, sizeof(hashbuf));
+        }
 
         /* not a crypt pass, doesn't apply
            for ( p = pwdnew; *p != '\0'; p++ )
@@ -3085,7 +3182,7 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
         write_to_buffer(d, "\n\r", 2);
 #endif
 
-        if (strcmp(md5string(argument, md5buf), ch->pcdata->pwd)) {
+        if (!check_password(argument, ch->pcdata->pwd)) {
             write_to_buffer(d, "Passwords don't match.\n\rRetype password: ", 0);
             d->connected = CON_GET_NEW_PASSWORD;
             return;

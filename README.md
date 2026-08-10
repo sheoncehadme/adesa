@@ -39,6 +39,14 @@ cd area && ../src/merc 6000
 
 Default port is `6000` via `startup.m`, or `1234` if you run `merc` with no args.
 
+### Security notes
+
+- **Passwords** are stored as salted, iterated MD5 (`$s$…`). Legacy DES/`crypt` and plain 32-char MD5 still verify and are upgraded on successful login. Minimum length is **8**.
+- **Login brute-force**: more than 10 failures from the same IP within 5 minutes are rejected temporarily.
+- **Bind address**: set `MUD_BIND=127.0.0.1` (or another address) before start to avoid listening on all interfaces.
+- Prefer TLS (stunnel/proxy) or a VPN; the game protocol itself is cleartext.
+- Freelist corruption aborts via `hang()` instead of locking the process in an infinite loop.
+
 ## Testing
 
 There was no historical unit-test suite; Adesa now has a layered harness under `tests/`.

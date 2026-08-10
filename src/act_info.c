@@ -4071,9 +4071,6 @@ do_password(CHAR_DATA *ch, char *argument)
 {
     char                arg1[MAX_INPUT_LENGTH];
     char                arg2[MAX_INPUT_LENGTH];
-    char                buf1[MSL];
-    char                buf2[MSL];
-    char                md5buf[33];
     char               *pArg;
     char               *pwdnew;
     char                cEnd;
@@ -4095,7 +4092,7 @@ do_password(CHAR_DATA *ch, char *argument)
     if (*argument == '\'' || *argument == '"')
         cEnd = *argument++;
 
-    while (*argument != '\0') {
+    while (*argument != '\0' && (pArg - arg1) < (MAX_INPUT_LENGTH - 1)) {
         if (*argument == cEnd) {
             argument++;
             break;
@@ -4112,7 +4109,7 @@ do_password(CHAR_DATA *ch, char *argument)
     if (*argument == '\'' || *argument == '"')
         cEnd = *argument++;
 
-    while (*argument != '\0') {
+    while (*argument != '\0' && (pArg - arg2) < (MAX_INPUT_LENGTH - 1)) {
         if (*argument == cEnd) {
             argument++;
             break;
@@ -4128,28 +4125,26 @@ do_password(CHAR_DATA *ch, char *argument)
     }
 
     if (ch->pcdata->pwd != NULL) {
-        if (strlen(ch->pcdata->pwd) < 32) {
-            strcpy(buf1, crypt(arg1, ch->pcdata->pwd));
-            strcpy(buf2, ch->pcdata->pwd);
-        }
-        else {
-            strcpy(buf1, md5string(arg1, md5buf));
-            strcpy(buf2, ch->pcdata->pwd);
-        }
-
-        if (strcmp(buf1, buf2)) {
+        if (!check_password(arg1, ch->pcdata->pwd)) {
             WAIT_STATE(ch, 40);
             send_to_char("Wrong password.  Wait 10 seconds.\n\r", ch);
             return;
         }
     }
 
-    if (strlen(arg2) < 5) {
-        send_to_char("New password must be at least five characters long.\n\r", ch);
+    if (strlen(arg2) < PWD_MIN_LEN) {
+        send_to_char("New password must be at least 8 characters long.\n\r", ch);
+        return;
+    }
+    if (strlen(arg2) > PWD_MAX_LEN) {
+        send_to_char("New password must be 64 characters or less.\n\r", ch);
         return;
     }
 
-    pwdnew = md5string(arg2, md5buf);
+    {
+        static char hashbuf[PWD_STOR_LEN];
+        pwdnew = hash_password(arg2, hashbuf, sizeof(hashbuf));
+    }
 
     free_string(ch->pcdata->pwd);
     ch->pcdata->pwd = str_dup(pwdnew);
