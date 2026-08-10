@@ -85,7 +85,7 @@ do_clutch(CHAR_DATA *ch, char *argument)
     /* Big top-level clutch funciton. */
 
     OBJ_DATA           *obj;
-    bool                found;
+    bool                found __attribute__((unused));
 
     /* See if any object is clutched... */
     found = FALSE;

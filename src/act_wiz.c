@@ -477,7 +477,7 @@ mecho_finished(char *orig, char **dest, CHAR_DATA *ch, bool saved)
     bool                fAll = FALSE;
     bool                toNotPlaying = FALSE;
 
-    if (!saved || !note || note->text == '\0' || strcmp(note->text, "\n\r") == 0) {
+    if (!saved || !note || note->text == NULL || strcmp(note->text, "\n\r") == 0) {
         send_to_char("Mecho cancelled.\n\r", ch);
 
         if (!note)
@@ -1303,7 +1303,7 @@ do_ofindlev(CHAR_DATA *ch, char *argument)
     bool                fAll;
     bool                found;
     int                 level;
-    int                 objlev;
+    int                 objlev __attribute__((unused));
 
     one_argument(argument, arg);
     if (arg[0] == '\0') {
@@ -3887,7 +3887,7 @@ do_force(CHAR_DATA *ch, char *argument)
             return;
         }
 
-        for (vch = first_char; vch != NULL; vch = vch = vch_next) {
+        for (vch = first_char; vch != NULL; vch = vch_next) {
 
             vch_next = vch->next;
 
@@ -3905,7 +3905,7 @@ do_force(CHAR_DATA *ch, char *argument)
         CHAR_DATA          *vim;
         CHAR_DATA          *vim_next;
 
-        for (vim = first_char; vim != NULL; vim = vim = vim_next) {
+        for (vim = first_char; vim != NULL; vim = vim_next) {
 
             vim_next = vim->next;
 
@@ -4269,7 +4269,7 @@ do_resetpassword(CHAR_DATA *ch, char *argument)
 
     victim = get_char_world(ch, arg1);
 
-    if (victim == '\0') {
+    if (victim == NULL) {
         send_to_char("This character is not playing at this time\n\r", ch);
         return;
     }
@@ -4282,7 +4282,7 @@ do_resetpassword(CHAR_DATA *ch, char *argument)
         return;
     }
 
-    if ((ch->pcdata->pwd != '\0')
+    if ((ch->pcdata->pwd != NULL)
         && (arg1[0] == '\0' || *argument == '\0')) {
         send_to_char("Syntax: password <char> <new>.\n\r", ch);
         return;
@@ -5348,7 +5348,7 @@ do_alink(CHAR_DATA *ch, char *argument)
 {
 
     AREA_DATA          *this_area;
-    ROOM_INDEX_DATA    *this_room;
+    ROOM_INDEX_DATA    *this_room __attribute__((unused));
 
     BUILD_DATA_LIST    *pointer;
     ROOM_INDEX_DATA    *current_room;
@@ -5478,7 +5478,7 @@ do_imtlset(CHAR_DATA *ch, char *argument)
                 send_to_char("All immskills have been deleted.\n\r", ch);
                 return;
             }
-            else if (arg1) {
+            else if (arg1[0] != '\0') {
                 /*
                  * Cool great imtlset <victim> - <skill> code...
                  * Idea from Canth (phule@xs4all.nl)
@@ -7075,7 +7075,7 @@ do_opotion(CHAR_DATA *ch, char *argument)
     AREA_DATA          *area;
     BUILD_DATA_LIST    *obj;
     OBJ_INDEX_DATA     *pobj;
-    int                 lvl, sn1, sn2, sn3;
+    int                 lvl __attribute__((unused)), sn1, sn2, sn3;
     char                *sn1name, *sn2name, *sn3name;
     char                buf[MSL];
 

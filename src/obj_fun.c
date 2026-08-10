@@ -184,7 +184,7 @@ objfun_infused_soul(OBJ_DATA *obj, CHAR_DATA *keeper)
 
     int                 sn;
     CHAR_DATA          *victim;
-    int                 min_lev;
+    int                 min_lev __attribute__((unused));
     char               *spell = "";
 
     if (keeper == NULL || keeper->in_room == NULL)
@@ -265,7 +265,7 @@ objfun_cast_fight(OBJ_DATA *obj, CHAR_DATA *keeper)
 {
     int                 sn;
     CHAR_DATA          *victim;
-    int                 min_lev;
+    int                 min_lev __attribute__((unused));
     char               *spell = "";
 
     if (keeper == NULL || (keeper->fighting == NULL)
@@ -354,7 +354,7 @@ objfun_flaming(OBJ_DATA *obj, CHAR_DATA *keeper)
 {
     int                 sn;
     CHAR_DATA          *victim;
-    int                 min_lev;
+    int                 min_lev __attribute__((unused));
     char               *spell = "";
 
     if (keeper == NULL || keeper->in_room == NULL)
@@ -433,7 +433,7 @@ objfun_healing(OBJ_DATA *obj, CHAR_DATA *keeper)
 {
     int                 sn;
     CHAR_DATA          *victim;
-    int                 min_lev;
+    int                 min_lev __attribute__((unused));
     char               *spell = "";
 
     if (keeper == NULL || keeper->in_room == NULL)
@@ -508,7 +508,7 @@ objfun_dispeller(OBJ_DATA *obj, CHAR_DATA *keeper)
 {
     int                 sn;
     CHAR_DATA          *victim;
-    int                 min_lev;
+    int                 min_lev __attribute__((unused));
     char               *spell = "";
 
     if (keeper == NULL || keeper->in_room == NULL)

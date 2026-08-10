@@ -615,7 +615,7 @@ is_remort(CHAR_DATA *ch)
 int
 best_learnt(CHAR_DATA *ch, int sn)
 {
-    int cnt, class = -1, classa = -1, classb = -1;
+    int cnt, class = -1, classa = -1, classb __attribute__((unused)) = -1;
     bool mort = FALSE, remort = FALSE, adept = FALSE, avatar = FALSE;
 
     if (skill_table[sn].flag1 == MORTAL)

@@ -400,7 +400,7 @@ build_showmob(CHAR_DATA *ch, char *argument)
 
     /*    RESET_DATA     *pReset; Unused var */
     SHOP_DATA          *pShop;
-    bool                is_shopkeeper = 0;
+    bool                is_shopkeeper __attribute__((unused)) = 0;
     int                 iTrade;
 
     argument = one_argument(argument, arg1);
@@ -959,7 +959,7 @@ build_findmob(CHAR_DATA *ch, char *argument)
     MOB_INDEX_DATA     *pMobIndex;
     BUILD_DATA_LIST    *Pointer;
     AREA_DATA          *Area;
-    int                 nMatch;
+    int                 nMatch __attribute__((unused));
     bool                fAll;
     bool                found;
 
@@ -1071,7 +1071,7 @@ build_findobject(CHAR_DATA *ch, char *argument)
     OBJ_INDEX_DATA     *pObjIndex;
     BUILD_DATA_LIST    *pList;
     AREA_DATA          *Area;
-    int                 nMatch;
+    int                 nMatch __attribute__((unused));
     bool                fAll;
     bool                found;
 
@@ -1128,7 +1128,7 @@ build_findroom(CHAR_DATA *ch, char *argument)
     ROOM_INDEX_DATA    *pRoomIndex;
     BUILD_DATA_LIST    *pList;
     AREA_DATA          *Area;
-    int                 nMatch;
+    int                 nMatch __attribute__((unused));
     bool                fAll;
     bool                found;
 
@@ -2158,7 +2158,7 @@ build_setroom(CHAR_DATA *ch, char *argument)
 
         if (!str_cmp(arg3, "clear")) {
             ROOM_INDEX_DATA    *pDestRoom;
-            int vnum;
+            int vnum __attribute__((unused));
 
             if (pExit == NULL)
                 return;

@@ -93,7 +93,7 @@ move_char(CHAR_DATA *ch, int door)
 
     /*    struct fol_data *fol = NULL;   */
     char                tmp[MAX_STRING_LENGTH];
-    int                 need_movement;
+    int                 need_movement __attribute__((unused));
     char                door_name_leave[MSL];
     char                door_name_enter[MSL];
     ROOM_AFFECT_DATA   *raf;

@@ -778,7 +778,7 @@ fread_char(CHAR_DATA *ch, FILE * fp)
     char               *specname;
     bool                fMatch;
     int                 cnt;
-    int                 ignore;
+    int                 ignore __attribute__((unused));
     char               *ignorec;
 
     specname = str_dup("");
@@ -1289,7 +1289,7 @@ fread_obj(CHAR_DATA *ch, FILE * fp)
     bool                fMatch;
     bool                fNest;
     bool                fVnum;
-    int                 Temp_Obj = 0, OldVnum = 0;
+    int                 Temp_Obj = 0, OldVnum __attribute__((unused)) = 0;
 
     GET_FREE(obj, obj_free);
     *obj = obj_zero;
@@ -1591,7 +1591,7 @@ fread_corpse(FILE * fp)
     bool                fMatch;
     bool                fNest;
     bool                fVnum;
-    int                 Temp_Obj = 0, OldVnum = 0;
+    int                 Temp_Obj = 0, OldVnum __attribute__((unused)) = 0;
     int                 this_room_vnum;
 
     GET_FREE(obj, obj_free);

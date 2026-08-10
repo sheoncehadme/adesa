@@ -1045,7 +1045,7 @@ spell_planergy(int sn, int level, CHAR_DATA *ch, void *vo, OBJ_DATA *obj)
 
     CHAR_DATA          *victim = (CHAR_DATA *) vo;
     int                 dam;
-    int                 lvl;
+    int                 lvl __attribute__((unused));
     char               *plane;
     char               *engulf;
     char                msg[255];
@@ -1469,7 +1469,7 @@ spell_mind_bolt(int sn, int level, CHAR_DATA *ch, void *vo, OBJ_DATA *obj)
     CHAR_DATA          *victim = (CHAR_DATA *) vo;
     int                 cnt;
     int                 foo;
-    int                 dam;
+    int                 dam __attribute__((unused));
 
     if (obj == NULL) {
         act("$n attacks $N with a Mind Bolt!", ch, NULL, victim, TO_NOTVICT);

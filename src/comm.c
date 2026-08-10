@@ -1802,7 +1802,7 @@ bust_a_prompt(DESCRIPTOR_DATA *d, bool preview)
 
         dbuf[0] = 0;
 
-        sprintf(mbuf, "@@c[@@a[@@W%s@@a]@@c]@@N ", duration(abs(ch->pcdata->safetimer - current_time), dbuf));
+        sprintf(mbuf, "@@c[@@a[@@W%s@@a]@@c]@@N ", duration(llabs(ch->pcdata->safetimer - current_time), dbuf));
         send_to_char(mbuf, ch);
     }
 
@@ -3136,7 +3136,7 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
             return;
         }
         number = atoi(argument);
-        if (number < 1 && number > 5) {
+        if (number < 1 || number > 5) {
             write_to_buffer(d, "\n\rPlease Enter A Number Between 1 And 5.\n\r", 0);
             show_menu_to(d);
             return;

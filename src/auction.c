@@ -685,7 +685,7 @@ auction_do(CHAR_DATA *ch, char *argument, int type)
         auctionf("@@y[@@b%s@@y] @@N%s bids %s %s@@N on %s@@N.", auc->keyword, ch->short_descr, number_comma(amt), BIDTYPE(auc),
             auc->pObj->short_descr);
 
-        if (abs(auc->expire_time - current_time) < 60)
+        if (llabs(auc->expire_time - current_time) < 60)
             auc->expire_time += 360;
 
         if (!can_save(ch, auc->pObj))
@@ -887,7 +887,7 @@ fread_auction_obj(FILE * fp)
     char               *word;
     bool                fMatch;
     bool                fVnum;
-    int                 Temp_Obj = 0, OldVnum = 0;
+    int                 Temp_Obj = 0, OldVnum __attribute__((unused)) = 0;
 
     GET_FREE(obj, obj_free);
     *obj = obj_zero;
@@ -1243,7 +1243,7 @@ auc_update(void)
 
     for (auc = first_auction; auc != NULL; auc = auc_next) {
         auc_next = auc->next;
-        left = abs(auc->expire_time - current_time);
+        left = llabs(auc->expire_time - current_time);
 
         if (current_time >= auc->expire_time) {
             save = TRUE;

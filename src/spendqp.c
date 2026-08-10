@@ -260,10 +260,10 @@ do_qpspend(CHAR_DATA *ch, char *argument)
         sh_int              qp_cost = 0;
 
         if (!str_cmp(ch->pcdata->pedit_string[0], "none")) {
-            sprintf(test_string, ch->pcdata->room_enter);
+            sprintf(test_string, "%s", ch->pcdata->room_enter);
         }
         else {
-            sprintf(test_string, ch->pcdata->pedit_string[0]);
+            sprintf(test_string, "%s", ch->pcdata->pedit_string[0]);
             qp_cost++;
         }
 
@@ -272,10 +272,10 @@ do_qpspend(CHAR_DATA *ch, char *argument)
         act(move_buf, ch, NULL, rev_name[1], TO_CHAR);
 
         if (!str_cmp(ch->pcdata->pedit_string[1], "none")) {
-            sprintf(test_string, ch->pcdata->room_exit);
+            sprintf(test_string, "%s", ch->pcdata->room_exit);
         }
         else {
-            sprintf(test_string, ch->pcdata->pedit_string[1]);
+            sprintf(test_string, "%s", ch->pcdata->pedit_string[1]);
             qp_cost++;
         }
 

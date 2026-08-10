@@ -36,6 +36,7 @@
 #include <netinet/in.h>
 #include <string.h>
 #include <stdlib.h>
+#include <math.h>
 #include <time.h>
 #include <unistd.h>
 #include <ctype.h>
@@ -204,7 +205,7 @@ advance_level(CHAR_DATA *ch, int class, bool show, bool remort, int levels)
     int                 add_prac = 0;
     int                 cnt;
 
-    if ((class == 32)) {
+    if (class == 32) {
         add_hp = UMAX(1, con_app[get_curr_con(ch)].hitp + number_range(10, 50));
         add_mana = UMAX(0, number_range(10, (3 * get_curr_int(ch) + get_curr_wis(ch)) / 4));
         add_move = UMAX(7, number_range(2, (get_curr_con(ch) + get_curr_dex(ch)) / 5));
@@ -1900,11 +1901,11 @@ check_re_equip(CHAR_DATA *ch)
     OBJ_DATA           *obj2;
     OBJ_DATA           *armor = NULL;
     OBJ_DATA           *light = NULL;
-    int                 ac;
+    int                 ac __attribute__((unused));
     int                 chance;
     bool                pickup;
     bool                ident;
-    int                 best;
+    int                 best __attribute__((unused));
     char                buf[MAX_STRING_LENGTH];
     int                 objnum;
     extern bool         quest;
@@ -2096,7 +2097,7 @@ auction_update(void)
                 }
 
                 if (good_seller) {
-                    auction_owner->gold = UMAX(0, auction_owner->gold - abs(auction_reserve * .1));
+                    auction_owner->gold = UMAX(0, auction_owner->gold - fabs(auction_reserve * .1));
 
                     obj_to_char(auction_item, auction_owner);
                 }
@@ -2125,7 +2126,7 @@ auction_update(void)
 
                 sprintf(buf, "%s - CANCELLED.  Reserve price not matched.", auction_item->short_descr);
                 if (good_seller) {
-                    auction_owner->gold = UMAX(0, auction_owner->gold - abs(auction_reserve * .1));
+                    auction_owner->gold = UMAX(0, auction_owner->gold - fabs(auction_reserve * .1));
 
                     obj_to_char(auction_item, auction_owner);
                 }

@@ -188,7 +188,7 @@ do_quest(CHAR_DATA *ch, char *argument)
     extern int          quest_wait;
     extern sh_int       quest_personality;
 
-    int                 hunt_flags = 0;
+    int                 hunt_flags __attribute__((unused)) = 0;
 
     char                buf[MAX_STRING_LENGTH];
     char                new_long_desc[MAX_STRING_LENGTH];
@@ -229,7 +229,7 @@ do_quest(CHAR_DATA *ch, char *argument)
             send_to_char("The target mobile is dead!\n\r", ch);
 
         /* qinfo */
-        if (quest_target_name != '\0') {
+        if (quest_target_name != NULL) {
             sprintf(buf, "Target Mobile Name is: %s\n\r", quest_target_name);
             send_to_char(buf, ch);
         }
@@ -637,7 +637,7 @@ quest_complete(CHAR_DATA *ch)
         questinfo->mob = str_dup(NAME(quest_mob));
     else
         questinfo->mob = str_dup("");
-    if (quest_target_name != '\0')
+    if (quest_target_name != NULL)
         questinfo->thief = str_dup(quest_target_name);
     else
         questinfo->thief = str_dup("");
@@ -695,7 +695,7 @@ quest_cancel()
             questinfo->mob = str_dup(NAME(quest_mob));
         else
             questinfo->mob = str_dup("");
-        if (quest_target_name != '\0')
+        if (quest_target_name != NULL)
             questinfo->thief = str_dup(quest_target_name);
         else
             questinfo->thief = str_dup("");
@@ -751,7 +751,7 @@ clear_quest()
     quest_mob = NULL;
     quest_target = NULL;
     /* qinfo */
-    quest_target_name = '\0';
+    quest_target_name = NULL;
     quest_object = NULL;
     quest_timer = 0;
     quest_wait = 2 + number_range(1, 4);

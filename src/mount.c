@@ -56,7 +56,7 @@ do_mount(CHAR_DATA *ch, char *argument)
     }
 
     if (ch->position == POS_RIDING) {
-        if ((ch->riding == NULL)) {
+        if (ch->riding == NULL) {
             ch->position = POS_STANDING;
             send_to_char("Odd, you were mounted on thin air!\n\r", ch);
             return;

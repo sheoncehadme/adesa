@@ -168,7 +168,7 @@ build_makearea(CHAR_DATA *ch, char *argument)
     BUILD_DATA_LIST    *pList;
     AREA_DATA          *pArea = NULL;
     AREA_DATA          *fpadd = NULL;
-    AREA_DATA          *lpadd = NULL;
+    AREA_DATA          *lpadd __attribute__((unused)) = NULL;
     FILE               *fpArea;
 
     if (nosave)
@@ -200,7 +200,7 @@ build_makearea(CHAR_DATA *ch, char *argument)
            send_to_char(buf,ch);
            sprintf(buf,"%s\r\n",pArea->name); 
            send_to_char(buf,ch); */
-        if ((rooms <= a && buf != NULL)) {
+        if (rooms <= a && buf[0] != '\0') {
             send_to_char("found one!\r\n", ch);
             vnum = envnum + 1;
             mvnum = vnum + rooms - 1;
@@ -881,7 +881,7 @@ build_findarea(CHAR_DATA *ch, char *argument)
     char                arg[MAX_INPUT_LENGTH];
     AREA_DATA          *pArea;
     ROOM_INDEX_DATA    *pRoomIndex = NULL;
-    int                 nMatch;
+    int                 nMatch __attribute__((unused));
     bool                fAll;
     bool                found;
 

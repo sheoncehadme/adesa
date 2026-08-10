@@ -1854,14 +1854,14 @@ spell_lava_burst(int sn, int level, CHAR_DATA *ch, void *vo, OBJ_DATA *obj)
     DUEL_PLAYER_DATA   *player;
     DUEL_OBJ_DATA      *dobj;
     DUEL_DATA          *duel;
-    int                 save_mod = 1;
+    double              save_mod = 1.0;
     int                 cnt = 0;
     int                 total = 0;
     int                 tot = 0;
     int                 burncnt = 0;
 
     if (saves_spell(level, victim))
-        save_mod = .75;
+        save_mod = 0.75;
 
     if (is_safe(ch, victim, TRUE))
         return FALSE;
@@ -1998,7 +1998,7 @@ spell_retri_strike(int sn, int level, CHAR_DATA *ch, void *vo, OBJ_DATA *obj)
 
                 {
                     OBJ_DATA           *heated_item = NULL;
-                    OBJ_DATA           *prev_carried = NULL;
+                    OBJ_DATA           *prev_carried __attribute__((unused)) = NULL;
 
                     for (heated_item = vch->first_carry; heated_item != NULL; heated_item = heated_item->next_in_carry_list) {
                         if (heated_item->wear_loc == WEAR_NONE)

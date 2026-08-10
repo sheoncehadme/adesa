@@ -343,7 +343,7 @@ do_ctoggle(CHAR_DATA *ch, char *argument)
 char               *
 get_diplo_name(sh_int value)
 {
-    char               *name = '\0';
+    char               *name = NULL;
 
     if (value < -450)
         name = "@@R  WAR  @@N";

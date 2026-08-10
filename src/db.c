@@ -1226,7 +1226,7 @@ load_resets(FILE * fp)
     RESET_DATA         *pReset = NULL;
     BUILD_DATA_LIST    *pList = NULL;
     ROOM_INDEX_DATA    *last_mob_room;
-    ROOM_INDEX_DATA    *last_obj_room;
+    ROOM_INDEX_DATA    *last_obj_room __attribute__((unused));
 
     last_mob_room = NULL;
     last_obj_room = NULL;
@@ -1244,7 +1244,7 @@ load_resets(FILE * fp)
 
         /* Temp values to hold reset, while we see if valid */
         char                Tcommand;
-        int                 Tifflag;
+        int                 Tifflag __attribute__((unused));
         int                 Targ1;
         int                 Targ2;
         int                 Targ3;
@@ -3397,8 +3397,8 @@ do {                                                                    \
     for (cnt = 0, moo = y; moo; moo = moo->next)                        \
         cnt++;                                                          \
                                                                         \
-    sendf(ch, "Number of free %-18s in game: %d (%d wasted bytes)\n\r", \
-        z, cnt, sizeof(x) * cnt);                                       \
+    sendf(ch, "Number of free %-18s in game: %d (%lu wasted bytes)\n\r", \
+        z, cnt, (unsigned long)(sizeof(x) * (unsigned long)cnt));                                       \
 } while(0)
 
 void
@@ -3436,15 +3436,15 @@ do_memory(CHAR_DATA *ch, char *argument)
         }
     }
 
-    sendf(ch, "Affects %8d (%10d bytes)\n\r", top_affect,    sizeof(AFFECT_DATA)      * top_affect);
-    sendf(ch, "Areas   %8d (%10d bytes)\n\r", top_area,      sizeof(AREA_DATA)        * top_area);
-    sendf(ch, "ExDes   %8d (%10d bytes)\n\r", top_ed,        sizeof(EXTRA_DESCR_DATA) * top_ed);
-    sendf(ch, "Exits   %8d (%10d bytes)\n\r", top_exit,      sizeof(EXIT_DATA)        * top_exit);
-    sendf(ch, "Mobs    %8d (%10d bytes)\n\r", top_mob_index, sizeof(MOB_INDEX_DATA)   * top_mob_index);
-    sendf(ch, "Objs    %8d (%10d bytes)\n\r", top_obj_index, sizeof(OBJ_INDEX_DATA)   * top_obj_index);
-    sendf(ch, "Resets  %8d (%10d bytes)\n\r", top_reset,     sizeof(RESET_DATA)       * top_reset);
-    sendf(ch, "Rooms   %8d (%10d bytes)\n\r", top_room,      sizeof(ROOM_INDEX_DATA)  * top_room);
-    sendf(ch, "Shops   %8d (%10d bytes)\n\r", top_shop,      sizeof(SHOP_DATA)        * top_shop);
+    sendf(ch, "Affects %8d (%10lu bytes)\n\r", top_affect, (unsigned long)(sizeof(AFFECT_DATA) * top_affect));
+    sendf(ch, "Areas   %8d (%10lu bytes)\n\r", top_area, (unsigned long)(sizeof(AREA_DATA) * top_area));
+    sendf(ch, "ExDes   %8d (%10lu bytes)\n\r", top_ed, (unsigned long)(sizeof(EXTRA_DESCR_DATA) * top_ed));
+    sendf(ch, "Exits   %8d (%10lu bytes)\n\r", top_exit, (unsigned long)(sizeof(EXIT_DATA) * top_exit));
+    sendf(ch, "Mobs    %8d (%10lu bytes)\n\r", top_mob_index, (unsigned long)(sizeof(MOB_INDEX_DATA) * top_mob_index));
+    sendf(ch, "Objs    %8d (%10lu bytes)\n\r", top_obj_index, (unsigned long)(sizeof(OBJ_INDEX_DATA) * top_obj_index));
+    sendf(ch, "Resets  %8d (%10lu bytes)\n\r", top_reset, (unsigned long)(sizeof(RESET_DATA) * top_reset));
+    sendf(ch, "Rooms   %8d (%10lu bytes)\n\r", top_room, (unsigned long)(sizeof(ROOM_INDEX_DATA) * top_room));
+    sendf(ch, "Shops   %8d (%10lu bytes)\n\r", top_shop, (unsigned long)(sizeof(SHOP_DATA) * top_shop));
 
     for (num_mob = 0, mob = first_char; mob != NULL; mob = mob->next)
         if (IS_NPC(mob))
@@ -4047,7 +4047,7 @@ bug(const char *str)
     char               *strtime, *strlog;
 
     fplog = fpPfile ? fpPfile : fpArea ? fpArea : NULL;
-    strlog = strPfile && strPfile[0] != '\0' ? strPfile : strArea && strArea[0] != '\0' ? strArea : NULL;
+    strlog = strPfile[0] != '\0' ? strPfile : strArea[0] != '\0' ? strArea : NULL;
 
     if (fplog != NULL) {
         int                 iLine;
@@ -4131,8 +4131,7 @@ tail_chain(void)
  *  mob/script files.
  */
 int
-mprog_name_to_type(name)
-char               *name;
+mprog_name_to_type(char *name)
 {
     if (!str_cmp(name, "in_file_prog"))
         return IN_FILE_PROG;

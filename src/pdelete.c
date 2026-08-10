@@ -82,12 +82,12 @@ do_sdelete(CHAR_DATA *ch, char *argument)
     }
     *pArg = '\0';
 
-    if ((ch->pcdata->pwd != '\0')
+    if ((ch->pcdata->pwd != NULL)
         && (arg1[0] == '\0')) {
         send_to_char("Syntax: pdelete <password>.\n\r", ch);
         return;
     }
-    if ((ch->pcdata->pwd != '\0')
+    if ((ch->pcdata->pwd != NULL)
         && (strcmp(md5string(arg1, md5buf), ch->pcdata->pwd))) {
         WAIT_STATE(ch, 40);
         send_to_char("Wrong password.  Wait 10 seconds.\n\r", ch);

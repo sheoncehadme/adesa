@@ -30,6 +30,7 @@
 #endif
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include <string.h>
 #include <sys/time.h>
 #include <time.h>
@@ -3741,7 +3742,7 @@ do_auction(CHAR_DATA *ch, char *argument)
         return;
     }
 
-    sendf(ch, "You have placed %s up for auction.  @@e%s@@y GP @@Whas been charged for these services.\n\r", auction_item->short_descr, number_comma(abs(reserve * .1)));
+    sendf(ch, "You have placed %s up for auction.  @@e%s@@y GP @@Whas been charged for these services.\n\r", auction_item->short_descr, number_comma(fabs(reserve * .1)));
     auction_owner = ch;
     auction_bidder = NULL;
     auction_bid = 0;

@@ -142,20 +142,20 @@ void dns_exec(char *iphost, bool ip)
     int nlen, plen;
 
     for (odd = dns.first_cache; odd != NULL; odd = odd->next) {
-        if (ip && !strcmp(iphost, odd->ip)) {
+        if (ip && !strcmp(iphost, (const char *)odd->ip)) {
             return;
         }
-        else if (!strcmp(iphost, odd->host)) {
+        else if (!strcmp(iphost, (const char *)odd->host)) {
             return;
         }
     }
 
     for (odd = dns.first_lookup; odd != NULL; odd = odd->next) {
-        if (ip && !strcmp(iphost, odd->ip)) {
+        if (ip && !strcmp(iphost, (const char *)odd->ip)) {
             dd = odd;
             break;
         }
-        else if (!strcmp(iphost, odd->host)) {
+        else if (!strcmp(iphost, (const char *)odd->host)) {
             dd = odd;
             break;
         }
@@ -229,7 +229,7 @@ char *dns_lookup(char *ip)
     DNS_DATA *dd;
 
     for (dd = dns.first_cache; dd != NULL; dd = dd->next)
-        if (!strcmp(ip, dd->ip)) {
+        if (!strcmp(ip, (const char *)dd->ip)) {
             return (char *)dd->host;
         }
 
@@ -267,7 +267,7 @@ int dn_expand(unsigned char *msg, unsigned char *eomorig, unsigned char *comp_dn
         }
         if (dn + n >= eom)
             return (-1);
-            checked += n + 1;
+        checked += n + 1;
         while (--n >= 0) {
             if ((c = *cp++) == '.') {
             if (dn + n + 2 >= eom)
@@ -463,7 +463,7 @@ void dns_packet_parse(unsigned char *pkt, size_t plen) {
     int rc;
 
     if (plen < sizeof(struct dns_packet_header) + 4) {
-        xlogf("received malformed dns packet (size %d too small!)", plen);
+        xlogf("received malformed dns packet (size %lu too small!)", (unsigned long)plen);
         return;
     }
 
@@ -606,7 +606,7 @@ static int extract_rrs(DNS_DATA *dd, unsigned char *pkt, size_t plen, int pidx, 
                         rr.rdlen = IPADDR_MAXLEN + 1;
                         inet_ntop(PF_INET, rdata, (char *)rr.txt, rr.rdlen);
 
-                        if (!strcmp(rr.txt, dd->ip)) {
+                        if (!strcmp((const char *)rr.txt, (const char *)dd->ip)) {
                             DUNLINK(dd, dns.first_lookup, dns.last_lookup, next, prev);
                             DLINK(dd, dns.first_cache, dns.last_cache, next, prev);
                             dd->flags = DNS_FLAG_CACHED;
@@ -652,7 +652,7 @@ static int extract_rrs(DNS_DATA *dd, unsigned char *pkt, size_t plen, int pidx, 
                         return pidx;
                     }
 
-                    strncpy(dd->host, rr.txt, DNS_MAX_SEGLEN);
+                    strncpy((char *)dd->host, (const char *)rr.txt, DNS_MAX_SEGLEN);
                     allow_set((char *)dd->host, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-.");
                     dd->flags = DNS_FLAG_REVERSE;
                     (void)dns_exec((char *)dd->host, FALSE);

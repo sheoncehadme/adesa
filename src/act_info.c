@@ -2709,7 +2709,7 @@ do_equipment(CHAR_DATA *ch, char *argument)
     OBJ_DATA           *obj;
     int                 iWear;
     int                 pct = 0;
-    bool                found;
+    bool                found __attribute__((unused));
     bool                seen = FALSE;
     bool                show_held = FALSE;
     bool                show_shield = FALSE;
@@ -2996,7 +2996,7 @@ do_eqaffects(CHAR_DATA *ch, char *argument)
     OBJ_DATA           *obj;
     int                 iWear;
     int                 pct = 0;
-    bool                found;
+    bool                found __attribute__((unused));
     bool                seen = FALSE;
     bool                show_held = FALSE;
     bool                show_shield = FALSE;
@@ -3311,11 +3311,11 @@ do_consider(CHAR_DATA *ch, char *argument)
 {
     char                arg[MAX_INPUT_LENGTH];
     CHAR_DATA          *victim;
-    char               *msg = '\0';
-    char               *buf = '\0';
-    char               *buf2 = '\0';
-    char               *buf3 = '\0';
-    char               *buf4 = '\0';
+    char               *msg = NULL;
+    char               *buf = NULL;
+    char               *buf2 = NULL;
+    char               *buf3 = NULL;
+    char               *buf4 = NULL;
     float               diff;
     int                 hpdiff;
     int                 hrdiff;
@@ -3738,7 +3738,7 @@ void do_practice_list(CHAR_DATA *ch)
     int row = 0;
     int rows = 0;
     int sn;
-    int x;
+    int x __attribute__((unused));
     char *namecol = NULL;
 
     PRACLIST **skills;
@@ -4121,13 +4121,13 @@ do_password(CHAR_DATA *ch, char *argument)
     }
     *pArg = '\0';
 
-    if ((ch->pcdata->pwd != '\0')
+    if ((ch->pcdata->pwd != NULL)
         && (arg1[0] == '\0' || arg2[0] == '\0')) {
         send_to_char("Syntax: password <old> <new>.\n\r", ch);
         return;
     }
 
-    if (ch->pcdata->pwd != '\0') {
+    if (ch->pcdata->pwd != NULL) {
         if (strlen(ch->pcdata->pwd) < 32) {
             strcpy(buf1, crypt(arg1, ch->pcdata->pwd));
             strcpy(buf2, ch->pcdata->pwd);

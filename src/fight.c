@@ -507,7 +507,7 @@ violence_update(void)
                                 && (abs(get_pseudo_level(rch) - get_pseudo_level(victim)) < 35))) {
                             CHAR_DATA          *vch;
                             CHAR_DATA          *target;
-                            int                 number;
+                            int                 number __attribute__((unused));
 
                             target = NULL;
                             number = 0;
@@ -1717,7 +1717,7 @@ is_safe(CHAR_DATA *ch, CHAR_DATA *victim, bool showmessage)
         dbuf[0] = 0;
 
         if (showmessage)
-            act("$N is currently under protection. Try again in $t.", ch, duration(abs(victim->pcdata->safetimer - current_time), dbuf), victim, TO_CHAR);
+            act("$N is currently under protection. Try again in $t.", ch, duration(llabs(victim->pcdata->safetimer - current_time), dbuf), victim, TO_CHAR);
 
         return TRUE;
     }
@@ -1729,7 +1729,7 @@ is_safe(CHAR_DATA *ch, CHAR_DATA *victim, bool showmessage)
 
         if (showmessage) {
             sprintf(buf, "You are currently under protection. Try again in %s.\n\r",
-                duration(abs(ch->pcdata->safetimer - current_time), dbuf));
+                duration(llabs(ch->pcdata->safetimer - current_time), dbuf));
             send_to_char(buf, ch);
         }
 
@@ -2539,7 +2539,7 @@ raw_kill(CHAR_DATA *victim, char *argument)
         }
         else
             questinfo->mob = str_dup("");
-        if (quest_target_name != '\0')
+        if (quest_target_name != NULL)
             questinfo->thief = str_dup(quest_target_name);
         else
             questinfo->thief = str_dup("");
@@ -2632,7 +2632,7 @@ group_gain(CHAR_DATA *ch, CHAR_DATA *victim)
 {
     char                buf[MAX_STRING_LENGTH];
     CHAR_DATA          *gch;
-    CHAR_DATA          *lch;
+    CHAR_DATA          *lch __attribute__((unused));
     int                 members;
     int                 huggy;    /* To work out exp gained */
     int                 funky;    /* Hope you LOVE these var names, Mag */
@@ -2972,7 +2972,7 @@ dam_message(CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt)
 void
 disarm(CHAR_DATA *ch, CHAR_DATA *victim)
 {
-    OBJ_DATA           *obj, *obj2;
+    OBJ_DATA           *obj, *obj2 __attribute__((unused));
     int                 chance;
 
     set_fighting(ch, victim, TRUE);
@@ -4188,7 +4188,7 @@ void
 do_berserk(CHAR_DATA *ch, char *argument)
 {
     AFFECT_DATA         af;
-    int                 best;
+    int                 best __attribute__((unused));
     int                 level;
 
     bool                prime;
@@ -4406,8 +4406,8 @@ do_charge(CHAR_DATA *ch, char *argument)
 
     CHAR_DATA          *victim;
     int                 dam;
-    int                 moves = 0;
-    bool                prime;
+    int                 moves __attribute__((unused)) = 0;
+    bool                prime __attribute__((unused));
     int                 chance;
 
     prime = FALSE;
@@ -5350,7 +5350,7 @@ do_grab(CHAR_DATA *ch, char *argument)
     CHAR_DATA          *victim;
     int                 chance;
     int                 dam = 0;
-    int                 moves = 0;
+    int                 moves __attribute__((unused)) = 0;
     int                 chance2;
     extern int          elfbonus;
     int                 beats = 0;

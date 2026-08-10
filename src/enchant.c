@@ -57,7 +57,7 @@ do_enchant(CHAR_DATA *ch, char *argument)
     int                 cur_mana = 0, cur_hitroll = 0, cur_move = 0, cur_armor = 0, cur_save = 0, cur_hit = 0, cur_damroll = 0;
     int                 mod_mana = 0, mod_hitroll = 0, mod_move = 0, mod_armor = 0, mod_save = 0, mod_hit = 0, mod_damroll = 0;
     sh_int              mod_weight = 0;
-    bool                good_item = FALSE, legal_enchant = TRUE, bad_enchant_mix = FALSE;
+    bool                good_item __attribute__((unused)) = FALSE, legal_enchant = TRUE, bad_enchant_mix __attribute__((unused)) = FALSE;
     sh_int              qp_cost = 50;
     int                 mod = 0;
     sh_int              min_level = 10;
