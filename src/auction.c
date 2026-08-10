@@ -346,7 +346,7 @@ valid_auction_obj(CHAR_DATA *ch, OBJ_DATA *obj, int type, int reserve, int durat
 void
 auction_do(CHAR_DATA *ch, char *argument, int type)
 {
-    char                buf[MSL], buf2[MSL];
+    char                buf2[MSL];
     char                arg[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH], arg3[MAX_INPUT_LENGTH], arg4[MAX_INPUT_LENGTH];
     AUCTION_DATA       *auc;
 
@@ -354,7 +354,6 @@ auction_do(CHAR_DATA *ch, char *argument, int type)
     argument = one_argument(argument, arg2);
     argument = one_argument(argument, arg3);
     argument = one_argument(argument, arg4);
-    buf[0] = 0;
     buf2[0] = 0;
 
     if (!str_cmp("list", arg)) {
@@ -742,7 +741,7 @@ auction_do_list(CHAR_DATA *ch, int type)
     int                 auction_total = 0;
     int                 auction_count = 0;
     int                 c;
-    char                buf[MSL], buf2[MSL], buf3[MSL], buf4[MSL];
+    char                buf[MSL], buf2[MSL], buf3[MSL];
     AUCTION_DATA       *auc, *auc2;
     void              **asort;
 
@@ -790,7 +789,6 @@ auction_do_list(CHAR_DATA *ch, int type)
         buf[0] = 0;
         buf2[0] = 0;
         buf3[0] = 0;
-        buf4[0] = 0;
         auc2 = NULL;
         auction_count++;
 
@@ -812,7 +810,6 @@ auction_do_list(CHAR_DATA *ch, int type)
         sprintf(buf + strlen(buf), " @@N(%s@@N) ", auc->owner_name);
         buf2[0] = 0;
         buf3[0] = 0;
-        buf4[0] = 0;
 
         if (auc2) {
             sprintf(buf + strlen(buf), "@@d| @@y[@@b%3s@@y] @@N", auc2->keyword);

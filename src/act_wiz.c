@@ -717,7 +717,7 @@ do_immortal(CHAR_DATA *ch, char *argument)
         return;
     }
 
-    for (count = 0; count < 6; count++) {
+    for (count = 0; count < MAX_CLASS; count++) {
         for (iClass = victim->lvl[count]; iClass < value; iClass++) {
             victim->lvl[count] += 1;
             advance_level(victim, count, FALSE, TRUE, FALSE);
@@ -3759,7 +3759,6 @@ users_cmp(const void *x, const void *y)
 void
 do_users(CHAR_DATA *ch, char *argument)
 {
-    char                buf[MAX_STRING_LENGTH];
     char                buf2[MAX_STRING_LENGTH];
     char                arg[MIL];
     DESCRIPTOR_DATA    *d;
@@ -3770,7 +3769,6 @@ do_users(CHAR_DATA *ch, char *argument)
     extern struct dns_setup dns;
 
     count = 0;
-    buf[0] = '\0';
     buf2[0] = '\0';
 
     argument = one_argument(argument, arg);
@@ -5613,7 +5611,7 @@ name_expand(CHAR_DATA *ch)
         if (is_name(name, rch->name))
             count++;
 
-    sprintf(outbuf, "%d.%s", count, name);
+    snprintf(outbuf, sizeof(outbuf), "%d.%s", count, name);
     return outbuf;
 }
 
@@ -6968,7 +6966,6 @@ void
 do_ocount(CHAR_DATA *ch, char *argument)
 {
     extern int          top_obj_index;
-    char                buf[MAX_STRING_LENGTH];
     OBJ_INDEX_DATA     *pObjIndex;
     void              **objsort;
     int                 vnum;
@@ -6978,7 +6975,6 @@ do_ocount(CHAR_DATA *ch, char *argument)
     int                 limit = 0;
     bool                found;
 
-    buf[0] = '\0';
     found = FALSE;
     nMatch = 0;
 

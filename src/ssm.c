@@ -364,14 +364,18 @@ _fread_string(FILE * fp, const char *caller)
         return &str_empty[0];
 
     for (;;) {
-        switch (*ptr = getc(fp)) {
+        int                 ic = getc(fp);
+
+        /* getc returns int; plain char is unsigned on many Linux ABIs, so
+         * case EOF (-1) is outside the switch type range. Check before store. */
+        if (ic == EOF) {
+            bugf("Fread_string: EOF");
+            raise(SIGSEGV);
+            return &str_empty[0];
+        }
+        switch (*ptr = ic) {
             default:
                 ptr++;
-                break;
-
-            case EOF:
-                bugf("Fread_string: EOF");
-                raise(SIGSEGV);
                 break;
 
             case '\n':
@@ -423,14 +427,16 @@ _fread_string_eol(FILE * fp, const char *caller)
         return &str_empty[0];
 
     for (;;) {
-        switch (*ptr = getc(fp)) {
+        int                 ic = getc(fp);
+
+        if (ic == EOF) {
+            bugf("Fread_string: EOF");
+            raise(SIGSEGV);
+            return &str_empty[0];
+        }
+        switch (*ptr = ic) {
             default:
                 ptr++;
-                break;
-
-            case EOF:
-                bugf("Fread_string: EOF");
-                raise(SIGSEGV);
                 break;
 
             case '\n':
@@ -472,14 +478,16 @@ temp_fread_string(FILE * fp, char *buf)
     }
 
     for (;;) {
-        switch (*ptr = getc(fp)) {
+        int                 ic = getc(fp);
+
+        if (ic == EOF) {
+            bugf("Fread_string: EOF");
+            raise(SIGSEGV);
+            break;
+        }
+        switch (*ptr = ic) {
             default:
                 ptr++;
-                break;
-
-            case EOF:
-                bugf("Fread_string: EOF");
-                raise(SIGSEGV);
                 break;
 
             case '\n':

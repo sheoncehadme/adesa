@@ -1697,9 +1697,9 @@ number_comma2(int number, bool use)
     static char         buf[64];
 
     if (use)
-        strncpy(buf, number_comma(number), 64);
+        snprintf(buf, sizeof(buf), "%s", number_comma(number));
     else
-        sprintf(buf, "%d", number);
+        snprintf(buf, sizeof(buf), "%d", number);
 
     return buf;
 }
@@ -1818,7 +1818,7 @@ bust_a_prompt(DESCRIPTOR_DATA *d, bool preview)
             }
         }
 
-        sprintf(msg3, "\n\r@@N@@g[@@bBUILD: @@y%s@@g] %s@@N\n\r", msg, msg2);
+        snprintf(msg3, sizeof(msg3), "\n\r@@N@@g[@@bBUILD: @@y%s@@g] %s@@N\n\r", msg, msg2);
         write_to_buffer(d, msg3, 0);
         return;
     }
@@ -2921,11 +2921,11 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
 
         _arg1[0] = UPPER(_arg1[0]);
 
-        sprintf(buf, "%s provided as name from login from site %s.", _arg1, d->host);
+        snprintf(buf, sizeof(buf), "%s provided as name from login from site %s.", _arg1, d->host);
         monitor_chan(buf, MONITOR_CONNECT);
 
         if (!check_parse_name(_arg1)) {
-            sprintf(buf, "Illegal name %s from site %s.", _arg1, d->host);
+            snprintf(buf, sizeof(buf), "Illegal name %s from site %s.", _arg1, d->host);
             monitor_chan(buf, MONITOR_CONNECT);
             write_to_buffer(d, "Illegal name, try another.\n\rName: ", 0);
             return;
@@ -3026,7 +3026,7 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
                 }
             }
 
-            sprintf(buf, "Did I get that right, %s (Y/N)? ", _arg1);
+            snprintf(buf, sizeof(buf), "Did I get that right, %s (Y/N)? ", _arg1);
             write_to_buffer(d, buf, 0);
             d->connected = CON_CONFIRM_NEW_NAME;
             return;

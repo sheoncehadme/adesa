@@ -247,7 +247,7 @@ args((CHAR_DATA *ch, char *argument))
                 *line++ = *in++;
         }
 
-        strncpy(buf, mybuf, MSL - 99);
+        snprintf(buf, MSL - 98, "%s", mybuf);
         return;
     }
 

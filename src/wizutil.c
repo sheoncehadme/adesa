@@ -91,7 +91,7 @@ area_name(AREA_DATA *pArea)
 
     assert(pArea != NULL);
 
-    strncpy(buffer, pArea->filename, 64);    /* copy the filename */
+    snprintf(buffer, sizeof(buffer), "%s", pArea->filename);    /* copy the filename */
     period = strchr(buffer, '.');    /* find the period (midgaard.are) */
     if (period)                    /* if there was one */
         *period = '\0';            /* terminate the string there (midgaard) */

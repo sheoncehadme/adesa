@@ -684,13 +684,11 @@ talk_channel(CHAR_DATA *ch, char *argument, int channel, const char *verb, bool 
     char                buf[MAX_STRING_LENGTH];
     DESCRIPTOR_DATA    *d;
     int                 position;
-    char                ansi[MAX_STRING_LENGTH];
     IGNORE_DATA        *ignore_list = NULL;
     bool                ignore_check = FALSE;
     extern CHAR_DATA   *quest_mob;
 
     buf[0] = '\0';
-    ansi[0] = '\0';
 
     /* Allows immortals to communicate in silent rooms */
     if (IS_SET(ch->in_room->room_flags, ROOM_QUIET)
@@ -1548,13 +1546,10 @@ do_quit(CHAR_DATA *ch, char *argument)
     DESCRIPTOR_DATA    *other_logins_next;
     OBJ_DATA           *obj;
     OBJ_DATA           *in_obj;
-    char                buf[MSL];
     bool                found = FALSE;
     int                 cnt = 0;
     int                 rnd = 0;
     extern int          cur_players;
-
-    buf[0] = 0;
 
     if (IS_NPC(ch))
         return;
@@ -1697,11 +1692,9 @@ do_savecheck(CHAR_DATA *ch, char *argument)
 {
     OBJ_DATA           *obj;
     OBJ_DATA           *in_obj;
-    char                buf[MSL];
     bool                found = FALSE;
     int                 cnt = 0;
 
-    buf[0] = 0;
 
     for (obj = first_obj; obj != NULL; obj = obj->next) {
         for (in_obj = obj; in_obj->in_obj != NULL; in_obj = in_obj->in_obj);
@@ -2543,7 +2536,6 @@ void
 do_tongue(CHAR_DATA *ch, char *argument)
 {
     char                buf[MAX_STRING_LENGTH];
-    char                buf2[MAX_STRING_LENGTH];
     CHAR_DATA          *rch;
     char               *pName;
     int                 iSyl;
@@ -2594,7 +2586,6 @@ do_tongue(CHAR_DATA *ch, char *argument)
     };
 
     buf[0] = '\0';
-    buf2[0] = '\0';
 
     if (!IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10)
         argument = slur_text(argument);

@@ -345,7 +345,7 @@ build_interpret(CHAR_DATA *ch, char *argument)
     }
 
     if (!found) {
-        sprintf(buffer, "%s %s", command, argument);
+        snprintf(buffer, sizeof(buffer), "%s %s", command, argument);
         build_set(ch, buffer);
         return;
     }

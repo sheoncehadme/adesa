@@ -652,7 +652,7 @@ static int extract_rrs(DNS_DATA *dd, unsigned char *pkt, size_t plen, int pidx, 
                         return pidx;
                     }
 
-                    strncpy((char *)dd->host, (const char *)rr.txt, DNS_MAX_SEGLEN);
+                    snprintf((char *)dd->host, sizeof(dd->host), "%s", (const char *)rr.txt);
                     allow_set((char *)dd->host, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-.");
                     dd->flags = DNS_FLAG_REVERSE;
                     (void)dns_exec((char *)dd->host, FALSE);

@@ -26,11 +26,7 @@
 #include <sys/types.h>
 #include <sys/time.h>
 #include <sys/resource.h>
-
-#define __USE_BSD
 #include <stdio.h>
-#undef __USE_BSD
-
 #include <fcntl.h>
 #include <netdb.h>
 #include <netinet/in.h>
@@ -40,9 +36,7 @@
 #include <time.h>
 #include <unistd.h>
 #include <ctype.h>
-#define __USE_POSIX
 #include <signal.h>
-#undef __USE_POSIX
 
 #include "merc.h"
 #include "duel.h"
@@ -1608,14 +1602,11 @@ rooms_update(void)
 void
 teleport_update(void)
 {
-    char                buf[MAX_STRING_LENGTH];
     TELEPORT_DATA      *tele;
     ROOM_INDEX_DATA    *room = NULL;
     CHAR_DATA          *ch;
     CHAR_DATA          *chnext;
     bool                reset = FALSE;
-
-    buf[0] = '\0';
 
     for (tele = last_tele; tele; tele = tele->prev) {
         if ((room = get_room_index(tele->room->vnum)) == NULL)

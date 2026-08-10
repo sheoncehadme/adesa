@@ -1914,7 +1914,7 @@ do_sacrifice(CHAR_DATA *ch, char *argument)
             && (obj->item_type != ITEM_PORTAL) && (obj->item_type != ITEM_FOOD)
             && (!IS_SET(obj->extra_flags, ITEM_CLAN_EQ))
             )
-            ch->alignment = URANGE(-1000, (ch->alignment += align_direction * align_change), 1000);
+            ch->alignment = URANGE(-1000, ch->alignment + align_direction * align_change, 1000);
     }
 
     if (!change_align) {
@@ -3917,7 +3917,12 @@ void do_objrename(CHAR_DATA *ch, char *argument)
             if (arg[0] == '^')
                 continue;
 
-            sprintf(buf2 + strlen(buf2), "%s ", arg);
+            {
+                size_t              used = strlen(buf2);
+
+                if (used + 1 < sizeof(buf2))
+                    snprintf(buf2 + used, sizeof(buf2) - used, "%s ", arg);
+            }
         }
 
         if (strlen(buf2) > 1) {
@@ -4035,7 +4040,12 @@ void do_objrename(CHAR_DATA *ch, char *argument)
         while (*buf != '\0') {
             buf = one_argument(buf, arg);
 
-            sprintf(buf2 + strlen(buf2), "%s ", arg);
+            {
+                size_t              used = strlen(buf2);
+
+                if (used + 1 < sizeof(buf2))
+                    snprintf(buf2 + used, sizeof(buf2) - used, "%s ", arg);
+            }
         }
 
         if (strlen(buf2) > 1)

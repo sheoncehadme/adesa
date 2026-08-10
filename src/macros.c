@@ -899,7 +899,7 @@ char               *
 duration(unsigned int dur, char *dest)
 {
     char               *dst = dest;
-    char                buf[5];
+    char                buf[32];
     int                 d, h, m, s;
 
     *dest = 0;
@@ -910,19 +910,19 @@ duration(unsigned int dur, char *dest)
     d = (dur / 60 / 60 / 24);
 
     if (d) {
-        sprintf(buf, "%dd ", d);
+        snprintf(buf, sizeof(buf), "%dd ", d);
         strcat(dst, buf);
     }
     if (h) {
-        sprintf(buf, "%dh ", h);
+        snprintf(buf, sizeof(buf), "%dh ", h);
         strcat(dst, buf);
     }
     if (m) {
-        sprintf(buf, "%dm ", m);
+        snprintf(buf, sizeof(buf), "%dm ", m);
         strcat(dst, buf);
     }
     if (s) {
-        sprintf(buf, "%ds ", s);
+        snprintf(buf, sizeof(buf), "%ds ", s);
         strcat(dst, buf);
     }
 

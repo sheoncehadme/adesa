@@ -418,7 +418,7 @@ boot_db(bool fCopyOver)
 
         sprintf(clan_file_name, "%s", CLAN_FILE);
 
-        sprintf(buf, "Loading %s\n\r", clan_file_name);
+        snprintf(buf, sizeof(buf), "Loading %s\n\r", clan_file_name);
         monitor_chan(buf, MONITOR_CLAN);
 
         if ((clanfp = fopen(clan_file_name, "r")) == NULL) {
@@ -427,7 +427,7 @@ boot_db(bool fCopyOver)
         }
         else {
             fpArea = clanfp;
-            sprintf(strArea, "%s", clan_file_name);
+            snprintf(strArea, sizeof(strArea), "%s", clan_file_name);
 
             for (x = 1; x < MAX_CLAN; x++) {
                 for (y = 1; y < MAX_CLAN; y++) {
@@ -448,7 +448,7 @@ boot_db(bool fCopyOver)
             fclose(clanfp);
         }
         fpArea = NULL;
-        sprintf(buf, "Done Loading %s\n\r", clan_file_name);
+        snprintf(buf, sizeof(buf), "Done Loading %s\n\r", clan_file_name);
         monitor_chan(buf, MONITOR_CLAN);
 
     }
@@ -816,7 +816,7 @@ load_corpses(void)
 
     sprintf(corpse_file_name, "%s", CORPSE_FILE);
 
-    sprintf(buf, "Loading %s\n\r", corpse_file_name);
+    snprintf(buf, sizeof(buf), "Loading %s\n\r", corpse_file_name);
     monitor_chan(buf, MONITOR_CLAN);
 
     if ((corpsefp = fopen(corpse_file_name, "r")) == NULL) {
@@ -826,7 +826,7 @@ load_corpses(void)
 
     else {
         fpArea = corpsefp;
-        sprintf(strArea, "%s", corpse_file_name);
+        snprintf(strArea, sizeof(strArea), "%s", corpse_file_name);
 
         for (;;)
         {
@@ -859,7 +859,7 @@ load_corpses(void)
 
     fclose(corpsefp);
     fpArea = NULL;
-    sprintf(buf, "Done Loading %s\n\r", corpse_file_name);
+    snprintf(buf, sizeof(buf), "Done Loading %s\n\r", corpse_file_name);
     monitor_chan(buf, MONITOR_CLAN);
 
 }
@@ -874,7 +874,7 @@ load_bans(void)
 
     sprintf(bans_file_name, "%s", BANS_FILE);
 
-    sprintf(buf, "Loading %s\n\r", bans_file_name);
+    snprintf(buf, sizeof(buf), "Loading %s\n\r", bans_file_name);
     monitor_chan(buf, MONITOR_CLAN);
 
     if ((bansfp = fopen(bans_file_name, "r")) == NULL) {
@@ -883,7 +883,7 @@ load_bans(void)
     }
     else {
         fpArea = bansfp;
-        sprintf(strArea, "%s", bans_file_name);
+        snprintf(strArea, sizeof(strArea), "%s", bans_file_name);
 
         for (;;) {
             char               *word;
@@ -917,7 +917,7 @@ load_bans(void)
 
         fclose(bansfp);
         fpArea = NULL;
-        sprintf(buf, "Done Loading %s\n\r", bans_file_name);
+        snprintf(buf, sizeof(buf), "Done Loading %s\n\r", bans_file_name);
         monitor_chan(buf, MONITOR_CLAN);
 
     }

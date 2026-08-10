@@ -212,7 +212,6 @@ format_obj_to_char(OBJ_DATA *obj, CHAR_DATA *ch, bool fShort)
 void
 show_list_to_char(OBJ_DATA *list, CHAR_DATA *ch, bool fShort, bool fShowNothing)
 {
-    char                buf[MAX_STRING_LENGTH];
     char              **prgpstrShow;
     int                *prgnShow;
     char               *pstrShow;
@@ -224,7 +223,6 @@ show_list_to_char(OBJ_DATA *list, CHAR_DATA *ch, bool fShort, bool fShowNothing)
 
     if (ch->desc == NULL)
         return;
-    buf[0] = '\0';
 
     /*
      * Alloc space for output lines.
@@ -304,7 +302,6 @@ show_list_to_char(OBJ_DATA *list, CHAR_DATA *ch, bool fShort, bool fShowNothing)
 void
 show_room_list_to_char(OBJ_DATA *list, CHAR_DATA *ch, bool fShort, bool fShowNothing)
 {
-    char                buf[MAX_STRING_LENGTH];
     char              **prgpstrShow;
     int                *prgnShow;
     char               *pstrShow;
@@ -316,7 +313,6 @@ show_room_list_to_char(OBJ_DATA *list, CHAR_DATA *ch, bool fShort, bool fShowNot
 
     if (ch->desc == NULL)
         return;
-    buf[0] = '\0';
 
     /*
      * Alloc space for output lines.
@@ -2056,7 +2052,7 @@ show_helps(CHAR_DATA *ch, int type)
 {
     FILE *helplistfile, *helpfile;
     char helplistname[MSL];
-    char buf[MSL], buf2[MSL];
+    char buf2[MSL];
     int cnt = 0, helpcnt = 0;
     bool found = FALSE;
     char _help[MSL], file[MSL];
@@ -2079,8 +2075,6 @@ show_helps(CHAR_DATA *ch, int type)
         send_to_char("Eek.\n\r", ch);
         return;
     }
-
-    buf[0] = '\0';
 
     for (;;) {
         if (feof(helplistfile) || (c = fgetc(helplistfile)) == '0')
@@ -2149,7 +2143,7 @@ show_helps(CHAR_DATA *ch, int type)
         }
 
         if (found) {
-            sprintf(buf2, "%s%s", HELP_DIR, file);
+            snprintf(buf2, sizeof(buf2), "%s%s", HELP_DIR, file);
 
             /* if the corresponding file doesn't exist, don't show that a help exists for it */
             if ((helpfile = fopen(buf2, "r")) == NULL)
@@ -2268,8 +2262,6 @@ void do_who(CHAR_DATA *ch, char *argument)
     char                buf2[MAX_STRING_LENGTH * 4];
     char                buf3[MAX_STRING_LENGTH * 4];
     char                buf4[MAX_STRING_LENGTH * 4];
-    char                buf5[MAX_STRING_LENGTH * 4];
-    char                buf6[MAX_STRING_LENGTH * 4];
     char                header[MSL * 4];
     char                arg[MAX_STRING_LENGTH];
     char                fgs[MAX_STRING_LENGTH * 4];
@@ -2299,8 +2291,6 @@ void do_who(CHAR_DATA *ch, char *argument)
     buf2[0] = '\0';
     buf3[0] = '\0';
     buf4[0] = '\0';
-    buf5[0] = '\0';
-    buf6[0] = '\0';
     header[0] = '\0';
     col1[0] = '\0';
     col2[0] = '\0';
@@ -3510,11 +3500,8 @@ do_title(CHAR_DATA *ch, char *argument)
 {
     /* Changed this to limit title length, and to remove and brackets. -S- */
 
-    char                buf[MAX_STRING_LENGTH];
     int                 cnt;
     bool                changed;
-
-    buf[0] = '\0';
 
     if (IS_NPC(ch))
         return;
@@ -3824,7 +3811,6 @@ void do_practice_list(CHAR_DATA *ch)
 void
 do_practice(CHAR_DATA *ch, char *argument)
 {
-    char                buf[MAX_STRING_LENGTH];
     CHAR_DATA          *mob;
     int                 sn;
     bool                avatar = FALSE;
@@ -3835,7 +3821,6 @@ do_practice(CHAR_DATA *ch, char *argument)
      * player to be getting level 50 cleric spells, which would happen
      * if ch->class was used here! -S-
      */
-    buf[0] = '\0';
 
     if (IS_NPC(ch))
         return;
@@ -4038,11 +4023,8 @@ void do_unpractice(CHAR_DATA *ch, char *argument)
 void
 do_wimpy(CHAR_DATA *ch, char *argument)
 {
-    char                buf[MAX_STRING_LENGTH];
     char                arg[MAX_INPUT_LENGTH];
     int                 wimpy;
-
-    buf[0] = '\0';
 
     one_argument(argument, arg);
 
@@ -5571,10 +5553,7 @@ do_heal(CHAR_DATA *ch, char *argument)
      */
 
     CHAR_DATA          *mob;
-    char                buf[MAX_STRING_LENGTH];
     int                 mult;    /* Multiplier used to calculate costs. */
-
-    buf[0] = '\0';
 
     /* Check for mob with act->heal */
     for (mob = ch->in_room->first_person; mob; mob = mob->next_in_room) {
@@ -5872,7 +5851,6 @@ do_gain(CHAR_DATA *ch, char *argument)
      */
 
     CHAR_DATA          *mob;
-    char                buf[MAX_STRING_LENGTH];
     char                arg[MIL];
     char                *msg = NULL;
     long_int            cost = 0;
@@ -5898,8 +5876,6 @@ do_gain(CHAR_DATA *ch, char *argument)
     bool                allow_remort = FALSE;
     bool                allow_adept = FALSE;
     bool                allow_avatar = FALSE;
-
-    buf[0] = '\0';
 
     if (IS_NPC(ch)) {
         send_to_char("Hahaha, not for NPCs.\n\r", ch);
@@ -6335,15 +6311,12 @@ do_colour(CHAR_DATA *ch, char *argument)
 {
     /* Allow users to set which colour they get certain texts in. -S- */
 
-    char                buf[MAX_STRING_LENGTH];
     char                arg1[MAX_STRING_LENGTH];
     char                arg2[MAX_STRING_LENGTH];
     int                 col;
     int                 cnt;
     int                 ansi_number;
     int                 colour_number;
-
-    buf[0] = '\0';
 
     if (IS_NPC(ch))
         return;
@@ -6943,7 +6916,7 @@ do_whois(CHAR_DATA *ch, char *argument)
             if (space % 4 == 1)
                 safe_strcat(MSL, buf, "@@d|");
 
-            sprintf(buf2, " %s ", flags[cnt]);
+            snprintf(buf2, sizeof(buf2), " %s ", flags[cnt]);
             safe_strcat(MSL, buf, buf2);
             other2 = (space % 4 == 1 || space % 4 == 0) ? 19 : 18;
             other2 = other2 - my_strlen(buf2);

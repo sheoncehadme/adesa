@@ -83,7 +83,7 @@ load_brands(void)
 
     sprintf(brands_file_name, "%s", BRANDS_FILE);
 
-    sprintf(buf, "Loading %s\n\r", brands_file_name);
+    snprintf(buf, sizeof(buf), "Loading %s\n\r", brands_file_name);
     monitor_chan(buf, MONITOR_CLAN);
 
     if ((brandsfp = fopen(brands_file_name, "r")) == NULL) {
@@ -126,7 +126,7 @@ load_brands(void)
 
         fclose(brandsfp);
 
-        sprintf(buf, "Done Loading %s\n\r", brands_file_name);
+        snprintf(buf, sizeof(buf), "Done Loading %s\n\r", brands_file_name);
         monitor_chan(buf, MONITOR_CLAN);
 
     }
@@ -260,26 +260,26 @@ do_qpspend(CHAR_DATA *ch, char *argument)
         sh_int              qp_cost = 0;
 
         if (!str_cmp(ch->pcdata->pedit_string[0], "none")) {
-            sprintf(test_string, "%s", ch->pcdata->room_enter);
+            snprintf(test_string, sizeof(test_string), "%s", ch->pcdata->room_enter);
         }
         else {
-            sprintf(test_string, "%s", ch->pcdata->pedit_string[0]);
+            snprintf(test_string, sizeof(test_string), "%s", ch->pcdata->pedit_string[0]);
             qp_cost++;
         }
 
-        sprintf(move_buf, "$R$n %s $T.", test_string);
+        snprintf(move_buf, sizeof(move_buf), "$R$n %s $T.", test_string);
 
         act(move_buf, ch, NULL, rev_name[1], TO_CHAR);
 
         if (!str_cmp(ch->pcdata->pedit_string[1], "none")) {
-            sprintf(test_string, "%s", ch->pcdata->room_exit);
+            snprintf(test_string, sizeof(test_string), "%s", ch->pcdata->room_exit);
         }
         else {
-            sprintf(test_string, "%s", ch->pcdata->pedit_string[1]);
+            snprintf(test_string, sizeof(test_string), "%s", ch->pcdata->pedit_string[1]);
             qp_cost++;
         }
 
-        sprintf(move_buf, "$R$n %s $T.", test_string);
+        snprintf(move_buf, sizeof(move_buf), "$R$n %s $T.", test_string);
 
         act(move_buf, ch, NULL, dir_name[1], TO_CHAR);
 

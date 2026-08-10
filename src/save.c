@@ -105,9 +105,9 @@ int                 locker_weight = 0;
 void
 save_char_obj(CHAR_DATA *ch)
 {
-    char                strsave[MAX_INPUT_LENGTH];
-    char                tempstrsave[MAX_INPUT_LENGTH];    /* Hold temp filename here.. */
-    char                buf[MAX_INPUT_LENGTH];    /* hold misc stuff here.. */
+    char                strsave[MSL];
+    char                tempstrsave[MSL];    /* Hold temp filename here.. */
+    char                buf[MSL];    /* hold misc stuff here.. */
     extern int          loop_counter;
     FILE               *fp;
     char               *nmptr, *bufptr;
@@ -145,7 +145,7 @@ save_char_obj(CHAR_DATA *ch)
         else
             strcpy(buf, ch->name);
     }
-    sprintf(strsave, "%s%s%s%s", PLAYER_DIR, initial(buf), "/", capitalize(buf));
+    snprintf(strsave, sizeof(strsave), "%s%s%s%s", PLAYER_DIR, initial(buf), "/", capitalize(buf));
 #else
     /* Convert npc names to dos compat name.... yuk */
     if (IS_NPC(ch)) {
@@ -164,11 +164,11 @@ save_char_obj(CHAR_DATA *ch)
             strcpy(buf, ch->name);
     }
 
-    sprintf(strsave, "%s%s", IS_NPC(ch) ? NPC_DIR : PLAYER_DIR, capitalize(buf));
+    snprintf(strsave, sizeof(strsave), "%s%s", IS_NPC(ch) ? NPC_DIR : PLAYER_DIR, capitalize(buf));
 #endif
     /* Tack on a .temp to strsave, use as tempstrsave */
 
-    sprintf(tempstrsave, "%s.temp", strsave);
+    snprintf(tempstrsave, sizeof(tempstrsave), "%s.temp", strsave);
 
     /* when reading/writing pfiles, lets set up some variables for later usage
      * should a bug occur. */

@@ -1252,12 +1252,10 @@ do_clan_recall(CHAR_DATA *ch, char *argument)
 void
 do_recall(CHAR_DATA *ch, char *argument)
 {
-    char                buf[MAX_STRING_LENGTH];
     CHAR_DATA          *victim;
     ROOM_INDEX_DATA    *location;
 
     act("$n makes the Holy Sign for transportation!", ch, 0, 0, TO_ROOM);
-    buf[0] = '\0';
 
     /* FIXME: Need to check if NPC is charmed - if so find
      * owner's recall location..... -S- */
@@ -1971,13 +1969,11 @@ do_scan(CHAR_DATA *ch, char *argument)
     ROOM_INDEX_DATA    *location, *areasmokeloc = NULL;
     BUILD_DATA_LIST    *pList;
     int                 door;
-    char                buf[MAX_INPUT_LENGTH];
     char                person[MAX_INPUT_LENGTH];
     CHAR_DATA          *d;
     bool                found = FALSE;
     bool                area_smokescreen = FALSE;
 
-    buf[0] = '\0';
     person[0] = '\0';
 
     act("$n looks all around for anyone else.", ch, NULL, NULL, TO_ROOM);
@@ -2140,14 +2136,12 @@ do_scout(CHAR_DATA *ch, char *argument)
     int                 depth = 0;
     int                 counter;
     CHAR_DATA          *target;
-    char                buf[MAX_INPUT_LENGTH];
     char                pre[MAX_INPUT_LENGTH];
     ROOM_AFFECT_DATA   *paf;
     bool                smoke = FALSE;
     BUILD_DATA_LIST    *pList = NULL;
     ROOM_INDEX_DATA    *arearoom = NULL;
 
-    buf[0] = '\0';
     pre[0] = '\0';
 
     if (!IS_NPC(ch) && ch->pcdata->learned[gsn_scout] == 0) {

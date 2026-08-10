@@ -2511,7 +2511,7 @@ raw_kill(CHAR_DATA *victim, char *argument)
         /* weedermod */
         if (arg[0] != '\0' && !is_number(arg)) {
             arg[0] = UPPER(arg[0]);
-            sprintf(buf, "@@lSOMEONE SAVE ME!!! @@e%s@@l is @@RKILLING@@l me and the @@yquest@@l will soon be @@eOVER!!@@N", arg);
+            snprintf(buf, sizeof(buf), "@@lSOMEONE SAVE ME!!! @@e%s@@l is @@RKILLING@@l me and the @@yquest@@l will soon be @@eOVER!!@@N", arg);
         }
         else
             sprintf(buf, "Oh well, I guess the quest is over, since I am about to @@eDIE!!!!!@@N");

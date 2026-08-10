@@ -25,6 +25,11 @@ else
   C_FLAGS += -D_DEFAULT_SOURCE -D_BSD_SOURCE
   # Linux / most Unix still need libxcrypt or libcrypt
   CRYPT_LIB = -lcrypt
+  # GCC 8+ (Amazon Linux 2023, etc.) enables -Wformat-truncation at -O2 for
+  # snprintf into fixed MSL/MIL buffers when a %s argument is also MSL-sized.
+  # That is intentional bounded copy, not a bug; clang -Wall does not warn.
+  # Real overflow sites use snprintf; keep -Wall for everything else.
+  C_FLAGS += -Wno-format-truncation
 endif
 
 # Optional: make NOCRYPT=1 to store passwords in plain text (legacy US export flag)
@@ -68,7 +73,7 @@ merc-asan: $(O_FILES)
 	$(CC) $(L_FLAGS) -o merc-asan $(O_FILES) $(LIBS)
 	@mv version.c version.c.last 2>/dev/null || true
 
-.c.o: merc.h
+%.o: %.c merc.h
 	$(CC) -c $(C_FLAGS) $<
 
 version.c: version.c.sh

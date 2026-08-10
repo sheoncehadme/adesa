@@ -281,8 +281,8 @@ say_spell(CHAR_DATA *ch, int sn)
         DUEL_DATA          *duel;
         DUEL_WATCHER_DATA  *watcher;
 
-        sprintf(fbuf, "@@d[@@gSPAR@@d]@@N %s", buf);
-        sprintf(fbuf2, "@@d[@@gSPAR@@d]@@N %s", buf2);
+        snprintf(fbuf, sizeof(fbuf), "@@d[@@gSPAR@@d]@@N %s", buf);
+        snprintf(fbuf2, sizeof(fbuf2), "@@d[@@gSPAR@@d]@@N %s", buf2);
 
         for (duel = first_duel; duel != NULL; duel = duel->next)
             if (duel->stage == DUEL_STAGE_GO && ch->in_room && duel->vnum == ch->in_room->vnum)
