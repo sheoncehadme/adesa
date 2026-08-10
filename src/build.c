@@ -1749,7 +1749,7 @@ nuke_exit_resets(ROOM_INDEX_DATA *pRoomIndex, int door)
             PUT_FREE(pList, build_free);
 
             UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-            PUT_FREE(pReset, reset_free);
+            free_reset(pReset);
         }
     }
 }
@@ -3779,7 +3779,7 @@ build_delreset(CHAR_DATA *ch, char *argument)
         PUT_FREE(pList, build_free);
 
         UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-        PUT_FREE(pReset, reset_free);
+        free_reset(pReset);
 
         /* free any give/equip resets following it */
         for (pList = pNextList; pList; pList = pNextList) {
@@ -3792,7 +3792,7 @@ build_delreset(CHAR_DATA *ch, char *argument)
             PUT_FREE(pList, build_free);
 
             UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-            PUT_FREE(pReset, reset_free);
+            free_reset(pReset);
         }
     }
     else {
@@ -3803,7 +3803,7 @@ build_delreset(CHAR_DATA *ch, char *argument)
         PUT_FREE(pList, build_free);
 
         UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-        PUT_FREE(pReset, reset_free);
+        free_reset(pReset);
     }
 
     area_modified(pArea);
@@ -3990,7 +3990,7 @@ build_delroom(CHAR_DATA *ch, char *argument)
 
             if (found) {
                 UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-                PUT_FREE(pReset, reset_free);
+                free_reset(pReset);
                 top_reset--;
             }
         }
@@ -4164,7 +4164,7 @@ build_delobject(CHAR_DATA *ch, char *argument)
 
             if (found) {
                 UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-                PUT_FREE(pReset, reset_free);
+                free_reset(pReset);
                 top_reset--;
             }
         }
@@ -4327,7 +4327,7 @@ build_delmob(CHAR_DATA *ch, char *argument)
 
             if (found) {
                 UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-                PUT_FREE(pReset, reset_free);
+                free_reset(pReset);
                 top_reset--;
             }
         }

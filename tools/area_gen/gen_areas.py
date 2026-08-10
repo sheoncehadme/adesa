@@ -1120,7 +1120,12 @@ def re_sub_color(s: str) -> str:
 
 
 def connect_chain(builders: List[AreaBuilder]) -> None:
-    """Link each zone entrance to the previous zone's last non-boss or boss room east/west."""
+    """Link each zone entrance to the previous zone's last non-boss or boss room east/west.
+
+    Also anchors the Realm Road hub (builders[0]) north to Midgaard west gate (3052)
+    so the progression chain is walkable from the Temple after tools/world_connect.py
+    adds the matching Midgaard exit (or if 3052 already links south).
+    """
     # Hub (0) already standalone. Connect 1..n via synthetic exits on entry rooms.
     # Entry of zone i+1 westbound to a room in zone i.
     for i in range(1, len(builders)):
@@ -1134,6 +1139,12 @@ def connect_chain(builders: List[AreaBuilder]) -> None:
         # flavor names
         src.desc += f" A trail leads east toward {re_sub_color(cur.z.title)}."
         dst.desc += f" The path west returns toward {re_sub_color(prev.z.title)}."
+
+    # Hub entrance -> Midgaard west gate (must stay in sync with world_connect.py)
+    if builders:
+        hub_entry = builders[0].rooms[0]
+        hub_entry.exits[0] = 3052  # north
+        hub_entry.desc += " North lies the West Gate of Midgaard."
 
 
 def update_area_lst(lst_path: Path, filenames: List[str]) -> None:

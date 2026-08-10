@@ -159,6 +159,7 @@ walk_pcdata(PC_DATA *p)
     touch(p->battleprompt);
     touch(p->noteprompt);
     touch(p->origname);
+    touch(p->autostance);
 
     for (i = 0; i < MAX_ALIASES; i++) {
         touch(p->alias[i]);
@@ -171,6 +172,8 @@ walk_pcdata(PC_DATA *p)
 
     for (ignore = p->first_ignore; ignore != NULL; ignore = ignore->next)
         touch(ignore->char_ignored);
+
+    /* renames are walked via first_rename (pcdata->rename points into that list) */
 
 }
 
@@ -240,14 +243,17 @@ walk_char_data(CHAR_DATA *ch)
     walk_pcdata(ch->pcdata);
     walk_answeringlist(ch->first_message);
 
+    if (ch->current_brand)
+        walk_brand_data(ch->current_brand);
+
     touch(ch->searching);
     touch(ch->name);
     touch(ch->short_descr);
+    touch(ch->short_descr_orig);
     touch(ch->long_descr);
     touch(ch->long_descr_orig);
     touch(ch->description);
     touch(ch->afk_msg);
-    touch(ch->searching);
     touch(ch->target);
 
 }
@@ -367,6 +373,13 @@ walk_room_index_data(ROOM_INDEX_DATA *r)
 
     touch(r->nocmd);
     touch(r->nospell);
+
+    {
+        ROOM_AFFECT_DATA *raf;
+
+        for (raf = r->first_room_affect; raf; raf = raf->next)
+            touch(raf->name);
+    }
 }
 
 static void
@@ -666,12 +679,41 @@ void walk_treasuries(void)
             walk_treasury_history(h);
 }
 
-void
-do_scheck(CHAR_DATA *ch, char *argument)
+static void
+walk_rename_data(RENAME_DATA *rename)
 {
-    char                buf[MAX_STRING_LENGTH];
+    if (!rename)
+        return;
+
+    touch(rename->playername);
+    touch(rename->oldshort);
+    touch(rename->oldlong);
+    touch(rename->oldkeyword);
+    touch(rename->newshort);
+    touch(rename->newlong);
+    touch(rename->newkeyword);
+}
+
+static void
+walk_renames(void)
+{
+    RENAME_DATA *rename;
+
+    for (rename = first_rename; rename; rename = rename->next)
+        walk_rename_data(rename);
+}
+
+/*
+ * Walk all known string roots and return the number of SSM usage/ref
+ * mismatches. Writes details to leaks.dmp in the process CWD.
+ * Safe to call without a player (used by --selftest).
+ */
+long
+string_check_leaks(void)
+{
     extern bool         disable_timer_abort;
     extern char        *last_reboot_by;
+    long                count;
 
     disable_timer_abort = TRUE;
     clear();
@@ -698,8 +740,127 @@ do_scheck(CHAR_DATA *ch, char *argument)
     walk_cinfos();
     walk_auctions();
     walk_treasuries();
+    walk_renames();
 
-    sprintf(buf, "%ld leaks dumped to leaks.dmp\n\r", dump());
-    send_to_char(buf, ch);
+    count = dump();
     disable_timer_abort = FALSE;
+    return count;
+}
+
+void
+do_scheck(CHAR_DATA *ch, char *argument)
+{
+    char                buf[MAX_STRING_LENGTH];
+
+    sprintf(buf, "%ld leaks dumped to leaks.dmp\n\r", string_check_leaks());
+    send_to_char(buf, ch);
+}
+
+/*
+ * Post-boot self tests for memory lifecycle. Returns number of failures.
+ */
+int
+run_selftest(void)
+{
+    int                 failures = 0;
+    long                before, after, alloc_before, alloc_after;
+    char               *a, *b;
+    RESET_DATA         *pReset;
+    NOTE_DATA          *note;
+
+    xlogf("SELFTEST: starting");
+
+    /* --- SSM str_dup / free_string --- */
+    alloc_before = nAllocString;
+    a = str_dup("selftest-unique-string-aaa");
+    b = str_dup(a);             /* re-dup of heap pointer shares storage */
+    if (a == NULL || b == NULL || a != b) {
+        xlogf("SELFTEST FAIL: SSM share failed (a=%p b=%p)", (void *) a, (void *) b);
+        failures++;
+    }
+    free_string(a);
+    free_string(b);
+    alloc_after = nAllocString;
+    if (alloc_after != alloc_before) {
+        xlogf("SELFTEST FAIL: SSM leak after free (before=%ld after=%ld)",
+            alloc_before, alloc_after);
+        failures++;
+    }
+    else
+        xlogf("SELFTEST OK: SSM str_dup/free_string");
+
+    /* free_string of empty must be a no-op */
+    free_string(str_dup(""));
+    free_string(NULL);
+
+    /* --- free_reset: strings released before freelist recycle --- */
+    alloc_before = nAllocString;
+    GET_FREE(pReset, reset_free);
+    pReset->command = 'M';
+    pReset->notes = str_dup("selftest-reset-notes");
+    pReset->auto_message = str_dup("selftest-reset-auto");
+    free_reset(pReset);
+    /* recycle twice more to ensure freelist reuse is safe */
+    GET_FREE(pReset, reset_free);
+    pReset->notes = str_dup("selftest-reset-notes-2");
+    pReset->auto_message = str_dup("");
+    free_reset(pReset);
+    alloc_after = nAllocString;
+    if (alloc_after > alloc_before) {
+        xlogf("SELFTEST FAIL: free_reset leaked strings (before=%ld after=%ld)",
+            alloc_before, alloc_after);
+        failures++;
+    }
+    else
+        xlogf("SELFTEST OK: free_reset");
+
+    /* --- note free order: free_string then PUT_FREE (regression) --- */
+    alloc_before = nAllocString;
+    GET_FREE(note, note_free);
+    note->from = str_dup("SelftestFrom");
+    note->to = str_dup("SelftestTo");
+    note->subject = str_dup("SelftestSubj");
+    note->text = str_dup("Selftest body text.");
+    free_string(note->from);
+    free_string(note->to);
+    free_string(note->subject);
+    free_string(note->text);
+    PUT_FREE(note, note_free);
+    /* reuse freelist entry */
+    GET_FREE(note, note_free);
+    note->from = str_dup("SelftestFrom2");
+    note->to = str_dup("SelftestTo2");
+    note->subject = str_dup("SelftestSubj2");
+    note->text = str_dup("Selftest body text 2.");
+    free_string(note->from);
+    free_string(note->to);
+    free_string(note->subject);
+    free_string(note->text);
+    PUT_FREE(note, note_free);
+    alloc_after = nAllocString;
+    if (alloc_after > alloc_before) {
+        xlogf("SELFTEST FAIL: note free-order leaked (before=%ld after=%ld)",
+            alloc_before, alloc_after);
+        failures++;
+    }
+    else
+        xlogf("SELFTEST OK: note free order");
+
+    /* --- scheck baseline after the above churn --- */
+    before = string_check_leaks();
+    after = string_check_leaks();
+    if (before != after) {
+        xlogf("SELFTEST FAIL: scheck non-deterministic (%ld then %ld)", before, after);
+        failures++;
+    }
+    else
+        xlogf("SELFTEST OK: scheck stable (%ld mismatches)", before);
+
+    /* Informational: non-zero baseline may exist from historical data;
+     * we only fail on regressions introduced by selftest actions. */
+    if (before != 0)
+        xlogf("SELFTEST NOTE: scheck baseline has %ld mismatches (see leaks.dmp)", before);
+
+    xlogf("SELFTEST: %d failure(s)", failures);
+    return failures;
 }

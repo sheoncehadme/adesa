@@ -1,0 +1,32 @@
+# Build artifacts
+src/*.o
+src/*.o.tmp
+src/merc
+src/merc-asan
+src/merc.save
+src/version.c
+src/version.c.last
+area/core*
+
+# Unit test binaries
+tests/unit/test_ssm
+tests/unit/test_freelist
+tests/unit/test_md5
+tests/unit/*.o
+tests/unit/*.dSYM/
+
+# Runtime / local data
+log/
+data/shutdown.txt
+area/leaks.dmp
+player/**/*.bak
+
+# Python
+**/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.DS_Store
+*~
+*.swp

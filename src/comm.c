@@ -463,12 +463,42 @@ main(int argc, char **argv)
     }
 
     /*
+     * Test modes: boot world then exit (no socket / game loop).
+     * Must be run with CWD = area/ so ../data and area files resolve.
+     *
+     *   merc --boot-test   load areas and exit 0 on success
+     *   merc --selftest    load areas, run memory self-tests, exit 0/1
+     */
+    if (argc > 1 && (!strcmp(argv[1], "--boot-test") || !strcmp(argv[1], "--selftest"))) {
+        int                 is_selftest = !strcmp(argv[1], "--selftest");
+
+        init_alarm_handler();
+        boot_db(FALSE);
+
+        if (is_selftest) {
+            if (run_selftest() != 0) {
+                log_string("SELFTEST: FAILED");
+                FPRINTF(stderr, "SELFTEST: FAILED (see log)\n");
+                exit(1);
+            }
+            log_string("SELFTEST: OK");
+            FPRINTF(stderr, "SELFTEST: OK\n");
+            exit(0);
+        }
+
+        log_string("BOOT-TEST: OK");
+        FPRINTF(stderr, "BOOT-TEST: OK\n");
+        exit(0);
+    }
+
+    /*
      * Get the port number.
      */
     port = 1234;
     if (argc > 1) {
         if (!is_number(argv[1])) {
-            FPRINTF(stderr, "Usage: %s [port #]\n", argv[0]);
+            FPRINTF(stderr, "Usage: %s [port #] | %s --boot-test | %s --selftest\n",
+                argv[0], argv[0], argv[0]);
             exit(1);
         }
         else if ((port = atoi(argv[1])) <= 1024) {
@@ -3553,6 +3583,8 @@ nanny(DESCRIPTOR_DATA *d, char *argument)
 
         if (!IS_NPC(ch)) {
             if (!str_cmp(ch->pcdata->room_enter, "")) {
+                free_string(ch->pcdata->room_enter);
+                free_string(ch->pcdata->room_exit);
                 switch (ch->race) {
 
                     case 0:

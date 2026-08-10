@@ -17,16 +17,40 @@ W hawkeye ~
 #4951
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4950
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4952
 S
 #4952
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4951
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4953
 E
 crest~
 The crest consists of  @@dDeath@@N dressed in @@dblack robes@@N holding a @@bsickle@@N in left hand and a @@Rblood @@Grose@@N clasped tightly in his right.~
@@ -34,163 +58,509 @@ S
 #4950
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204828 11
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4951
+D2
+A dark passage opens south.
+~
+~
+0 -1 4960
+D0
+Through the arch you glimpse Roc Road and freedom.
+~
+~
+0 -1 3233
 S
 #4960
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4954
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4961
+D0
+A dark passage opens north.
+~
+~
+0 -1 4950
 S
 #4970
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4964
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4971
 S
 #4980
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4974
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4981
+D2
+A dark passage opens south.
+~
+~
+0 -1 4990
 S
 #4990
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4984
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4991
+D0
+A dark passage opens north.
+~
+~
+0 -1 4980
 S
 #4991
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4990
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4992
 S
 #4981
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4980
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4982
+D0
+A dark passage opens north.
+~
+~
+0 -1 4971
 S
 #4971
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4970
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4972
+D2
+A dark passage opens south.
+~
+~
+0 -1 4981
 S
 #4961
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4960
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4962
 S
 #4962
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4961
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4963
+D2
+A dark passage opens south.
+~
+~
+0 -1 4972
 S
 #4972
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4971
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4973
+D0
+A dark passage opens north.
+~
+~
+0 -1 4962
 S
 #4982
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4981
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4983
 S
 #4992
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4991
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4993
 S
 #4993
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4992
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4994
+D0
+A dark passage opens north.
+~
+~
+0 -1 4983
 S
 #4983
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4982
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4984
+D2
+A dark passage opens south.
+~
+~
+0 -1 4993
 S
 #4973
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4972
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4974
 S
 #4963
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 73748 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4962
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4964
+D0
+A dark passage opens north.
+~
+~
+0 -1 4953
 S
 #4953
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4952
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4954
+D2
+A dark passage opens south.
+~
+~
+0 -1 4963
 S
 #4954
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4953
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4960
 S
 #4964
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4963
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4970
 S
 #4974
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4973
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4980
+D2
+A dark passage opens south.
+~
+~
+0 -1 4984
 S
 #4984
 @@WThe Maze of @@lIcarus@@N~
 @@WStone walls limit the perspective of your vision, and @@ddespair@@W
-overwhelms you as you consider the task of escaping these walls.
-~
+
+overwhelms you as you consider the task of escaping these walls.
+
+~
 204820 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4983
+D1
+A narrow stone corridor continues.
+~
+~
+0 -1 4990
+D0
+A dark passage opens north.
+~
+~
+0 -1 4974
 S
 #4994
 @@WThe Maze of @@lIcarus@@N~
 @@aAt LAST!!! The sweet smell of fresh air and freedom envelop your senses as
-you taste the delicious warmth of true salvation.  Finally, you are free!@@N
-~
+
+you taste the delicious warmth of true salvation.  Finally, you are free!@@N
+
+~
 65556 11
+D3
+A narrow stone corridor continues.
+~
+~
+0 -1 4993
+D4
+A shaft of light leads up and out of the maze.
+~
+~
+0 -1 3233
 S
 #0
 #MOBILES
@@ -198,7 +568,8 @@ S
 minotuar slave~
 @@WA @@RMinotaur Slave@@N~
 @@WA @@RSlave of @@eKahl'Dann@@W cowers before you.@@N
-~
+
+~
 ~
 1 0 0 S
 101 1
@@ -208,7 +579,8 @@ minotuar slave~
 Minotaur Servant~
 @@WA @@RMinotuar Servant@@N~
 @@WA @@RServant of @@eKahl'Dann @@Wgoes about his business.@@N
-~
+
+~
 ~
 1 8320 0 S
 102 1
@@ -218,7 +590,8 @@ Minotaur Servant~
 minotaur guard~
 @@WA @@RMinoatur Guard@@N~
 @@WA @@RMinotaur Guard@@N searches for intruders!@@N
-~
+
+~
 ~
 41 17064 0 S
 117 1
@@ -228,7 +601,8 @@ minotaur guard~
 minotaur master~
 @@WA @@RMinotaur Master@@N~
 @@WA Majestic @@RMinotaur Master@@N watches you closely!
-~
+
+~
 ~
 3145761 170 0 S
 121 1
@@ -239,7 +613,8 @@ S spec_executioner~
 minotaur lord~
 @@WA Mighty @@RMinotuar Lord@@N~
 @@WOne of the @@eLords @@Wof the @@RMaze@@N ponders your fate.
-~
+
+~
 ~
 3145737 10408 0 S
 131 1
@@ -249,7 +624,8 @@ minotaur lord~
 minotaur prince~
 @@WOne of the @@RPrinces of the Maze@@W~
 @@WA @@RPrince of @@eKhal'Dann@@N laughs at you evilly!@@N 
-~
+
+~
 ~
 3145769 10408 0 S
 134 1
@@ -259,7 +635,8 @@ minotaur prince~
 Minotaur king~
 @@eTekk'Moran@@W, @@RKing of the Minotaurs@@N~
 @@eTekk'Moran@@W, @@RKing of the Minotaurs surveys his Realm@@N.
-~
+
+~
 ~
 19922987 92394 0 S
 142 1
@@ -269,7 +646,8 @@ Minotaur king~
 scout minotaur~
 @@WA @@RMinotuar@@d Scout@@N~
 @@WA @@RMinotaur @@dScout @@Wsearches for strategic information.@@N
-~
+
+~
 ~
 129 1680042 0 S
 109 1
@@ -279,7 +657,8 @@ scout minotaur~
 captain minotaur~
 @@WA @@RMinotaur @@eCaptain @@Wof @@dWar@@N~
 @@WA @@RMinotaur @@eCaptain @@Wof @@dWar@@N commands a war party!
-~
+
+~
 ~
 3145737 10368 0 S
 134 1
@@ -289,7 +668,8 @@ captain minotaur~
 diplomat~
 @@WA @@RMinotaur @@ydiplomat@@N~
 @@WA @@RMinotaur @@yDiplomat@@N tries to end this useless, unwanted war.@@N
-~
+
+~
 ~
 19922953 27328 0 S
 136 1
@@ -310,7 +690,8 @@ assassin minotaur~
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4961 0
 1
@@ -319,7 +700,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4972 0
 1
@@ -328,7 +710,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4983 0
 1
@@ -337,7 +720,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4954 0
 1
@@ -346,7 +730,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4964 0
 1
@@ -355,7 +740,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4980 0
 1
@@ -364,7 +750,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4991 0
 1
@@ -373,7 +760,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4973 0
 1
@@ -382,7 +770,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4952 0
 1
@@ -391,7 +780,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4994 0
 1
@@ -400,7 +790,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4973 0
 1
@@ -409,7 +800,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4974 0
 1
@@ -418,7 +810,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4980 0
 1
@@ -427,7 +820,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4954 0
 1
@@ -436,7 +830,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4953 0
 1
@@ -445,7 +840,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4962 0
 1
@@ -454,7 +850,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4964 0
 1
@@ -463,7 +860,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4982 0
 1
@@ -472,7 +870,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4970 0
 1
@@ -481,7 +880,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 0 4984 0
 1
@@ -490,7 +890,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4950 0
 1
@@ -499,7 +900,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4951 0
 1
@@ -508,7 +910,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4981 0
 1
@@ -517,7 +920,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4952 0
 1
@@ -526,7 +930,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4953 0
 1
@@ -535,7 +940,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4954 0
 1
@@ -544,7 +950,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 0 0 1
 9 3 4955 0
 1
@@ -553,7 +960,8 @@ L 10
 ring ruby obsidian~
 @@NAn @@bobsidian @@yring@@N~
 @@WA gleaming @@dobsidian @@yring@@W set with a sparkling @@eruby@@N
-M~
+
+M~
 9 0 8396800 1
 0 0 0 0
 10
@@ -567,7 +975,8 @@ L 107
 bracers minotaur~
 @@dBracers @@Wof the @@eMinotaur@@N~
 @@WA spiked pair of @@dobsidian bracers@@W, etched with @@estrange symbols@@N
-~
+
+~
 9 3 8390656 1
 0 0 0 0
 16
@@ -580,7 +989,8 @@ L 115
 hooves minotaur~
 @@dHooves @@Wof the @@eMinotaur@@N~
 @@WA pair of @@eblood @@Wencrusted @@dhooves@@W lie here.@@N
-~
+
+~
 9 3 12582912 1
 0 0 0 0
 25
@@ -595,7 +1005,8 @@ L 120
 wax ball~
 @@WA small ball of @@ywax@@N~
 @@WA mass of @@ywax@@N has melted into a mess.@@N
-~
+
+~
 29 0 8388608 1
 0 4981 4982 0
 1
@@ -604,8 +1015,10 @@ L 10
 feathers eagle~
 @@WA large pile of @@bEagle @@afeathers@@N~
 @@WSeveral large @@afeathers@@W, seemingly from a giant @@bEagle@@W have
-collected here.@@N
-~
+
+collected here.@@N
+
+~
 29 1048576 8388608 1
 4980 0 4982 0
 1
@@ -614,7 +1027,8 @@ L 10
 mess sticky~
 @@WA sticky mess@@N~
 @@WA large, sticky mess of @@afeathers @@W and @@ywax@@N lies here.@@N
-~
+
+~
 29 0 8388608 1
 0 4984 4991 0
 1
@@ -623,7 +1037,8 @@ L 10
 rope coil~
 @@WA small coil of @@brope@@N~
 @@WSeveral short pieces of @@brope@@W are coiled neatly here.@@N
-~
+
+~
 29 0 8388608 1
 0 4988 4984 0
 1
@@ -640,8 +1055,10 @@ L 10
 torch flickering~
 @@WA @@ef@@yl@@ei@@yc@@ek@@ye@@er@@yi@@en@@yg@@b torch@@N~
 @@WA magically @@ef@@yl@@ei@@yc@@ek@@ye@@er@@yi@@en@@yg@@b torch@@W lies
-forgotten here.@@N
-~
+
+forgotten here.@@N
+
+~
 29 0 8388608 1
 0 4991 4986 0
 1
@@ -650,7 +1067,8 @@ L 10
 wings icarus~
 @@WThe Wings of @@lIcarus@@N~
 @@WA beautiful set of hand crafted wings lies here.@@N
-~
+
+~
 9 1048577 8389632 20608
 0 0 0 0
 1
@@ -664,7 +1082,8 @@ L 120
 rod minotaur~
 @@WThe @@dRod @@Wof the @@eMinotaur King@@N~
 @@WA huge @@dobsidian rod@@W, encrusted with @@erubies@@W floats before you.@@N
-~
+
+~
 5 19 8421376 16641
 0 0 0 8
 45
@@ -710,7 +1129,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4963 0
 1
@@ -719,7 +1139,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4981 0
 1
@@ -728,7 +1149,8 @@ L 10
 gate~
 @@WAn @@dIron bound @@RGate@@N~
 @@WAn @@dIron bound @@RGate@@N stands here.
-~
+
+~
 14 65536 0 1
 9 0 4952 0
 1

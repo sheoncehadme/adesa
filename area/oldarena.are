@@ -28,10 +28,14 @@ S
 #306
 Kitchen~
 You are in the kitchen of the arena.  Busy cooks dance about everywhere as the
-chefs prepare for a large army.  You can smell all sorts of ....umm...goodies,
-as its drifts thickly through the air.  There is a door leading to the mess
-hall to the south.
-~
+
+chefs prepare for a large army.  You can smell all sorts of ....umm...goodies,
+
+as its drifts thickly through the air.  There is a door leading to the mess
+
+hall to the south.
+
+~
 0 0
 D2
 ~
@@ -93,14 +97,22 @@ S
 #300
 The Preparation Room~
 You are standing in a small square room.  The walls are lined with benches and
-the benches are lined with gladiators waiting for their turn to fight to the
-death in the arena to the west.
-~
+
+the benches are lined with gladiators waiting for their turn to fight to the
+
+death in the arena to the west.
+
+~
 0 0
 D1
 ~
 ~
 0 0 301
+D3
+West leads back toward Mud School.
+~
+~
+0 -1 3744
 E
 benches~
 The benches are strongly constructed from oak.~
@@ -131,10 +143,12 @@ S
 gladiator~
 @@ygladiator@@N~
 @@NA large, well trained @@ygladiator@@N is preparing here.@@N
-~
+
+~
 This guy really is a huge killing machine perhaps you should walk away.
 
-~
+
+~
 19 0 0 S
 4 1
 100 -10 0 0 0
@@ -143,7 +157,8 @@ This guy really is a huge killing machine perhaps you should walk away.
 rat~
 @@brat@@N~
 @@bA large rat is scurring about here.@@N
-~
+
+~
 ~
 1 0 -10 S
 11 0
@@ -153,9 +168,11 @@ rat~
 borg~
 Borg~
 Borg.
-~
+
+~
 The big borgy bastard.
-~
+
+~
 23 0 1000 S
 19 0
 -50 25 20 0 0

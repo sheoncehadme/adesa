@@ -1837,7 +1837,7 @@ check_resets(void)
                 sprintf(buf + strlen(buf), "%c %d %d %d %d.", pReset->command, pReset->ifflag, pReset->arg1, pReset->arg2, pReset->arg3);
                 bug(buf);
                 UNLINK(pReset, pArea->first_reset, pArea->last_reset, next, prev);
-                PUT_FREE(pReset, reset_free);
+                free_reset(pReset);
             }
             /* Spec: We do _not_ want to insert resets into the room list here,
              * its all handled in load_resets. Removed.
@@ -2515,6 +2515,20 @@ clear_char(CHAR_DATA *ch)
     /*    ch->pcdata->recall_vnum = 3001;     */
 
     return;
+}
+
+/*
+ * Free a reset (including SSM strings) and return it to the freelist.
+ */
+void
+free_reset(RESET_DATA *pReset)
+{
+    if (pReset == NULL)
+        return;
+
+    free_string(pReset->notes);
+    free_string(pReset->auto_message);
+    PUT_FREE(pReset, reset_free);
 }
 
 /*

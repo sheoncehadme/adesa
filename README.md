@@ -15,13 +15,16 @@ Ported to build and run on modern 64-bit hosts (macOS arm64/x86_64, Linux).
 
 ```sh
 cd src && make
+# or from repo root:
+make
 ```
 
 Optional:
 
 ```sh
-make NOCRYPT=1   # plain-text passwords (legacy export flag; not recommended)
+make -C src NOCRYPT=1   # plain-text passwords (legacy export flag; not recommended)
 make clean
+make -C src asan        # AddressSanitizer binary: src/merc-asan
 ```
 
 The resulting binary is `src/merc` (Mach-O arm64 on Apple Silicon, ELF on Linux).
@@ -35,6 +38,48 @@ cd area && ../src/merc 6000
 ```
 
 Default port is `6000` via `startup.m`, or `1234` if you run `merc` with no args.
+
+## Testing
+
+There was no historical unit-test suite; Adesa now has a layered harness under `tests/`.
+
+```sh
+# Full suite (unit + build + boot + selftest + log scan + area_gen pytest)
+make test
+
+# Pieces
+make unit-test              # SSM / freelist / MD5 pure unit tests
+make -C src test-boot       # load all areas, exit
+make -C src test-self       # boot + memory lifecycle self-tests
+make asan-smoke             # ASan build + --selftest (slower)
+```
+
+**Headless modes** (CWD must be `area/` so `../data` and area files resolve):
+
+```sh
+cd area && ../src/merc --boot-test   # load world, exit 0
+cd area && ../src/merc --selftest    # load world, free_reset/note/SSM/scheck checks
+```
+
+**In-game oracles** (immortal): `memory`, `memory defrag`, `memory log`, `scheck` (writes `leaks.dmp`).
+
+**Live socket smoke** (server must already be running):
+
+```sh
+python3 tests/scripts/smoke_telnet.py
+ADESA_PORT=6000 ADESA_USER=Ogma ADESA_PASS=secret ADESA_RUN_SCHECK=1 \
+  python3 tests/scripts/smoke_telnet.py
+```
+
+**area_gen** (stdlib `unittest`; pytest optional):
+
+```sh
+python3 tools/area_gen/test_gen_areas.py -v
+# or, if pytest is installed:
+python3 -m pytest -q tools/area_gen/test_gen_areas.py
+```
+
+See `tests/scripts/run_all.sh` for the CI entry point.
 
 ## Notes on the modern port
 
@@ -63,8 +108,18 @@ A generated D&D-inspired campaign chain covers levels **1–90** with full gear 
 | `dragonspire.are` | 75–85 | 23600 | Dragon lairs |
 | `astralcourt.are` | 80–90 | 23700 | Astral endgame |
 
-Zones are linked west/east in order. Immortals: `goto 22500`. Regenerate with:
+Zones are linked west/east in order, and the hub links **north to Midgaard west gate (3052)** so mortals can walk the whole campaign from the Temple. Immortals: `goto 22500`.
+
+Regenerate zones with:
 
 ```sh
 python3 tools/area_gen/gen_areas.py
+# re-apply non-generated world links (school, ethereal, maze, etc.):
+python3 tools/world_connect.py
+```
+
+Check walkability from the Temple (also required for auto-quests, which pathfind from vnum 3001):
+
+```sh
+python3 tests/scripts/check_connectivity.py
 ```

@@ -1,0 +1,5 @@
+test_ssm
+test_freelist
+test_md5
+*.o
+*.dSYM/

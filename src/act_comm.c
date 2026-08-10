@@ -91,11 +91,12 @@ note_finished(char *orig, char **dest, CHAR_DATA *ch, bool saved)
         return;
 
     if (!saved) {
-        PUT_FREE(note, note_free);
         free_string(note->from);
         free_string(note->to);
         free_string(note->subject);
         free_string(note->text);
+        ch->pnote = NULL;
+        PUT_FREE(note, note_free);
 
         send_to_char("Note creation cancelled.\n\r", ch);
         return;
@@ -116,6 +117,7 @@ note_finished(char *orig, char **dest, CHAR_DATA *ch, bool saved)
     }
 
     LINK(note, first_note, last_note, next, prev);
+    ch->pnote = NULL;
 
     if (playing) {
         send_to_char("A new note has arrived.\n\r", victim);
@@ -138,11 +140,12 @@ news_finished(char *orig, char **dest, CHAR_DATA *ch, bool saved)
         return;
 
     if (!saved) {
-        PUT_FREE(note, note_free);
         free_string(note->from);
         free_string(note->to);
         free_string(note->subject);
         free_string(note->text);
+        ch->pnote = NULL;
+        PUT_FREE(note, note_free);
 
         send_to_char("News creation cancelled.\n\r", ch);
         return;
@@ -152,6 +155,7 @@ news_finished(char *orig, char **dest, CHAR_DATA *ch, bool saved)
     smash_tilde(note->text);
 
     LINK(note, first_note, last_note, next, prev);
+    ch->pnote = NULL;
 
     for (victim = first_player; victim != NULL; victim = victim->next_player) {
         send_to_char("@@eAn annoucement has been made. Type @@ynews read@@e to read it.@@N\n\r", victim);
@@ -451,11 +455,11 @@ do_note(CHAR_DATA *ch, char *argument)
 
                 UNLINK(note, first_note, last_note, next, prev);
 
-                PUT_FREE(note, note_free);
                 free_string(note->from);
                 free_string(note->to);
                 free_string(note->subject);
                 free_string(note->text);
+                PUT_FREE(note, note_free);
 
                 if (!fAll)
                     break;

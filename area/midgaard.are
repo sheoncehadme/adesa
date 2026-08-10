@@ -21,13 +21,19 @@ M No bad room spells allowed.
 #3055
 Entering the @@eSyringe@@N~
 @@NWoW!!! That was...different.  You are very disoriented..suddenly, a crazed
-man with unkempt hair and the smell of cheap wine on his breath appears, and
-shouts: "Oh my, another victim to experiment on!!!  MUAHHAAAAA!!" He waves his
-hands and mutters loudly, and suddenly, you begin to shrink!!! Smaller and
-smaller you become, until you are smaller than the dust particles around you..
 
-@@eIt seems the only exit is the syringe!@@N
-~
+man with unkempt hair and the smell of cheap wine on his breath appears, and
+
+shouts: "Oh my, another victim to experiment on!!!  MUAHHAAAAA!!" He waves his
+
+hands and mutters loudly, and suddenly, you begin to shrink!!! Smaller and
+
+smaller you become, until you are smaller than the dust particles around you..
+
+
+@@eIt seems the only exit is the syringe!@@N
+
+~
 1036 1
 D5
 ~
@@ -37,13 +43,20 @@ S
 #3039
 @@WT@@ghe @@WM@@gad @@WS@@gcientist@@W'@@gs @@WL@@gab@@N~
 @@WT@@ghe scent of chemicals@@W,@@g burning fires@@W,@@g and bubbling fluids overwhelm you as
-you enter@@W.@@g  Scattered about on various tables and workbenches are wierd glass
-flasks, tubes@@W,@@g and unusual pieces of equipment@@W,@@g with what seems to be some
-sort of strange experiments being performed@@W..@@gall with no apparent rhyme or
-reason@@W.@@g  Who ever works here is absent@@W,@@g but you are drawn towards the center
-of the room@@W,@@g where a strange @@rfluid@@g slowly runs down a drain@@W-@@glike
-@@dmanhole@@W.@@N
-~
+
+you enter@@W.@@g  Scattered about on various tables and workbenches are wierd glass
+
+flasks, tubes@@W,@@g and unusual pieces of equipment@@W,@@g with what seems to be some
+
+sort of strange experiments being performed@@W..@@gall with no apparent rhyme or
+
+reason@@W.@@g  Who ever works here is absent@@W,@@g but you are drawn towards the center
+
+of the room@@W,@@g where a strange @@rfluid@@g slowly runs down a drain@@W-@@glike
+
+@@dmanhole@@W.@@N
+
+~
 12 1
 D0
 ~
@@ -61,10 +74,14 @@ S
 #3038
 @@WT@@ghe @@WM@@gidgaard @@WP@@gost @@WO@@gffice@@N~
 @@WT@@ghis is the @@WM@@gidgaard branch of the @@WG@@global @@WP@@gost @@WO@@gffice@@W.@@N
-@@gFrom here you may read or write letters to friends@@N
-@@gand enemies alike@@W...@@N
-@@gThere is a large SIGN here@@W... @@gperhaps you should look at it@@W?@@N
-~
+
+@@gFrom here you may read or write letters to friends@@N
+
+@@gand enemies alike@@W...@@N
+
+@@gThere is a large SIGN here@@W... @@gperhaps you should look at it@@W?@@N
+
+~
 17436 0
 D1
 ~
@@ -73,20 +90,30 @@ D1
 E
 sign~
 @@WTo send notes use the following commands:-
- 
-Note to (name)
- 
-  Note subject (subject)
- 
-    Note + (msg) for each subsequent line of text.
-      Note show to see your note
-~
+
+ 
+
+Note to (name)
+
+ 
+
+  Note subject (subject)
+
+ 
+
+    Note + (msg) for each subsequent line of text.
+
+      Note show to see your note
+
+~
 S
 #3085
 @@WT@@ghe @@WQ@@guiet @@WR@@goom@@N~
 @@WT@@ghis is a room where players can come and sleep with no interuptions@@W.@@g There is
-@@ga sign on the wall@@W.@@N
-~
+
+@@ga sign on the wall@@W.@@N
+
+~
 25886 0
 D5
 ~
@@ -95,13 +122,16 @@ D5
 E
 sign~
 Sssshh! No talking in this room.
-~
+
+~
 S
 #3086
 @@WT@@ghe @@WP@@gower @@WT@@grivia @@WR@@goom@@N~
 @@WT@@ghis room is used by the players of the mud@@W,@@g to engage in the totally@@N
-@@gpointless pursuit of trivial knowledge@@W.@@N
-~
+
+@@gpointless pursuit of trivial knowledge@@W.@@N
+
+~
 8 0
 D4
 ~
@@ -111,10 +141,14 @@ S
 #3004
 @@dThe Undead Shrine To The Adesa Gods@@N~
 @@dThis horrid place is predominately black.  If you look closely, you see
-that blood seeps from the walls, pools here and there on the floor.  This is
-where the devout followers of the Adesas Gods come to worship them, and
-where they come to hire thier minions.@@N
-~
+
+that blood seeps from the walls, pools here and there on the floor.  This is
+
+where the devout followers of the Adesas Gods come to worship them, and
+
+where they come to hire thier minions.@@N
+
+~
 18 0
 D1
 ~
@@ -124,23 +158,28 @@ S
 #3017
 @@WT@@ghe @@WM@@giscellaneous @@WD@@gonation @@WA@@grea@@N~
 @@WY@@gou are in the part of the donation area used to hold items other than@@N
-@@gweapons or amror@@W.@@N
-~
+
+@@gweapons or amror@@W.@@N
+
+~
 12 0
 D0
 The central donation area.
-~
+
+~
 ~
 0 -1 3021
 S
 #3018
 @@WT@@ghe @@WA@@grmor @@WD@@gonation @@WA@@grea@@N~
 @@WY@@gou are in part of the donation area used to hold armor items@@W. @@N
-~
+
+~
 12 0
 D3
 The central donation area.
-~
+
+~
 ~
 0 -1 3021
 L
@@ -150,48 +189,60 @@ S
 #3019
 @@WT@@ghe @@WW@@geapons @@WD@@gonation @@WA@@grea@@N~
 @@WY@@gou are in part of the donation area used to hold weapons@@W.@@N
-~
+
+~
 12 0
 D2
 The central donation area.
-~
+
+~
 ~
 0 -1 3021
 S
 #3021
 @@WT@@ghe @@WD@@gonation @@WA@@grea@@N~
 @@WY@@gou are standing in a cross@@W-@@gshaped room@@W.@@g  To the west you can see the Temple@@W.@@N
-@@gTo the North@@W,@@g East and South@@W,@@g you see the various donation locations@@W.@@g  These@@N
-@@gare used to house unwanted equipment@@W,@@g donated by players who no longer need@@N
-@@gthem@@W.@@N
-~
+
+@@gTo the North@@W,@@g East and South@@W,@@g you see the various donation locations@@W.@@g  These@@N
+
+@@gare used to house unwanted equipment@@W,@@g donated by players who no longer need@@N
+
+@@gthem@@W.@@N
+
+~
 12 0
 D0
 You see the Weapon donation area.
-~
+
+~
 ~
 0 -1 3019
 D1
 You see the Armor donation area.
-~
+
+~
 ~
 0 -1 3018
 D2
 You see a room used for various donations.
-~
+
+~
 ~
 0 -1 3017
 D3
 You see the Temple of Midgaard.
-~
+
+~
 ~
 0 -1 3001
 S
 #3022
 On the River~
 The river enters from a hole in the eastern city wall.  The hole has been
-blocked by several vertically positioned iron bars set into the wall.
-~
+
+blocked by several vertically positioned iron bars set into the wall.
+
+~
 0 7
 D3
 ~
@@ -201,8 +252,10 @@ S
 #3023
 On the River~
 You see the warehouse on the northern riverbank.  East of here you see the
-city wall.  The river flows west towards the levee.
-~
+
+city wall.  The river flows west towards the levee.
+
+~
 0 7
 D1
 ~
@@ -216,8 +269,10 @@ S
 #3027
 On the River~
 The levee is directly north of here.  The river flows in an east west
-direction.
-~
+
+direction.
+
+~
 4 7
 D0
 ~
@@ -235,8 +290,10 @@ S
 #3028
 On the River~
 North of here you see the dump.  The river flows from east to west.  The
-riverbanks are too steep to climb.
-~
+
+riverbanks are too steep to climb.
+
+~
 0 7
 D1
 ~
@@ -250,8 +307,10 @@ S
 #3036
 On the River~
 North of here you see the miserable buildings of the poor alley.  The
-river flows west towards the bridge.  The riverbanks are too steep to climb.
-~
+
+river flows west towards the bridge.  The riverbanks are too steep to climb.
+
+~
 0 7
 D1
 ~
@@ -265,9 +324,12 @@ S
 #3200
 Under the Bridge~
 The arch under the bridge is covered by seaweed for one foot above the
-surface of the river.  The water gently flows through an opening in the lower
-part of the city wall.
-~
+
+surface of the river.  The water gently flows through an opening in the lower
+
+part of the city wall.
+
+~
 0 7
 D1
 ~
@@ -276,46 +338,58 @@ D1
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  Looks pretty solid.
-~
+
+some kind of mortar.  Looks pretty solid.
+
+~
 S
 #3143
 The Jail~
 You are in a dark and humid jail.  The dark stone walls are hard and cold
-to the touch.  A heavy steel door is to the north.
-~
+
+to the touch.  A heavy steel door is to the north.
+
+~
 8 0
 D0
 You see the heavy steel door.
-~
+
+~
 door~
 1 3137 3142
 E
 wall walls~
 The walls are marked with lots of scratches.  Some of them spell sentences
-like "JAIL IS BETTER THAN SQL" and "INGRES STRIKES AGAIN".
-~
+
+like "JAIL IS BETTER THAN SQL" and "INGRES STRIKES AGAIN".
+
+~
 S
 #3142
 Captain's Office~
 You are in the Office of the Captain of the Guard.  The Midgaard Coat of
-Arms is hanging on the north wall and a heavy steel door is to the south.
-~
+
+Arms is hanging on the north wall and a heavy steel door is to the south.
+
+~
 8 0
 D1
 You see the Cityguard Head Quarters.
-~
+
+~
 door~
 1 3120 3110
 D2
 You see the heavy steel door.
-~
+
+~
 door~
 1 3137 3143
 E
 arms~
 Although a bit dusty the Coat of Arms is an excellent piece of work.
-~
+
+~
 S
 #3141
 End of Penny Lane~
@@ -355,26 +429,34 @@ S
 #3138
 @@WThe Mayor's Office@@N~
 @@WThe @@gMayor's tiny office has one window and a very large, polished, but 
-completely empty desk. @@WDusty @@gbookshelves line the walls.@@N  
-~
+
+completely empty desk. @@WDusty @@gbookshelves line the walls.@@N  
+
+~
 8 0
 D3
 The waiting room is to the west.
-~
+
+~
 ~
 0 -1 3137
 E
 chair armchair~
 This chair is really a masterpiece.  A chair where one can sit as comfortably
-as in a bed.  All lecture halls should be equipped with these things.
-~
+
+as in a bed.  All lecture halls should be equipped with these things.
+
+~
 S
 #3137
 @@WTown Hall@@N~
 @@WThe @@gTown Hall of Midgaard is not a busy place. @@WWooden @@gchairs stand along the 
-walls and a long table stands in the middle of the room. @@WA @@gbored secretary sits 
-at her desk just inside the door.@@N  
-~
+
+walls and a long table stands in the middle of the room. @@WA @@gbored secretary sits 
+
+at her desk just inside the door.@@N  
+
+~
 8 0
 D0
 ~
@@ -382,7 +464,8 @@ D0
 0 0 3123
 D1
 It looks like some kind of office.
-~
+
+~
 ~
 0 -1 3138
 S
@@ -454,7 +537,8 @@ S
 #3131
 Park Road~
 You are at Park Road which continues north and south.
-~
+
+~
 0 1
 D2
 ~
@@ -550,9 +634,12 @@ S
 #3124
 @@WE@@glm @@WS@@greet@@N~
 @@WTall @@gelm trees line the cobblestone street. @@WA @@gfew of the townsfolk gather in 
-small groups to discuss various problems. @@WTo @@gthe south is the Cityguard's 
-Headquarters.@@N  
-~
+
+small groups to discuss various problems. @@WTo @@gthe south is the Cityguard's 
+
+Headquarters.@@N  
+
+~
 0 1
 D1
 ~
@@ -569,13 +656,16 @@ D3
 E
 elm tree~
 The fresh young leaves of the elm tree wave gently in the wind.
-~
+
+~
 S
 #3123
 @@WE@@glm @@WS@@greet@@N~
 @@WElm @@gtrees line the cobblestone street. @@WTo @@gthe south is the Town Hall and the 
-Mayor's office.@@N  
-~
+
+Mayor's office.@@N  
+
+~
 0 1
 D1
 ~
@@ -640,12 +730,17 @@ E
 sign~
 The sign points in all directions:
 
-   North - Emerald Avenue.
-   East  - Park Road.
-   South - Emerald Avenue.
-   West  - Park Road.
 
-~
+   North - Emerald Avenue.
+
+   East  - Park Road.
+
+   South - Emerald Avenue.
+
+   West  - Park Road.
+
+
+~
 S
 #3119
 Emerald Avenue~
@@ -689,9 +784,12 @@ S
 #3116
 Eastern Park Entrance~
 You are standing at the eastern end of the park.  A small path leads west
-into the park.  Going east through the entrance you will reach Emerald
-Avenue.
-~
+
+into the park.  Going east through the entrance you will reach Emerald
+
+Avenue.
+
+~
 4 1
 D1
 ~
@@ -705,8 +803,10 @@ S
 #3115
 A path in the park~
 You are in the park.  The paths lead north and east.  Eastwards is the
-park entrance and to the west you see a small pond.
-~
+
+park entrance and to the west you see a small pond.
+
+~
 0 1
 D0
 ~
@@ -724,8 +824,10 @@ S
 #3114
 The Pond~
 You are swimming around in the pond, feeling rather stupid.  You can get
-back on the path from the eastern and western end of the pond.
-~
+
+back on the path from the eastern and western end of the pond.
+
+~
 0 6
 D1
 ~
@@ -739,8 +841,10 @@ S
 #3113
 A path in the park~
 You are in the park.  The paths lead north and west.  Westwards is the
-park entrance and to the east you see a small pond.
-~
+
+park entrance and to the east you see a small pond.
+
+~
 0 1
 D0
 ~
@@ -748,20 +852,24 @@ D0
 0 -1 3107
 D1
 You see the pond.
-~
+
+~
 ~
 0 -1 3114
 D3
 You see the western park entrance.
-~
+
+~
 ~
 0 -1 3112
 S
 #3112
 Western Park Entrance~
 You are standing at the western end of the park.  A small path leads east
-into the park and going west through the entrance you will reach Park Road.
-~
+
+into the park and going west through the entrance you will reach Park Road.
+
+~
 4 1
 D1
 ~
@@ -775,8 +883,10 @@ S
 #3111
 Park Road~
 The road continues north and south.  A building is just west of here, you
-notice a sign on the door.  The park entrance is to the east.
-~
+
+notice a sign on the door.  The park entrance is to the east.
+
+~
 0 1
 D0
 ~
@@ -788,21 +898,26 @@ D2
 0 -1 3118
 D3
 You see the cityguard head quarters.
-~
+
+~
 door~
 1 -1 3110
 E
 building door sign~
 The sign on the door says:-
 
-		 Cityguard Head Quarters
-~
+
+		 Cityguard Head Quarters
+
+~
 S
 #3110
 Cityguard Head Quarters~
 You are inside a tidy office.  A big desk made from dark wood is standing
-in the centre of the room.
-~
+
+in the centre of the room.
+
+~
 8 0
 D0
 ~
@@ -810,20 +925,24 @@ D0
 0 0 3124
 D1
 You see Park Road.
-~
+
+~
 door~
 1 -1 3111
 D3
 You see a sign saying 'KEEP OUT'.
-~
+
+~
 door~
 1 3120 3142
 S
 #3109
 Small path in the park~
 You are on a small path running through the park.  It continues west and
-south and just north of here you see the southern wall of Park Cafe.
-~
+
+south and just north of here you see the southern wall of Park Cafe.
+
+~
 0 1
 D2
 ~
@@ -837,13 +956,17 @@ S
 #3108
 Small path in the park~
 You are standing on a small path inside the park.  The park entrance is
-just north of here, and Park Cafe is just east of the entrance.  The path
-leads further east and west.
-~
+
+just north of here, and Park Cafe is just east of the entrance.  The path
+
+leads further east and west.
+
+~
 0 1
 D0
 You see the northern park entrance.
-~
+
+~
 ~
 0 -1 3105
 D1
@@ -858,8 +981,10 @@ S
 #3107
 Small path through the park~
 You are walking along a small path through the park.  The path continues
-south and east.
-~
+
+south and east.
+
+~
 0 1
 D1
 ~
@@ -873,37 +998,48 @@ S
 #3106
 Park Cafe~
 You are inside Park Cafe, a very well lighted, cosy place. The cafe
-is built from large logs. Through the windows in the northern wall you
-see the river, and through the southern window you see many vigorous
-colorful plants.
-~
+
+is built from large logs. Through the windows in the northern wall you
+
+see the river, and through the southern window you see many vigorous
+
+colorful plants.
+
+~
 8 0
 D3
 You see the park entrance.
-~
+
+~
 ~
 0 -1 3105
 S
 #3105
 Park Entrance~
 You are standing just inside the small park of Midgaard.  To the north is
-the promenade and a small path leads south into the park.  To your east is
-the famous Park Cafe.
-~
+
+the promenade and a small path leads south into the park.  To your east is
+
+the famous Park Cafe.
+
+~
 4 1
 D0
 You see the promenade.
-~
+
+~
 ~
 0 -1 3102
 D1
 You see Park Cafe.
-~
+
+~
 ~
 0 -1 3106
 D2
 You see the park.
-~
+
+~
 ~
 0 -1 3108
 S
@@ -913,20 +1049,25 @@ Northeast end of Concourse~
 0 1
 D2
 The Concourse continues south.
-~
+
+~
 ~
 0 -1 3130
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 S
 #3103
 @@WE@@glm @@WS@@greet@@N~
 @@WTall @@gelm trees line the cobblestone street. @@WA @@gfew of the townsfolk gather in 
-small groups to discuss the 'dragon' problem.@@N  
-~
+
+small groups to discuss the 'dragon' problem.@@N  
+
+~
 0 1
 D1
 ~
@@ -934,42 +1075,52 @@ D1
 0 -1 3165
 D3
 You see the promenade.
-~
+
+~
 ~
 0 -1 3102
 S
 #3102
 @@WE@@glm @@WS@@greet@@N~
 @@WTall @@gelm trees line the cobblestone street. @@WA @@gfew of the townsfolk gather in 
-small groups to discuss the 'dragon' problem. @@WTo @@gthe south is the park entrance.@@N
- 
-~
+
+small groups to discuss the 'dragon' problem. @@WTo @@gthe south is the park entrance.@@N
+
+ 
+
+~
 0 1
 D1
 You see the promenade.
-~
+
+~
 ~
 0 -1 3103
 D2
 You see the park entrance.
-~
+
+~
 ~
 0 -1 3105
 D3
 You see the promenade.
-~
+
+~
 ~
 0 -1 3101
 S
 #3101
 @@WE@@glm @@WS@@greet@@N~
 @@WTall @@gelm trees line the cobblestone street. @@WA @@gfew of the townsfolk gather in 
-small groups to discuss the 'dragon' problem.@@N  
-~
+
+small groups to discuss the 'dragon' problem.@@N  
+
+~
 0 1
 D1
 The promenade.
-~
+
+~
 ~
 0 -1 3102
 D3
@@ -983,7 +1134,8 @@ Northwest end of Concourse~
 0 1
 D2
 The promenade continues far south.
-~
+
+~
 ~
 0 -1 3127
 S
@@ -991,18 +1143,25 @@ S
 Entrance to the Valkyrie~
 WOW you can fly!  You are floating in the air above Temple Square of Midgaard.
 
-A ladder leading to the Valkyrie clan room has been left here.
-~
+
+A ladder leading to the Valkyrie clan room has been left here.
+
+~
 4 9
 S
 #3054
 @@WB@@gy @@Wt@@ghe @@WT@@gemple @@WA@@gltar@@N~
 @@WY@@gou are by the temple altar in the northern end of the @@WT@@gemple @@Wo@@gf @@WM@@gidgaard@@W.@@N
-@@gA huge altar made from white polished marble is standing in front of you and@@N
-@@gbehind it is a ten foot tall sitting statue of Odin@@W, @@gthe King of the Gods@@W.@@N
-@@gTo the West is the meeting point of the Immortal and mortal worlds and to the 
-@@gEast lies the Quest Room@@W.@@N
-~
+
+@@gA huge altar made from white polished marble is standing in front of you and@@N
+
+@@gbehind it is a ten foot tall sitting statue of Odin@@W, @@gthe King of the Gods@@W.@@N
+
+@@gTo the West is the meeting point of the Immortal and mortal worlds and to the 
+
+@@gEast lies the Quest Room@@W.@@N
+
+~
 132104 0
 D0
 ~
@@ -1010,7 +1169,8 @@ D0
 0 -1 1420
 D2
 You see the southern end of the temple.
-~
+
+~
 ~
 0 -1 3001
 D4
@@ -1024,22 +1184,31 @@ D5
 E
 statue odin king god~
 The statue represents the one-eyed Odin sitting on a his throne.  He has
-long, grey hair and beard and a strict look on his face.  On top of the
-throne, just above his shoulders, his two ravens Hugin and Munin are sitting
-and at his feet are his wolves Gere and Freke.
-~
+
+long, grey hair and beard and a strict look on his face.  On top of the
+
+throne, just above his shoulders, his two ravens Hugin and Munin are sitting
+
+and at his feet are his wolves Gere and Freke.
+
+~
 E
 altar~
 Even though the altar is more than ten feet long it appears to be made from a
-single block of white virgin marble.
-~
+
+single block of white virgin marble.
+
+~
 S
 #3053
 @@WO@@gutside @@Wt@@ghe @@WE@@gast @@WG@@gate @@Wo@@gf @@WM@@gidgaard@@N~
 @@WY@@gou are by two small towers that have been built into the city wall and@@N
-@@gconnected with a footbridge across the heavy wooden gate@@W.@@g  To the east is the@@N
-@@gMidgaard Road.@@N
-~
+
+@@gconnected with a footbridge across the heavy wooden gate@@W.@@g  To the east is the@@N
+
+@@gMidgaard Road.@@N
+
+~
 0 1
 D1
 ~
@@ -1047,80 +1216,113 @@ D1
 0 -1 785
 D3
 You see the city gate.
-~
+
+~
 ~
 0 -1 3041
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 tower towers~
 Both of the towers are built from large grey rocks that have been fastened to
-each other with some kind of mortar, just like the city wall.
-~
+
+each other with some kind of mortar, just like the city wall.
+
+~
 E
 gate~
 It is a set of very big double doors made from hard wood.  They have been
-reinforced with large iron bands to make them even more sturdy.  One of the
-doors is equipped with a very big lock.
-~
+
+reinforced with large iron bands to make them even more sturdy.  One of the
+
+doors is equipped with a very big lock.
+
+~
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
-from one tower to the other.
-~
+
+from one tower to the other.
+
+~
 S
 #3052
 @@WO@@gutside @@Wt@@ghe @@WW@@gest @@WG@@gate @@Wo@@gf @@WM@@gidgaard@@N~
 @@WY@@gou are by two small towers that have been built into the city wall and@@N
-@@gconnected with a footbridge across the heavy @@bwooden @@ggate@@W.@@g  To the west you@@N
-@@gcan see @@NRoc Road@@W,@@g which runs to the West@@W.@@N
-~
+
+@@gconnected with a footbridge across the heavy @@bwooden @@ggate@@W.@@g  To the west you@@N
+
+@@gcan see @@NRoc Road@@W,@@g which runs to the West@@W.@@N
+
+~
 0 1
 D1
 The city gate is to the east.
-~
+
+~
 ~
 0 -1 3040
 D3
 Roc Road.
-~
+
+~
 ~
 0 -1 3230
+D2
+The Realm Road stretches south toward distant lands.
+~
+~
+0 -1 22500
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 tower towers~
 Both of the towers are built from large grey rocks that have been fastened to
-each other with some kind of mortar, just like the city wall.
-~
+
+each other with some kind of mortar, just like the city wall.
+
+~
 E
 gate~
 It is a set of very big double doors made from hard wood.  They have been
-reinforced with large iron bands to make them even more sturdy.  One of the
-doors is equipped with a very big lock.
-~
+
+reinforced with large iron bands to make them even more sturdy.  One of the
+
+doors is equipped with a very big lock.
+
+~
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
-from one tower to the other.
-~
+
+from one tower to the other.
+
+~
 S
 #3051
 On the Bridge~
 You are standing on the stone bridge crosses the river.  The bridge is
-built out from the western city wall and the river flows west through an
-opening in the wall ten feet below the bridge.
-~
+
+built out from the western city wall and the river flows west through an
+
+opening in the wall ten feet below the bridge.
+
+~
 4 1
 D0
 You see the road.
-~
+
+~
 ~
 0 -1 3047
 D1
@@ -1130,37 +1332,46 @@ D1
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 opening~
 You cannot really see it from here as it is somewhere beneath your feet.
-~
+
+~
 E
 bridge~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar, just like the wall.
-~
+
+some kind of mortar, just like the wall.
+
+~
 S
 #3050
 @@WT@@ghe @@WU@@gnused @@WW@@ghorehouse@@N~
 @@WT@@ghis rundown house used to be the @@W"E@@gscort @@WS@@gervice@@W"@@g for those citizens of @@WM@@gidgaard@@W.@@N
-~
+
+~
 8 0
 D0
 You see the alley.
-~
+
+~
 ~
 0 -1 3046
 S
 #3049
 @@WL@@gevee@@N~
 @@WY@@gou are at the levee@@W.@@g  South of here you see the river gently flowing west@@W.@@N
-~
+
+~
 0 1
 D0
 You see the Alley.
-~
+
+~
 ~
 0 -1 3045
 D2
@@ -1171,12 +1382,15 @@ S
 #3048
 @@WG@@grubby @@WI@@gnn@@N~
 @@WY@@gou are inside the old @@WG@@grubby @@WI@@gnn@@W.@@g  This place has not been cleaned for@@N
-@@gseveral decades@@W,@@g vile smells make you dizzy@@W.@@N
-~
+
+@@gseveral decades@@W,@@g vile smells make you dizzy@@W.@@N
+
+~
 1032 0
 D0
 You see the alley.
-~
+
+~
 ~
 0 -1 3024
 X
@@ -1185,13 +1399,17 @@ S
 #3047
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 You see the road.
-~
+
+~
 ~
 0 -1 3043
 D1
@@ -1200,33 +1418,42 @@ D1
 0 0 3112
 D2
 You see the bridge.
-~
+
+~
 ~
 0 -1 3051
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 S
 #3046
 @@WE@@gastern @@WE@@gnd @@Wo@@gf @@Wt@@ghe @@WA@@glley@@N~
 @@WY@@gou are standing at the eastern end of the alley@@W,@@g the city wall is just@@N
-@@geast@@W,@@g blocking any further movement@@W.@@g  An old three@@W-@@gstory warehouse is@@N
-@@gdirectly south of here@@W.@@N
-~
+
+@@geast@@W,@@g blocking any further movement@@W.@@g  An old three@@W-@@gstory warehouse is@@N
+
+@@gdirectly south of here@@W.@@N
+
+~
 0 1
 D2
 You see the warehouse.
-~
+
+~
 ~
 0 -1 3050
 S
 #3045
 @@WA@@glley @@Wa@@gt @@WL@@gevee@@N~
 @@WY@@gou are standing in the alley which continues east and west@@W.@@g  South of@@N
-@@ghere you see the levee@@W.@@N
-~
+
+@@ghere you see the levee@@W.@@N
+
+~
 0 1
 D1
 ~
@@ -1234,29 +1461,35 @@ D1
 0 -1 3156
 D2
 You see the levee.
-~
+
+~
 ~
 0 -1 3049
 D3
 The alley leads west.
-~
+
+~
 ~
 0 -1 3026
 S
 #3044
 @@WP@@goor @@WA@@glley@@N~
 @@WY@@gou are in a narrow and dirty alley leading East and West@@W. @@yT@@bhe @@yL@@beather @@yS@@bhop @@gis@@N
-@@gto the North@@W,@@g while the entrance to @@eD@@gr.@@e S@@ge@@eu@@gs@@es@@g'@@es@@g L@@ei@@gb@@er@@ga@@er@@gy@@g goes down@@W.@@N
-~
+
+@@gto the North@@W,@@g while the entrance to @@eD@@gr.@@e S@@ge@@eu@@gs@@es@@g'@@es@@g L@@ei@@gb@@er@@ga@@er@@gy@@g goes down@@W.@@N
+
+~
 0 1
 D0
 The leather shop is to the north.
-~
+
+~
 ~
 0 -1 3035
 D1
 The alley leads east.
-~
+
+~
 ~
 0 -1 3024
 D3
@@ -1271,13 +1504,17 @@ S
 #3043
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization   
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad  follows the wall to the north and south.@@N    @@WElm @@gStreet is to the east.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad  follows the wall to the north and south.@@N    @@WElm @@gStreet is to the east.@@N  
+
+~
 0 1
 D0
 The road continues further north.
-~
+
+~
 ~
 0 -1 3042
 D1
@@ -1286,29 +1523,37 @@ D1
 0 0 3101
 D2
 The road continues further south.
-~
+
+~
 ~
 0 -1 3047
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 letters~
 It says 'Who watches the watchmen?'
-~
+
+~
 S
 #3042
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 You see the city gate.
-~
+
+~
 ~
 0 -1 3040
 D1
@@ -1317,21 +1562,27 @@ D1
 0 -1 3044
 D2
 The road continues further south.
-~
+
+~
 ~
 0 -1 3043
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 S
 #3041
 @@WT@@ghe @@WE@@gastern @@WG@@gate @@Wo@@gf @@WM@@gidgaard@@N~
 @@WThe @@geastern gates to the city stand open welcoming all travelers. @@WOnce @@gin a 
-time long ago, the gates were closed and locked each night to keep all within 
-safe and secure, but @@WQ @@gmisplaced the keys.@@N  
-~
+
+time long ago, the gates were closed and locked each night to keep all within 
+
+safe and secure, but @@WQ @@gmisplaced the keys.@@N  
+
+~
 0 1
 D0
 ~
@@ -1339,7 +1590,8 @@ D0
 0 0 3155
 D1
 You see the city gate.
-~
+
+~
 ~
 0 -1 3053
 D2
@@ -1353,31 +1605,43 @@ You see Main Street.~
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 tower towers~
 Both of the towers are built from large grey rocks that have been fastened to
-each other with some kind of mortar, just like the city wall.
-~
+
+each other with some kind of mortar, just like the city wall.
+
+~
 E
 gate~
 It is a set of very big double doors made from hard wood.  They have been
-reinforced with large iron bands to make them even more sturdy.  One of the
-doors is equipped with a very big lock.
-~
+
+reinforced with large iron bands to make them even more sturdy.  One of the
+
+doors is equipped with a very big lock.
+
+~
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
-from one tower to the other.
-~
+
+from one tower to the other.
+
+~
 S
 #3040
 @@WT@@ghe @@WW@@gestern @@WG@@gate @@Wo@@gf @@WM@@gidgaard@@N~
 @@WThe @@gwestern gates to the city stand open welcoming all travelers. @@WOnce @@gin a 
-time long ago, the gates were closed and locked each night to keep all within 
-safe and secure, but @@WQ @@gmisplaced the keys.@@N  
-~
+
+time long ago, the gates were closed and locked each night to keep all within 
+
+safe and secure, but @@WQ @@gmisplaced the keys.@@N  
+
+~
 0 1
 D0
 ~
@@ -1385,160 +1649,217 @@ D0
 0 -1 3144
 D1
 You see Main Street.
-~
+
+~
 ~
 0 -1 3012
 D2
 You see the road running along the inner side of the city wall.  You notice
-that it is called Wall Road.
-~
+
+that it is called Wall Road.
+
+~
 ~
 0 -1 3042
 D3
 The city gate is to the west.
-~
+
+~
 ~
 0 -1 3052
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
-~
+
+some kind of mortar.  It is far too high to climb.
+
+~
 E
 tower towers~
 Both of the towers are built from large grey rocks that have been fastened to
-each other with some kind of mortar, just like the city wall.
-~
+
+each other with some kind of mortar, just like the city wall.
+
+~
 E
 gate~
 It is a set of very big double doors made from hard wood.  They have been
-reinforced with large iron bands to make them even more sturdy.  One of the
-doors is equipped with a very big lock.
-~
+
+reinforced with large iron bands to make them even more sturdy.  One of the
+
+doors is equipped with a very big lock.
+
+~
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
-from one tower to the other.
-~
+
+from one tower to the other.
+
+~
 S
 #3035
 @@yT@@bhe @@yL@@beather @@yS@@bhop@@N~
 @@WA@@gn acrid smell fills this large room@@W.@@g  Along the walls are numerous@@N
-@@gshelves containing all sorts of animal hide and in the crackling fireplace@@N
-@@ghangs a big iron pot with boiling water@@W.@@g  In the middle of the room is a@@N
-@@glarge oak table@@W.@@N
-@@WA@@g wooden sign is hanging above the fireplace@@W.@@N
-~
+
+@@gshelves containing all sorts of animal hide and in the crackling fireplace@@N
+
+@@ghangs a big iron pot with boiling water@@W.@@g  In the middle of the room is a@@N
+
+@@glarge oak table@@W.@@N
+
+@@WA@@g wooden sign is hanging above the fireplace@@W.@@N
+
+~
 1032 0
 D2
 You see the alley.
-~
+
+~
 ~
 0 -1 3044
 E
 sign~
 The wooden sign says :-
 
-    Use 'list' to see what is in store,
-	'buy <item>' to buy an item,
-	'sell <item>' to sell an item and
-	'value <item>' to make the leather worker evaluate an item.
-~
+
+    Use 'list' to see what is in store,
+
+	'buy <item>' to buy an item,
+
+	'sell <item>' to sell an item and
+
+	'value <item>' to make the leather worker evaluate an item.
+
+~
 E
 pot~
 Several large pieces of leather hide are boiling in the iron pot.
-~
+
+~
 E
 table~
 It is made from solid oak but appears to be very used.  Its surface is
-covered in marks and scratches.  A large burning candle stands directly on
-the table surface, tallow flowing down its sides.
-~
+
+covered in marks and scratches.  A large burning candle stands directly on
+
+the table surface, tallow flowing down its sides.
+
+~
 E
 fireplace~
 It is a rather large fireplace made from heavy granite rocks.
-~
+
+~
 S
 #3034
 @@WT@@ghe @@lJ@@ee@@aw@@be@@gl@@yl@@Ne@@Rr@@c'@@rs @@WS@@ghop@@N~
 @@WY@@gou are in a small@@W,@@g beautifully furnished room@@W.@@g  The warm light emanating from@@N
-@@gthe small oil lamps on the walls is reflected in the hard@@W,@@g polished surface of@@N
-@@gthe big mahogany desk that stands in the centre of the room@@W.@@g A small sign with@@N
-@@ggolden letters stands on the desk@@W.@@N
-~
+
+@@gthe small oil lamps on the walls is reflected in the hard@@W,@@g polished surface of@@N
+
+@@gthe big mahogany desk that stands in the centre of the room@@W.@@g A small sign with@@N
+
+@@ggolden letters stands on the desk@@W.@@N
+
+~
 1032 0
 D0
 You see Main Street.
-~
+
+~
 ~
 0 -1 3015
 E
 sign~
 The golden letters say :-
 
-    Use 'list' to see what is in store,
-	'buy <item>' to buy an item,
-	'sell <item>' to sell an item and
-	'value <item>' to make the jeweller evaluate an item.
-~
+
+    Use 'list' to see what is in store,
+
+	'buy <item>' to buy an item,
+
+	'sell <item>' to sell an item and
+
+	'value <item>' to make the jeweller evaluate an item.
+
+~
 E
 desk~
 Your face is reflected in its surface.
-~
+
+~
 E
 oil lamps~
 They are made from polished gold and looks as if they are securely fastened
-to the smooth stone walls.
-~
+
+to the smooth stone walls.
+
+~
 X
 'charm'~
 S
 #3033
 @@lThe Magic Shop@@N~
 @@WY@@gou are in a small room that smells of rare chemicals and spices@@W.@@N
-@@gDividing the room in two is a large desk@@W,@@g and on the wall behind it are@@N
-@@gnumerous shelves crammed with jars@@W,@@g bottles@@W,@@g books and scrolls of all@@N
-@@gsorts and sizes@@W.@@N
-~
+
+@@gDividing the room in two is a large desk@@W,@@g and on the wall behind it are@@N
+
+@@gnumerous shelves crammed with jars@@W,@@g bottles@@W,@@g books and scrolls of all@@N
+
+@@gsorts and sizes@@W.@@N
+
+~
 1032 0
 D2
 You see the main street.
-~
+
+~
 ~
 0 -1 3012
 E
 scrolls~
 Each scroll is stored in a leather tube that protects it from moist.
-~
+
+~
 E
 books~
 Most of them appear to be very old and dusty.
-~
+
+~
 E
 jars bottles~
 Some of them are transparent enabling you to see that some contain colored
-powders while others contain body parts of various animals.
-~
+
+powders while others contain body parts of various animals.
+
+~
 E
 spices~
 This isnt a spice girl poster....just your average, everyday concoctions of
-herbs, bat guano, and bug parts.  Yum!
-~
+
+herbs, bat guano, and bug parts.  Yum!
+
+~
 X
 'charm'~
 S
 #3032
 Pet Shop Store~
 This is the small dark room in which the Pet Shop Boy keeps his pets.
-It is vital that this room be immediately after the pet shop.
-~
+
+It is vital that this room be immediately after the pet shop.
+
+~
 25100 0
 S
 #3031
 @@rT@@Ghe @@rP@@Get @@rS@@Ghop@@N~
 The Pet Shop is a small crowded store, full of cages and animals of
-various sorts and sizes.  There is a sign on the wall.
-~
+
+various sorts and sizes.  There is a sign on the wall.
+
+~
 5132 0
 D0
 ~
@@ -1548,24 +1869,33 @@ E
 sign~
 The sign reads:
 
-  Use 'List' to see the available pets.
-  Use 'Buy <pet> <name>' to buy yourself a pet and name it.
 
-  You can use 'order <pet> <instructions>' to order your pets around.
-  If you abuse your pet, it will no longer regard you as its master.
-  If you have several pets you may use 'order all <instructions>'
+  Use 'List' to see the available pets.
 
- Regards,
+  Use 'Buy <pet> <name>' to buy yourself a pet and name it.
 
-   The Shopkeeper
-~
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+
+  If you abuse your pet, it will no longer regard you as its master.
+
+  If you have several pets you may use 'order all <instructions>'
+
+
+ Regards,
+
+
+   The Shopkeeper
+
+~
 X
 'charm'~
 S
 #3030
 @@WT@@ghe @@WD@@gump@@N~
 @@WI@@gs it just me@@W, @@gor does this place smell like rotten meat@@W?@@N
-~
+
+~
 4 2
 D0
 ~
@@ -1575,79 +1905,122 @@ D2
 ~
 ~
 0 -1 7302
+D4
+A shimmering rift opens upward into the Ethereal Plane.
+~
+~
+0 -1 3857
+D1
+A grim alley leads east toward the Moribund Morgue.
+~
+~
+0 -1 3300
 S
 #3029
 @@WA@@gbandoned @@WW@@garehouse@@N~
 @@WY@@gou are inside the only room in the old warehouse@@W.@@g  The place is very dusty@@N
-@@gand appears to have been unused for many years@@W.@@g  The skylight spills@@N
-@@gviolet@@W-@@gtinged light@@W.@@N
-~
+
+@@gand appears to have been unused for many years@@W.@@g  The skylight spills@@N
+
+@@gviolet@@W-@@gtinged light@@W.@@N
+
+~
 8 0
 D0
 The Dark Alley.
-~
+
+~
 ~
 0 -1 3026
 E
 sign~
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-xWELCOME TO THE BLACK DETH'S CORPSE RETRIEVAL SERVICE!                        x
--                                                                             -
-x If you've died, and were unable to get back to your corpse, why not let the x
-- Black Deth use his dark powers to summon forth your rotting remains?        -
-x We offer reasonable rates:                                                  x
--                                                                             -
-x       Levels 1 to 10 : 1000 gold coins.                                     x
--       Levels 11 +    : 3000 gold coins.                                     -
-x                                                                             x
--                        Please note:                                         -
-x 1) NO REFUNDS!                                                              x
-- 2) If you pay for the Black Deth's services, and receive no corpse, tough.  -
-x 3) You will only receive the first corpse the Black Deth finds with his     x
--    dark powers.  So try not to die everywhere and expect him to get         -
-x    the corpse with your equipment first time.  Remember, time IS money!     x
-- 4) The prices shown are likely to change at any time.                       -
-x 5) E&OE                                                                     x
--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-~
+
+xWELCOME TO THE BLACK DETH'S CORPSE RETRIEVAL SERVICE!                        x
+
+-                                                                             -
+
+x If you've died, and were unable to get back to your corpse, why not let the x
+
+- Black Deth use his dark powers to summon forth your rotting remains?        -
+
+x We offer reasonable rates:                                                  x
+
+-                                                                             -
+
+x       Levels 1 to 10 : 1000 gold coins.                                     x
+
+-       Levels 11 +    : 3000 gold coins.                                     -
+
+x                                                                             x
+
+-                        Please note:                                         -
+
+x 1) NO REFUNDS!                                                              x
+
+- 2) If you pay for the Black Deth's services, and receive no corpse, tough.  -
+
+x 3) You will only receive the first corpse the Black Deth finds with his     x
+
+-    dark powers.  So try not to die everywhere and expect him to get         -
+
+x    the corpse with your equipment first time.  Remember, time IS money!     x
+
+- 4) The prices shown are likely to change at any time.                       -
+
+x 5) E&OE                                                                     x
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+~
 S
 #3026
 @@WT@@ghe @@dDark @@WA@@glley@@N~
 @@WT@@ghe @@ddark @@galley@@W, @@gto the west is the @@WC@@gommon @@WS@@gquare@@W.  @@gThe alley continues east@@W.@@N
-@@gA forboding unused warehouse lies to the south@@W.@@N
-~
+
+@@gA forboding unused warehouse lies to the south@@W.@@N
+
+~
 0 1
 D1
 The alley continues east.
-~
+
+~
 ~
 0 -1 3045
 D2
 The Unused Whorehouse.
-~
+
+~
 ~
 0 -1 3029
 D3
 You see the common square.
-~
+
+~
 ~
 0 -1 3025
 S
 #3025
 @@WT@@ghe @@WC@@gommon @@WS@@gquare@@N~
 @@WT@@ghe common square, people pass you@@W,@@g talking to each other@@W.@@g  To the west is@@N
-@@gthe poor alley and to the east is the dark alley@@W.@@g  To the north@@W,@@g this square@@N
-@@gis connected to the market square@@W.@@g  From the south you notice a nasty smell@@W.@@N
-~
+
+@@gthe poor alley and to the east is the dark alley@@W.@@g  To the north@@W,@@g this square@@N
+
+@@gis connected to the market square@@W.@@g  From the south you notice a nasty smell@@W.@@N
+
+~
 0 1
 D0
 You see the market square.
-~
+
+~
 ~
 0 -1 3014
 D1
 You see the dark alley.
-~
+
+~
 ~
 0 -1 3026
 D2
@@ -1656,15 +2029,18 @@ D2
 0 -1 3165
 D3
 You see the poor alley.
-~
+
+~
 ~
 0 -1 3024
 S
 #3024
 @@WE@@gastern @@WE@@gnd @@Wo@@gf @@WP@@goor @@WA@@glley@@N~
 @@WY@@gou are at the poor alley@@W.@@g  South of here is the @@WG@@grubby @@WI@@gnn and to the@@N
-@@geast you see common square@@W.@@g  The alley continues further west@@W.@@N
-~
+
+@@geast you see common square@@W.@@g  The alley continues further west@@W.@@N
+
+~
 0 1
 D0
 ~
@@ -1672,62 +2048,81 @@ D0
 0 -1 3039
 D1
 You see the common square.
-~
+
+~
 ~
 0 -1 3025
 D2
 You see the Inn.
-~
+
+~
 ~
 0 -1 3048
 D3
 You see the poor alley.
-~
+
+~
 ~
 0 -1 3044
 S
 #3020
 @@RT@@ehe @@RA@@ermoury@@N~
 @@RT@@ehe @@RA@@ermoury@@g with all kinds of armours on the walls and in the window@@W.@@g  You@@N
-@@gsee helmets@@W,@@g shields and chain mails@@W.@@g  To the north is the @@WM@@gain @@WS@@gtreet.@@N
-@@gOn the wall is a small note@@W.@@N
-~
+
+@@gsee helmets@@W,@@g shields and chain mails@@W.@@g  To the north is the @@WM@@gain @@WS@@gtreet.@@N
+
+@@gOn the wall is a small note@@W.@@N
+
+~
 1034 0
 D0
 You see the main street.
-~
+
+~
 ~
 0 -1 3013
 E
 note~
 You can use these commands for trading:
 
-  value <item>     To get the price of an item in your possession.
-  sell <item>      To sell something.
-  buy <item>       To buy something (provided that the shop has it in store).
-  list             Gives you a listing of the shop's inventory.
 
-	WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
-			     NO HAGGLING
-~
+  value <item>     To get the price of an item in your possession.
+
+  sell <item>      To sell something.
+
+  buy <item>       To buy something (provided that the shop has it in store).
+
+  list             Gives you a listing of the shop's inventory.
+
+
+	WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+
+			     NO HAGGLING
+
+~
 X
 'charm'~
 S
 #3016
 @@WT@@ghe @@WM@@gain @@WS@@gtreet@@N~
 @@WT@@ghe main street, to the north is @@aThe Weapon Shop@@g.  To the south is the @@rP@@Get 
-@@rS@@Ghop@@g.  If you continue to the east you will leave town, to the west the street 
-leads to the @@WM@@garket @@WS@@gquare.@@N  
-~
+
+@@rS@@Ghop@@g.  If you continue to the east you will leave town, to the west the street 
+
+leads to the @@WM@@garket @@WS@@gquare.@@N  
+
+~
 0 1
 D0
 You see the weapon shop.
-~
+
+~
 ~
 0 -1 3011
 D1
 You see the city gate.
-~
+
+~
 ~
 0 -1 3041
 D2
@@ -1736,65 +2131,82 @@ D2
 0 -1 3031
 D3
 You see the main street leading to the market square.
-~
+
+~
 ~
 0 -1 3015
 S
 #3015
 @@WT@@ghe @@WM@@gain @@WS@@gtreet@@N~
 @@WY@@gou are on @@WM@@gain @@WS@@gtreet crossing through town@@W.@@g  To the north is the general@@N
-@@gstore@@W,@@g and the main street continues east@@W.@@g  To the west you see and hear the@@N
-@@gmarket place and to the south is the @@lJ@@ee@@aw@@be@@gl@@yl@@Ne@@Rr@@c'@@rs @@WS@@ghop@@W.@@N
-~
+
+@@gstore@@W,@@g and the main street continues east@@W.@@g  To the west you see and hear the@@N
+
+@@gmarket place and to the south is the @@lJ@@ee@@aw@@be@@gl@@yl@@Ne@@Rr@@c'@@rs @@WS@@ghop@@W.@@N
+
+~
 0 1
 D0
 You see the general store.
-~
+
+~
 ~
 0 -1 3010
 D1
 You see Main Street.
-~
+
+~
 ~
 0 -1 3016
 D2
 You see the Jeweller's Shop.
-~
+
+~
 ~
 0 -1 3034
 D3
 You see the market square.
-~
+
+~
 ~
 0 -1 3014
 S
 #3014
 @@WM@@garket @@WS@@gquare@@N~
 @@WY@@gou are standing on the @@WM@@garket @@WS@@gquare@@W,@@g the famous @@WS@@gquare of @@WM@@gidgaard@@W.@@g  A large@@N
-@@gtree is here@@W,@@g signifying life and eternal happiness as it stands in the middle@@N
-@@gof the square@@W.@@g  Roads lead in every direction@@W.@@g  North to the @@WT@@gemple @@WS@@gquare@@W,@@N
-@@gsouth to the @@WC@@gommon @@WS@@gquare@@W,@@g and east and westbound is the main street@@W.@@g  Some@@N
-@@gsmall steps lead down below the @@WS@@gquare@@W.@@N
-~
+
+@@gtree is here@@W,@@g signifying life and eternal happiness as it stands in the middle@@N
+
+@@gof the square@@W.@@g  Roads lead in every direction@@W.@@g  North to the @@WT@@gemple @@WS@@gquare@@W,@@N
+
+@@gsouth to the @@WC@@gommon @@WS@@gquare@@W,@@g and east and westbound is the main street@@W.@@g  Some@@N
+
+@@gsmall steps lead down below the @@WS@@gquare@@W.@@N
+
+~
 0 1
 D0
 You see the temple square.
-~
+
+~
 ~
 0 -1 3005
 D1
 You see the main street.
-~
+
+~
 ~
 0 -1 3015
 D2
 You see the common square.
-~
+
+~
 ~
 0 -1 3025
 D3
 You see the main street.
-~
+
+~
 ~
 0 -1 3013
 D4
@@ -1803,57 +2215,71 @@ D4
 0 -1 3062
 D5
 Some steps lead this way....
-~
+
+~
 ~
 0 -1 9551
 E
 statue~
 What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
-~
+
+~
 S
 #3013
 @@WT@@ghe @@WM@@gain @@WS@@gtreet@@N~
 @@WY@@gou are on the main street passing through the @@WC@@gity @@Wo@@gf @@WM@@gidgaard@@W.@@g  South of@@N
-@@ghere is the entrance to @@RT@@ehe @@RA@@ermoury@@W,@@g and @@bThe Bakery@@g is to the north@@W.@@g  East of@@N
-@@ghere is the @@WM@@garket @@WS@@gquare@@W.@@N
-~
+
+@@ghere is the entrance to @@RT@@ehe @@RA@@ermoury@@W,@@g and @@bThe Bakery@@g is to the north@@W.@@g  East of@@N
+
+@@ghere is the @@WM@@garket @@WS@@gquare@@W.@@N
+
+~
 0 1
 D0
 You see the bakery.
-~
+
+~
 ~
 0 -1 3009
 D1
 You see the market square.
-~
+
+~
 ~
 0 -1 3014
 D2
 You see the armoury.
-~
+
+~
 ~
 0 -1 3020
 D3
 You see the main street.
-~
+
+~
 ~
 0 -1 3012
 S
 #3012
 @@WT@@ghe @@WM@@gain @@WS@@gtreet@@N~
 @@WY@@gou are at the end of the main street of @@WM@@gidgaard@@W.@@g  The street continues @@N
-@@geast towards the @@WM@@garket @@WS@@gquare@@W.@@l  The Magic Shop @@gis to the north and to the @@N
-@@gwest is the city gate@@W.@@N
-~
+
+@@geast towards the @@WM@@garket @@WS@@gquare@@W.@@l  The Magic Shop @@gis to the north and to the @@N
+
+@@gwest is the city gate@@W.@@N
+
+~
 0 1
 D0
 You see the magic shop.
-~
+
+~
 ~
 0 -1 3033
 D1
 You see the main street.
-~
+
+~
 ~
 0 -1 3013
 D2
@@ -1862,101 +2288,141 @@ D2
 0 -1 1022
 D3
 You see the city gate.
-~
+
+~
 ~
 0 -1 3040
 S
 #3011
 @@aThe Weapon Shop@@N~
 @@WT@@gons of assorted weapons lines the wall in this shop as @@aThe Weaponsmith@@N
-@@gpounds out his famous weaponry@@W.@@g  You watch as the powerful man beats upon hot@@N
-@@gmetal@@W.@@g  There is a small note tacked upon the counter@@W.@@N
-~
+
+@@gpounds out his famous weaponry@@W.@@g  You watch as the powerful man beats upon hot@@N
+
+@@gmetal@@W.@@g  There is a small note tacked upon the counter@@W.@@N
+
+~
 1032 0
 D2
 You see the main street.
-~
+
+~
 ~
 0 -1 3016
 E
 note~
 The note reads:
 
-  List  - Show which various items are in the store.
-  Buy   - Buy an item.
-  Value - The shopkeeper will (free of charge) tell how much he will
-	  pay for your item.
-  Sell  - Sell an item.
-~
+
+  List  - Show which various items are in the store.
+
+  Buy   - Buy an item.
+
+  Value - The shopkeeper will (free of charge) tell how much he will
+
+	  pay for your item.
+
+  Sell  - Sell an item.
+
+~
 X
 'charm'~
 S
 #3010
 @@yThe General Store@@N~
 @@WY@@gou are inside the general store@@W.@@g  All sorts of items are stacked on shelves@@N
-@@gbehind the counter@@W,@@g safely out of your reach@@W.@@N
-@@gA small note hangs on the wall@@W.@@N
-~
+
+@@gbehind the counter@@W,@@g safely out of your reach@@W.@@N
+
+@@gA small note hangs on the wall@@W.@@N
+
+~
 1032 0
 D2
 You see the main street.
-~
+
+~
 ~
 0 -1 3015
 E
 note~
 The note reads:
 
-  List  - Show which various items are in the store.
-  Buy   - Buy an item.
-  Value - The shopkeeper will (free of charge) tell how much he will
-	  pay for your item.
-  Sell  - Sell an item.
-~
+
+  List  - Show which various items are in the store.
+
+  Buy   - Buy an item.
+
+  Value - The shopkeeper will (free of charge) tell how much he will
+
+	  pay for your item.
+
+  Sell  - Sell an item.
+
+~
 X
 'charm'~
 S
 #3009
 @@bThe Bakery@@N~
 @@WY@@gou are standing inside the small @@bbakery@@W.@@g  A sweet scent of Danish and@@N
-@@gfine bread fills the room@@W.@@g  The bread and Danish are arranged in fine order@@N
-@@gon the shelves@@W,@@g and seem to be of the finest quality@@W.@@N
-@@gA small sign is on the counter@@W.@@N
-~
+
+@@gfine bread fills the room@@W.@@g  The bread and Danish are arranged in fine order@@N
+
+@@gon the shelves@@W,@@g and seem to be of the finest quality@@W.@@N
+
+@@gA small sign is on the counter@@W.@@N
+
+~
 1036 0
 D2
 You see the main street.
-~
+
+~
 ~
 0 -1 3013
 E
 sign~
 Free instructions provided by the store:
 
-   Buy  - Will buy you some bread or pastry.
-   List - The baker will kindly tell you the price and sort of the bread in
-	  his bakery.
-~
+
+   Buy  - Will buy you some bread or pastry.
+
+   List - The baker will kindly tell you the price and sort of the bread in
+
+	  his bakery.
+
+~
 E
 danish pastry~
 You see that this is truly delicious pastry.  Must be made by a Dane from
-Denmark (which surely is not the capital of Sweden!).  Former ruler of
-Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
-Iceland, Estonia etc. etc.
-   The sight of those large, wholesome chokoladeboller makes your mouth water
-and your soul sing.
 
-~
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+
+Iceland, Estonia etc. etc.
+
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+
+and your soul sing.
+
+
+~
 X
 'charm'~
 S
 #3008
 @@WT@@ghe @@WL@@gover@@W'@@gs @@WH@@gideaway@@N~
 @@WA@@g quiet@@W,@@g ornately furnished room@@W,@@g for you to sit and chat with your loved one@@W.
-@@gRelax for a while@@W,@@g get the strains out of your system@@W.@@g This room@@W,@@g once used for
-two people to express feelings best left to real life@@W,@@g has long since been
-abandoned and taken over as use for player rename notifications@@W.@@N
-~
+
+@@gRelax for a while@@W,@@g get the strains out of your system@@W.@@g This room@@W,@@g once used for
+
+two people to express feelings best left to real life@@W,@@g has long since been
+
+abandoned and taken over as use for player rename notifications@@W.@@N
+
+~
 1036 0
 D4
 ~
@@ -1964,82 +2430,108 @@ D4
 0 -1 3037
 D5
 You see the entrance hall.
-~
+
+~
 ~
 0 -1 3006
 S
 #3007
 @@WT@@ghe @@WG@@grunting @@WB@@goar@@N~
 @@WY@@gou are standing in the bar@@W.@@g  The bar is set against the northern wall@@W,@@g old@@N
-@@garchaic writing@@W,@@g carvings and symbols cover its top@@W.@@g  A fireplace is built into@@N
-@@gthe western wall@@W,@@g and through the southeastern windows you can see the temple@@N
-@@gsquare@@W.@@g  This place makes you feel like home@@W.@@N
-@@gA small sign with big letters is fastened to the bar@@W.@@N
-~
+
+@@garchaic writing@@W,@@g carvings and symbols cover its top@@W.@@g  A fireplace is built into@@N
+
+@@gthe western wall@@W,@@g and through the southeastern windows you can see the temple@@N
+
+@@gsquare@@W.@@g  This place makes you feel like home@@W.@@N
+
+@@gA small sign with big letters is fastened to the bar@@W.@@N
+
+~
 1032 0
 D3
 You see the exit to the entrance hall.
-~
+
+~
 ~
 0 -1 3006
 E
 writing carving carvings symbols symbol~
 Although it is very hard to understand, you think it looks a lot like beer,
-poems about beer, and small beer-mugs.
-~
+
+poems about beer, and small beer-mugs.
+
+~
 E
 sign~
 The sign reads:
-Free instructions provided by the Grunting Boar Inn.
 
-   Buy  - Buy something (drinkable) from the bartender.
-   List - The bartender will show you all the different drinks and
-	  specialties, and tell the price of each.
-~
+Free instructions provided by the Grunting Boar Inn.
+
+
+   Buy  - Buy something (drinkable) from the bartender.
+
+   List - The bartender will show you all the different drinks and
+
+	  specialties, and tell the price of each.
+
+~
 S
 #3006
 @@WE@@gntrance @@Wt@@go @@Wt@@ghe @@WG@@grunting @@WB@@goar @@WI@@gnn@@N~
 @@WY@@gou are standing in the entrance hall of the @@WG@@grunting @@WB@@goar @@WI@@gnn@@W.@@g  The hall@@N
-@@ghas been wisely decorated with simple but functional furniture@@W.@@g  A small@@N
-@@gstaircase leads up to the defunct reception room and the bar is to the east@@W.@@N
-~
+
+@@ghas been wisely decorated with simple but functional furniture@@W.@@g  A small@@N
+
+@@gstaircase leads up to the defunct reception room and the bar is to the east@@W.@@N
+
+~
 8 0
 D1
 Surprise! You see the bar.
-~
+
+~
 ~
 0 -1 3007
 D3
 You see the temple square.
-~
+
+~
 ~
 0 -1 3005
 D4
 You see the defunct reception room.
-~
+
+~
 ~
 0 -1 3008
 S
 #3005
 @@WT@@ghe @@WT@@gemple @@WS@@gquare@@N~
 @@WY@@gou are standing in Temple Square@@W.@@g Huge@@W,@@g marble steps lead up to the Temple@@N
-@@gGate@@W.@@g Ye Old Grunting Boar Inn lies to the east@@W.@@g South of you is Market Square@@N
-@@gthe center of Midgaard@@W.@@N
-~
+
+@@gGate@@W.@@g Ye Old Grunting Boar Inn lies to the east@@W.@@g South of you is Market Square@@N
+
+@@gthe center of Midgaard@@W.@@N
+
+~
 16 1
 D0
 You see the temple.
-~
+
+~
 ~
 0 -1 3001
 D1
 You see the good old Grunting Boar Inn.
-~
+
+~
 ~
 0 -1 3006
 D2
 You see the Market Square.
-~
+
+~
 ~
 0 -1 3014
 D3
@@ -2058,36 +2550,51 @@ S
 #3001
 @@WT@@ghe @@WT@@gemple @@Wo@@gf @@WM@@gidgaard@@N~
 @@WY@@gou stand at the southern end of the Temple Hall in the Temple of Midgaard@@W.@@N
-@@gThe Temple has been constructed from giant marble blocks@@W,@@g eternal in@@N
-@@gappearance@@W.@@g  Most of the walls are covered by ancient murals depicting Gods@@W,@@N
-@@gGiants and peasants.@@N
-@@W   L@@garge steps lead down through the Grand Temple Gate@@W,@@g descending the huge@@N
-@@gmound upon which the temple is built ending at the Temple Square below@@W.@@N
-@@W   E@@gqually large steps lead UP through a small door into the ENTRANCE to MUD@@N
-@@gSCHOOL@@W.  (@@gtype @@W'@@yup@@W' @@gto go to @@RMUD SCHOOL@@W.)@@N
-@@gYou see a small plaque and spy a small doorway to the east@@W,@@g which looks like@@N
-@@git was just made@@W,@@g as well as a Grand Archway to the west@@W.@@N
-@@W  T@@ghe Temple itself with the Midgaard Healer lie North of here@@W.@@N
-~
+
+@@gThe Temple has been constructed from giant marble blocks@@W,@@g eternal in@@N
+
+@@gappearance@@W.@@g  Most of the walls are covered by ancient murals depicting Gods@@W,@@N
+
+@@gGiants and peasants.@@N
+
+@@W   L@@garge steps lead down through the Grand Temple Gate@@W,@@g descending the huge@@N
+
+@@gmound upon which the temple is built ending at the Temple Square below@@W.@@N
+
+@@W   E@@gqually large steps lead UP through a small door into the ENTRANCE to MUD@@N
+
+@@gSCHOOL@@W.  (@@gtype @@W'@@yup@@W' @@gto go to @@RMUD SCHOOL@@W.)@@N
+
+@@gYou see a small plaque and spy a small doorway to the east@@W,@@g which looks like@@N
+
+@@git was just made@@W,@@g as well as a Grand Archway to the west@@W.@@N
+
+@@W  T@@ghe Temple itself with the Midgaard Healer lie North of here@@W.@@N
+
+~
 147484 8
 D0
 At the northern end of the temple hall is a statue and a huge altar.
-~
+
+~
 ~
 0 -1 3054
 D1
 The Donation Area.
-~
+
+~
 ~
 0 -1 3021
 D2
 You see the temple square.
-~
+
+~
 ~
 0 -1 3005
 D3
 The Entrance Hall to the Player's Rooms.
-~
+
+~
 ~
 0 -1 1101
 D4
@@ -2101,19 +2608,28 @@ D5
 E
 plaque~
 This entire world has been integrated, modified, debugged, and enhanced by
-Hatchet, Kahn, and Furey of MERC Industries to be run by any MERC Mud.
-1992 December 17
-~
+
+Hatchet, Kahn, and Furey of MERC Industries to be run by any MERC Mud.
+
+1992 December 17
+
+~
 S
 #3002
 The Bank of Midgaard~
 You are in a small room, home to the Midgaard branch of Globank, the bank that
-likes to say no.  The room is very small, and looks like most other banks
--silent, and well-kept.  You hate it already.
- 
- 
-@@lYou notice a shadowy form in the corner, seemingly casing the joint.@@N
-~
+
+likes to say no.  The room is very small, and looks like most other banks
+
+-silent, and well-kept.  You hate it already.
+
+ 
+
+ 
+
+@@lYou notice a shadowy form in the corner, seemingly casing the joint.@@N
+
+~
 1036 0
 D0
 ~
@@ -2130,22 +2646,34 @@ D4
 E
 sign~
 @@m***********************************
-For your banking pleasure, 
-Please use the following:
- 
-bank balance
- 
-bank withdraw (amount)
- 
-bank deposit (amount)
- 
-@@m***********************************@@N
-~
+
+For your banking pleasure, 
+
+Please use the following:
+
+ 
+
+bank balance
+
+ 
+
+bank withdraw (amount)
+
+ 
+
+bank deposit (amount)
+
+ 
+
+@@m***********************************@@N
+
+~
 S
 #3003
 @@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cR@@do@@go@@Wm@@N~
 @@gYou are in Adesa's Idea Room, please leave your ideas here and we will consider them.@@N
-~
+
+~
 12 0
 D2
 ~
@@ -2155,10 +2683,14 @@ S
 #3037
 @@WC@@galm @@WR@@goom @@Wo@@gf @@WR@@gelaxation @@Wa@@gnd @@WMe@@gditation@@N~
 @@WT@@gheres a natural mystic flowing through the air@@W,@@g and if you listen carefully@@N
-@@gyou will hear@@W,@@g sweet sweet sounds of trickling water@@W,@@g gentle chiming and winds@@N
-@@gstirring through forrests@@W.@@g Calm feelings pervade the air@@W,@@g and you breathe@@N
-@@gdeeply in an atmosphere of true relaxation and utmost tranquility@@W.@@N
-~
+
+@@gyou will hear@@W,@@g sweet sweet sounds of trickling water@@W,@@g gentle chiming and winds@@N
+
+@@gstirring through forrests@@W.@@g Calm feelings pervade the air@@W,@@g and you breathe@@N
+
+@@gdeeply in an atmosphere of true relaxation and utmost tranquility@@W.@@N
+
+~
 1562 0
 D5
 ~
@@ -2168,9 +2700,12 @@ S
 #3058
 A dusty trail into nowhere~
 Managing to escape the hustle and bustle of Midgaard, you now find yourself
-standing in the middle of an open field...Dusty trails lead in all directions
-to what appears to be.....a farm?!?!?!
-~
+
+standing in the middle of an open field...Dusty trails lead in all directions
+
+to what appears to be.....a farm?!?!?!
+
+~
 1024 2
 D0
 ~
@@ -2180,9 +2715,12 @@ S
 #3059
 Leading to the pond~
 The tall grass starts to creep up on your sides, as the smell of water and
-green grass linger in the air. Gazing towards the north more you can barely
-make out what appears to be a pond.
-~
+
+green grass linger in the air. Gazing towards the north more you can barely
+
+make out what appears to be a pond.
+
+~
 1024 2
 D0
 ~
@@ -2196,9 +2734,12 @@ S
 #3060
 The shores of a small pond~
 You find yourself waist deep in tall grasses and cat-o-nine tails. The ground
-beneath your feet is soft and squishy. Kind of makes you feel like if you
-don't move soon you know your will become a permanent fixture here.
-~
+
+beneath your feet is soft and squishy. Kind of makes you feel like if you
+
+don't move soon you know your will become a permanent fixture here.
+
+~
 1024 2
 D0
 ~
@@ -2221,9 +2762,12 @@ S
 #3056
 @@WT@@ghe @@WI@@gmmortal @@WC@@gontact @@WA@@grea@@N~
 @@gFor the most part, this board is very rarely read by the Immortal staff. @@yFor
-faster service, send a note to an immortal using the note command. Just type
-@@c<@@anote@@c> @@yfor syntax.@@N
-~
+
+faster service, send a note to an immortal using the note command. Just type
+
+@@c<@@anote@@c> @@yfor syntax.@@N
+
+~
 1052 1
 D5
 ~
@@ -2233,13 +2777,20 @@ S
 #3062
 @@eThe Lil @@RBoys@@e and @@RGirls@@e Room@@N~
 @@eThis room is here for all the little boys and girls who want to flame one
-another in an attempt to make the other one angry.  Put out all your 
-agressions on this board and lets hope the person forgot to check the board
-out and never read it. Hehehe....to DELETE your message, type delete (number).
-You will be allowed to delete only your message.  Have fun, people...try
-not to get too nasty or vulgar :P
-@@N
-~
+
+another in an attempt to make the other one angry.  Put out all your 
+
+agressions on this board and lets hope the person forgot to check the board
+
+out and never read it. Hehehe....to DELETE your message, type delete (number).
+
+You will be allowed to delete only your message.  Have fun, people...try
+
+not to get too nasty or vulgar :P
+
+@@N
+
+~
 1052 1
 D0
 ~
@@ -2265,9 +2816,12 @@ S
 #3063
 @@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard@@m R@@doom@@N~
 @@mT@@dhis room is for players to post there ideas about clans@@m.  P@@dlease
-use the board here to put up your clan@@m'@@ds history@@m,@@d symbol@@m,@@d and anything
-else that you want people to know about your clan@@m.@@N
-~
+
+use the board here to put up your clan@@m'@@ds history@@m,@@d symbol@@m,@@d and anything
+
+else that you want people to know about your clan@@m.@@N
+
+~
 1052 1
 D0
 ~
@@ -2289,8 +2843,10 @@ S
 #3064
 @@aA@@cd@@de@@gs@@Wa @@aI@@cn@@df@@go@@Wr@@am@@ca@@dt@@gi@@Wo@@an @@cR@@do@@go@@Wm@@N~
 In here you will be able to get the latest information as to what has been 
-added to our realm.  
-~
+
+added to our realm.  
+
+~
 1054 1
 D2
 ~
@@ -2304,9 +2860,12 @@ S
 #3144
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2320,9 +2879,12 @@ S
 #3145
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2336,9 +2898,12 @@ S
 #3146
 @@WT@@ghe @@WW@@gest @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe west is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2352,9 +2917,12 @@ S
 #3147
 @@WT@@ghe @@WN@@gorthwest @@WC@@gorner @@Wo@@gf @@Wt@@ghe @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north and west is the city wall. @@WIt @@gwas built centuries ago by a 
-civilization long forgotten. @@WThe @@gstones were laid one on another to a towering 
-height. @@WThe @@groad follows the wall to the east and south.@@N  
-~
+
+civilization long forgotten. @@WThe @@gstones were laid one on another to a towering 
+
+height. @@WThe @@groad follows the wall to the east and south.@@N  
+
+~
 0 1
 D1
 ~
@@ -2368,9 +2936,12 @@ S
 #3148
 @@WT@@ghe @@WN@@gorth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2384,9 +2955,12 @@ S
 #3149
 @@WT@@ghe @@WN@@gorth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2400,9 +2974,12 @@ S
 #3150
 @@WT@@ghe @@WN@@gorth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2416,9 +2993,12 @@ S
 #3151
 @@WT@@ghe @@WN@@gorth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2432,9 +3012,12 @@ S
 #3152
 @@WT@@ghe @@WN@@gortheast @@WC@@gorner @@Wo@@gf @@Wt@@ghe @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe north and east is the city wall. @@WIt @@gwas built centuries ago by a 
-civilization long forgotten. @@WThe @@gstones were laid one on another to a towering 
-height. @@WThe @@groad follows the wall to the west and south.@@N  
-~
+
+civilization long forgotten. @@WThe @@gstones were laid one on another to a towering 
+
+height. @@WThe @@groad follows the wall to the west and south.@@N  
+
+~
 0 1
 D2
 ~
@@ -2448,9 +3031,12 @@ S
 #3153
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2464,9 +3050,12 @@ S
 #3154
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2480,9 +3069,12 @@ S
 #3155
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2496,9 +3088,12 @@ S
 #3156
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2516,9 +3111,12 @@ S
 #3157
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization   
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad  follows the wall to the north and south.@@N    @@WTo @@gthe west is Elm Street.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad  follows the wall to the north and south.@@N    @@WTo @@gthe west is Elm Street.@@N  
+
+~
 0 1
 D0
 ~
@@ -2536,9 +3134,12 @@ S
 #3158
 @@WT@@ghe @@WE@@gast @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe east is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
-follows the wall to the north and south.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe @@groad
+
+follows the wall to the north and south.@@N  
+
+~
 0 1
 D0
 ~
@@ -2552,14 +3153,22 @@ S
 #3159
 @@WT@@ghe @@WS@@goutheast @@WC@@gorner @@Wo@@gf @@Wt@@ghe @@WW@@gall @@WR@@goad@@N~
 @@N                      @@G___[@@d_@@G-,--,-@@d_@@G]___ 
-@@N                   @@G__[ @@D--          -- @@G]__
-@@N  @@yI@@d__@@yI         @@G__[_@@d--           ,--    @@G\]
-@@N @@G/@@d(--)@@G\/\/\/\ __-     @@d/ /      /        @@G\
-@@N @@G[ @@c00 @@G] =======    @@G__/ /      [      ]   \
-@@N  @@R----            @@G//_,,,----,,,_____/    /
-@@N                                      @@G /
-@@N                @@y>>@@G---------------------@@N
-~
+
+@@N                   @@G__[ @@D--          -- @@G]__
+
+@@N  @@yI@@d__@@yI         @@G__[_@@d--           ,--    @@G\]
+
+@@N @@G/@@d(--)@@G\/\/\/\ __-     @@d/ /      /        @@G\
+
+@@N @@G[ @@c00 @@G] =======    @@G__/ /      [      ]   \
+
+@@N  @@R----            @@G//_,,,----,,,_____/    /
+
+@@N                                      @@G /
+
+@@N                @@y>>@@G---------------------@@N
+
+~
 0 1
 D0
 ~
@@ -2573,9 +3182,12 @@ S
 #3160
 @@WT@@ghe @@WS@@gouth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe south is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2589,9 +3201,12 @@ S
 #3161
 @@WT@@ghe @@WS@@gouth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe south is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2605,9 +3220,12 @@ S
 #3162
 @@WT@@ghe @@WS@@gouth @@WG@@gates @@Wo@@gf @@WM@@gidgaard@@N~
 @@WThe @@gsouthern gates to the city stand open welcoming all travelers. @@WOnce @@gin a 
-time long ago, the gates were closed and locked each night to keep all within 
-safe and secure, but @@WQ @@gmisplaced the keys.@@N  
-~
+
+time long ago, the gates were closed and locked each night to keep all within 
+
+safe and secure, but @@WQ @@gmisplaced the keys.@@N  
+
+~
 0 1
 D0
 ~
@@ -2629,9 +3247,12 @@ S
 #3163
 @@WT@@ghe @@WS@@gouth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe south is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2645,9 +3266,12 @@ S
 #3164
 @@WT@@ghe @@WS@@gouth @@WW@@gall @@WR@@goad@@N~
 @@WTo @@gthe south is the city wall. @@WIt @@gwas built centuries ago by a civilization 
-long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
-@@groad follows the wall to the east and west.@@N  
-~
+
+long forgotten. @@WThe @@gstones were laid one on another to a towering height. @@WThe 
+
+@@groad follows the wall to the east and west.@@N  
+
+~
 0 1
 D1
 ~
@@ -2661,11 +3285,16 @@ S
 #3165
 @@WT@@ghe @@WT@@gemple @@WR@@goad@@N~
 @@N   @@G.-"""-.          @@WTrees line the road leading from the
-@@N  @@G/@@r* * * *@@G\         @@Wtemple. Small animals peek at the
-@@N @@G:_.-:`:-._;        @@Wtraffic, wondering when it will be
-@@N     @@b(_)            @@Wsafe to cross. Elm Street lies to
-@@N @@b_@@r\|/@@b(_)@@r\|/@@b______   @@Wthe east and west.@@N
-~
+
+@@N  @@G/@@r* * * *@@G\         @@Wtemple. Small animals peek at the
+
+@@N @@G:_.-:`:-._;        @@Wtraffic, wondering when it will be
+
+@@N     @@b(_)            @@Wsafe to cross. Elm Street lies to
+
+@@N @@b_@@r\|/@@b(_)@@r\|/@@b______   @@Wthe east and west.@@N
+
+~
 0 1
 D0
 ~
@@ -2691,11 +3320,16 @@ S
 #3166
 @@WT@@ghe @@WT@@gemple @@WR@@goad@@N~
 @@N   @@r.-"""-.          @@WTrees line the road leading from the
-@@N  @@r/@@G* * * *@@r\         @@Wtemple. Small animals peek at the
-@@N @@r:_.-:`:-._;        @@Wtraffic, wondering when it will be
-@@N     @@b(_)            @@Wsafe to cross. To the west is
-@@N @@b_@@G\|/@@b(_)@@G\|/@@b______   @@Wthe park entrance.@@N
-~
+
+@@N  @@r/@@G* * * *@@r\         @@Wtemple. Small animals peek at the
+
+@@N @@r:_.-:`:-._;        @@Wtraffic, wondering when it will be
+
+@@N     @@b(_)            @@Wsafe to cross. To the west is
+
+@@N @@b_@@G\|/@@b(_)@@G\|/@@b______   @@Wthe park entrance.@@N
+
+~
 0 1
 D0
 ~
@@ -2713,13 +3347,20 @@ S
 #3065
 @@aA@@cd@@de@@gs@@Wa @@aB@@cu@@di@@gl@@Wd@@ae@@cr @@dR@@go@@Wo@@am@@N~
 @@gThis room contains a board with building/area changes. Note that some changes
-@@gwill NOT be posted here if the Immortals intend to keep it 'secret'. Typical
-@@gthings that will be on this board are:
-@@g
-@@g  - New areas
-@@g  - Removal of areas
-@@g  - Object statistic changes@@N
-~
+
+@@gwill NOT be posted here if the Immortals intend to keep it 'secret'. Typical
+
+@@gthings that will be on this board are:
+
+@@g
+
+@@g  - New areas
+
+@@g  - Removal of areas
+
+@@g  - Object statistic changes@@N
+
+~
 1044 1
 D1
 ~
@@ -2729,7 +3370,8 @@ S
 #3066
 @@WT@@grade @@WR@@goom@@N~
 @@gSee @@ahelp trade@@g for details.@@N
-~
+
+~
 1052 0
 D3
 ~
@@ -2741,8 +3383,10 @@ S
 #3167
 @@WP@@glayer @@WF@@geedback @@WR@@goom@@N~
 Occasionally an Imm wants feedback on a certain idea of theirs. This is the
-board that will be used, to stop the other boards getting too spammy.
-~
+
+board that will be used, to stop the other boards getting too spammy.
+
+~
 1024 1
 D0
 ~
@@ -2752,7 +3396,8 @@ S
 #3168
 The Arena~
 @@gType @@yexamine arena @@gto enter the arena!@@N
-~
+
+~
 1168 0
 D1
 ~
@@ -2765,7 +3410,8 @@ S
 postmaster post master~
 @@mThe @@pP@@most@@pm@@master@@N~
 @@mThe @@pP@@most@@pm@@master@@p stands here, watching over you...@@N
-~
+
+~
 ~
 524299 8320 1000 S
 64 1
@@ -2775,7 +3421,8 @@ postmaster post master~
 black avenger~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@N~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@d is here@@m,@@d staring at you with brilliant @@Rred @@deyes@@m.@@N
-~
+
+~
 ~
 3153927 1157800 1000 S
 104 0
@@ -2787,7 +3434,8 @@ crier~
 @@NThe @@bTown Crier@@N~
 ~
 He is very good at his job - completely dissolved in tears.
-~
+
+~
 1 0 900 S
 12 1
 -25 10 5 0 0
@@ -2796,9 +3444,11 @@ He is very good at his job - completely dissolved in tears.
 mayor~
 @@NThe @@gMayor@@N~
 @@NThe @@gMayor@@N is here, kissing your ass for votes.
-~
+
+~
 He is a well-built, middle-aged man with thin, grey hair.
-~
+
+~
 1 8320 900 S
 3 1
 -10 5 5 0 0
@@ -2808,11 +3458,15 @@ S spec_mayor~
 secretary~
 @@NThe @@mS@@pecre@@mt@@pary@@N~
 @@pA @@mS@@pecre@@mt@@pary is sitting at the desk.@@N
-~
+
+~
 She looks very busy.
-The Secretary says 'Sorry, but the Mayor is extremely busy today'.
-The Secretary says 'Please sit down and have a seat in the meantime'.
-~
+
+The Secretary says 'Sorry, but the Mayor is extremely busy today'.
+
+The Secretary says 'Please sit down and have a seat in the meantime'.
+
+~
 3 0 900 S
 13 2
 -5 3 1 0 0
@@ -2821,9 +3475,11 @@ She looks very busy.
 cityguard guard~
 @@aT@@ch@@de @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@N~
 @@gA @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@g is here, guardiang the gate.
-~
+
+~
 A big, strong, helpful, trustworthy guard.
-~
+
+~
 65 40 1000 S
 3 1
 0 0 0 0 0
@@ -2832,9 +3488,11 @@ A big, strong, helpful, trustworthy guard.
 captain~
 @@NThe @@BC@@laptain@@N~
 @@NThe @@BC@@laptain@@N of the @@Bg@@luard@@N is looking very @@eupset@@N.
-~
+
+~
 A big, strong, angry captain.
-~
+
+~
 1 8 1000 S
 4 1
 0 0 0 0 0
@@ -2843,9 +3501,11 @@ A big, strong, angry captain.
 duck~
 @@NThe @@WDuck@@N~
 @@WA duck is here, quacking @@yhappily@@W.@@N
-~
+
+~
 The duck is quite fat.  It looks like it is enjoying life.
-~
+
+~
 1 0 1000 S
 4 0
 0 0 0 0 0
@@ -2854,9 +3514,11 @@ The duck is quite fat.  It looks like it is enjoying life.
 sparrow~
 @@NThe @@bSparrow@@N~
 @@bA sparrow is flapping around on the ground.@@N
-~
+
+~
 The sparrow looks like it is enjoying life.
-~
+
+~
 1 0 1000 S
 9 0
 0 0 0 0 0
@@ -2865,9 +3527,11 @@ The sparrow looks like it is enjoying life.
 duckling~
 @@NThe @@yDuckling@@N~
 @@yA duckling is swimming around in the pond.@@N
-~
+
+~
 The duckling is adorable, it looks most of all like a tiny furball.
-~
+
+~
 3 0 1000 S
 2 0
 0 0 0 0 0
@@ -2877,9 +3541,11 @@ P ..(say Mace sucks)..~
 swan~
 @@NThe @@gSwan@@N~
 @@gA swan is swimming around in the pond.@@N
-~
+
+~
 The white swan is very elegant.
-~
+
+~
 1 0 1000 S
 14 0
 0 0 0 0 0
@@ -2888,9 +3554,11 @@ The white swan is very elegant.
 sexton~
 @@NThe @@aSexton@@N~
 @@NA @@asexton@@N is sitting here, drinking @@ehot @@btea@@N.
-~
+
+~
 The sexton looks like he is relaxing after another grave-digging job.
-~
+
+~
 1 0 800 S
 16 1
 0 0 0 0 0
@@ -2900,10 +3568,13 @@ S spec_cast_cleric~
 maid~
 @@NThe @@pMaid@@N~
 @@NThe @@pMaid@@N is waiting for your order.@@N
-~
+
+~
 She is very beautiful with golden hair, and deep blue eyes. A good reason
-for coming here more often.
-~
+
+for coming here more often.
+
+~
 1 0 1000 S
 39 2
 0 0 0 0 0
@@ -2913,9 +3584,11 @@ S spec_cast_cleric~
 wolf~
 the wolf~
 A large, trained wolf is here.
-~
+
+~
 The wolf looks like a strong, fearless fighter.
-~
+
+~
 1 0 0 S
 3 0
 0 0 0 0 0
@@ -2924,9 +3597,11 @@ The wolf looks like a strong, fearless fighter.
 rottweiler~
 the rottweiler~
 A large, loyal rottweiler is here.
-~
+
+~
 The rottweiler looks like a strong, fierce fighter.
-~
+
+~
 1 0 400 S
 30 0
 0 0 0 0 0
@@ -2935,9 +3610,11 @@ The rottweiler looks like a strong, fierce fighter.
 beagle~
 the beagle~
 A small, quick, loyal beagle is here.
-~
+
+~
 The beagle looks like a fierce fighter.
-~
+
+~
 1 0 400 S
 6 0
 0 0 0 0 0
@@ -2947,7 +3624,8 @@ soulbeast~
 @@RA B@@Bl@@da@@Bc@@Rk S@@dou@@Blbe@@das@@Rt@@N~
 @@RA B@@Bl@@da@@Bc@@Rk S@@dou@@Blbe@@das@@Rt is here at@@d G@@Rrave@@ddwe@@Rller@@ds side.@@N~
 The puppy looks like a cute, little, fierce fighter.
-~
+
+~
 327707 527036 400 S
 78 0
 -2500 1000 1000 0 0
@@ -2956,9 +3634,11 @@ The puppy looks like a cute, little, fierce fighter.
 kitten~
 the kitten~
 A small loyal kitten is here.
-~
+
+~
 The kitten looks like a cute, little, fierce fighter.
-~
+
+~
 1 0 400 S
 14 0
 0 0 0 0 0
@@ -2967,9 +3647,11 @@ The kitten looks like a cute, little, fierce fighter.
 cityguard guard~
 @@aT@@ch@@de @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@N~
 @@gA @@gC@@Wi@@at@@cy@@dg@@Wu@@ga@@ar@@cd @@gis here, guarding the gate.@@N
-~
+
+~
 A big, strong, helpful, trustworthy guard.
-~
+
+~
 65 40 1000 S
 15 1
 -50 14 20 0 0
@@ -2979,9 +3661,11 @@ S spec_policeman~
 cityguard guard~
 @@aT@@ch@@de @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@N~
 @@gA @@gC@@Wi@@at@@cy@@dg@@Wu@@ga@@ar@@cd @@gis here, guarding the gate.@@N
-~
+
+~
 A big, strong, helpful, trustworthy guard.
-~
+
+~
 65 40 1000 S
 10 1
 -75 21 17 0 0
@@ -2991,9 +3675,11 @@ S spec_policeman~
 cityguard guard~
 @@aT@@ch@@de @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@N~
 @@gA @@gC@@Wi@@at@@cy@@dg@@Wu@@ga@@ar@@cd @@gis here, guarding the gate.@@N
-~
+
+~
 A big, strong, helpful, trustworthy guard.
-~
+
+~
 65 40 1000 S
 21 1
 -100 30 30 0 0
@@ -3003,9 +3689,11 @@ S spec_policeman~
 cat~
 @@ban alley cat@@N~
 @@bAn alley cat @@dhisses@@b at you.@@N
-~
+
+~
 The alley cat is half starved and more than a little feral.
-~
+
+~
 1 0 -200 S
 28 1
 -350 85 94 0 0
@@ -3014,9 +3702,11 @@ The alley cat is half starved and more than a little feral.
 beggar~
 @@NThe @@RB@@eeg@@Rga@@er@@N~
 @@NA @@RB@@eeg@@Rga@@er@@N is here, asking for a few @@ycoins@@N.
-~
+
+~
 The beggar looks like she is fed up with life.
-~
+
+~
 1 0 400 S
 13 2
 -5 1 1 0 0
@@ -3025,9 +3715,11 @@ The beggar looks like she is fed up with life.
 drunk~
 @@NThe @@cDrunk@@N~
 @@cA singing, @@yhappy@@c drunk.@@N
-~
+
+~
 A drunk who seems to be too happy, and to carry too much money.
-~
+
+~
 1 0 400 S
 20 1
 -5 3 1 0 0
@@ -3036,9 +3728,11 @@ A drunk who seems to be too happy, and to carry too much money.
 vagabond~
 @@dT@@yh@@de @@yVa@@dga@@ybo@@dnd@@N~
 @@gA @@yVa@@dga@@ybo@@dnd@@g is here, looking for victims.@@N
-~
+
+~
 He looks pretty mean.
-~
+
+~
 1 0 -200 S
 4 1
 0 0 0 0 0
@@ -3047,9 +3741,11 @@ He looks pretty mean.
 lady bug ladybug~
 @@dA @@eL@@dad@@eyB@@du@@eg@@N~
 @@dA @@eL@@dad@@eyB@@du@@eg@@d crawls past you.@@N
-~
+
+~
 A system bug is something from a computer programer's worst nightmare.
-~
+
+~
 65 40 0 S
 15 0
 -150 30 30 0 0
@@ -3059,7 +3755,8 @@ S spec_fido~
 street sweeper~
 @@dT@@ch@@We @@dStr@@cee@@Wt @@dSw@@cee@@Wper@@N~
 @@WA @@dstr@@cee@@dt @@dsw@@cee@@dper @@Wstops to pick up something.@@N
-~
+
+~
 ~
 65 0 900 S
 8 1
@@ -3068,22 +3765,30 @@ street sweeper~
 S spec_janitor~
 >greet_prog 40~
 if ispc($n)
-say @@WPardon me.@@N
-endif
-~
+
+say @@WPardon me.@@N
+
+endif
+
+~
 >greet_prog 40~
 if ispc($n)
-say @@WPlease step aside $n.@@N
-endif
-~
+
+say @@WPlease step aside $n.@@N
+
+endif
+
+~
 |
 #3060
 cityguard guard~
 @@aT@@ch@@de @@gC@@Wi@@at@@cy@@dg@@gu@@Wa@@ar@@cd@@N~
 @@gA @@gC@@Wi@@at@@cy@@dg@@Wu@@ga@@ar@@cd @@gis here, guarding the gate.@@N
-~
+
+~
 A big, strong, helpful, trustworthy guard.
-~
+
+~
 65 40 1000 S
 3 1
 0 0 0 0 0
@@ -3093,12 +3798,17 @@ S spec_policeman~
 dealer~
 @@gAOD @@dthe @@RDealer@@N~
 @@gAOD @@dthe @@RDealer @@Wstands in the shadows here.@@N
-~
+
+~
 Aod looks just like the dealer hoodlum you see on T.V.  He's wearing a
-concert shirt and Levi 501's.  His hair is pulled back into a pony tail.
-A beard and moustache complete the look.  Aod has brought some drugs
-with him from Generic Mud.
-~
+
+concert shirt and Levi 501's.  His hair is pulled back into a pony tail.
+
+A beard and moustache complete the look.  Aod has brought some drugs
+
+with him from Generic Mud.
+
+~
 3 552 0 S
 6 1
 0 0 0 0 0
@@ -3108,10 +3818,13 @@ S spec_cast_undead~
 filthy~
 @@WFilthy@@N~
 @@WFilthy is standing here, eager to serve you a special drink.@@N
-~
+
+~
 Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
-but do not mess with him or else he'll get upset.
-~
+
+but do not mess with him or else he'll get upset.
+
+~
 3 0 600 S
 15 1
 -500 500 500 0 0
@@ -3120,9 +3833,11 @@ Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
 bartender~
 @@mThe @@pBar@@mten@@pder@@N~
 @@pThe Bar@@mten@@pder watches you @@mcalmly@@p, while he skillfully mixes a @@mdrink@@p.@@N
-~
+
+~
 A tired looking Bartender who hates trouble in his bar.
-~
+
+~
 524291 168 900 S
 40 1
 0 0 0 0 0
@@ -3131,9 +3846,11 @@ A tired looking Bartender who hates trouble in his bar.
 healer~
 @@aThe Healer@@N~
 @@aA healer is here.@@N
-~
+
+~
 Although retired from adventuring, the healer still lends a hand.
-~
+
+~
 528387 8440 1000 S
 110 1
 -500 500 500 0 0
@@ -3143,7 +3860,8 @@ S spec_cast_adept~
 methos~
 @@RM@@ee@@dt@@Rh@@eo@@ds@@N~
 @@dD@@Re@@ea@@Rt@@dh is here@@R, @@dwith @@RHell @@dnot that far behind.@@N
-~
+
+~
 ~
 3932247 1633020 1000 S
 144 1
@@ -3154,10 +3872,13 @@ S spec_executioner~
 leather worker~
 @@bThe Leather Worker@@N~
 @@bThe leather worker is sitting by the table, sewing a leather cap.@@N
-~
+
+~
 He looks as an honest, hard-working artisan who only just earns enough to
-keep himself going.
-~
+
+keep himself going.
+
+~
 3 128 900 S
 99 1
 -500 500 500 0 0
@@ -3166,9 +3887,11 @@ He looks as an honest, hard-working artisan who only just earns enough to
 jeweller~
 @@gThe @@lJ@@ee@@aw@@be@@gl@@yl@@Ge@@Rr@@N~
 @@gThe @@lJ@@ee@@aw@@be@@gl@@yl@@Ge@@Rr@@g is looking at you behind a thick eyepiece.@@N
-~
+
+~
 He is fat and has a content although watchful look on his face.
-~
+
+~
 524291 8872 900 S
 73 1
 -500 500 500 0 0
@@ -3177,9 +3900,11 @@ He is fat and has a content although watchful look on his face.
 boy~
 the pet shop boy~
 A pet shop boy is here, humming gently.
-~
+
+~
 He is young and close-cropped and looks quite happy.
-~
+
+~
 524291 168 900 S
 61 1
 -500 500 500 0 0
@@ -3188,9 +3913,11 @@ He is young and close-cropped and looks quite happy.
 sailor~
 @@lThe @@WS@@la@@Wi@@Wl@@lo@@Wr@@N~
 @@lA @@WS@@la@@Wi@@ll@@Wo@@lr stands here, waiting to @@Wtrain@@l you.@@N
-~
+
+~
 He looks like a strong, fit sailor.
-~
+
+~
 515 0 900 S
 65 1
 0 0 0 0 0
@@ -3199,9 +3926,11 @@ He looks like a strong, fit sailor.
 captain~
 @@bThe Captain@@N~
 @@bA retired captain stands here, selling boats.@@N
-~
+
+~
 This captain has killed more sharks than you have eaten peas.
-~
+
+~
 3 40 900 S
 21 1
 0 0 0 0 0
@@ -3210,9 +3939,11 @@ This captain has killed more sharks than you have eaten peas.
 thief~
 @@dThe Thief@@N~
 @@dA Thief, all dressed in black.@@N
-~
+
+~
 Well COUNT your money!
-~
+
+~
 3 98304 100 S
 9 1
 0 0 0 0 0
@@ -3222,10 +3953,13 @@ S spec_thief~
 armourer armorer~
 @@RT@@ehe @@RA@@ermourer@@N~
 @@RT@@ehe @@RA@@ermourer stands here, flexing his huge @@Rmuscles@@e for all to see.@@N
-~
+
+~
 An old but very strong armourer, he has made more armours in his
-lifetime than you have ever seen.
-~
+
+lifetime than you have ever seen.
+
+~
 34079747 8360 900 S
 140 1
 -500 500 500 0 0
@@ -3234,9 +3968,11 @@ An old but very strong armourer, he has made more armours in his
 weaponsmith~
 @@aThe Weaponsmith@@N~
 @@aThe weaponsmith stands here with veins popping from his huge muscular form.@@N
-~
+
+~
 A young weaponsmith, who still has lots to learn.
-~
+
+~
 532487 8360 900 S
 83 1
 -500 500 500 0 0
@@ -3245,9 +3981,11 @@ A young weaponsmith, who still has lots to learn.
 grocer~
 @@yThe Grocer@@N~
 @@yA grocer stands at the counter with a slightly impatient look on his face.@@N
-~
+
+~
 A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
-~
+
+~
 524291 8360 900 S
 102 1
 -500 500 500 0 0
@@ -3256,10 +3994,13 @@ A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
 baker~
 @@gT@@bh@@ge @@bB@@ga@@bk@@ge@@br@@N~
 @@gT@@bh@@ge @@bB@@ga@@bk@@ge@@br looks at you calmly, wiping @@gflour@@b from his face and licking his fingers.@@N
-~
+
+~
 A fat, nice looking baker. But you can see that he has many scars on his
-body.
-~
+
+body.
+
+~
 1572867 8360 900 S
 88 1
 -500 500 500 0 0
@@ -3268,11 +4009,15 @@ A fat, nice looking baker. But you can see that he has many scars on his
 wizard~
 @@lThe Wizard@@N~
 @@lA wizard walks around behind the counter, talking to himself.@@N
-~
+
+~
 The wizard looks old and senile, and yet he looks like a very powerful
-wizard. He is equipped with fine clothing, and is wearing many fine
-rings and bracelets.
-~
+
+wizard. He is equipped with fine clothing, and is wearing many fine
+
+rings and bracelets.
+
+~
 786435 696 900 S
 124 1
 -2500 1000 1000 0 0
@@ -3282,8 +4027,10 @@ S spec_cast_bigtime~
 temp~
 ~
 This is a test
-.This is another
-.~
+
+.This is another
+
+.~
 ~
 1 0 0 S
 12 1
@@ -3293,9 +4040,11 @@ This is a test
 max teller~
 Max~
 Max the bank teller stands here, ready to take your money.
-~
+
+~
 He looks greasy, and not very trustworthy.  Go figure.
-~
+
+~
 1605643 168 0 S
 80 1
 -500 500 500 0 0
@@ -3304,9 +4053,11 @@ He looks greasy, and not very trustworthy.  Go figure.
 collector soul~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@N~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@d is here looking for your SOUL@@y!!@@N
-~
+
+~
 @@dThe Soul C@@Wo@@cl@@gl@@de@@cc@@Wt@@do@@cr @@dof the Realm of @@aA@@cd@@de@@gs@@Wa @@dis a tall, dark, eyeless being, who shrouds himself in @@gs@@dh@@ga@@dd@@go@@dw@@gs@@d.@@N
-~
+
+~
 3473409 1591528 0 S
 139 1
 -2500 1000 1000 0 0
@@ -3315,7 +4066,8 @@ collector soul~
 warhorse horse~
 @@WA Warhorse@@N~
 @@WA Warhorse snorts at you!@@N
-~
+
+~
 ~
 134217985 0 0 S
 22 1
@@ -3325,7 +4077,8 @@ warhorse horse~
 pestilence~
 @@dP@@Re@@es@@Rt@@ei@@dl@@ee@@Rn@@ec@@de@@N~
 @@RPe@@est@@gil@@den@@Rce @@dis here@@m,@@d waiting for your @@RB@@el@@go@@do@@Rd@@d.@@N
-~
+
+~
 ~
 1076703319 1108732 0 S
 140 1
@@ -3337,7 +4090,8 @@ S spec_executioner~
 methos horsemen~
 @@RM@@ee@@dt@@Rh@@eo@@ds@@N~
 @@dD@@Re@@ea@@Rt@@dh @@dis here, with @@RHell@@d not that far behind.@@N
-~
+
+~
 ~
 1076822103 1174268 -1000 S
 145 1
@@ -3348,7 +4102,8 @@ S spec_executioner~
 caspian~
 @@RC@@da@@es@@gp@@ei@@da@@Rn@@N~
 @@dA pile of @@gB@@Wo@@gn@@We@@gs@@d is here in the form of a man@@m...@@d could this be @@RF@@da@@em@@gi@@en@@de@@R.@@N
-~
+
+~
 ~
 1076703319 1108732 0 S
 140 1
@@ -3360,7 +4115,8 @@ S spec_executioner~
 silas~
 @@eS@@Ri@@dl@@Ra@@es@@N~
 @@dYou see the man that is known to the world as @@RWAR@@d here@@m.@@N
-~
+
+~
 ~
 1076703319 1108732 0 S
 140 1
@@ -3372,7 +4128,8 @@ S spec_executioner~
 pterandon peri dino~
 the Pterandon~
 A large, flying Pterandon swoops around, looking mean.
-~
+
+~
 ~
 134217821 524288 -300 S
 68 2
@@ -3384,7 +4141,8 @@ A large, flying Pterandon swoops around, looking mean.
 shot jim beam jimbeam~
 @@WS@@ghot of @@bJ@@Ri@@bm @@WB@@ge@@ya@@bm@@N~
 A simple shot of Kentucky Bourbon Whiskey lies here.
-~
+
+~
 17 0 1 1
 1 1 17 0
 1
@@ -3394,7 +4152,8 @@ C 69
 darkness~
 @@GDarkness@@g~
 A blade of @@GDarkness@@g lies here.
-~
+
+~
 5 16384 8193 33
 0 0 0 9
 10
@@ -3406,10 +4165,14 @@ A 13 20
 E
 darkness~
 Looking at @@GDarkness@@g is like looking into the furthest corner of your
-sad and evil soul.  You sense the power stored within this weapon to be awesome,
-ready to strike your enemies at the slightest chance.  You are forced to look
-away, rather than be dragged into it's dark heart....
-~
+
+sad and evil soul.  You sense the power stored within this weapon to be awesome,
+
+ready to strike your enemies at the slightest chance.  You are forced to look
+
+away, rather than be dragged into it's dark heart....
+
+~
 L 1
 #3039
 oil~
@@ -3423,7 +4186,8 @@ L 1
 tooth~
 @@cA @@Wdr@@dago@@cn t@@Wo@@doth@@N~
 @@y@@cA @@Wdr@@dago@@cn t@@Wo@@doth @@Wworth 5 QP.@@N
-~
+
+~
 16 1048577 1 1
 5 0 69 120
 1
@@ -3469,7 +4233,8 @@ L 1
 board~
 the lover's board~
 The lover's board is stuck to the wall with 4 arrows.
-~
+
+~
 27 0 0 1
 0 0 0 0
 1
@@ -3478,7 +4243,8 @@ L 1
 board~
 @@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@N~
 @@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@d is here waiting for your ideas.@@N
-~
+
+~
 27 0 0 1
 0 5 0 3089
 1
@@ -3487,7 +4253,8 @@ L 1
 letter~
 <Obj Name> not available.~
 A letter of condolence lies here.
-~
+
+~
 8 0 1 1
 0 0 0 0
 1
@@ -3528,7 +4295,8 @@ A 24 -2
 E
 banner~
 This is the official Merc war banner to see you through the darkest realm!
-~
+
+~
 L 1
 #3016
 ring signet~
@@ -3550,8 +4318,10 @@ You see a standard issue bracer here.~
 E
 bracer~
 You see a bracer of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3018
 belt~
@@ -3563,8 +4333,10 @@ You see a standard issue belt here.~
 E
 belt~
 You see a belt of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3019
 cape~
@@ -3576,8 +4348,10 @@ You see a standard issue cape here.~
 E
 cape~
 You see a cape of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3023
 sleeves~
@@ -3589,8 +4363,10 @@ You see a pair of standard issue sleeves here.~
 E
 sleeves~
 You see sleeves of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3024
 gloves~
@@ -3602,8 +4378,10 @@ You see a pair of standard issue gloves here.~
 E
 gloves~
 You see gloves of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3025
 boots~
@@ -3615,8 +4393,10 @@ You see a pair of standard issue boots here.~
 E
 boots~
 You see boots of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3026
 leggings~
@@ -3628,8 +4408,10 @@ You see a pair of standard issue leggings here.~
 E
 leggings~
 You see leggings of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3027
 helmet~
@@ -3641,8 +4423,10 @@ You see a standard issue helmet here.~
 E
 helmet~
 You see a helmet of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3028
 cloak~
@@ -3654,8 +4438,10 @@ You see a standard issue cloak here.~
 E
 cloak~
 You see a cloak of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3029
 shield~
@@ -3667,8 +4453,10 @@ You see a standard issue shield here.~
 E
 shield~
 You see a shield of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3034
 vest~
@@ -3680,8 +4468,10 @@ You see a standard issue vest here.~
 E
 vest~
 You see a vest of great craftsmanship.  Stamped on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 3
 #3035
 mace~
@@ -3695,8 +4485,10 @@ A 18 2
 E
 mace~
 You see a mace of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3036
 dagger~
@@ -3710,8 +4502,10 @@ A 18 2
 E
 dagger~
 You see a dagger of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3037
 sword~
@@ -3725,8 +4519,10 @@ A 18 2
 E
 sword~
 You see a sword of great craftsmanship.  Imprinted on the side is:
-Merc Industries
-~
+
+Merc Industries
+
+~
 L 1
 #3140
 notice liquidation bank~
@@ -3739,15 +4535,22 @@ E
 notice liquidation bank~
 The letter is written in a reserved and dignified Spencer hand.
 
-    To whom it may concern,
 
-	Merc Industries has charmed your money.  Apparently one's
-	gold will remain close, even beyond death. We are closing
-	down our offices and ATM machines.  Our services here are
-	no longer required.
+    To whom it may concern,
 
-    Midgaard City Bank
-~
+
+	Merc Industries has charmed your money.  Apparently one's
+
+	gold will remain close, even beyond death. We are closing
+
+	down our offices and ATM machines.  Our services here are
+
+	no longer required.
+
+
+    Midgaard City Bank
+
+~
 L 1
 #3139
 letter resignation~
@@ -3760,21 +4563,29 @@ E
 letter resignation~
 The letter is written in a bold and feminine Carolinian hand.
 
-    To whom it may concern,
 
-	Merc Industries has installed a new no-rent save and quit
-	system.  Apparently one can now save and quit at any time
-	from anywhere inside a town or out.  My services here are
-	no longer required.
+    To whom it may concern,
 
-    Diana the Receptionist
-~
+
+	Merc Industries has installed a new no-rent save and quit
+
+	system.  Apparently one can now save and quit at any time
+
+	from anywhere inside a town or out.  My services here are
+
+	no longer required.
+
+
+    Diana the Receptionist
+
+~
 L 1
 #3138
 brimstone~
 @@dB@@Wri@@dmst@@Wone@@N~
 @@dA @@Wpiece of @@dB@@Wri@@dmst@@Wone lies here.@@N
-~
+
+~
 13 0 1 1
 100 100 0 0
 5
@@ -3789,7 +4600,8 @@ A large steel key has been left here.~
 E
 key steel~
 A key of this size must fit a very strong lock.
-~
+
+~
 L 1
 #3136
 coins gold~
@@ -3803,14 +4615,16 @@ L 1
 fountain water~
 a fountain~
 @@WA s@@gmall @@WWhite f@@gountain @@Wg@@gushes @@Wf@@gorth @@Wh@@gere@@N
-~
+
+~
 25 0 0 1
 0 0 0 0
 500
 E
 fountain~
 It is very nice.  Made from fine white marble.
-~
+
+~
 L 1
 #3134
 bench~
@@ -3822,9 +4636,12 @@ A white-painted wooden bench is standing here.~
 E
 bench~
 It is a quite heavy but very comfortable bench.  It is placed with its front
-towards the river so you can sit and watch the river and the houses on the
-other side.
-~
+
+towards the river so you can sit and watch the river and the houses on the
+
+other side.
+
+~
 L 1
 #3133
 city key~
@@ -3852,7 +4669,8 @@ A safe is placed in a dark corner of the room.~
 E
 safe~
 The safe is very heavy.
-~
+
+~
 L 1
 #3130
 desk drawer~
@@ -3864,7 +4682,8 @@ A desk is set against the western wall.~
 E
 drawer~
 You notice a keyhole in the drawer.
-~
+
+~
 L 1
 #3129
 hand cuffs~
@@ -3884,7 +4703,8 @@ A long sword has been left here.~
 E
 sword long~
 This is the ceremonial sword of the Mayor of Midgaard.
-~
+
+~
 L 1
 #3123
 key brass~
@@ -3896,7 +4716,8 @@ A brass key has been left here.~
 E
 key brass~
 The brass key is small and looks like it fits a very complicated lock.
-~
+
+~
 L 1
 #3122
 key wooden~
@@ -3908,7 +4729,8 @@ A wooden key has been left here.~
 E
 key wooden~
 The wooden key is not special.
-~
+
+~
 L 1
 #3121
 key rusty~
@@ -3920,7 +4742,8 @@ A rusty key has been left here.~
 E
 key rusty~
 The key is a fairly large rusty key.  You notice some fresh dirt on it.
-~
+
+~
 L 1
 #3120
 key iron~
@@ -3932,7 +4755,8 @@ An iron key has been left here.~
 E
 key iron~
 The iron key is not special.
-~
+
+~
 L 1
 #3106
 bracer iron~
@@ -3960,7 +4784,8 @@ A cup has been set here.~
 E
 cup~
 It is a large simple cup.
-~
+
+~
 L 1
 #3101
 coffee cup~
@@ -3972,7 +4797,8 @@ A cup has been set here.~
 E
 cup~
 It is a small simple cup.
-~
+
+~
 L 1
 #3100
 tea cup~
@@ -3984,7 +4810,8 @@ A cup has been set here.~
 E
 cup~
 It is a small simple cup.
-~
+
+~
 L 1
 #3097
 shield small metal~
@@ -4148,7 +4975,8 @@ A canoe has been left here.~
 E
 canoe~
 The canoe is fairly light.
-~
+
+~
 L 1
 #3050
 raft~
@@ -4160,7 +4988,8 @@ A raft has been left here.~
 E
 raft~
 The raft looks very primitive.
-~
+
+~
 L 1
 #3046
 bronze breast plate~
@@ -4188,7 +5017,8 @@ A scroll has carelessly been left here.~
 E
 scroll~
 The scroll has written a formulae of 'Word of Recall' upon it.
-~
+
+~
 L 1
 #3041
 potion yellow~
@@ -4200,7 +5030,8 @@ A small yellow potion has carelessly been left here.~
 E
 potion yellow~
 The potion has a small label 'Detect The Invisible'.
-~
+
+~
 L 1
 #3040
 scroll identify~
@@ -4212,13 +5043,20 @@ A scroll has carelessly been left here.~
 E
 scroll identify~
 The scroll has a magic formula drawn upon it:
-     ???
-    ?   ?
-       ?
-      ?
-      ?
-      *
-~
+
+     ???
+
+    ?   ?
+
+       ?
+
+      ?
+
+      ?
+
+      *
+
+~
 L 2
 #3033
 box~
@@ -4246,13 +5084,17 @@ A hooded brass lantern has been left here.~
 E
 letters~
 They say, "Use 'hold lantern' to activate."
-~
+
+~
 E
 lantern~
 It is a large and robust but somewhat battered oil lantern made from brass,
-equipped with a handle to make it handy and a hood to protect its flame.
-Some letters have been scratched on its bottom.
-~
+
+equipped with a handle to make it handy and a hood to protect its flame.
+
+Some letters have been scratched on its bottom.
+
+~
 L 2
 #3030
 torch~
@@ -4290,7 +5132,8 @@ L 1
 cherry muffin~
 @@yA @@eCherry @@yMuffin@@N~
 @@yA freshly baked @@eCherry @@yMuffin is here.@@N
-~
+
+~
 19 8192 1 1
 40 0 0 0
 1
@@ -4305,9 +5148,12 @@ An executioner's axe is here waiting to possess its next user.~
 E
 axe blade~
 It is quite heavy.  The blade is made of some metal that you can't even
-spell.  The edge of the blade looks as if it could cut through anything
-or anyone.
-~
+
+spell.  The edge of the blade looks as if it could cut through anything
+
+or anyone.
+
+~
 L 1
 #3004
 bottle local~
@@ -4353,7 +5199,8 @@ L 1
 board~
 the Board of Thought~
 The board for thought sharing is here, floating downwind slowly.
-~
+
+~
 27 0 0 1
 0 0 0 3210
 1
@@ -4362,7 +5209,8 @@ L 1
 board~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBuilder Board@@N~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBuilder Board is here with the latest area changes.@@N
-~
+
+~
 27 0 0 1
 0 81 1 1020
 0
@@ -4377,18 +5225,22 @@ A tall oak tree stands here.@@N~
 E
 plaque~
 @@gThis statue represents one of the great gods of Egypt, @@cOsiris@@g, the loving husband of @@yIsis@@g.  It is placed here in the @@Wcenter @@gof town for all to see, and as a @@Rreminder @@gto all that not all Gods are @@dImmortal@@G.
-~
+
+~
 E
 tree~
 This tree was planted here to remind everyone to be kind to one another, giving eternal life and love to each.
-~
+
+~
 L 1
 #3049
 board~
 the Immortal contact board~
 @@WA@@g board sits here@@W,@@g with post it notes attached@@W,@@g a single one saying if in need
-of an @@WI@@gmmortal please leave message here@@W.@@N  
-~
+
+of an @@WI@@gmmortal please leave message here@@W.@@N  
+
+~
 27 0 0 1
 10 3 0 3049
 1
@@ -4397,7 +5249,8 @@ L 1
 board~
 @@RThe @@eFlame@@R Board@@N~
 @@RThe @@eFlame@@R Board awaits the foulness of your mind.@@N
-~
+
+~
 27 0 0 1
 10 4 0 3052
 10000
@@ -4406,7 +5259,8 @@ L 1
 logic board~
 the logic board@@N~
 @@y<<<@@aThe Logic Board@@y>>>@@N
-~
+
+~
 27 0 0 1
 30 5 10 3014
 1000
@@ -4415,7 +5269,8 @@ L 1
 muffin lemon~
 @@yA L@@be@@ym@@bo@@yn Muffin@@N~
 @@yA freshly baked L@@be@@ym@@bo@@yn Muffin@@y is here.@@N
-~
+
+~
 19 8192 1 1
 40 0 0 0
 1
@@ -4424,7 +5279,8 @@ L 2
 poppy seed muffin~
 @@yA @@dP@@go@@dp@@gp@@dy @@gS@@de@@ge@@dd @@yMuffin@@N~
 @@yA freshly baked @@dP@@go@@dp@@gp@@dy @@gS@@de@@ge@@dd @@yMuffin is here.@@N
-~
+
+~
 19 8192 1 1
 45 0 0 0
 1
@@ -4433,7 +5289,8 @@ L 5
 muffin blackberry~
 @@yA @@dBlackberry @@yMuffin@@N~
 @@yA freshly baked @@dBlackberry@@y Muffin is here.@@N
-~
+
+~
 19 8192 1 1
 40 0 0 0
 1
@@ -4442,7 +5299,8 @@ L 2
 muffin blueberry~
 @@yA @@lBlueberry @@yMuffin@@N~
 @@yA freshly baked @@lBlueberry@@y Muffin is here waiting to be eatten.@@N
-~
+
+~
 19 8192 1 1
 40 0 0 0
 1
@@ -4451,7 +5309,8 @@ L 2
 scroll dispel~
 @@ma scroll of Dispel Magic@@N~
 @@mA scroll of Dispel Magic flutters on the breeze.@@N
-~
+
+~
 2 64 1 1
 45 59 -1 -1
 2
@@ -4460,7 +5319,8 @@ L 50
 shot wild turkey wildturkey bourbon~
 @@WS@@ghot of @@bWi@@Rl@@bd @@WTu@@grk@@ye@@by@@N~
 A simple shot of Kentucky Bourbon Whiskey lies here.
-~
+
+~
 17 0 1 1
 1 1 17 0
 1
@@ -4478,7 +5338,8 @@ L 1
 board~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dB@@gu@@al@@cl@@de@@gt@@Wi@@cn @@aB@@co@@da@@gr@@Wd@@N~
 @@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dB@@gu@@Wl@@al@@ce@@dt@@gi@@Wn @@aB@@co@@da@@gr@@Wd @@ai@@cs @@dh@@ge@@Wr@@ae@@c, @@dw@@ga@@Wi@@at@@ci@@dn@@gg @@Wt@@ao @@ci@@dn@@gf@@Wo@@ar@@cm @@dy@@go@@Wu@@a.@@N
-~
+
+~
 27 0 0 1
 365 4 2 3199
 1000
@@ -4487,7 +5348,8 @@ L 1
 flaming sword~
 @@yA @@RF@@ela@@ym@@ein@@Rg @@RS@@ew@@yo@@er@@Rd@@N~
 @@yA @@RF@@ela@@ym@@ein@@Rg @@RS@@ew@@yo@@er@@Rd@@d is lying on the ground, left by a @@dH@@Ror@@ese@@Rma@@dn@@m.@@N
-~
+
+~
 5 302010500 8192 1033
 0 0 0 11
 30
@@ -4501,7 +5363,8 @@ O objfun_flaming~
 sirius ^rare~
 @@dS@@ci@@ar@@yi@@du@@cs@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3151 3151 3152 0
 5
@@ -4511,7 +5374,8 @@ R 2000
 canopus ^rare~
 @@dC@@ca@@an@@yo@@dp@@cu@@as@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3150 3150 3152 0
 5
@@ -4521,7 +5385,8 @@ R 2400
 rigil kentaurus ^rare~
 @@dR@@ci@@ag@@yi@@dl@@c K@@ae@@yn@@dt@@ca@@au@@yr@@du@@cs@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3155 3155 3162 0
 1
@@ -4530,7 +5395,8 @@ L 25
 arcturus ^rare~
 @@dA@@cr@@ac@@yt@@du@@cr@@au@@ys@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3154 3154 3155 0
 1
@@ -4540,7 +5406,8 @@ R 2500
 vega ^rare~
 @@dV@@ce@@ag@@ya@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3153 3153 3155 0
 1
@@ -4551,7 +5418,8 @@ R 50
 capella ^rare~
 @@dC@@ca@@ap@@ye@@dl@@cl@@aa@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3152 3152 3162 0
 1
@@ -4560,7 +5428,8 @@ L 25
 rigel ^rare~
 @@dR@@ci@@ag@@ye@@dl@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3157 3157 3158 0
 5
@@ -4570,7 +5439,8 @@ R 2200
 procyon ^rare~
 @@dP@@cr@@ao@@yc@@dy@@co@@an@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3156 3156 3158 0
 1
@@ -4580,7 +5450,8 @@ R 2700
 achernar ^rare~
 @@dA@@cc@@ah@@ye@@dr@@cn@@aa@@yr@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3161 3161 3163 0
 1
@@ -4589,7 +5460,8 @@ L 25
 betelgeuse ^rare~
 @@dB@@ce@@at@@ye@@dl@@cg@@ae@@yu@@ds@@ce@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3160 3160 3161 0
 1
@@ -4599,7 +5471,8 @@ R 2700
 hadar ^rare~
 @@dH@@ca@@ad@@ya@@dr@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3159 3159 3161 0
 1
@@ -4609,7 +5482,8 @@ R 2200
 acrux ^rare~
 @@dA@@cc@@ar@@yu@@dx@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3158 3158 3163 0
 1
@@ -4618,7 +5492,8 @@ L 25
 altair ^rare~
 @@dA@@cl@@at@@ya@@di@@cr@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3163 3163 3164 0
 1
@@ -4627,7 +5502,8 @@ L 25
 aldebaran ^rare~
 @@dA@@cl@@ad@@ye@@db@@ca@@ar@@ya@@dn@@N~
 @@dA@@c s@@at@@ya@@dr@@c l@@ai@@ye@@ds@@c h@@ae@@yr@@de@@c p@@au@@yl@@ds@@ci@@an@@yg@@d w@@ci@@at@@yh@@d e@@cn@@ae@@yr@@dgy.@@N
-~
+
+~
 29 5243009 1 1
 3612 3612 3614 0
 1
@@ -4636,7 +5512,8 @@ L 25
 exploding star~
 @@gA@@dn @@e@@yE@@Rx@@ep@@yl@@Ro@@ed@@yi@@Rn@@eg @@aS@@lt@@ca@@dr@@N~
 @@dA@@a S@@lt@@ca@@dr@@a h@@la@@cs@@d b@@ae@@lg@@cu@@dn@@y E@@Rx@@ep@@yl@@Ro@@ed@@yi@@Rn@@eg@@a h@@le@@cr@@de.@@N
-~
+
+~
 15 542113794 1 1
 500 1 0 0
 1
@@ -4645,7 +5522,8 @@ L 100
 board~
 @@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard@@m.@@N~
 @@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard is here@@m.@@N
-~
+
+~
 27 0 0 1
 365 5 2 3197
 1000
@@ -4654,7 +5532,8 @@ L 1
 board~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dChanges Board@@N~
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dChanges Board is here with the latest up to date code modifications.@@N
-~
+
+~
 27 0 0 1
 0 81 1 1048
 1000
@@ -4663,7 +5542,8 @@ L 1
 board~
 player Feedback Board~
 @@gThe @@WP@@glayer @@WF@@geedback @@WB@@goard is here, awaiting your valued opinion!@@N
-~
+
+~
 27 16777216 0 1
 365 30 30 3167
 1
@@ -4680,7 +5560,8 @@ L 1
 sandwich~
 @@bChi@@dc@@gk@@yen @@WF@@ginger @@bSan@@dd@@gw@@yich@@N~
 @@RA @@bChi@@dc@@gk@@yen @@WF@@ginger @@bSan@@dd@@gw@@yich@@g is here.@@N
-~
+
+~
 19 8192 1 1
 40 0 0 0
 1

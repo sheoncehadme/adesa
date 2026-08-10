@@ -53,13 +53,42 @@ merc: $(O_FILES)
 	$(CC) $(L_FLAGS) -o merc $(O_FILES) $(LIBS)
 	@mv version.c version.c.last 2>/dev/null || true
 
+# AddressSanitizer build (freelist UAF / invalid free). Binary: merc-asan
+# Usage: make asan && cd ../area && ../src/merc-asan --selftest
+# Always cleans first so instrumented .o files are not mixed with a normal link.
+asan:
+	$(MAKE) clean
+	$(MAKE) C_FLAGS="$(C_FLAGS) -fsanitize=address -fno-omit-frame-pointer -O1" \
+	        L_FLAGS="$(L_FLAGS) -fsanitize=address" \
+	        merc-asan
+	@echo "Built merc-asan (ASAN). Example: cd ../area && ../src/merc-asan --selftest"
+	@echo "Note: object files are ASan-instrumented; run 'make clean && make' for a normal merc."
+
+merc-asan: $(O_FILES)
+	$(CC) $(L_FLAGS) -o merc-asan $(O_FILES) $(LIBS)
+	@mv version.c version.c.last 2>/dev/null || true
+
 .c.o: merc.h
 	$(CC) -c $(C_FLAGS) $<
 
 version.c: version.c.sh
 	@/bin/sh ./version.c.sh
 
-clean:
-	rm -f $(O_FILES) merc version.c merc.save ../area/core*
+# --- tests (see tests/ and README) ---
+unit-test:
+	$(MAKE) -C ../tests/unit test
 
-.PHONY: all build clean
+test-boot: merc
+	@bash ../tests/scripts/boot_test.sh --boot-test
+
+test-self: merc
+	@bash ../tests/scripts/boot_test.sh --selftest
+
+test: merc unit-test test-boot test-self
+	@bash ../tests/scripts/check_logs.sh
+	@echo "src make test: OK (for full suite including pytest: bash ../tests/scripts/run_all.sh)"
+
+clean:
+	rm -f $(O_FILES) merc merc-asan version.c merc.save ../area/core*
+
+.PHONY: all build clean asan unit-test test-boot test-self test

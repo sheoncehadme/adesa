@@ -705,6 +705,9 @@ do_write(CHAR_DATA *ch, char *argument)
     }
     else {
         send_to_char("Could not add message.\n\r", ch);
+        free_string(msg->author);
+        free_string(msg->title);
+        free_string(msg->message);
         PUT_FREE(msg, message_free);
     }
     return;
@@ -732,6 +735,9 @@ finished_editing(MESSAGE_DATA *msg, char **dest, CHAR_DATA *ch, bool saved)
 #endif
 
         UNLINK(msg, msg->board->first_message, msg->board->last_message, next, prev);
+        free_string(msg->author);
+        free_string(msg->title);
+        free_string(msg->message);
         PUT_FREE(msg, message_free);
     }
     else {
