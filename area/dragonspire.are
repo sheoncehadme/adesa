@@ -1,23 +1,23 @@
 #AREA
-@@RDragonspire Peaks@@N~
+@@RFossilized Wing Ruins@@N~
 Z 3
 C 9236
-K dragonspire~
+K fossilwing~
 L @@W{ @@r75 85@@W }@@N~
 N 49
 I 75 85
 V 23600 23699
 X 0
 F 15
-U A great wing blots out the sun.~
+U A fossil wing spans the sky like a broken cathedral.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23600
-Entrance to Dragonspire Peaks~
-You stand in entrance to dragonspire peaks. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire. The path west returns toward Demonweb Approaches.~
+Entrance to Fossilized Wing Ruins~
+Entrance to Fossilized Wing Ruins. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85. The path west returns toward Residual-Dragonstorm.~
 0 1
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23601
 Broken Lance Alcove~
-You stand in broken lance alcove. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire. A trail leads east toward Astral Court of Trials.~
+Broken Lance Alcove. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85. A trail leads east toward Axis-Heart Sanctum.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #23602
 Mixed Hoard Hall~
-You stand in mixed hoard hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Mixed Hoard Hall. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #23603
 Hoard Foyer~
-You stand in hoard foyer. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Hoard Foyer. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D1
 East.~
@@ -84,8 +84,8 @@ West.~
 0 -1 23602
 S
 #23604
-Dragon Priest Quarters~
-You stand in dragon priest quarters. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Priest Quarters~
+Priest Quarters. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #23605
 Trophy of Heroes~
-You stand in trophy of heroes. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Trophy of Heroes. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D1
 East.~
@@ -118,8 +118,8 @@ West.~
 0 -1 23604
 S
 #23606
-Map of Realms~
-You stand in map of realms. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Map of the Scar~
+Map of the Scar. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23607
 Hatchery~
-You stand in hatchery. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Hatchery. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #23608
 Egg Clutch Room~
-You stand in egg clutch room. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Egg Clutch Room. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23609
 Lower Hoard~
-You stand in lower hoard. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Lower Hoard. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #23610
 Treasure Shelf~
-You stand in treasure shelf. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Treasure Shelf. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #23611
 Frosted Ledge~
-You stand in frosted ledge. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Frosted Ledge. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -232,8 +232,8 @@ West.~
 0 -1 23610
 S
 #23612
-Heart of the Spire~
-You stand in heart of the spire. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Heart of the Fossil Wing~
+Heart of the Fossil Wing. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #23613
 Wyvern Roost~
-You stand in wyvern roost. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Wyvern Roost. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #23614
 Bone Throne Approach~
-You stand in bone throne approach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Bone Throne Approach. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -287,8 +287,8 @@ South.~
 0 -1 23621
 S
 #23615
-Dragonspire Base~
-You stand in dragonspire base. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Fossil Wing Base~
+Fossil Wing Base. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #23616
 Dragon's Eye Chamber~
-You stand in dragon's eye chamber. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Dragon's Eye Chamber. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23617
 Summit~
-You stand in summit. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Summit. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #23618
 Coin Beach~
-You stand in coin beach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Coin Beach. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23619
 High Roost~
-You stand in high roost. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+High Roost. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #23620
 Gem Cascade~
-You stand in gem cascade. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Gem Cascade. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #23621
 Wing Stretch Platform~
-You stand in wing stretch platform. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Wing Stretch Platform. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #23622
 Final Approach~
-You stand in final approach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Final Approach. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23623
 Observation Ledge~
-You stand in observation ledge. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Observation Ledge. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -468,8 +468,8 @@ West.~
 0 -1 23622
 S
 #23624
-Dragon Sleep Chamber~
-You stand in dragon sleep chamber. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Sleep Chamber~
+Sleep Chamber. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23625
 Cave Mouth~
-You stand in cave mouth. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Cave Mouth. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23626
 Knight's Last Stand~
-You stand in knight's last stand. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Knight's Last Stand. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #23627
 True Nest~
-You stand in true nest. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+True Nest. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #23628
 Acid-scarred Tunnel~
-You stand in acid-scarred tunnel. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Acid-scarred Tunnel. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #23629
 Servitor Camp~
-You stand in servitor camp. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Servitor Camp. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23630
 Relic Pedestal~
-You stand in relic pedestal. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Relic Pedestal. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -607,8 +607,8 @@ West.~
 0 -1 23629
 S
 #23631
-Kobold Minion Warrens~
-You stand in kobold minion warrens. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Minion Warrens~
+Minion Warrens. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -628,8 +628,8 @@ West.~
 0 -1 23630
 S
 #23632
-Black Dragon Mire Side~
-You stand in black dragon mire side. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Black Mire Side~
+Black Mire Side. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #23633
 Chain of Captives~
-You stand in chain of captives. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Chain of Captives. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #23634
 Charred Banner Hall~
-You stand in charred banner hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Charred Banner Hall. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -687,8 +687,8 @@ West.~
 0 -1 23633
 S
 #23635
-Green Dragon Glade Cave~
-You stand in green dragon glade cave. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Green Glade Cave~
+Green Glade Cave. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #23636
 Scorched Timberline~
-You stand in scorched timberline. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Scorched Timberline. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23637
 Guardian Circle~
-You stand in guardian circle. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Guardian Circle. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #23638
 Cultist Shrine~
-You stand in cultist shrine. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Cultist Shrine. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23639
 Vent of Breath~
-You stand in vent of breath. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Vent of Breath. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23640
 Mountain Path~
-You stand in mountain path. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Mountain Path. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -809,8 +809,8 @@ West.~
 0 -1 23639
 S
 #23641
-Blue Dragon Spire~
-You stand in blue dragon spire. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Blue Spire~
+Blue Spire. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23642
 False Nest~
-You stand in false nest. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+False Nest. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -839,8 +839,8 @@ East.~
 0 -1 23643
 S
 #23643
-Red Dragon Gallery~
-You stand in red dragon gallery. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Red Ember Gallery~
+Red Ember Gallery. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #23644
 Escape Chimney~
-You stand in escape chimney. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Escape Chimney. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -873,8 +873,8 @@ West.~
 0 -1 23643
 S
 #23645
-White Dragon Ice Shelf~
-You stand in white dragon ice shelf. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+White Ice Shelf~
+White Ice Shelf. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23646
 Lightning-split Hall~
-You stand in lightning-split hall. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Lightning-split Hall. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23647
 Sky Breach~
-You stand in sky breach. The surroundings show scorched rock and glittering hoard. This place tests travelers of roughly levels 75-85. Paths lead onward through the dragonspire.~
+Sky Breach. Around you: fossil wing-bone and glittering hoard. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 75-85.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23646
 S
 #23648
-Sanctum of an ancient red dragon~
-This is the heart of Dragonspire Peaks. An ancient red dragon fills the summit. The air itself feels heavier here.~
+Sanctum of an ancient remnant-dragon~
+This is the heart of Fossilized Wing Ruins. An ancient remnant-dragon fills the fossil wing's summit. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -941,7 +941,7 @@ S
 #23650
 wyvern~
 a wyvern~
-A wyvern shrieks.
+A wyvern shrieks from fossil bone.
 ~
 A wyvern looks ready for battle.
 ~
@@ -951,10 +951,10 @@ A wyvern looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23651
 dragon cultist~
-a dragon cultist~
-A dragon cultist kneels then attacks.
+a sky-breaker cultist~
+A cultist kneels then attacks.
 ~
-A dragon cultist looks ready for battle.
+A sky-breaker cultist looks ready for battle.
 ~
 97 0 -300 S
 76 1
@@ -974,7 +974,7 @@ A half-dragon warrior looks ready for battle.
 #23653
 young red dragon~
 a young red dragon~
-A young red dragon uncoils.
+A young red dragon uncoils among fossil spars.
 ~
 A young red dragon looks ready for battle.
 ~
@@ -995,10 +995,10 @@ A fire drake looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23655
 kobold dragonshield~
-a kobold dragonshield~
-A kobold dragonshield stands firm.
+a scale-shield kobold~
+A scale-shield kobold stands firm.
 ~
-A kobold dragonshield looks ready for battle.
+A scale-shield kobold looks ready for battle.
 ~
 97 0 -300 S
 82 1
@@ -1006,17 +1006,17 @@ A kobold dragonshield looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23656
 dragon priest~
-a dragon priest~
-A dragon priest raises a scale idol.
+a fossil-wing priest~
+A priest raises a scale idol of the First Wyrm.
 ~
-A dragon priest looks ready for battle.
+A fossil-wing priest looks ready for battle.
 ~
 97 0 -300 S
 85 1
 -166 96 76 700 0
 ! 0 0 0 7 0 0 0
 #23657
-adult dragon spawn~
+dragon spawn~
 a dragon spawn~
 A dragon spawn flexes wings.
 ~
@@ -1028,10 +1028,10 @@ A dragon spawn looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23658
 ancient red~
-an ancient red dragon~
-An ancient red dragon fills the summit.
+an ancient remnant-dragon~
+An ancient remnant-dragon fills the fossil wing's summit.
 ~
-An ancient red dragon radiates terrible power.
+An ancient remnant-dragon radiates terrible power.
 ~
 35 0 -1000 S
 88 1
@@ -1051,9 +1051,9 @@ A 19 26
 A 1 4
 L 75
 #23671
-dragonspire breastplate armor~
-@@WDragonspire breastplate@@N~
-A @@WDragonspire breastplate@@N rests here.~
+fossilwing breastplate armor~
+@@WFossilWing breastplate@@N~
+A @@WFossilWing breastplate@@N rests here.~
 9 65 9 1
 16 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 20
 A 12 80
 L 75
 #23672
-dragonspire helm~
-@@WDragonspire helm@@N~
-A @@WDragonspire helm@@N lies on the ground.~
+fossilwing helm~
+@@WFossilWing helm@@N~
+A @@WFossilWing helm@@N lies on the ground.~
 9 65 17 1
 16 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 20
 A 19 20
 L 75
 #23673
-dragonspire greaves~
-@@WDragonspire greaves@@N~
-@@WDragonspire greaves@@N are discarded here.~
+fossilwing greaves~
+@@WFossilWing greaves@@N~
+@@WFossilWing greaves@@N are discarded here.~
 9 65 33 1
 16 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 20
 A 19 20
 L 75
 #23674
-dragonspire boots~
-@@WDragonspire boots@@N~
-A pair of @@WDragonspire boots@@N sits here.~
+fossilwing boots~
+@@WFossilWing boots@@N~
+A pair of @@WFossilWing boots@@N sits here.~
 9 65 65 1
 16 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 20
 A 19 20
 L 75
 #23675
-dragonspire gauntlets~
-@@WDragonspire gauntlets@@N~
-@@WDragonspire gauntlets@@N lie in a pile.~
+fossilwing gauntlets~
+@@WFossilWing gauntlets@@N~
+@@WFossilWing gauntlets@@N lie in a pile.~
 9 65 129 1
 16 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 20
 A 19 20
 L 75
 #23676
-dragonspire shield~
-@@WDragonspire shield@@N~
-A @@WDragonspire shield@@N leans against the wall.~
+fossilwing shield~
+@@WFossilWing shield@@N~
+A @@WFossilWing shield@@N leans against the wall.~
 9 65 513 1
 16 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 20
 A 19 20
 L 75
 #23677
-dragonspire cloak~
-@@WDragonspire cloak@@N~
-A @@WDragonspire cloak@@N is folded here.~
+fossilwing cloak~
+@@WFossilWing cloak@@N~
+A @@WFossilWing cloak@@N is folded here.~
 9 65 1025 1
 16 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 20
 A 12 80
 L 75
 #23678
-dragonspire ring~
-@@WDragonspire ring@@N~
-A @@WDragonspire ring@@N glints on the ground.~
+fossilwing ring~
+@@WFossilWing ring@@N~
+A @@WFossilWing ring@@N glints on the ground.~
 9 65 3 1
 16 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 20
 A 19 20
 L 75
 #23679
-dragonspire amulet~
-@@WDragonspire amulet@@N~
-A @@WDragonspire amulet@@N hangs from a peg.~
+fossilwing amulet~
+@@WFossilWing amulet@@N~
+A @@WFossilWing amulet@@N hangs from a peg.~
 9 65 5 1
 16 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #23681
 unique dragonfang lance legendary~
-@@Ran ancient red dragon's weapon@@N~
-@@RThe legendary weapon of an ancient red dragon@@N lies here.~
+@@Ran ancient remnant-dragon's weapon@@N~
+@@RThe legendary weapon of an ancient remnant-dragon@@N lies here.~
 5 67 8193 1
 6 40 0 3
 12

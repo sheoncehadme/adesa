@@ -1,23 +1,23 @@
 #AREA
-@@cGlacial Hold of the Frost Giants@@N~
+@@cWing-Shadow Valleys@@N~
 Z 3
 C 9229
-K frosthold~
+K wingshadow~
 L @@W{ @@r25 35@@W }@@N~
 N 49
 I 25 35
 V 22900 22999
 X 0
 F 15
-U Icy winds howl through the glacial halls.~
+U Permanent twilight pools where a wing once blotted the sun.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #22900
-Entrance to Glacial Hold of the Frost Giants~
-You stand in entrance to glacial hold of the frost giants. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold. The path west returns toward Steading of the Hill Giant Chief.~
+Entrance to Wing-Shadow Valleys~
+Entrance to Wing-Shadow Valleys. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35. The path west returns toward Bone-Bridge Canyons.~
 0 1
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #22901
 Crystal Stair~
-You stand in crystal stair. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold. A trail leads east toward Hall of the Fire Giant King.~
+Crystal Stair. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35. A trail leads east toward Dying-Fire Caldera.~
 0 1
 D1
 East.~
@@ -50,8 +50,8 @@ West.~
 0 -1 22900
 S
 #22902
-Glacial Hall~
-You stand in glacial hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Glacial Wing Hall~
+Glacial Wing Hall. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #22903
 Prison of Ice~
-You stand in prison of ice. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Prison of Ice. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #22904
 Sled Yard~
-You stand in sled yard. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Sled Yard. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #22905
 Southern Crevasse~
-You stand in southern crevasse. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Southern Crevasse. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #22906
 Trophy of Mammoths~
-You stand in trophy of mammoths. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Trophy of Mammoths. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #22907
 Rime Forge~
-You stand in rime forge. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Rime Forge. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #22908
 Snow Cave~
-You stand in snow cave. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Snow Cave. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #22909
 Howling Gallery~
-You stand in howling gallery. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Howling Gallery. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #22910
 Frozen Well~
-You stand in frozen well. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Frozen Well. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -211,8 +211,8 @@ West.~
 0 -1 22909
 S
 #22911
-Ice Approach~
-You stand in ice approach. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Twilight Approach~
+Twilight Approach. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #22912
 Cold Storage~
-You stand in cold storage. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Cold Storage. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #22913
 Whalebone Hall~
-You stand in whalebone hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Whalebone Hall. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #22914
 Wolf Pens~
-You stand in wolf pens. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Wolf Pens. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #22915
 Subglacial Tunnel~
-You stand in subglacial tunnel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Subglacial Tunnel. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #22916
 Cold Larder~
-You stand in cold larder. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Cold Larder. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #22917
 Northern Rampart~
-You stand in northern rampart. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Northern Rampart. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #22918
 Frostbite Alcove~
-You stand in frostbite alcove. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Frostbite Alcove. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #22919
 Icefall Path~
-You stand in icefall path. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Icefall Path. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #22920
 Echoing Cold~
-You stand in echoing cold. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Echoing Cold. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #22921
 Pale Light Chamber~
-You stand in pale light chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Pale Light Chamber. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #22922
 Pack Ice Room~
-You stand in pack ice room. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Pack Ice Room. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #22923
 Throne of Rime~
-You stand in throne of rime. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Throne of Rime. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #22924
 Icicle Gallery~
-You stand in icicle gallery. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Icicle Gallery. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #22925
 Guard Glacier~
-You stand in guard glacier. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Guard Glacier. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #22926
 Frozen Chapel~
-You stand in frozen chapel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Frozen Chapel. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #22927
 Last Fire Pit~
-You stand in last fire pit. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Last Fire Pit. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #22928
 Ice Prison Cell~
-You stand in ice prison cell. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Ice Prison Cell. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #22929
 Whiteout Courtyard~
-You stand in whiteout courtyard. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Whiteout Courtyard. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #22930
 Armory of Ice~
-You stand in armory of ice. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Armory of Ice. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #22931
 Aurora Balcony~
-You stand in aurora balcony. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Aurora Balcony. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -628,8 +628,8 @@ West.~
 0 -1 22930
 S
 #22932
-Frost Giant Barracks~
-You stand in frost giant barracks. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Shadow Barracks~
+Shadow Barracks. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #22933
 Sastrugi Field~
-You stand in sastrugi field. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Sastrugi Field. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #22934
 Hidden Crevasse~
-You stand in hidden crevasse. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Hidden Crevasse. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #22935
 Watch Cairn~
-You stand in watch cairn. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Watch Cairn. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #22936
 Chief's Chamber~
-You stand in chief's chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Chief's Chamber. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #22937
 Observatory Spire~
-You stand in observatory spire. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Observatory Spire. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #22938
 Blue Ice Vault~
-You stand in blue ice vault. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Blue Ice Vault. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #22939
 Wind Tunnel~
-You stand in wind tunnel. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Wind Tunnel. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #22940
 Runic Circle~
-You stand in runic circle. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Runic Circle. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #22941
 Shaman's Hut~
-You stand in shaman's hut. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Shaman's Hut. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -826,8 +826,8 @@ West.~
 0 -1 22940
 S
 #22942
-Rim of the Glacier~
-You stand in rim of the glacier. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Rim of the Shadow~
+Rim of the Shadow. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #22943
 Sleet Bridge~
-You stand in sleet bridge. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Sleet Bridge. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #22944
 Snowdrift Chamber~
-You stand in snowdrift chamber. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Snowdrift Chamber. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #22945
 Bone Totem Hall~
-You stand in bone totem hall. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Bone Totem Hall. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -890,8 +890,8 @@ West.~
 0 -1 22944
 S
 #22946
-Frozen Gate~
-You stand in frozen gate. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Frozen Membrane Gate~
+Frozen Membrane Gate. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #22947
 Seal Meat Store~
-You stand in seal meat store. The surroundings show blue ice and biting wind. This place tests travelers of roughly levels 25-35. Paths lead onward through the frosthold.~
+Seal Meat Store. Around you: blue ice and permanent wing-cast twilight. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 25-35.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 22946
 S
 #22948
-Sanctum of the Frost Giant Jarl~
-This is the heart of Glacial Hold of the Frost Giants. The Frost Giant Jarl sits on a throne of ice. The air itself feels heavier here.~
+Sanctum of the Lord of Wing-Shadow~
+This is the heart of Wing-Shadow Valleys. The Lord of Wing-Shadow sits on a throne of ice and membrane-stone. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,11 +939,11 @@ S
 #0
 #MOBILES
 #22950
-frost giant~
-a frost giant~
-A frost giant exhales a cloud of frost.
+wing-shadow giant~
+a wing-shadow giant~
+A wing-shadow giant exhales frost.
 ~
-A frost giant looks ready for battle.
+A wing-shadow giant looks ready for battle.
 ~
 97 0 -300 S
 26 1
@@ -974,7 +974,7 @@ An ice troll looks ready for battle.
 #22953
 yeti~
 a yeti~
-A yeti bellows.
+A yeti bellows from the permanent twilight.
 ~
 A yeti looks ready for battle.
 ~
@@ -983,20 +983,20 @@ A yeti looks ready for battle.
 -71 38 29 270 0
 ! 0 0 0 7 0 0 0
 #22954
-frost giant jarl guard~
-a jarl's guard~
-A jarl's guard stamps the ice.
+jarl guard~
+a rime guard~
+A rime guard stamps the ice.
 ~
-A jarl's guard looks ready for battle.
+A rime guard looks ready for battle.
 ~
 97 0 -300 S
 29 1
 -66 39 30 280 0
 ! 0 0 0 7 0 0 0
 #22955
-remorhaz~
+heat worm~
 a remorhaz~
-A remorhaz radiates heat.
+A remorhaz radiates heat against the cold.
 ~
 A remorhaz looks ready for battle.
 ~
@@ -1017,10 +1017,10 @@ An ice mephit looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22957
 frost shaman~
-a frost giant shaman~
-A frost giant shaman rattles bones.
+a rime shaman~
+A rime shaman rattles frozen bones.
 ~
-A frost giant shaman looks ready for battle.
+A rime shaman looks ready for battle.
 ~
 97 0 -300 S
 35 1
@@ -1028,10 +1028,10 @@ A frost giant shaman looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22958
 frost giant jarl~
-the Frost Giant Jarl~
-The Frost Giant Jarl sits on a throne of ice.
+the Lord of Wing-Shadow~
+The Lord of Wing-Shadow sits on a throne of ice and membrane-stone.
 ~
-The Frost Giant Jarl radiates terrible power.
+The Lord of Wing-Shadow radiates terrible power.
 ~
 35 0 -1000 S
 38 1
@@ -1051,9 +1051,9 @@ A 19 10
 A 1 1
 L 25
 #22971
-rime breastplate armor~
-@@WRime breastplate@@N~
-A @@WRime breastplate@@N rests here.~
+wingshadow breastplate armor~
+@@WWingShadow breastplate@@N~
+A @@WWingShadow breastplate@@N rests here.~
 9 64 9 1
 6 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 7
 A 12 30
 L 25
 #22972
-rime helm~
-@@WRime helm@@N~
-A @@WRime helm@@N lies on the ground.~
+wingshadow helm~
+@@WWingShadow helm@@N~
+A @@WWingShadow helm@@N lies on the ground.~
 9 64 17 1
 6 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 7
 A 19 7
 L 25
 #22973
-rime greaves~
-@@WRime greaves@@N~
-@@WRime greaves@@N are discarded here.~
+wingshadow greaves~
+@@WWingShadow greaves@@N~
+@@WWingShadow greaves@@N are discarded here.~
 9 64 33 1
 6 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 7
 A 19 7
 L 25
 #22974
-rime boots~
-@@WRime boots@@N~
-A pair of @@WRime boots@@N sits here.~
+wingshadow boots~
+@@WWingShadow boots@@N~
+A pair of @@WWingShadow boots@@N sits here.~
 9 64 65 1
 6 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 7
 A 19 7
 L 25
 #22975
-rime gauntlets~
-@@WRime gauntlets@@N~
-@@WRime gauntlets@@N lie in a pile.~
+wingshadow gauntlets~
+@@WWingShadow gauntlets@@N~
+@@WWingShadow gauntlets@@N lie in a pile.~
 9 64 129 1
 6 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 7
 A 19 7
 L 25
 #22976
-rime shield~
-@@WRime shield@@N~
-A @@WRime shield@@N leans against the wall.~
+wingshadow shield~
+@@WWingShadow shield@@N~
+A @@WWingShadow shield@@N leans against the wall.~
 9 64 513 1
 6 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 7
 A 19 7
 L 25
 #22977
-rime cloak~
-@@WRime cloak@@N~
-A @@WRime cloak@@N is folded here.~
+wingshadow cloak~
+@@WWingShadow cloak@@N~
+A @@WWingShadow cloak@@N is folded here.~
 9 64 1025 1
 6 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 7
 A 12 30
 L 25
 #22978
-rime ring~
-@@WRime ring@@N~
-A @@WRime ring@@N glints on the ground.~
+wingshadow ring~
+@@WWingShadow ring@@N~
+A @@WWingShadow ring@@N glints on the ground.~
 9 64 3 1
 6 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 7
 A 19 7
 L 25
 #22979
-rime amulet~
-@@WRime amulet@@N~
-A @@WRime amulet@@N hangs from a peg.~
+wingshadow amulet~
+@@WWingShadow amulet@@N~
+A @@WWingShadow amulet@@N hangs from a peg.~
 9 64 5 1
 6 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #22981
 unique glacial greataxe legendary~
-@@Rthe Frost Giant Jarl's weapon@@N~
-@@RThe legendary weapon of the Frost Giant Jarl@@N lies here.~
+@@Rthe Lord of Wing-Shadow's weapon@@N~
+@@RThe legendary weapon of the Lord of Wing-Shadow@@N lies here.~
 5 67 8193 1
 2 15 0 3
 12

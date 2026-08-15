@@ -956,11 +956,11 @@ spec_mayor(CHAR_DATA *ch)
             break;
 
         case 'e':
-            do_yell(ch, "I hereby declare the city of Midgaard open!");
+            do_yell(ch, "I hereby declare the Scar open!");
             break;
 
         case 'E':
-            do_yell(ch, "I hereby declare the city of Midgaard closed!");
+            do_yell(ch, "I hereby declare the Scar closed!");
             break;
 
         case 'O':

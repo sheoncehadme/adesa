@@ -1,23 +1,23 @@
 #AREA
-@@dVault of Shadows@@N~
+@@dStar-Metal Veins@@N~
 Z 3
 C 9232
-K vaultshadow~
+K starmetal~
 L @@W{ @@r50 60@@W }@@N~
 N 49
 I 50 60
 V 23200 23299
 X 0
 F 15
-U Whispers in an elven tongue echo from below.~
+U Molten star-metal cools in galleries of scale.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23200
-Entrance to Vault of Shadows~
-You stand in entrance to vault of shadows. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow. The path west returns toward Descent into the Underdark.~
+Entrance to Star-Metal Veins~
+Entrance to Star-Metal Veins. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60. The path west returns toward Marrow-River Depths.~
 0 0
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23201
 Arena of Blood~
-You stand in arena of blood. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow. A trail leads east toward Temple of the Four Elements.~
+Arena of Blood. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60. A trail leads east toward Will-Fragment Temples.~
 0 0
 D1
 East.~
@@ -50,8 +50,8 @@ West.~
 0 -1 23200
 S
 #23202
-Vault Gates~
-You stand in vault gates. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Vein Gates~
+Vein Gates. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #23203
 War Council Room~
-You stand in war council room. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+War Council Room. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #23204
 Prison of Light~
-You stand in prison of light. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Prison of Light. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #23205
 False Treasure Room~
-You stand in false treasure room. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+False Treasure Room. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #23206
 True Vault Door~
-You stand in true vault door. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+True Vault Door. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23207
 Moonless Courtyard~
-You stand in moonless courtyard. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Moonless Courtyard. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #23208
 Warded Hall~
-You stand in warded hall. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Warded Hall. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23209
 Summoning Circle~
-You stand in summoning circle. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Summoning Circle. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #23210
 Last Defense~
-You stand in last defense. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Last Defense. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #23211
 Idol Sanctum~
-You stand in idol sanctum. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Idol Sanctum. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #23212
 Torture Salon~
-You stand in torture salon. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Torture Salon. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #23213
 High Priestess Chamber~
-You stand in high priestess chamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+High Priestess Chamber. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #23214
 Matron's Throne~
-You stand in matron's throne. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Matron's Throne. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #23215
 Relic Pedestal~
-You stand in relic pedestal. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Relic Pedestal. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -308,8 +308,8 @@ West.~
 0 -1 23214
 S
 #23216
-Spider Cathedral~
-You stand in spider cathedral. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Star-Metal Cathedral~
+Star-Metal Cathedral. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23217
 Rune Circle~
-You stand in rune circle. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Rune Circle. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #23218
 Upper Spire~
-You stand in upper spire. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Upper Spire. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23219
 Beast Pens~
-You stand in beast pens. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Beast Pens. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -392,8 +392,8 @@ West.~
 0 -1 23218
 S
 #23220
-Map Room of the Underdark~
-You stand in map room of the underdark. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Map Room of the Depths~
+Map Room of the Depths. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #23221
 Ambush Corridor~
-You stand in ambush corridor. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Ambush Corridor. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #23222
 Guard Barracks~
-You stand in guard barracks. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Guard Barracks. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23223
 Web Bridge~
-You stand in web bridge. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Web Bridge. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #23224
 Wine Cellar~
-You stand in wine cellar. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Wine Cellar. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23225
 Arcane Laboratory~
-You stand in arcane laboratory. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Arcane Laboratory. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23226
 Obsidian Mirror Hall~
-You stand in obsidian mirror hall. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Obsidian Mirror Hall. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #23227
 Lower Dungeon~
-You stand in lower dungeon. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Lower Dungeon. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #23228
 Velvet Chamber~
-You stand in velvet chamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Velvet Chamber. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #23229
 Escape Tunnel~
-You stand in escape tunnel. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Escape Tunnel. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23230
 Fountain of Night~
-You stand in fountain of night. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Fountain of Night. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #23231
 Poison Garden~
-You stand in poison garden. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Poison Garden. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #23232
 Noble Gallery~
-You stand in noble gallery. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Noble Gallery. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -649,8 +649,8 @@ West.~
 0 -1 23231
 S
 #23233
-Balcony Over the Vault~
-You stand in balcony over the vault. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Balcony Over the Vein~
+Balcony Over the Vein. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -670,8 +670,8 @@ West.~
 0 -1 23232
 S
 #23234
-Heart of the Vault~
-You stand in heart of the vault. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Heart of the Vein~
+Heart of the Vein. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #23235
 Scrying Pool~
-You stand in scrying pool. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Scrying Pool. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #23236
 Priestess Balcony~
-You stand in priestess balcony. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Priestess Balcony. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23237
 Treasure Antechamber~
-You stand in treasure antechamber. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Treasure Antechamber. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #23238
 Crypt of Matrons~
-You stand in crypt of matrons. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Crypt of Matrons. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23239
 Hall of Whispers~
-You stand in hall of whispers. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Hall of Whispers. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23240
 Slave Market Ruins~
-You stand in slave market ruins. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Slave Market Ruins. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #23241
 Armory of Envenomed Blades~
-You stand in armory of envenomed blades. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Armory of Envenomed Blades. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23242
 Silent Library~
-You stand in silent library. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Silent Library. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #23243
 Assassin's Alley~
-You stand in assassin's alley. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Assassin's Alley. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #23244
 Gem Hoard~
-You stand in gem hoard. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Gem Hoard. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #23245
 Shadow Portcullis~
-You stand in shadow portcullis. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Shadow Portcullis. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23246
 Secret Passage~
-You stand in secret passage. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Secret Passage. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23247
 Noble Quarters~
-You stand in noble quarters. The surroundings show polished black stone and silk. This place tests travelers of roughly levels 50-60. Paths lead onward through the vaultshadow.~
+Noble Quarters. Around you: polished black scale-stone and cooling star-metal. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 50-60.~
 0 0
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23246
 S
 #23248
-Sanctum of the Queen of Shadows~
-This is the heart of Vault of Shadows. The Queen of Shadows smiles without warmth. The air itself feels heavier here.~
+Sanctum of the Queen of Star-Metal~
+This is the heart of Star-Metal Veins. The Queen of Star-Metal smiles without warmth. The stone carries the slow pulse of residual Wyrm-life.~
 0 0
 D0
 North.~
@@ -939,11 +939,11 @@ S
 #0
 #MOBILES
 #23250
-drow elite~
-a drow elite guard~
-A drow elite guard bows mockingly.
+vein elite~
+a star-metal elite guard~
+A star-metal elite guard bows mockingly.
 ~
-A drow elite guard looks ready for battle.
+A star-metal elite guard looks ready for battle.
 ~
 97 0 -300 S
 51 1
@@ -951,10 +951,10 @@ A drow elite guard looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23251
 yochlol~
-a yochlol~
-A yochlol shifts between forms.
+a shifting servant~
+A shifting servant melts and reforms.
 ~
-A yochlol looks ready for battle.
+A shifting servant looks ready for battle.
 ~
 97 0 -300 S
 53 1
@@ -972,11 +972,11 @@ A shadow demon looks ready for battle.
 -131 64 51 460 0
 ! 0 0 0 7 0 0 0
 #23253
-drow mage~
-a drow mage~
-A drow mage's hands crackle.
+vein mage~
+a vein mage~
+A vein mage's hands crackle with star-metal light.
 ~
-A drow mage looks ready for battle.
+A vein mage looks ready for battle.
 ~
 97 0 -300 S
 54 1
@@ -984,10 +984,10 @@ A drow mage looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23254
 retriever~
-a retriever~
+a construct spider~
 A construct spider eyes you.
 ~
-A retriever looks ready for battle.
+A construct spider looks ready for battle.
 ~
 97 0 -300 S
 55 1
@@ -1016,11 +1016,11 @@ A vault priestess looks ready for battle.
 -111 68 53 500 0
 ! 0 0 0 7 0 0 0
 #23257
-noble drow~
-a drow noble~
-A drow noble draws a fine blade.
+noble~
+a scar-depth noble~
+A noble draws a fine star-metal blade.
 ~
-A drow noble looks ready for battle.
+A scar-depth noble looks ready for battle.
 ~
 97 0 -300 S
 59 1
@@ -1028,10 +1028,10 @@ A drow noble looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23258
 queen of shadows~
-the Queen of Shadows~
-The Queen of Shadows smiles without warmth.
+the Queen of Star-Metal~
+The Queen of Star-Metal smiles without warmth.
 ~
-The Queen of Shadows radiates terrible power.
+The Queen of Star-Metal radiates terrible power.
 ~
 35 0 -1000 S
 63 1
@@ -1051,9 +1051,9 @@ A 19 18
 A 1 2
 L 50
 #23271
-vault breastplate armor~
-@@WVault breastplate@@N~
-A @@WVault breastplate@@N rests here.~
+starmetal breastplate armor~
+@@WStarMetal breastplate@@N~
+A @@WStarMetal breastplate@@N rests here.~
 9 65 9 1
 11 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 13
 A 12 55
 L 50
 #23272
-vault helm~
-@@WVault helm@@N~
-A @@WVault helm@@N lies on the ground.~
+starmetal helm~
+@@WStarMetal helm@@N~
+A @@WStarMetal helm@@N lies on the ground.~
 9 65 17 1
 11 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 13
 A 19 13
 L 50
 #23273
-vault greaves~
-@@WVault greaves@@N~
-@@WVault greaves@@N are discarded here.~
+starmetal greaves~
+@@WStarMetal greaves@@N~
+@@WStarMetal greaves@@N are discarded here.~
 9 65 33 1
 11 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 13
 A 19 13
 L 50
 #23274
-vault boots~
-@@WVault boots@@N~
-A pair of @@WVault boots@@N sits here.~
+starmetal boots~
+@@WStarMetal boots@@N~
+A pair of @@WStarMetal boots@@N sits here.~
 9 65 65 1
 11 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 13
 A 19 13
 L 50
 #23275
-vault gauntlets~
-@@WVault gauntlets@@N~
-@@WVault gauntlets@@N lie in a pile.~
+starmetal gauntlets~
+@@WStarMetal gauntlets@@N~
+@@WStarMetal gauntlets@@N lie in a pile.~
 9 65 129 1
 11 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 13
 A 19 13
 L 50
 #23276
-vault shield~
-@@WVault shield@@N~
-A @@WVault shield@@N leans against the wall.~
+starmetal shield~
+@@WStarMetal shield@@N~
+A @@WStarMetal shield@@N leans against the wall.~
 9 65 513 1
 11 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 13
 A 19 13
 L 50
 #23277
-vault cloak~
-@@WVault cloak@@N~
-A @@WVault cloak@@N is folded here.~
+starmetal cloak~
+@@WStarMetal cloak@@N~
+A @@WStarMetal cloak@@N is folded here.~
 9 65 1025 1
 11 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 13
 A 12 55
 L 50
 #23278
-vault ring~
-@@WVault ring@@N~
-A @@WVault ring@@N glints on the ground.~
+starmetal ring~
+@@WStarMetal ring@@N~
+A @@WStarMetal ring@@N glints on the ground.~
 9 65 3 1
 11 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 13
 A 19 13
 L 50
 #23279
-vault amulet~
-@@WVault amulet@@N~
-A @@WVault amulet@@N hangs from a peg.~
+starmetal amulet~
+@@WStarMetal amulet@@N~
+A @@WStarMetal amulet@@N hangs from a peg.~
 9 65 5 1
 11 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #23281
 unique venom-kissed rapier legendary~
-@@Rthe Queen of Shadows's weapon@@N~
-@@RThe legendary weapon of the Queen of Shadows@@N lies here.~
+@@Rthe Queen of Star-Metal's weapon@@N~
+@@RThe legendary weapon of the Queen of Star-Metal@@N lies here.~
 5 67 8193 1
 4 27 0 3
 12

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Connect isolated player-facing areas to the Midgaard walk graph, and repair
-the Maze of Icarus (rooms had no exits).
+Connect isolated player-facing areas to the Scar (capital) walk graph, and
+repair the Maze of Icarus (rooms had no exits).
 
-Also updates gen_areas hub so regenerated Realm Road stays linked.
+Also updates gen_areas hub so regenerated Great Spine progression stays linked.
 
 Quest note: auto-quests require h_find_dir() from ROOM_VNUM_TEMPLE (3001) to
 the target mob. Areas reachable from the Temple become quest-eligible (unless
@@ -290,7 +290,7 @@ def ensure_noshow(files: Dict[str, str], fname: str) -> Optional[str]:
 def apply_links(files: Dict[str, str]) -> List[str]:
     notes: List[str] = []
 
-    # 1) Realm Road hub <-> Midgaard west gate (progression campaign entry)
+    # 1) Great Spine hub <-> Scar west gate (progression campaign entry)
     notes += link_bidirectional(
         files,
         "midgaard.are",
@@ -299,8 +299,8 @@ def apply_links(files: Dict[str, str]) -> List[str]:
         "realmroad.are",
         22500,
         0,  # north
-        a_desc="The Realm Road stretches south toward distant lands.",
-        b_desc="North lies the West Gate of Midgaard.",
+        a_desc="The Great Spine Waystation stretches south into the Wound-lands.",
+        b_desc="North lies the West Gate of the Scar.",
     )
 
     # 2) Mud School down <-> Giganthia temple (already has up to 3700)
@@ -333,7 +333,7 @@ def apply_links(files: Dict[str, str]) -> List[str]:
         3857,
         4,
         3030,
-        "The ethereal mist thins; below you sense Midgaard's dump.",
+        "The ethereal mist thins; below you sense the Scar's dump.",
     )
     if ch:
         files["ethereal.are"] = t
@@ -375,7 +375,7 @@ def apply_links(files: Dict[str, str]) -> List[str]:
         3300,
         3,  # west
         a_desc="A grim alley leads east toward the Moribund Morgue.",
-        b_desc="West returns to the refuse piles of Midgaard.",
+        b_desc="West returns to the refuse piles of the Scar.",
     )
     # Moribund 3300 was an island; 3304 already goes up to 3300 — add down
     t, ch = add_exit(

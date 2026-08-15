@@ -397,7 +397,7 @@ do_duel(CHAR_DATA *ch, char *argument)
 
     if (ch->in_room->vnum != DUEL_START_ROOM && !IS_IMMORTAL(ch) && str_cmp("watch", arg) && str_cmp("look", arg)) {
         send_to_char
-            ("You must be in the Sparring Room to spar someone, or accept a spar. It is located up and west of Market Square in Midgaard.\n\r", ch);
+            ("You must be in the Sparring Room to spar someone, or accept a spar. It is located up and west of Spine Market in the Scar.\n\r", ch);
         return;
     }
 

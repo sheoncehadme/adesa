@@ -1,15 +1,15 @@
 #AREA
-@@WThe City of @@yMidgaard@@N~
+@@WThe Scar@@N - @@yRib-Cage District@@N~
 Z 3
 C 51
-K midgaard~
+K scar~
 L @@W{@@r ALL @@W}@@N~
 N 23
 I 1 120
 V 3001 3200
 X 0
 F 15
-U @@WThe Mayor stumbles by, acting drunk.@@N~
+U @@WA slow heart-pulse rolls through the bone-stone streets.@@N~
 O diku~
 R stephen  kingfish que~
 W stephen  kingfish que~
@@ -230,7 +230,7 @@ You see a room used for various donations.
 ~
 0 -1 3017
 D3
-You see the Temple of Midgaard.
+You see the Heart-Pulse Sanctum.
 
 ~
 ~
@@ -367,7 +367,7 @@ like "JAIL IS BETTER THAN SQL" and "INGRES STRIKES AGAIN".
 S
 #3142
 Captain's Office~
-You are in the Office of the Captain of the Guard.  The Midgaard Coat of
+You are in the Office of the Captain of the Guard.  The Scar Coat of
 
 Arms is hanging on the north wall and a heavy steel door is to the south.
 
@@ -427,8 +427,8 @@ D3
 0 -1 3132
 S
 #3138
-@@WThe Mayor's Office@@N~
-@@WThe @@gMayor's tiny office has one window and a very large, polished, but 
+@@WThe Spinewarden Captain's Office@@N~
+@@WThe @@gSpinewarden Captain's tiny office has one window and a very large, polished, but 
 
 completely empty desk. @@WDusty @@gbookshelves line the walls.@@N  
 
@@ -449,8 +449,8 @@ as in a bed.  All lecture halls should be equipped with these things.
 ~
 S
 #3137
-@@WTown Hall@@N~
-@@WThe @@gTown Hall of Midgaard is not a busy place. @@WWooden @@gchairs stand along the 
+@@WScar Keep Hall@@N~
+@@WThe @@gScar Keep Hall of the Scar is not a busy place. @@WWooden @@gchairs stand along the 
 
 walls and a long table stands in the middle of the room. @@WA @@gbored secretary sits 
 
@@ -661,9 +661,9 @@ The fresh young leaves of the elm tree wave gently in the wind.
 S
 #3123
 @@WE@@glm @@WS@@greet@@N~
-@@WElm @@gtrees line the cobblestone street. @@WTo @@gthe south is the Town Hall and the 
+@@WElm @@gtrees line the cobblestone street. @@WTo @@gthe south is the Scar Keep Hall and the 
 
-Mayor's office.@@N  
+Spinewarden Captain's office.@@N  
 
 ~
 0 1
@@ -1016,7 +1016,7 @@ You see the park entrance.
 S
 #3105
 Park Entrance~
-You are standing just inside the small park of Midgaard.  To the north is
+You are standing just inside the small park of the Scar.  To the north is
 
 the promenade and a small path leads south into the park.  To your east is
 
@@ -1141,7 +1141,7 @@ The promenade continues far south.
 S
 #3057
 Entrance to the Valkyrie~
-WOW you can fly!  You are floating in the air above Temple Square of Midgaard.
+WOW you can fly!  You are floating in the air above Heart-Pulse Square of the Scar.
 
 
 A ladder leading to the Valkyrie clan room has been left here.
@@ -1206,7 +1206,7 @@ S
 
 @@gconnected with a footbridge across the heavy wooden gate@@W.@@g  To the east is the@@N
 
-@@gMidgaard Road.@@N
+@@gGreat Spine Road.@@N
 
 ~
 0 1
@@ -2221,7 +2221,7 @@ Some steps lead this way....
 0 -1 9551
 E
 statue~
-What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
+What you see is the Scar-Worm, stretching around the Palace of the Scar.
 
 ~
 S
@@ -2466,7 +2466,7 @@ E
 sign~
 The sign reads:
 
-Free instructions provided by the Grunting Boar Inn.
+Free instructions provided by the Ember-Ash Inn.
 
 
    Buy  - Buy something (drinkable) from the bartender.
@@ -2508,11 +2508,11 @@ You see the defunct reception room.
 S
 #3005
 @@WT@@ghe @@WT@@gemple @@WS@@gquare@@N~
-@@WY@@gou are standing in Temple Square@@W.@@g Huge@@W,@@g marble steps lead up to the Temple@@N
+@@WY@@gou are standing in Heart-Pulse Square@@W.@@g Huge@@W,@@g marble steps lead up to the Temple@@N
 
-@@gGate@@W.@@g Ye Old Grunting Boar Inn lies to the east@@W.@@g South of you is Market Square@@N
+@@gGate@@W.@@g The Ember-Ash Inn lies to the east@@W.@@g South of you is Spine Market@@N
 
-@@gthe center of Midgaard@@W.@@N
+@@gthe center of the Scar@@W.@@N
 
 ~
 16 1
@@ -2523,13 +2523,13 @@ You see the temple.
 ~
 0 -1 3001
 D1
-You see the good old Grunting Boar Inn.
+You see the good old Ember-Ash Inn.
 
 ~
 ~
 0 -1 3006
 D2
-You see the Market Square.
+You see the Spine Market.
 
 ~
 ~
@@ -2548,29 +2548,14 @@ D5
 1 -1 8250
 S
 #3001
-@@WT@@ghe @@WT@@gemple @@Wo@@gf @@WM@@gidgaard@@N~
-@@WY@@gou stand at the southern end of the Temple Hall in the Temple of Midgaard@@W.@@N
+@@WT@@ghe @@WH@@geart-@@WP@@gulse @@WS@@ganctum@@N~
+@@WYou stand in the Heart-Pulse Sanctum, carved into a living vertebra of the Sky-Breaker.@@N
 
-@@gThe Temple has been constructed from giant marble blocks@@W,@@g eternal in@@N
+@@gFused dragonbone and impact-glass form the walls. Murals of the Plunge spiral upward: folded wings, a falling star-shape, a wound that became a world. Underfoot the stone ticks with a slow residual beat - the First Wyrm's heart, far below, still faintly alive.@@N
 
-@@gappearance@@W.@@g  Most of the walls are covered by ancient murals depicting Gods@@W,@@N
+@@WSteps lead down through the Grand Gate to Heart-Pulse Square. Equally large steps lead UP into the SCALE-TOUCHED GROUNDS (type 'up' for new travelers).@@N
 
-@@gGiants and peasants.@@N
-
-@@W   L@@garge steps lead down through the Grand Temple Gate@@W,@@g descending the huge@@N
-
-@@gmound upon which the temple is built ending at the Temple Square below@@W.@@N
-
-@@W   E@@gqually large steps lead UP through a small door into the ENTRANCE to MUD@@N
-
-@@gSCHOOL@@W.  (@@gtype @@W'@@yup@@W' @@gto go to @@RMUD SCHOOL@@W.)@@N
-
-@@gYou see a small plaque and spy a small doorway to the east@@W,@@g which looks like@@N
-
-@@git was just made@@W,@@g as well as a Grand Archway to the west@@W.@@N
-
-@@W  T@@ghe Temple itself with the Midgaard Healer lie North of here@@W.@@N
-
+@@gA small plaque rests nearby; archways open east and west.@@N
 ~
 147484 8
 D0
@@ -2616,8 +2601,8 @@ Hatchet, Kahn, and Furey of MERC Industries to be run by any MERC Mud.
 ~
 S
 #3002
-The Bank of Midgaard~
-You are in a small room, home to the Midgaard branch of Globank, the bank that
+The Scalewright Bank~
+You are in a small room, home to the Scar branch of Scalewright Coin, the bank that
 
 likes to say no.  The room is very small, and looks like most other banks
 
@@ -2699,7 +2684,7 @@ D5
 S
 #3058
 A dusty trail into nowhere~
-Managing to escape the hustle and bustle of Midgaard, you now find yourself
+Managing to escape the hustle and bustle of the Scar, you now find yourself
 
 standing in the middle of an open field...Dusty trails lead in all directions
 
@@ -3462,7 +3447,7 @@ secretary~
 ~
 She looks very busy.
 
-The Secretary says 'Sorry, but the Mayor is extremely busy today'.
+The Secretary says 'Sorry, but the Spinewarden Captain is extremely busy today'.
 
 The Secretary says 'Please sit down and have a seat in the meantime'.
 
@@ -4548,7 +4533,7 @@ The letter is written in a reserved and dignified Spencer hand.
 	no longer required.
 
 
-    Midgaard City Bank
+    Scalewright Bank of the Scar
 
 ~
 L 1
@@ -4702,7 +4687,7 @@ A long sword has been left here.~
 8
 E
 sword long~
-This is the ceremonial sword of the Mayor of Midgaard.
+This is the ceremonial sword of the Spinewarden Captain of the Scar.
 
 ~
 L 1
@@ -5829,7 +5814,7 @@ M 0 3142 1 3137       Secretary at town hall
 
 M 0 3143 1 3138       Mayor at town hall
 
-M 0 3069 4 3138       Cityguard for the Mayor
+M 0 3069 4 3138       Cityguard for the Spinewarden Captain
 
 O 0 3089 0 3003 (null)
 

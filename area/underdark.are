@@ -1,23 +1,23 @@
 #AREA
-@@mDescent into the Underdark@@N~
+@@mMarrow-River Depths@@N~
 Z 3
 C 9231
-K underdark~
+K marrowdepths~
 L @@W{ @@r40 50@@W }@@N~
 N 49
 I 40 50
 V 23100 23199
 X 0
 F 15
-U Something scuttles in the lightless deep.~
+U Quicksilver marrow streams whisper below the Scar.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23100
-Entrance to Descent into the Underdark~
-You stand in entrance to descent into the underdark. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark. The path west returns toward Hall of the Fire Giant King.~
+Entrance to Marrow-River Depths~
+Entrance to Marrow-River Depths. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50. The path west returns toward Dying-Fire Caldera.~
 0 0
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23101
 Abyss of Roots~
-You stand in abyss of roots. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark. A trail leads east toward Vault of Shadows.~
+Abyss of Roots. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50. A trail leads east toward Star-Metal Veins.~
 0 0
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #23102
 Echo Well~
-You stand in echo well. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Echo Well. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D1
 East.~
@@ -67,8 +67,8 @@ West.~
 0 -1 23101
 S
 #23103
-Drow Patrol Path~
-You stand in drow patrol path. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Depth Patrol Path~
+Depth Patrol Path. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D1
 East.~
@@ -84,8 +84,8 @@ West.~
 0 -1 23102
 S
 #23104
-Duergar Outpost~
-You stand in duergar outpost. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Deep Outpost~
+Deep Outpost. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #23105
 Crystal Spire Room~
-You stand in crystal spire room. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Crystal Spire Room. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #23106
 Guard Web~
-You stand in guard web. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Guard Web. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23107
 Map of the Depths~
-You stand in map of the depths. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Map of the Depths. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #23108
 Myconid Circle~
-You stand in myconid circle. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Myconid Circle. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23109
 Air Shaft~
-You stand in air shaft. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Air Shaft. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #23110
 Still Air Chamber~
-You stand in still air chamber. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Still Air Chamber. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -211,8 +211,8 @@ West.~
 0 -1 23109
 S
 #23111
-Illithid Echo~
-You stand in illithid echo. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Mind Echo~
+Mind Echo. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #23112
 Upper Landing~
-You stand in upper landing. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Upper Landing. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #23113
 Slave Caravan Rest~
-You stand in slave caravan rest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Slave Caravan Rest. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -270,8 +270,8 @@ West.~
 0 -1 23112
 S
 #23114
-Underdark Crossroads~
-You stand in underdark crossroads. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Depth Crossroads~
+Depth Crossroads. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #23115
 Watch Fissure~
-You stand in watch fissure. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Watch Fissure. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #23116
 Escape Shaft~
-You stand in escape shaft. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Escape Shaft. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23117
 Black Water Crossing~
-You stand in black water crossing. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Black Water Crossing. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -350,8 +350,8 @@ West.~
 0 -1 23116
 S
 #23118
-Idol of Lolth~
-You stand in idol of lolth. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Idol of Echo~
+Idol of Echo. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23119
 Spore Cloud Room~
-You stand in spore cloud room. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Spore Cloud Room. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #23120
 Cave Fisher Ledge~
-You stand in cave fisher ledge. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Cave Fisher Ledge. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #23121
 Bone Cairn~
-You stand in bone cairn. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Bone Cairn. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #23122
 Phosphor Cave~
-You stand in phosphor cave. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Phosphor Cave. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23123
 Collapsed Temple~
-You stand in collapsed temple. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Collapsed Temple. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #23124
 Last Torchlight~
-You stand in last torchlight. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Last Torchlight. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23125
 Torture Niche~
-You stand in torture niche. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Torture Niche. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23126
 Stalactite Bridge~
-You stand in stalactite bridge. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Stalactite Bridge. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #23127
 Webbed Tunnel~
-You stand in webbed tunnel. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Webbed Tunnel. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #23128
 Whispering Crack~
-You stand in whispering crack. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Whispering Crack. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #23129
 Blind Fish Pool~
-You stand in blind fish pool. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Blind Fish Pool. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23130
 Sunless Stair~
-You stand in sunless stair. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Sunless Stair. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #23131
 Darkmantle Nest~
-You stand in darkmantle nest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Darkmantle Nest. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #23132
 Spider Den~
-You stand in spider den. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Spider Den. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -649,8 +649,8 @@ West.~
 0 -1 23131
 S
 #23133
-Mind Flayer Spire Base~
-You stand in mind flayer spire base. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Psionic Spire Base~
+Psionic Spire Base. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -670,8 +670,8 @@ West.~
 0 -1 23132
 S
 #23134
-Dark Elf Barracks~
-You stand in dark elf barracks. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Depth Barracks~
+Depth Barracks. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #23135
 Fungal Stair~
-You stand in fungal stair. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Fungal Stair. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #23136
 Amethyst Vein~
-You stand in amethyst vein. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Amethyst Vein. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23137
 Silent Gallery~
-You stand in silent gallery. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Silent Gallery. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #23138
 Lower Descent~
-You stand in lower descent. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Lower Descent. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23139
 Hanging Roots~
-You stand in hanging roots. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Hanging Roots. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23140
 Rockslide Path~
-You stand in rockslide path. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Rockslide Path. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -809,8 +809,8 @@ West.~
 0 -1 23139
 S
 #23141
-Drow Waystation~
-You stand in drow waystation. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Marrow Waystation~
+Marrow Waystation. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23142
 Silent Market Ruins~
-You stand in silent market ruins. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Silent Market Ruins. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -839,8 +839,8 @@ East.~
 0 -1 23143
 S
 #23143
-Mushroom Forest~
-You stand in mushroom forest. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Marrow Mushroom Forest~
+Marrow Mushroom Forest. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #23144
 Underground Lake Shore~
-You stand in underground lake shore. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Underground Lake Shore. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #23145
 Venom Cache~
-You stand in venom cache. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Venom Cache. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23146
 Chitin Passage~
-You stand in chitin passage. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Chitin Passage. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23147
 Psionic Residue Hall~
-You stand in psionic residue hall. The surroundings show fungus, web, and absolute dark. This place tests travelers of roughly levels 40-50. Paths lead onward through the underdark.~
+Psionic Residue Hall. Around you: fungus, web, and quicksilver marrow dark. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 40-50.~
 0 0
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23146
 S
 #23148
-Sanctum of the Matron of the Depths~
-This is the heart of Descent into the Underdark. The Matron of the Depths regards you. The air itself feels heavier here.~
+Sanctum of the Matron of Marrow-Depths~
+This is the heart of Marrow-River Depths. The Matron of Marrow-Depths regards you. The stone carries the slow pulse of residual Wyrm-life.~
 0 0
 D0
 North.~
@@ -939,11 +939,11 @@ S
 #0
 #MOBILES
 #23150
-drow warrior~
-a drow warrior~
-A drow warrior smiles cruelly.
+depth warrior~
+a depth warrior~
+A depth warrior smiles cruelly.
 ~
-A drow warrior looks ready for battle.
+A depth warrior looks ready for battle.
 ~
 97 0 -300 S
 42 1
@@ -952,7 +952,7 @@ A drow warrior looks ready for battle.
 #23151
 drider~
 a drider~
-A drider skitters forward.
+A drider skitters forward on marrow silk.
 ~
 A drider looks ready for battle.
 ~
@@ -972,11 +972,11 @@ A mind flayer looks ready for battle.
 -109 53 42 380 0
 ! 0 0 0 7 0 0 0
 #23153
-duergar~
-a duergar scout~
-A duergar scout levels a crossbow.
+deep scout~
+a deep scout~
+A deep scout levels a crossbow.
 ~
-A duergar scout looks ready for battle.
+A deep scout looks ready for battle.
 ~
 97 0 -300 S
 44 1
@@ -1016,11 +1016,11 @@ A cave fisher looks ready for battle.
 -89 57 44 420 0
 ! 0 0 0 7 0 0 0
 #23157
-drow priestess~
-a drow priestess~
-A drow priestess raises a spider idol.
+depth priestess~
+a depth priestess~
+A depth priestess raises an idol of falling stars.
 ~
-A drow priestess looks ready for battle.
+A depth priestess looks ready for battle.
 ~
 97 0 -300 S
 51 1
@@ -1028,10 +1028,10 @@ A drow priestess looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23158
 matron mother~
-the Matron of the Depths~
-The Matron of the Depths regards you.
+the Matron of Marrow-Depths~
+The Matron of Marrow-Depths regards you.
 ~
-The Matron of the Depths radiates terrible power.
+The Matron of Marrow-Depths radiates terrible power.
 ~
 35 0 -1000 S
 53 1
@@ -1051,9 +1051,9 @@ A 19 15
 A 1 2
 L 40
 #23171
-underdark breastplate armor~
-@@WUnderdark breastplate@@N~
-A @@WUnderdark breastplate@@N rests here.~
+marrowdepths breastplate armor~
+@@WMarrowDepths breastplate@@N~
+A @@WMarrowDepths breastplate@@N rests here.~
 9 65 9 1
 9 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 11
 A 12 45
 L 40
 #23172
-underdark helm~
-@@WUnderdark helm@@N~
-A @@WUnderdark helm@@N lies on the ground.~
+marrowdepths helm~
+@@WMarrowDepths helm@@N~
+A @@WMarrowDepths helm@@N lies on the ground.~
 9 65 17 1
 9 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 11
 A 19 11
 L 40
 #23173
-underdark greaves~
-@@WUnderdark greaves@@N~
-@@WUnderdark greaves@@N are discarded here.~
+marrowdepths greaves~
+@@WMarrowDepths greaves@@N~
+@@WMarrowDepths greaves@@N are discarded here.~
 9 65 33 1
 9 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 11
 A 19 11
 L 40
 #23174
-underdark boots~
-@@WUnderdark boots@@N~
-A pair of @@WUnderdark boots@@N sits here.~
+marrowdepths boots~
+@@WMarrowDepths boots@@N~
+A pair of @@WMarrowDepths boots@@N sits here.~
 9 65 65 1
 9 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 11
 A 19 11
 L 40
 #23175
-underdark gauntlets~
-@@WUnderdark gauntlets@@N~
-@@WUnderdark gauntlets@@N lie in a pile.~
+marrowdepths gauntlets~
+@@WMarrowDepths gauntlets@@N~
+@@WMarrowDepths gauntlets@@N lie in a pile.~
 9 65 129 1
 9 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 11
 A 19 11
 L 40
 #23176
-underdark shield~
-@@WUnderdark shield@@N~
-A @@WUnderdark shield@@N leans against the wall.~
+marrowdepths shield~
+@@WMarrowDepths shield@@N~
+A @@WMarrowDepths shield@@N leans against the wall.~
 9 65 513 1
 9 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 11
 A 19 11
 L 40
 #23177
-underdark cloak~
-@@WUnderdark cloak@@N~
-A @@WUnderdark cloak@@N is folded here.~
+marrowdepths cloak~
+@@WMarrowDepths cloak@@N~
+A @@WMarrowDepths cloak@@N is folded here.~
 9 65 1025 1
 9 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 11
 A 12 45
 L 40
 #23178
-underdark ring~
-@@WUnderdark ring@@N~
-A @@WUnderdark ring@@N glints on the ground.~
+marrowdepths ring~
+@@WMarrowDepths ring@@N~
+A @@WMarrowDepths ring@@N glints on the ground.~
 9 65 3 1
 9 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 11
 A 19 11
 L 40
 #23179
-underdark amulet~
-@@WUnderdark amulet@@N~
-A @@WUnderdark amulet@@N hangs from a peg.~
+marrowdepths amulet~
+@@WMarrowDepths amulet@@N~
+A @@WMarrowDepths amulet@@N hangs from a peg.~
 9 65 5 1
 9 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #23181
 unique adamantine shortsword legendary~
-@@Rthe Matron of the Depths's weapon@@N~
-@@RThe legendary weapon of the Matron of the Depths@@N lies here.~
+@@Rthe Matron of Marrow-Depths's weapon@@N~
+@@RThe legendary weapon of the Matron of Marrow-Depths@@N lies here.~
 5 67 8193 1
 3 22 0 3
 12

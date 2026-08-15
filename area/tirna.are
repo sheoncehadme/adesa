@@ -1,5 +1,5 @@
 #AREA
-@@RTirna n'Ogth@@N~
+@@cAurora-Bloom Meadows@@N~
 Z 3
 C 103
 K tirnanogth~
@@ -18,9 +18,12 @@ S Title not shown on area list.
 #9099
 Path of Shadows~
 This path is made of the shadows themselves.  The path creeps through the
-forest at a leisurely pace, for the shadows of the path are moving.
- 
-~
+
+forest at a leisurely pace, for the shadows of the path are moving.
+
+ 
+
+~
 8 0
 D0
 ~
@@ -34,8 +37,10 @@ S
 #9098
 Shadows Abund~
 Totall darkness.  The wind comes rushing in from the east.
- 
-~
+
+ 
+
+~
 8 0
 D0
 ~
@@ -53,11 +58,15 @@ S
 #9097
 Clearing of Blood~
 This clearing is surrounded by the shadows you just came through In the
-middle of this This clearing is a fountain made of living bone!
- 
 
- 
-~
+middle of this This clearing is a fountain made of living bone!
+
+ 
+
+
+ 
+
+~
 10 0
 D0
 ~
@@ -71,9 +80,12 @@ S
 #9096
 Dense Shadows~
 Shadows, shadows everywhere, as far as you can see.  Actually you can barely
-see at all.  The whistling wind can be heard to the south.
- 
-~
+
+see at all.  The whistling wind can be heard to the south.
+
+ 
+
+~
 8 0
 D2
 ~
@@ -87,9 +99,12 @@ S
 #9095
 Path of Shadows~
 Here the trees part into what appears a small open field.  But the field is of
-the shadows too, and all is still very dark.
- 
-~
+
+the shadows too, and all is still very dark.
+
+ 
+
+~
 8 0
 D1
 ~
@@ -107,10 +122,14 @@ S
 #9094
 Shadow Park~
 This is no ordinary park.  There is nothing living here.  Everything is made
-of shadows.  The trees are shadows, the grass is shadows, EVERYTHING!!  A high
-whistling wind comes from the south-east.
- 
-~
+
+of shadows.  The trees are shadows, the grass is shadows, EVERYTHING!!  A high
+
+whistling wind comes from the south-east.
+
+ 
+
+~
 8 0
 D1
 ~
@@ -124,16 +143,20 @@ S
 #9093
 Gabe's Grocery~
 The grocery sells items that might be needed on an adventure.  There are
-neatly organized shelves in rows in the small building.  The grocer walks
-around helping where he can.
 
-~
+neatly organized shelves in rows in the small building.  The grocer walks
+
+around helping where he can.
+
+
+~
 12 0
 S
 #9072
 Izan Drive~
 The drive heads north and south.
-~
+
+~
 8 0
 D0
 ~
@@ -207,26 +230,36 @@ S
 #9067
 Room of Questing~
 You learn about the quests that are going to be happening here, so just read
-the board.
- 
-~
+
+the board.
+
+ 
+
+~
 12 0
 S
 #9066
 Clan Information~
 There is information hanging all over the place about the various clans.  Here
-you can find out what the clans are about and what they are up to.  Read
-carefully!
- 
-~
+
+you can find out what the clans are about and what they are up to.  Read
+
+carefully!
+
+ 
+
+~
 12 0
 S
 #9003
 Crypt~
 This is the south end of the square.  To the south is the Unholy Citadel, the
-home of all vampyres.  To the north seems to be some new construction.  The
-square continues to the east and west.
-~
+
+home of all vampyres.  To the north seems to be some new construction.  The
+
+square continues to the east and west.
+
+~
 155785 0
 D2
 ~
@@ -240,13 +273,20 @@ S
 #9001
 The Unholy Citadel~
 This is the home of the Vampyres.  Because of limited space and the
-inconveniece it would be, rather than each vampire having its own coffin it
-only has a drawer here in the morgue.  This is the safe place for the vampires
-of the world.  If they get in trouble they can always <recall> back here to be
-safe from harm. To the north is the Crypt area, the undergroud city for the
-undead.  Or you can rest here to heal a little faster.
-NOTE:  Vampyre recall has been changed, please contact an imp to reset your recall.
-~
+
+inconveniece it would be, rather than each vampire having its own coffin it
+
+only has a drawer here in the morgue.  This is the safe place for the vampires
+
+of the world.  If they get in trouble they can always <recall> back here to be
+
+safe from harm. To the north is the Crypt area, the undergroud city for the
+
+undead.  Or you can rest here to heal a little faster.
+
+NOTE:  Vampyre recall has been changed, please contact an imp to reset your recall.
+
+~
 147595 0
 D0
 ~
@@ -273,9 +313,12 @@ S
 #9074
 Izan Drive~
 This room is totally in ruin.  There are burnt statues and symbols all over
-the place.
- 
-~
+
+the place.
+
+ 
+
+~
 8 0
 D2
 ~
@@ -350,11 +393,14 @@ S
 #9080
 Izan Drive~
 This room is large, containing many statues and paintings. There is a large
-black cross like symbol on a red background covering one wall
+
+black cross like symbol on a red background covering one wall
 
 
- 
-~
+
+ 
+
+~
 8 0
 D1
 ~
@@ -416,8 +462,10 @@ S
 #9085
 Izan Drive~
 The drive leads north and south.
- 
-~
+
+ 
+
+~
 8 0
 D0
 ~
@@ -431,8 +479,10 @@ S
 #9086
 Izan Drive~
 This room is totally painted black and red.
- 
-~
+
+ 
+
+~
 8 0
 D0
 ~
@@ -507,8 +557,10 @@ S
 #9092
 Izan Drive~
 This room is decorated in the colors of red and black.
- 
-~
+
+ 
+
+~
 8 0
 D3
 ~
@@ -518,9 +570,12 @@ S
 #9002
 Under the Crypt~
 You find yourself deep under the crypt as a get away from the hustle of
-vampyre life.  Comfortable coffins are here, plush and soft, just waiting for
-special Vampyres to relax, chat and enjoy themselves.
-~
+
+vampyre life.  Comfortable coffins are here, plush and soft, just waiting for
+
+special Vampyres to relax, chat and enjoy themselves.
+
+~
 147471 0
 D4
 ~
@@ -530,13 +585,20 @@ S
 #9004
 @@bSanctuary@@N~
 @@bThis is the home of the wolves.  Its a soft, cozy place that seems
-comfortable and warm.  Werewolves of all shapes and forms recall back to here
-so that they may be safe from any harm and heal if they are wounded.  The
-wolves keep to themselves in this restful place, as the pack leader keeps a
-tight grip upon its family, often protecting them with his or her life.
- 
-NOTE:  Wolf recall has been changed.  Please contact an imp to change your recall.
-~
+
+comfortable and warm.  Werewolves of all shapes and forms recall back to here
+
+so that they may be safe from any harm and heal if they are wounded.  The
+
+wolves keep to themselves in this restful place, as the pack leader keeps a
+
+tight grip upon its family, often protecting them with his or her life.
+
+ 
+
+NOTE:  Wolf recall has been changed.  Please contact an imp to change your recall.
+
+~
 147595 0
 D0
 ~
@@ -550,13 +612,20 @@ S
 #9005
 @@bThe Holy Shrine@@N~
 @@bYou find yourself standing before a large statue of a wolf, its claws drawn
-and its jaws open as it protects 3 small cubs under it.  This was set here to
-remind all wolves to protect each other with thier lives, and to keep the
-secret of wolf existance.  Always remember, the gift of immortality was given
-to you as a reward, treat others of your pack well, and you shall be blessed
-by the Gods.  Keep the secret, my children, for there are those that hunt us
-even now.@@N
-~
+
+and its jaws open as it protects 3 small cubs under it.  This was set here to
+
+remind all wolves to protect each other with thier lives, and to keep the
+
+secret of wolf existance.  Always remember, the gift of immortality was given
+
+to you as a reward, treat others of your pack well, and you shall be blessed
+
+by the Gods.  Keep the secret, my children, for there are those that hunt us
+
+even now.@@N
+
+~
 155791 0
 D2
 ~
@@ -566,10 +635,14 @@ S
 #9006
 @@bThe Resting Place@@N~
 @@bThis is the place where the wolves of the den may sleep, relax, or just
-chat.  A soft plush bed made of fur is here as a warm fire lights the den in a
-magical glow.  All wolves are at peace here as they are protected from the
-evil that lurks about.@@N
-~
+
+chat.  A soft plush bed made of fur is here as a warm fire lights the den in a
+
+magical glow.  All wolves are at peace here as they are protected from the
+
+evil that lurks about.@@N
+
+~
 147471 0
 D4
 ~
@@ -582,8 +655,10 @@ S
 Hurv~
 Hurv the Sorceror~
 Hurv sells you potions and scrolls!
- 
-~
+
+ 
+
+~
 ~
 3 8360 0 S
 90 1
@@ -593,8 +668,10 @@ Hurv sells you potions and scrolls!
 Smith~
 Smith the armorsmith~
 Smith the armorsmith is selling his armor!
- 
-~
+
+ 
+
+~
 ~
 3 8360 0 S
 91 1
@@ -604,8 +681,10 @@ Smith the armorsmith is selling his armor!
 Smith~
 Smith the weaponsmith~
 Smith the weaponsmith is standing here!
- 
-~
+
+ 
+
+~
 ~
 3 8360 0 S
 100 1
@@ -615,7 +694,8 @@ Smith the weaponsmith is standing here!
 Gabe~
 Gabe the Grocer~
 Gabe is standing here waiting to sell you something! 
-~
+
+~
 ~
 3 8360 0 S
 89 1
@@ -625,7 +705,8 @@ Gabe is standing here waiting to sell you something!
 Scrub~
 Scrub~
 Scrub is selling drinks.
-~
+
+~
 ~
 3 40 0 S
 97 1
@@ -635,12 +716,17 @@ Scrub is selling drinks.
 Reltih~
 Reltih~
 Reltih is standing here!
- 
-~
+
+ 
+
+~
 He is a very insane man who believes that brown hair and brown eyes are
-superior in the human race.  To him, all others must die!
- 
-~
+
+superior in the human race.  To him, all others must die!
+
+ 
+
+~
 35 552 -1000 S
 41 1
 -50 25 25 0 0
@@ -649,11 +735,15 @@ He is a very insane man who believes that brown hair and brown eyes are
 Ortsac~
 Ortsac~
 Ortsac is standing here!
- 
-~
+
+ 
+
+~
 This man really likes his cigars.
- 
-~
+
+ 
+
+~
 35 32 -500 S
 28 1
 -35 22 19 0 0
@@ -662,11 +752,15 @@ This man really likes his cigars.
 Notnilc~
 Notnilc~
 Notnilc is standing here!
- 
-~
+
+ 
+
+~
 He is the leader of the SU.
- 
-~
+
+ 
+
+~
 3 4 500 S
 23 1
 -40 15 10 0 0
@@ -675,10 +769,13 @@ He is the leader of the SU.
 Nilats~
 Nilats~
 Nilats is standing here! 
-~
+
+~
 He used to be some political dude for some extreme cult.
- 
-~
+
+ 
+
+~
 35 8 -400 S
 42 1
 -40 20 20 0 0
@@ -687,12 +784,17 @@ He used to be some political dude for some extreme cult.
 izan soldier~
 The Izan soldier~
 The Izan soldier patrols the streets!
- 
-~
+
+ 
+
+~
 He is a soldier in the cult called Izan.  He stands strong with brown hair and
-brown eyes.
- 
-~
+
+brown eyes.
+
+ 
+
+~
 65 0 0 S
 20 1
 16 13 15 0 0
@@ -701,12 +803,17 @@ He is a soldier in the cult called Izan.  He stands strong with brown hair and
 deathguard guard~
 The deathguard~
 The deathguard is here guarding the gate!
- 
-~
+
+ 
+
+~
 This guard is one of the elite of the black watchman.  His sole purpose is go
-guard the gate from unwanted visitors.
- 
-~
+
+guard the gate from unwanted visitors.
+
+ 
+
+~
 67 0 0 S
 10 1
 -20 15 18 0 0
@@ -715,12 +822,17 @@ This guard is one of the elite of the black watchman.  His sole purpose is go
 rodent~
 The rodent~
 The rodent is picking through the garbage!
- 
-~
+
+ 
+
+~
 The rodent is a large brown looking mouse.  It is said that the city was
-overrun by them when the god, Mouse, was playing a joke.
- 
-~
+
+overrun by them when the god, Mouse, was playing a joke.
+
+ 
+
+~
 65 0 0 S
 3 1
 0 0 0 0 0
@@ -730,10 +842,14 @@ Slipper~
 Slipper the Guildmaster~
 Slipper the Guildmaster is ready to teach you the trade.~
 She is very petit with long blond hair.  Her eyes burn you like fire and seem
-to say stay away.  She carries many daggers that are stained with blood.  You
-know she could kill you with a wink.  There is a rumor that she used to be one
-of Mouse's lovers.
-~
+
+to say stay away.  She carries many daggers that are stained with blood.  You
+
+know she could kill you with a wink.  There is a rumor that she used to be one
+
+of Mouse's lovers.
+
+~
 1539 168 0 S
 76 2
 -100 100 350 0 0
@@ -742,10 +858,13 @@ She is very petit with long blond hair.  Her eyes burn you like fire and seem
 healer~
 @@dThe @@RVampyre @@dSpirit@@N~
 @@dThe vampyre @@Rspirit @@dis here guarding it's @@Rkindred@@N
-~
+
+~
 Ramgul is the lord of these alley's.  He may not be too tough, but his
-intelligence brings death to his foes.
-~
+
+intelligence brings death to his foes.
+
+~
 357955 92926 0 S
 122 0
 -2500 1000 1000 0 0
@@ -766,9 +885,12 @@ Fromp~
 Fromp the Guildmaster~
 Fromp will teach you how to battle!~
 Fromp is a huge bald man with bulging muscles. He is totally decked out in
-shining armor and he carries a six-foot sword.  He looks mean but deep down he
-is a kind man.
-~
+
+shining armor and he carries a six-foot sword.  He looks mean but deep down he
+
+is a kind man.
+
+~
 1539 168 0 S
 86 1
 -100 100 350 0 0
@@ -778,7 +900,8 @@ Kazmar~
 Kazmar the Guildmaster~
 Kazmar trains you in the way of spellcasting.~
 All you see is someone in a dark black robe!
-~
+
+~
 1539 524456 0 S
 92 1
 -100 100 350 0 0
@@ -789,7 +912,8 @@ Mindwave~
 Mindwave the Guildmaster~
 Mindwave teaches you how to really use your mind.~
 He looks totally normal, except he has a really big head!
-~
+
+~
 1539 168 0 S
 96 1
 -100 100 350 0 0
@@ -799,9 +923,12 @@ Juzical~
 Juzical the Guildmaster~
 Juzical will help you with you worship.~
 Juzical is a very tanned lady with jet-black hair.  She wears a many colored
-robe showing the differences in the nature of the gods.  She is eager to help
-in any form of worship.
-~
+
+robe showing the differences in the nature of the gods.  She is eager to help
+
+in any form of worship.
+
+~
 1539 168 0 S
 102 2
 -100 100 350 0 0
@@ -812,7 +939,8 @@ Jim~
 Jim the Banker~
 Jim the Banker wants your money.~
 Jim will keep your money safe in his bank.
-~
+
+~
 32771 0 0 S
 89 1
 -100 100 100 0 0
@@ -822,7 +950,8 @@ Brad~
 Brad the Postdude~
 Brad will send and give you mail.~
 He is just the guy who handles the post.
-~
+
+~
 524291 0 0 S
 86 1
 -100 100 100 0 0
@@ -832,8 +961,10 @@ Donut~
 Donut the Healer~
 Donut will heal you right up!~
 This guy is a non-stop healing machine.  He never tires, he just keeps casting
-spells at everyone.  Make sure to say thanks!
-~
+
+spells at everyone.  Make sure to say thanks!
+
+~
 4099 0 0 S
 99 1
 -100 100 350 0 0
@@ -843,12 +974,16 @@ S spec_cast_adept~
 cut cutthroat~
 The cutthroat~
 The cutthroat stands here ready to kill 
-~
-He seems like a normal man, but he has a very evil grin on his face.  Better
-watch your back!
 
- 
-~
+~
+He seems like a normal man, but he has a very evil grin on his face.  Better
+
+watch your back!
+
+
+ 
+
+~
 65 0 0 S
 15 1
 0 0 0 0 0
@@ -857,11 +992,15 @@ He seems like a normal man, but he has a very evil grin on his face.  Better
 black watchman~
 The Black Watchman~
 The Black Watchman stands here alert!
-~
+
+~
 This man is one of the policing members of the city.  His job is to patrol and
-make sure no big crimes are happening.
- 
-~
+
+make sure no big crimes are happening.
+
+ 
+
+~
 65 0 0 S
 18 1
 -10 10 10 0 0
@@ -870,11 +1009,14 @@ This man is one of the policing members of the city.  His job is to patrol and
 mercenary~
 The mercenary~
 The mercenary is here looking for a job.
- 
-~
+
+ 
+
+~
 He is a large man with a gruff appearance.  He is in much need of a job though
 
-~
+
+~
 65 0 0 S
 20 1
 0 0 0 0 0
@@ -883,12 +1025,17 @@ He is a large man with a gruff appearance.  He is in much need of a job though
 bum~
 bum~
 The bum is hanging around looking for food and money!
- 
-~
+
+ 
+
+~
 She is dressed in thin rags, barely covering here frail body.  It looks like
-she has not eaten in days.
- 
-~
+
+she has not eaten in days.
+
+ 
+
+~
 65 0 0 S
 11 2
 0 0 0 0 0
@@ -897,7 +1044,8 @@ She is dressed in thin rags, barely covering here frail body.  It looks like
 Joe~
 Joe the Baker~
 Joe the baker sells his goods! 
-~
+
+~
 ~
 3 8360 0 S
 90 1
@@ -907,7 +1055,8 @@ Joe the baker sells his goods!
 guardian~
 @@dThe @@BGuardian@@N of the @@RCrypt@@N~
 @@dThe @@BGuardian@@N of the @@RCrypt.
-~
+
+~
 ~
 2248831 59640 -1000 S
 138 1
@@ -917,7 +1066,8 @@ guardian~
 wolven ~
 @@bA Large Wolf@@N~
 @@bA large Statue of a Wolf is here, protecting the den@@N
-~
+
+~
 A large wolf stands before you, making sure that justice is done when needed.~
 2502751 59640 -1000 S
 144 1
@@ -927,9 +1077,11 @@ A large wolf stands before you, making sure that justice is done when needed.~
 cub~
 @@bA Wolven Cub@@N~
 @@bA statue of a Wolven Cub is here, hiding behind the powerful leader.@@N
-~
+
+~
 A small wolven cub with large claws and teeth are here as it hides behind its leader.
-~
+
+~
 2232415 59640 -1000 S
 142 1
 -2500 1000 1000 0 0
@@ -938,10 +1090,13 @@ A small wolven cub with large claws and teeth are here as it hides behind its le
 wolven~
 @@bA Wolven Spirit@@N~
 @@bA Wolven Spirit is here to heal you.@@N
-~
+
+~
 Ramgul is the lord of these alley's.  He may not be too tough, but his
-intelligence brings death to his foes.
-~
+
+intelligence brings death to his foes.
+
+~
 341571 92926 0 S
 117 0
 -2500 1000 1000 0 0
@@ -969,7 +1124,8 @@ L 1
 stake~
 stake~
 Stake
-~
+
+~
 8 0 16385 1
 0 0 0 0
 2
@@ -986,8 +1142,10 @@ L 1
 fountain~
 fountain of Living Bone~
 A fountain of living bone is constructed here with a deep crimson fluid flowing through the many crevices.
- 
-~
+
+ 
+
+~
 25 0 0 1
 13 0 0 0
 1
@@ -1012,8 +1170,10 @@ L 1
 helm~
 the Deathguard's Helm~
 The helm is totally black with a bright red flame on the top!
- 
-~
+
+ 
+
+~
 9 0 17 1
 0 0 0 0
 1
@@ -1052,7 +1212,8 @@ L 1
 leggings~
 watchman's leggings~
 The leggings are a crimson red with a skeleton painted down the front. 
-~
+
+~
 9 0 33 1
 0 0 0 0
 1
@@ -1136,7 +1297,8 @@ L 1
 clutchie~
 an ancient piece of parchment~
 A piece of parchment, with words that you do not understand.
-~
+
+~
 11 -805306368 131073 1
 3 9013 0 0
 1
@@ -1145,7 +1307,8 @@ L 60
 board~
 ~
 The darkened board, red glow casting enough to barely see the words of the written.
-~
+
+~
 27 0 0 1
 12 80 80 9019
 1
@@ -1162,7 +1325,8 @@ L 1
 fountain~
 @@yThe Fountain of All Knowledge@@N~
 @@yThe Fountain of All Knowledge is here, gushing streams of words.@@N
-~
+
+~
 25 0 0 1
 5 0 0 0
 1
@@ -1171,7 +1335,8 @@ L 1
 bed fur~
 @@WA Soft Bed of Fur@@N~
 @@WA Soft Bed of Fur is here, waiting for you to sink in.@@N
-~
+
+~
 12 0 0 1
 20 0 0 0
 16959

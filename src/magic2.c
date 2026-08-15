@@ -2189,7 +2189,7 @@ spell_travel(int sn, int level, CHAR_DATA *ch, void *vo, OBJ_DATA *obj)
     }
 
     if ((room = get_room_index(3001)) == NULL) {
-        send_to_char("It seems the Midgaard Temple has vanished!\n\r", ch);
+        send_to_char("It seems the Heart-Pulse Sanctum has vanished!\n\r", ch);
         return FALSE;
     }
 

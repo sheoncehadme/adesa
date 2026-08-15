@@ -1,5 +1,5 @@
 #AREA
-@@aA@@cd@@de@@gs@@Wa's @@aA@@cr@@de@@gn@@Wa@@N~
+@@WScale-Touched Grounds@@N~
 Z 3
 C 59
 K soekindergarden~
@@ -28,20 +28,20 @@ the school and want to go to the @@Warena@@a,@@c type @@Wopen south@@c,@@c then
 
 please feel free to ask an imm or another player@@a...@@cand don@@a'@@ct forget 
 
-to read the room descriptions in mud school as this will help you 
+to read the room descriptions in scale-touched grounds as this will help you 
 
 learn the commands of the game@@a.@@N
 
 ~
 17436 0
 D0
-You see the doorway into the Mud School Building.
+You see the doorway into the Scale-Touched Grounds Building.
 
 ~
 ~
 0 0 3757
 D2
-You see the one way door into the Arena of Mud School.
+You see the one way door into the Arena of Scale-Touched Grounds.
 
 ~
 ~
@@ -57,7 +57,7 @@ Stone steps descend into the cavern-city of Giganthia.
 0 -1 3430
 S
 #3701
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -76,7 +76,7 @@ You see a path into another room.
 0 -1 3702
 E
 plaque~
-This zone (Mud School) is created by Hatchet for any Merc Mud.
+This zone (Scale-Touched Grounds) is created by Hatchet for any Merc Mud.
 
 Copyright 1992, 1993.
 
@@ -179,7 +179,7 @@ Try going into each direction from here.  When you are done, go NORTH.
 ~
 S
 #3703
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -211,7 +211,7 @@ gives you more information.
 ~
 S
 #3704
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -233,7 +233,7 @@ Just go east to the central room.
 ~
 S
 #3705
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -255,7 +255,7 @@ Just go north to the central room.
 ~
 S
 #3707
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -277,7 +277,7 @@ Just go up to the central room.
 ~
 S
 #3708
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -299,7 +299,7 @@ Just go down to the central room.
 ~
 S
 #3709
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -309,7 +309,7 @@ sign on the wall.  Exits reach west and down.
 ~
 12 0
 D3
-You see the next station of Mud School.
+You see the next station of Scale-Touched Grounds.
 
 ~
 ~
@@ -375,7 +375,7 @@ when you are fighting, type 'FLEE', until you flee and are out of here.
 ~
 S
 #3711
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -385,7 +385,7 @@ sign on the wall.
 ~
 12 0
 D1
-You see the next station of Mud School.
+You see the next station of Scale-Touched Grounds.
 
 ~
 ~
@@ -442,7 +442,7 @@ You see the aggressive wimpy monster inside!
 0 -1 3714
 E
 sign~
-Welcome to the cage room.  The adepts of mud school have captured some
+Welcome to the cage room.  The adepts of scale-touched grounds have captured some
 
 monsters for you to kill.  In the four cages are four monsters of various
 
@@ -574,7 +574,7 @@ D0
 ~
 0 0 20125
 D1
-You see the next station of Mud School.
+You see the next station of Scale-Touched Grounds.
 
 ~
 door~
@@ -638,7 +638,7 @@ The sign reads:
 ~
 S
 #3719
-A Room in Mud School~
+A Room in Scale-Touched Grounds~
 You are in a square white room.  The walls are all blank, with no windows.
 
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
@@ -648,7 +648,7 @@ sign on the wall.  The exits are north and west, with a door to the east.
 ~
 12 0
 D1
-You see the next station of Mud School.
+You see the next station of Scale-Touched Grounds.
 
 ~
 door~
@@ -680,7 +680,7 @@ The only exit is south.
 13 0
 S
 #3721
-The End of Mud School!~
+The End of Scale-Touched Grounds!~
 This is a very bright room, with a marble pedestal in the center.  Behind
 
 the pedestal stands a person cloaked in Silver.  Tapestries flow from every
@@ -699,7 +699,7 @@ gate~
 1 -1 3722
 E
 sign~
-You have graduated from Mud School!  Get your diploma.  Go 'NORTH' from here
+You have graduated from Scale-Touched Grounds!  Get your diploma.  Go 'NORTH' from here
 
 to visit our arena.  There are plenty of low-level monsters, but DON'T attack
 
@@ -1729,7 +1729,7 @@ You see the south wall.
 S
 #3757
 @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WM@@gud @@WS@@gchool@@N~
-@@cYou are in a room in Mud School in the @@aA@@cd@@de@@gs@@Wa@@c realm@@a.@@N
+@@cYou are in a room in Scale-Touched Grounds in the @@aA@@cd@@de@@gs@@Wa@@c realm@@a.@@N
 
 @@cDark @@Rpatches of blood@@c from ancient adventures are scribbled with@@N
 
@@ -1737,14 +1737,14 @@ S
 
 @@cthe @@peast@@c is our @@WPractice Room@@a.  @@pNorth@@c of you is the next@@N
 
-@@cStation of Mud School@@a.@@c  There is a sign on the wall @@a(@@ctype '@@yLOOK SIGN@@c' to@@N
+@@cStation of Scale-Touched Grounds@@a.@@c  There is a sign on the wall @@a(@@ctype '@@yLOOK SIGN@@c' to@@N
 
 @@cread it@@a).@@N
 
 ~
 16412 1
 D0
-You see the next station of Mud School.
+You see the next station of Scale-Touched Grounds.
 
 ~
 ~
@@ -1756,7 +1756,7 @@ You see Hatchet's Guild Room.  Go there to practice your skills.
 ~
 0 0 3759
 D2
-You see the entrance to Mud School.
+You see the entrance to Scale-Touched Grounds.
 
 ~
 ~
@@ -1773,7 +1773,7 @@ To find out your attributes, type 'score'.  You can improve your attributes
 
 in Furey's Training Room to the west.  You can practice your skills and spells
 
-in Hatchet's Guild Room to the east.  You can continue through mud school by
+in Hatchet's Guild Room to the east.  You can continue through scale-touched grounds by
 
 going north.
 
@@ -2311,7 +2311,7 @@ a wise old fool~
 A wise old sage sits here, looking weak and feeble.
 
 ~
-This horrible creature is your final test for mud school.  Kill him, and the
+This horrible creature is your final test for scale-touched grounds.  Kill him, and the
 
 diploma is yours.
 
@@ -2669,8 +2669,8 @@ You see a very important key here!~
 L 1
 #3715
 diploma~
-a mud school diploma~
-You see a mud school diploma here.~
+a scale-touched grounds diploma~
+You see a scale-touched grounds diploma here.~
 8 64 16385 1
 0 0 0 0
 1
@@ -2678,7 +2678,7 @@ A 5 1
 A 4 1
 E
 diploma~
-This document shows that you have graduated from Mud School.
+This document shows that you have graduated from Scale-Touched Grounds.
 
 It also has magical effects on your abilities if you hold it!
 

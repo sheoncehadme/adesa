@@ -1,23 +1,23 @@
 #AREA
-@@dCaves of Chaos@@N~
+@@dClaw-Mark Ravines@@N~
 Z 3
 C 9227
-K caveschaos~
+K clawravines~
 L @@W{ @@r 5 15@@W }@@N~
 N 49
 I 5 15
 V 22700 22799
 X 0
 F 15
-U Distant tribal drums thunder in the caves.~
+U Stone still bears the First Wyrm's claw-scars.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #22700
-Entrance to Caves of Chaos~
-You stand in entrance to caves of chaos. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos. The path west returns toward Keep on the Borderlands.~
+Entrance to Claw-Mark Ravines~
+Entrance to Claw-Mark Ravines. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15. The path west returns toward Rib-Cage Outer Watch.~
 0 0
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #22701
 Fissure Bridge~
-You stand in fissure bridge. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos. A trail leads east toward Steading of the Hill Giant Chief.~
+Fissure Bridge. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15. A trail leads east toward Bone-Bridge Canyons.~
 0 0
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #22702
 Rubble Slope~
-You stand in rubble slope. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Rubble Slope. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #22703
 Upper Ledge~
-You stand in upper ledge. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Upper Ledge. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #22704
 Waterfall Cave~
-You stand in waterfall cave. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Waterfall Cave. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #22705
 Slave Pens~
-You stand in slave pens. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Slave Pens. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #22706
 Side Tunnel~
-You stand in side tunnel. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Side Tunnel. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #22707
 Sooty Camp~
-You stand in sooty camp. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Sooty Camp. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #22708
 Dead End Crevasse~
-You stand in dead end crevasse. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Dead End Crevasse. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -169,8 +169,8 @@ West.~
 0 -1 22707
 S
 #22709
-Underground Stream~
-You stand in underground stream. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Underground Seep~
+Underground Seep. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #22710
 Bat Chamber~
-You stand in bat chamber. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Bat Chamber. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #22711
 Watch Fissure~
-You stand in watch fissure. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Watch Fissure. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -232,8 +232,8 @@ West.~
 0 -1 22710
 S
 #22712
-Idol Chamber~
-You stand in idol chamber. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Idol of the Plunge~
+Idol of the Plunge. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -253,8 +253,8 @@ West.~
 0 -1 22711
 S
 #22713
-Dripping Tunnel~
-You stand in dripping tunnel. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Dripping Score-Tunnel~
+Dripping Score-Tunnel. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #22714
 Totem Circle~
-You stand in totem circle. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Totem Circle. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #22715
 Storage Niche~
-You stand in storage niche. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Storage Niche. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #22716
 Mushroom Farm~
-You stand in mushroom farm. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Mushroom Farm. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #22717
 Pale Glow Room~
-You stand in pale glow room. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Pale Glow Room. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #22718
 Cold Pool~
-You stand in cold pool. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Cold Pool. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #22719
 Collapsed Gallery~
-You stand in collapsed gallery. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Collapsed Gallery. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #22720
 Muddy Hollow~
-You stand in muddy hollow. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Muddy Hollow. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #22721
 Bone Pit~
-You stand in bone pit. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Bone Pit. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -426,8 +426,8 @@ South.~
 0 -1 22728
 S
 #22722
-Goblin Den~
-You stand in goblin den. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Raider Den~
+Raider Den. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #22723
 Torchlit Cavern~
-You stand in torchlit cavern. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Torchlit Cavern. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #22724
 Stalactite Hall~
-You stand in stalactite hall. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Stalactite Hall. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #22725
 Escape Chimney~
-You stand in escape chimney. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Escape Chimney. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #22726
 Root-choked Passage~
-You stand in root-choked passage. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Root-choked Passage. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #22727
 Damp Landing~
-You stand in damp landing. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Damp Landing. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #22728
 Thorn Barrier~
-You stand in thorn barrier. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Thorn Barrier. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -565,8 +565,8 @@ South.~
 0 -1 22735
 S
 #22729
-Cave Mouth~
-You stand in cave mouth. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Claw-Mark Mouth~
+Claw-Mark Mouth. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #22730
 Oil Slick Floor~
-You stand in oil slick floor. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Oil Slick Floor. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #22731
 Fungus Grotto~
-You stand in fungus grotto. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Fungus Grotto. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #22732
 War Drum Hollow~
-You stand in war drum hollow. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+War Drum Hollow. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -649,8 +649,8 @@ West.~
 0 -1 22731
 S
 #22733
-Orc Barracks~
-You stand in orc barracks. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Brute Barracks~
+Brute Barracks. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #22734
 Meat Rack Cave~
-You stand in meat rack cave. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Meat Rack Cave. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -687,8 +687,8 @@ West.~
 0 -1 22733
 S
 #22735
-Kobold Warren~
-You stand in kobold warren. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Ash-Claimer Warren~
+Ash-Claimer Warren. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #22736
 Ash Circle~
-You stand in ash circle. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Ash Circle. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #22737
 Crystal Vein~
-You stand in crystal vein. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Crystal Vein. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #22738
 Lower Gallery~
-You stand in lower gallery. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Lower Gallery. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #22739
 Trophy Wall~
-You stand in trophy wall. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Trophy Wall. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #22740
 Sacrificial Altar~
-You stand in sacrificial altar. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Sacrificial Altar. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #22741
 Guard Post~
-You stand in guard post. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Guard Post. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #22742
 Chieftain's Cave~
-You stand in chieftain's cave. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Chieftain's Cave. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #22743
 Hidden Cache~
-You stand in hidden cache. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Hidden Cache. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #22744
 Ambush Bend~
-You stand in ambush bend. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Ambush Bend. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #22745
 Weapon Cache~
-You stand in weapon cache. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Weapon Cache. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #22746
 Echoing Dome~
-You stand in echoing dome. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Echoing Dome. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -907,8 +907,8 @@ West.~
 0 -1 22745
 S
 #22747
-Tribal Shrine~
-You stand in tribal shrine. The surroundings show damp limestone and tribal refuse. This place tests travelers of roughly levels 5-15. Paths lead onward through the caveschaos.~
+Tribal Shrine of Fall~
+Tribal Shrine of Fall. Around you: claw-scored stone and tribal refuse. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 5-15.~
 0 0
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 22746
 S
 #22748
-Sanctum of the Chieftain of Chaos~
-This is the heart of Caves of Chaos. The Chieftain of Chaos bellows. The air itself feels heavier here.~
+Sanctum of the Ravine Chieftain~
+This is the heart of Claw-Mark Ravines. The Ravine Chieftain bellows from a claw-scored throne. The stone carries the slow pulse of residual Wyrm-life.~
 0 0
 D0
 North.~
@@ -939,40 +939,40 @@ S
 #0
 #MOBILES
 #22750
-kobold warrior~
-a kobold warrior~
-A kobold warrior snarls.
+claw ravine warrior~
+a ravine warrior~
+A ravine warrior snarls.
 ~
-A kobold warrior looks ready for battle.
+A ravine warrior looks ready for battle.
 ~
 97 0 -300 S
 7 1
 -42 13 10 80 0
 ! 0 0 0 7 0 0 0
 #22751
-goblin spearman~
-a goblin spearman~
-A goblin spearman jabs the air.
+spearman~
+a scar spearman~
+A scar spearman jabs the air.
 ~
-A goblin spearman looks ready for battle.
+A scar spearman looks ready for battle.
 ~
 97 0 -300 S
 7 1
 -37 14 10 90 0
 ! 0 0 0 7 0 0 0
 #22752
-orc brute~
-an orc brute~
-An orc brute roars a challenge.
+brute~
+a scar brute~
+A scar brute roars a challenge.
 ~
-An orc brute looks ready for battle.
+A scar brute looks ready for battle.
 ~
 97 0 -300 S
 9 1
 -32 15 11 100 0
 ! 0 0 0 7 0 0 0
 #22753
-cave trollkin~
+young trollkin~
 a young cave troll~
 A young cave troll sniffs hungrily.
 ~
@@ -983,7 +983,7 @@ A young cave troll looks ready for battle.
 -27 16 11 110 0
 ! 0 0 0 7 0 0 0
 #22754
-darkmantle~
+ceiling hanger~
 a darkmantle~
 A darkmantle clings to the ceiling.
 ~
@@ -994,11 +994,11 @@ A darkmantle looks ready for battle.
 -22 17 12 120 0
 ! 0 0 0 7 0 0 0
 #22755
-troglodyte~
-a troglodyte~
-A troglodyte reeks of swamp.
+reeking crawler~
+a reeking crawler~
+A crawler reeks of marsh-marrow.
 ~
-A troglodyte looks ready for battle.
+A reeking crawler looks ready for battle.
 ~
 97 0 -300 S
 12 1
@@ -1006,21 +1006,21 @@ A troglodyte looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22756
 bugbear~
-a bugbear~
-A bugbear looms in the dark.
+a deep thug~
+A deep thug looms in the dark.
 ~
-A bugbear looks ready for battle.
+A deep thug looks ready for battle.
 ~
 97 0 -300 S
 12 1
 -12 19 13 140 0
 ! 0 0 0 7 0 0 0
 #22757
-orc warpriest~
-an orc warpriest~
-An orc warpriest raises a bloody idol.
+warpriest~
+a fall-warpriest~
+A warpriest raises a bloody idol of the Plunge.
 ~
-An orc warpriest looks ready for battle.
+A fall-warpriest looks ready for battle.
 ~
 97 0 -300 S
 14 1
@@ -1028,10 +1028,10 @@ An orc warpriest looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22758
 chaos chieftain~
-the Chieftain of Chaos~
-The Chieftain of Chaos bellows.
+the Ravine Chieftain~
+The Ravine Chieftain bellows from a claw-scored throne.
 ~
-The Chieftain of Chaos radiates terrible power.
+The Ravine Chieftain radiates terrible power.
 ~
 35 0 -1000 S
 18 1
@@ -1040,9 +1040,9 @@ The Chieftain of Chaos radiates terrible power.
 #0
 #OBJECTS
 #22770
-notched cave axe~
-@@ynotched cave axe@@N~
-@@yNotched cave axe@@N lies here, humming with power.~
+notched claw-axe~
+@@ynotched claw-axe@@N~
+@@yNotched claw-axe@@N lies here, humming with power.~
 5 0 8193 1
 1 4 0 3
 10
@@ -1051,9 +1051,9 @@ A 19 3
 A 1 1
 L 5
 #22771
-chaos breastplate armor~
-@@WChaos breastplate@@N~
-A @@WChaos breastplate@@N rests here.~
+clawmark breastplate armor~
+@@WClawMark breastplate@@N~
+A @@WClawMark breastplate@@N rests here.~
 9 0 9 1
 2 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 2
 A 12 10
 L 5
 #22772
-chaos helm~
-@@WChaos helm@@N~
-A @@WChaos helm@@N lies on the ground.~
+clawmark helm~
+@@WClawMark helm@@N~
+A @@WClawMark helm@@N lies on the ground.~
 9 0 17 1
 2 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 2
 A 19 2
 L 5
 #22773
-chaos greaves~
-@@WChaos greaves@@N~
-@@WChaos greaves@@N are discarded here.~
+clawmark greaves~
+@@WClawMark greaves@@N~
+@@WClawMark greaves@@N are discarded here.~
 9 0 33 1
 2 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 2
 A 19 2
 L 5
 #22774
-chaos boots~
-@@WChaos boots@@N~
-A pair of @@WChaos boots@@N sits here.~
+clawmark boots~
+@@WClawMark boots@@N~
+A pair of @@WClawMark boots@@N sits here.~
 9 0 65 1
 2 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 2
 A 19 2
 L 5
 #22775
-chaos gauntlets~
-@@WChaos gauntlets@@N~
-@@WChaos gauntlets@@N lie in a pile.~
+clawmark gauntlets~
+@@WClawMark gauntlets@@N~
+@@WClawMark gauntlets@@N lie in a pile.~
 9 0 129 1
 2 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 2
 A 19 2
 L 5
 #22776
-chaos shield~
-@@WChaos shield@@N~
-A @@WChaos shield@@N leans against the wall.~
+clawmark shield~
+@@WClawMark shield@@N~
+A @@WClawMark shield@@N leans against the wall.~
 9 0 513 1
 2 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 2
 A 19 2
 L 5
 #22777
-chaos cloak~
-@@WChaos cloak@@N~
-A @@WChaos cloak@@N is folded here.~
+clawmark cloak~
+@@WClawMark cloak@@N~
+A @@WClawMark cloak@@N is folded here.~
 9 0 1025 1
 2 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 2
 A 12 10
 L 5
 #22778
-chaos ring~
-@@WChaos ring@@N~
-A @@WChaos ring@@N glints on the ground.~
+clawmark ring~
+@@WClawMark ring@@N~
+A @@WClawMark ring@@N glints on the ground.~
 9 0 3 1
 2 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 2
 A 19 2
 L 5
 #22779
-chaos amulet~
-@@WChaos amulet@@N~
-A @@WChaos amulet@@N hangs from a peg.~
+clawmark amulet~
+@@WClawMark amulet@@N~
+A @@WClawMark amulet@@N hangs from a peg.~
 9 0 5 1
 2 0 0 0
 5
@@ -1169,9 +1169,9 @@ A red healing potion sits here.~
 1
 L 1
 #22781
-unique notched cave axe legendary~
-@@Rthe Chieftain of Chaos's weapon@@N~
-@@RThe legendary weapon of the Chieftain of Chaos@@N lies here.~
+unique notched claw-axe legendary~
+@@Rthe Ravine Chieftain's weapon@@N~
+@@RThe legendary weapon of the Ravine Chieftain@@N lies here.~
 5 67 8193 1
 2 6 0 3
 12

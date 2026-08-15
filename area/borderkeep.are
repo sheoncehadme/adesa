@@ -1,23 +1,23 @@
 #AREA
-@@yKeep on the Borderlands@@N~
+@@yRib-Cage Outer Watch@@N~
 Z 3
 C 9226
-K borderkeep~
+K ribcagewatch~
 L @@W{ @@r 1 10@@W }@@N~
 N 49
 I 1 10
 V 22600 22699
 X 0
 F 15
-U A horn sounds from the Border Keep walls.~
+U A Spinewarden horn echoes from rib-bone battlements.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #22600
-Entrance to Keep on the Borderlands~
-You stand in entrance to keep on the borderlands. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep. The path west returns toward The Realm Road.~
+Entrance to Rib-Cage Outer Watch~
+Entrance to Rib-Cage Outer Watch. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10. The path west returns toward Great Spine Waystation.~
 0 1
 D1
 East.~
@@ -33,8 +33,8 @@ West.~
 0 -1 22501
 S
 #22601
-Tannery Yard~
-You stand in tannery yard. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep. A trail leads east toward Caves of Chaos.~
+Tannery of Hide~
+Tannery of Hide. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10. A trail leads east toward Claw-Mark Ravines.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #22602
 Captain's Office~
-You stand in captain's office. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Captain's Office. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #22603
 Storage Loft~
-You stand in storage loft. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Storage Loft. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #22604
 Flagpole Court~
-You stand in flagpole court. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Flagpole Court. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #22605
 Cistern~
-You stand in cistern. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Cistern. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #22606
 Hidden Alcove~
-You stand in hidden alcove. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Hidden Alcove. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D2
 South.~
@@ -131,8 +131,8 @@ West.~
 0 -1 22605
 S
 #22607
-Muddy Approach~
-You stand in muddy approach. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Ashy Approach~
+Ashy Approach. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -148,8 +148,8 @@ South.~
 0 -1 22614
 S
 #22608
-South Wall~
-You stand in south wall. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+South Rib Wall~
+South Rib Wall. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #22609
 East Bastion~
-You stand in east bastion. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+East Bastion. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #22610
 Siege Ladder Shed~
-You stand in siege ladder shed. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Siege Ladder Shed. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -211,8 +211,8 @@ West.~
 0 -1 22609
 S
 #22611
-Curtain Wall Walk~
-You stand in curtain wall walk. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Curtain of Vertebrae~
+Curtain of Vertebrae. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -232,8 +232,8 @@ West.~
 0 -1 22610
 S
 #22612
-Armory Alcove~
-You stand in armory alcove. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Scale Armory~
+Scale Armory. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -253,8 +253,8 @@ West.~
 0 -1 22611
 S
 #22613
-North Wall~
-You stand in north wall. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+North Rib Wall~
+North Rib Wall. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #22614
 Root Cellar~
-You stand in root cellar. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Root Cellar. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -287,8 +287,8 @@ South.~
 0 -1 22621
 S
 #22615
-Palisade Path~
-You stand in palisade path. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Palisade of Shard~
+Palisade of Shard. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #22616
 Recruit Quarters~
-You stand in recruit quarters. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Recruit Quarters. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #22617
 Secret Stair~
-You stand in secret stair. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Secret Stair. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -350,8 +350,8 @@ West.~
 0 -1 22616
 S
 #22618
-Mess Hall~
-You stand in mess hall. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Mess Hall of Ash~
+Mess Hall of Ash. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #22619
 Campfire Ring~
-You stand in campfire ring. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Campfire Ring. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -392,8 +392,8 @@ West.~
 0 -1 22618
 S
 #22620
-Drawbridge~
-You stand in drawbridge. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Drawbridge of Scale~
+Drawbridge of Scale. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #22621
 Guardroom~
-You stand in guardroom. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Guardroom. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -426,8 +426,8 @@ South.~
 0 -1 22628
 S
 #22622
-Keep Courtyard~
-You stand in keep courtyard. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Rib Courtyard~
+Rib Courtyard. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #22623
 Hill Overlook~
-You stand in hill overlook. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Hill Overlook. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -468,8 +468,8 @@ West.~
 0 -1 22622
 S
 #22624
-Herb Garden~
-You stand in herb garden. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Marrow-Moss Garden~
+Marrow-Moss Garden. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -489,8 +489,8 @@ West.~
 0 -1 22623
 S
 #22625
-Stables~
-You stand in stables. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Pack-Drake Stables~
+Pack-Drake Stables. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #22626
 Supply Cellar~
-You stand in supply cellar. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Supply Cellar. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #22627
 Kennel Run~
-You stand in kennel run. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Kennel Run. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -548,8 +548,8 @@ West.~
 0 -1 22626
 S
 #22628
-Well Yard~
-You stand in well yard. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Well of Seeps~
+Well of Seeps. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -565,8 +565,8 @@ South.~
 0 -1 22635
 S
 #22629
-Watchtower Stair~
-You stand in watchtower stair. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Rib Watchtower Stair~
+Rib Watchtower Stair. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -586,8 +586,8 @@ West.~
 0 -1 22628
 S
 #22630
-Border Trail~
-You stand in border trail. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Scar Trail~
+Scar Trail. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #22631
 Practice Yard~
-You stand in practice yard. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Practice Yard. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #22632
 Chapel Crypt~
-You stand in chapel crypt. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Chapel Crypt. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -649,8 +649,8 @@ West.~
 0 -1 22631
 S
 #22633
-Forest Edge~
-You stand in forest edge. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Fog Bank Edge~
+Fog Bank Edge. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -670,8 +670,8 @@ West.~
 0 -1 22632
 S
 #22634
-Moat Bridge~
-You stand in moat bridge. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Moat of Impact-Glass~
+Moat of Impact-Glass. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #22635
 Arrow Slit Corridor~
-You stand in arrow slit corridor. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Arrow Slit Corridor. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #22636
 Outer Ditch~
-You stand in outer ditch. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Outer Ditch. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -725,8 +725,8 @@ West.~
 0 -1 22635
 S
 #22637
-Signal Fire Platform~
-You stand in signal fire platform. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Signal Aurora Platform~
+Signal Aurora Platform. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #22638
 West Bastion~
-You stand in west bastion. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+West Bastion. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -767,8 +767,8 @@ West.~
 0 -1 22637
 S
 #22639
-Smithy~
-You stand in smithy. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Scale-Forge~
+Scale-Forge. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #22640
 Wagon Barricade~
-You stand in wagon barricade. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Wagon Barricade. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -809,8 +809,8 @@ West.~
 0 -1 22639
 S
 #22641
-Outer Gatehouse~
-You stand in outer gatehouse. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Outer Bone Gatehouse~
+Outer Bone Gatehouse. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #22642
 Scout Post~
-You stand in scout post. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Scout Post. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -839,8 +839,8 @@ East.~
 0 -1 22643
 S
 #22643
-Barracks Hall~
-You stand in barracks hall. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Watch Barracks~
+Watch Barracks. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -856,8 +856,8 @@ West.~
 0 -1 22642
 S
 #22644
-Postern Gate~
-You stand in postern gate. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Postern of Glass~
+Postern of Glass. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -873,8 +873,8 @@ West.~
 0 -1 22643
 S
 #22645
-Inner Bailey~
-You stand in inner bailey. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Inner Bailey of Bone~
+Inner Bailey of Bone. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -890,8 +890,8 @@ West.~
 0 -1 22644
 S
 #22646
-Chapel Nave~
-You stand in chapel nave. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Heart-Chapel Nave~
+Heart-Chapel Nave. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -907,8 +907,8 @@ West.~
 0 -1 22645
 S
 #22647
-Stone Arch~
-You stand in stone arch. The surroundings show timber walls and trampled grass. This place tests travelers of roughly levels 1-10. Paths lead onward through the borderkeep.~
+Stone Arch of Claw~
+Stone Arch of Claw. Around you: rib-bone walls and trampled ash-grass. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 1-10.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 22646
 S
 #22648
-Sanctum of Castellan of the Keep~
-This is the heart of Keep on the Borderlands. The Castellan of the Keep stands ready. The air itself feels heavier here.~
+Sanctum of the Outer Watch Castellan~
+This is the heart of Rib-Cage Outer Watch. The Outer Watch Castellan stands ready. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,33 +939,33 @@ S
 #0
 #MOBILES
 #22650
-kobold scout~
-a kobold scout~
-A kobold scout hisses and flees then returns.
+ash-claimer scout~
+an ash-claimer scout~
+An ash-claimer scout hisses and flees then returns.
 ~
-A kobold scout looks ready for battle.
+An ash-claimer scout looks ready for battle.
 ~
 97 0 -300 S
 2 1
 -31 7 5 40 0
 ! 0 0 0 7 0 0 0
 #22651
-goblin raider~
-a goblin raider~
-A goblin raider brandishes a rusty blade.
+scar raider~
+a scar raider~
+A scar raider brandishes a rusty blade.
 ~
-A goblin raider looks ready for battle.
+A scar raider looks ready for battle.
 ~
 97 0 -300 S
 3 1
 -26 8 5 50 0
 ! 0 0 0 7 0 0 0
 #22652
-orc thug~
-an orc thug~
-An orc thug glares hungrily.
+bone-thug~
+a bone-thug~
+A bone-thug glares hungrily.
 ~
-An orc thug looks ready for battle.
+A bone-thug looks ready for battle.
 ~
 97 0 -300 S
 3 1
@@ -973,32 +973,32 @@ An orc thug looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22653
 bandit~
-a border bandit~
-A border bandit eyes your purse.
+a ravine bandit~
+A ravine bandit eyes your purse.
 ~
-A border bandit looks ready for battle.
+A ravine bandit looks ready for battle.
 ~
 97 0 -300 S
 3 1
 -16 10 6 70 0
 ! 0 0 0 7 0 0 0
 #22654
-giant rat~
-a giant rat~
-A giant rat squeals.
+shard rat~
+a shard-rat~
+A shard-rat squeals among scale dust.
 ~
-A giant rat looks ready for battle.
+A shard-rat looks ready for battle.
 ~
 97 0 -300 S
 8 1
 -11 11 7 80 0
 ! 0 0 0 7 0 0 0
 #22655
-keep recruit~
-a keep recruit~
-A keep recruit trains with a wooden sword.
+watch recruit~
+a spinewarden recruit~
+A recruit trains with a wooden sword.
 ~
-A keep recruit looks ready for battle.
+A spinewarden recruit looks ready for battle.
 ~
 97 0 -300 S
 6 1
@@ -1006,21 +1006,21 @@ A keep recruit looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22656
 wall archer~
-a wall archer~
+a rib-wall archer~
 A wall archer nocks an arrow.
 ~
-A wall archer looks ready for battle.
+A rib-wall archer looks ready for battle.
 ~
 97 0 -300 S
 7 1
 -1 13 8 100 0
 ! 0 0 0 7 0 0 0
 #22657
-orc shaman~
-an orc shaman~
-An orc shaman mutters dark words.
+echo-cult acolyte~
+an echo-cult acolyte~
+An acolyte mutters of a second plunge.
 ~
-An orc shaman looks ready for battle.
+An echo-cult acolyte looks ready for battle.
 ~
 97 0 -300 S
 9 1
@@ -1028,10 +1028,10 @@ An orc shaman looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22658
 border chief~
-Castellan of the Keep~
-The Castellan of the Keep stands ready.
+the Outer Watch Castellan~
+The Outer Watch Castellan stands ready.
 ~
-Castellan of the Keep radiates terrible power.
+The Outer Watch Castellan radiates terrible power.
 ~
 35 0 -1000 S
 13 1
@@ -1040,9 +1040,9 @@ Castellan of the Keep radiates terrible power.
 #0
 #OBJECTS
 #22670
-border shortsword~
-@@yborder shortsword@@N~
-@@yBorder shortsword@@N lies here, humming with power.~
+watch shortsword~
+@@ywatch shortsword@@N~
+@@yWatch shortsword@@N lies here, humming with power.~
 5 0 8193 1
 1 4 0 3
 10
@@ -1051,9 +1051,9 @@ A 19 1
 A 1 1
 L 1
 #22671
-border breastplate armor~
-@@WBorder breastplate@@N~
-A @@WBorder breastplate@@N rests here.~
+outerwatch breastplate armor~
+@@WOuterWatch breastplate@@N~
+A @@WOuterWatch breastplate@@N rests here.~
 9 0 9 1
 1 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 1
 A 12 5
 L 1
 #22672
-border helm~
-@@WBorder helm@@N~
-A @@WBorder helm@@N lies on the ground.~
+outerwatch helm~
+@@WOuterWatch helm@@N~
+A @@WOuterWatch helm@@N lies on the ground.~
 9 0 17 1
 1 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 1
 A 19 1
 L 1
 #22673
-border greaves~
-@@WBorder greaves@@N~
-@@WBorder greaves@@N are discarded here.~
+outerwatch greaves~
+@@WOuterWatch greaves@@N~
+@@WOuterWatch greaves@@N are discarded here.~
 9 0 33 1
 1 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 1
 A 19 1
 L 1
 #22674
-border boots~
-@@WBorder boots@@N~
-A pair of @@WBorder boots@@N sits here.~
+outerwatch boots~
+@@WOuterWatch boots@@N~
+A pair of @@WOuterWatch boots@@N sits here.~
 9 0 65 1
 1 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 1
 A 19 1
 L 1
 #22675
-border gauntlets~
-@@WBorder gauntlets@@N~
-@@WBorder gauntlets@@N lie in a pile.~
+outerwatch gauntlets~
+@@WOuterWatch gauntlets@@N~
+@@WOuterWatch gauntlets@@N lie in a pile.~
 9 0 129 1
 1 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 1
 A 19 1
 L 1
 #22676
-border shield~
-@@WBorder shield@@N~
-A @@WBorder shield@@N leans against the wall.~
+outerwatch shield~
+@@WOuterWatch shield@@N~
+A @@WOuterWatch shield@@N leans against the wall.~
 9 0 513 1
 1 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 1
 A 19 1
 L 1
 #22677
-border cloak~
-@@WBorder cloak@@N~
-A @@WBorder cloak@@N is folded here.~
+outerwatch cloak~
+@@WOuterWatch cloak@@N~
+A @@WOuterWatch cloak@@N is folded here.~
 9 0 1025 1
 1 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 1
 A 12 5
 L 1
 #22678
-border ring~
-@@WBorder ring@@N~
-A @@WBorder ring@@N glints on the ground.~
+outerwatch ring~
+@@WOuterWatch ring@@N~
+A @@WOuterWatch ring@@N glints on the ground.~
 9 0 3 1
 1 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 1
 A 19 1
 L 1
 #22679
-border amulet~
-@@WBorder amulet@@N~
-A @@WBorder amulet@@N hangs from a peg.~
+outerwatch amulet~
+@@WOuterWatch amulet@@N~
+A @@WOuterWatch amulet@@N hangs from a peg.~
 9 0 5 1
 1 0 0 0
 5
@@ -1169,9 +1169,9 @@ A red healing potion sits here.~
 1
 L 1
 #22681
-unique border shortsword legendary~
-@@RCastellan of the Keep's weapon@@N~
-@@RThe legendary weapon of Castellan of the Keep@@N lies here.~
+unique watch shortsword legendary~
+@@Rthe Outer Watch Castellan's weapon@@N~
+@@RThe legendary weapon of the Outer Watch Castellan@@N lies here.~
 5 67 8193 1
 2 6 0 3
 12

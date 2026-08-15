@@ -96,38 +96,36 @@ See `tests/scripts/run_all.sh` for the CI entry point.
 - **mudsets**: null string settings are saved/loaded as empty rather than the literal `"(null)"`.
 - **signals**: alarm handler uses `SA_RESTART` instead of a hardcoded flag value of `1`.
 
-## Progression zones (Realm Road)
+## World: Dragonfall
 
-A generated D&D-inspired campaign chain covers levels **1–90** with full gear sets:
+Setting bible: `docs/dragonfall-lore.md`. Home base is **the Scar** (capital file still `midgaard.are`; temple **3001** = Heart-Pulse Sanctum). Tagline: *From the plunge, a new age is born.*
 
-| Zone | Levels | Entry vnum | Theme |
-|------|--------|------------|--------|
-| `realmroad.are` | hub | 22500 | Crossroads / shops path |
-| `borderkeep.are` | 1–10 | 22600 | Keep on the Borderlands |
-| `caveschaos.are` | 5–15 | 22700 | Caves of Chaos |
-| `hillgiant.are` | 15–25 | 22800 | Hill giant steading |
-| `frosthold.are` | 25–35 | 22900 | Frost giants |
-| `firepeak.are` | 35–45 | 23000 | Fire giants |
-| `underdark.are` | 40–50 | 23100 | Underdark descent |
-| `vaultshadow.are` | 50–60 | 23200 | Drow vault |
-| `elementaltemple.are` | 55–65 | 23300 | Elemental temple |
-| `tombwhispers.are` | 60–70 | 23400 | Tomb crawl |
-| `demonweb.are` | 70–80 | 23500 | Demonweb |
-| `dragonspire.are` | 75–85 | 23600 | Dragon lairs |
-| `astralcourt.are` | 80–90 | 23700 | Astral endgame |
+### Progression spine (Great Spine / Wound-lands)
 
-Zones are linked west/east in order, and the hub links **north to Midgaard west gate (3052)** so mortals can walk the whole campaign from the Temple. Immortals: `goto 22500`.
+Generated campaign chain, levels **1–90**, ascending the Scar:
 
-Regenerate zones with:
+| Zone file | Levels | Entry | Dragonfall identity |
+|-----------|--------|-------|---------------------|
+| `realmroad.are` | hub | 22500 | Great Spine Waystation |
+| `borderkeep.are` | 1–10 | 22600 | Rib-Cage Outer Watch |
+| `caveschaos.are` | 5–15 | 22700 | Claw-Mark Ravines |
+| `hillgiant.are` | 15–25 | 22800 | Bone-Bridge Canyons |
+| `frosthold.are` | 25–35 | 22900 | Wing-Shadow Valleys |
+| `firepeak.are` | 35–45 | 23000 | Dying-Fire Caldera |
+| `underdark.are` | 40–50 | 23100 | Marrow-River Depths |
+| `vaultshadow.are` | 50–60 | 23200 | Star-Metal Veins |
+| `elementaltemple.are` | 55–65 | 23300 | Will-Fragment Temples |
+| `tombwhispers.are` | 60–70 | 23400 | Memory-Bone Catacombs |
+| `demonweb.are` | 70–80 | 23500 | Residual-Dragonstorm |
+| `dragonspire.are` | 75–85 | 23600 | Fossilized Wing Ruins |
+| `astralcourt.are` | 80–90 | 23700 | Axis-Heart Sanctum |
+
+Hub links **north to Scar west gate (3052)** so mortals walk from the Heart-Pulse Sanctum. Immortals: `goto 22500`.
+
+Regenerate:
 
 ```sh
 python3 tools/area_gen/gen_areas.py
-# re-apply non-generated world links (school, ethereal, maze, etc.):
 python3 tools/world_connect.py
-```
-
-Check walkability from the Temple (also required for auto-quests, which pathfind from vnum 3001):
-
-```sh
 python3 tests/scripts/check_connectivity.py
 ```

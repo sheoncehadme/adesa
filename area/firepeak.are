@@ -1,23 +1,23 @@
 #AREA
-@@RHall of the Fire Giant King@@N~
+@@RDying-Fire Caldera@@N~
 Z 3
 C 9230
-K firepeak~
+K dyingfire~
 L @@W{ @@r35 45@@W }@@N~
 N 49
 I 35 45
 V 23000 23099
 X 0
 F 15
-U Magma cracks and the air tastes of ash.~
+U Residual dragon-fire still cracks the caldera rim.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23000
-Entrance to Hall of the Fire Giant King~
-You stand in entrance to hall of the fire giant king. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak. The path west returns toward Glacial Hold of the Frost Giants.~
+Entrance to Dying-Fire Caldera~
+Entrance to Dying-Fire Caldera. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45. The path west returns toward Wing-Shadow Valleys.~
 0 1
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23001
 Coal Vault~
-You stand in coal vault. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak. A trail leads east toward Descent into the Underdark.~
+Coal Vault. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45. A trail leads east toward Marrow-River Depths.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #23002
 War Drum Hall~
-You stand in war drum hall. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+War Drum Hall. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #23003
 Guard Post of Flames~
-You stand in guard post of flames. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Guard Post of Flames. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #23004
 Smith's Anvil~
-You stand in smith's anvil. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Smith's Anvil. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D1
 East.~
@@ -101,8 +101,8 @@ West.~
 0 -1 23003
 S
 #23005
-Forge of Kings~
-You stand in forge of kings. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Forge of Dying Fire~
+Forge of Dying Fire. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #23006
 Pumice Slope~
-You stand in pumice slope. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Pumice Slope. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23007
 Heat Vent~
-You stand in heat vent. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Heat Vent. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #23008
 Chain Gallery~
-You stand in chain gallery. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Chain Gallery. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23009
 Iron Foundry~
-You stand in iron foundry. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Iron Foundry. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #23010
 Cinder Stair~
-You stand in cinder stair. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Cinder Stair. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #23011
 Throne of Cinders~
-You stand in throne of cinders. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Throne of Cinders. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #23012
 Map of Conquest~
-You stand in map of conquest. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Map of Conquest. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #23013
 Soot Corridor~
-You stand in soot corridor. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Soot Corridor. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #23014
 Blackened Chapel~
-You stand in blackened chapel. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Blackened Chapel. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #23015
 Sulfur Chamber~
-You stand in sulfur chamber. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Sulfur Chamber. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #23016
 Ash Pit~
-You stand in ash pit. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Ash Pit. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23017
 Magma Gallery~
-You stand in magma gallery. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Magma Gallery. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #23018
 Cinder Courtyard~
-You stand in cinder courtyard. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Cinder Courtyard. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23019
 Treasure Hoard Approach~
-You stand in treasure hoard approach. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Treasure Hoard Approach. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #23020
 Furnace Room~
-You stand in furnace room. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Furnace Room. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #23021
 Scorched Gallery~
-You stand in scorched gallery. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Scorched Gallery. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #23022
 Charred Bridge~
-You stand in charred bridge. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Charred Bridge. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23023
 Outer Rampart~
-You stand in outer rampart. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Outer Rampart. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #23024
 Red Glow Tunnel~
-You stand in red glow tunnel. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Red Glow Tunnel. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23025
 Basalt Prison~
-You stand in basalt prison. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Basalt Prison. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23026
 Glowing Cracks~
-You stand in glowing cracks. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Glowing Cracks. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #23027
 Lava View~
-You stand in lava view. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Lava View. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -548,8 +548,8 @@ West.~
 0 -1 23026
 S
 #23028
-Concubine Hall~
-You stand in concubine hall. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Side Hall~
+Side Hall. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #23029
 Ashen Approach~
-You stand in ashen approach. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Ashen Approach. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23030
 Boiling Pool~
-You stand in boiling pool. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Boiling Pool. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -607,8 +607,8 @@ West.~
 0 -1 23029
 S
 #23031
-Fire Giant Armory~
-You stand in fire giant armory. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Caldera Armory~
+Caldera Armory. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #23032
 Smoke Hall~
-You stand in smoke hall. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Smoke Hall. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #23033
 Hellhound Pens~
-You stand in hellhound pens. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Hellhound Pens. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #23034
 Basalt Stair~
-You stand in basalt stair. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Basalt Stair. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #23035
 Molten Overlook~
-You stand in molten overlook. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Molten Overlook. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #23036
 Slave Mine~
-You stand in slave mine. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Slave Mine. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23037
 Escape Flue~
-You stand in escape flue. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Escape Flue. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #23038
 Ember Barracks~
-You stand in ember barracks. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Ember Barracks. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23039
 Obsidian Gate~
-You stand in obsidian gate. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Obsidian Gate. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23040
 Molten Cell~
-You stand in molten cell. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Molten Cell. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #23041
 King's Chamber~
-You stand in king's chamber. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+King's Chamber. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23042
 Smelting Floor~
-You stand in smelting floor. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Smelting Floor. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #23043
 Iron Door Hall~
-You stand in iron door hall. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Iron Door Hall. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #23044
 Vent Chimney~
-You stand in vent chimney. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Vent Chimney. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #23045
 Ash Field~
-You stand in ash field. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Ash Field. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23046
 Weapon Vault~
-You stand in weapon vault. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Weapon Vault. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23047
 Lava Bridge~
-You stand in lava bridge. The surroundings show basalt, ash, and open vents of fire. This place tests travelers of roughly levels 35-45. Paths lead onward through the firepeak.~
+Lava Bridge. Around you: basalt, ash, and vents of dying dragon-fire. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 35-45.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23046
 S
 #23048
-Sanctum of the Fire Giant King~
-This is the heart of Hall of the Fire Giant King. The Fire Giant King rises in flame. The air itself feels heavier here.~
+Sanctum of the Caldera King~
+This is the heart of Dying-Fire Caldera. The Caldera King rises in residual dragon-fire. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,11 +939,11 @@ S
 #0
 #MOBILES
 #23050
-fire giant~
-a fire giant~
-A fire giant's armor glows with heat.
+cinder giant~
+a cinder giant~
+A cinder giant's armor glows with residual dragon-fire.
 ~
-A fire giant looks ready for battle.
+A cinder giant looks ready for battle.
 ~
 97 0 -300 S
 35 1
@@ -983,11 +983,11 @@ A magma mephit looks ready for battle.
 -93 49 38 350 0
 ! 0 0 0 7 0 0 0
 #23054
-fire giant smith~
-a fire giant smith~
-A fire giant smith hammers iron.
+fire smith~
+a caldera smith~
+A caldera smith hammers star-metal.
 ~
-A fire giant smith looks ready for battle.
+A caldera smith looks ready for battle.
 ~
 97 0 -300 S
 41 1
@@ -1005,22 +1005,22 @@ An azer looks ready for battle.
 -83 51 39 370 0
 ! 0 0 0 7 0 0 0
 #23056
-efreeti minor~
-a bound efreeti~
-A bound efreeti seethes.
+bound flame~
+a bound flame-spirit~
+A bound flame-spirit seethes.
 ~
-A bound efreeti looks ready for battle.
+A bound flame-spirit looks ready for battle.
 ~
 97 0 -300 S
 45 1
 -78 52 40 380 0
 ! 0 0 0 7 0 0 0
 #23057
-fire giant priest~
-a fire giant priest~
-A fire giant priest chants to flame.
+fire priest~
+a dying-fire priest~
+A dying-fire priest chants to residual flame.
 ~
-A fire giant priest looks ready for battle.
+A dying-fire priest looks ready for battle.
 ~
 97 0 -300 S
 45 1
@@ -1028,10 +1028,10 @@ A fire giant priest looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23058
 fire giant king~
-the Fire Giant King~
-The Fire Giant King rises in flame.
+the Caldera King~
+The Caldera King rises in residual dragon-fire.
 ~
-The Fire Giant King radiates terrible power.
+The Caldera King radiates terrible power.
 ~
 35 0 -1000 S
 48 1
@@ -1051,9 +1051,9 @@ A 19 13
 A 1 2
 L 35
 #23071
-cinder breastplate armor~
-@@WCinder breastplate@@N~
-A @@WCinder breastplate@@N rests here.~
+dyingfire breastplate armor~
+@@WDyingFire breastplate@@N~
+A @@WDyingFire breastplate@@N rests here.~
 9 65 9 1
 8 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 10
 A 12 40
 L 35
 #23072
-cinder helm~
-@@WCinder helm@@N~
-A @@WCinder helm@@N lies on the ground.~
+dyingfire helm~
+@@WDyingFire helm@@N~
+A @@WDyingFire helm@@N lies on the ground.~
 9 65 17 1
 8 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 10
 A 19 10
 L 35
 #23073
-cinder greaves~
-@@WCinder greaves@@N~
-@@WCinder greaves@@N are discarded here.~
+dyingfire greaves~
+@@WDyingFire greaves@@N~
+@@WDyingFire greaves@@N are discarded here.~
 9 65 33 1
 8 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 10
 A 19 10
 L 35
 #23074
-cinder boots~
-@@WCinder boots@@N~
-A pair of @@WCinder boots@@N sits here.~
+dyingfire boots~
+@@WDyingFire boots@@N~
+A pair of @@WDyingFire boots@@N sits here.~
 9 65 65 1
 8 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 10
 A 19 10
 L 35
 #23075
-cinder gauntlets~
-@@WCinder gauntlets@@N~
-@@WCinder gauntlets@@N lie in a pile.~
+dyingfire gauntlets~
+@@WDyingFire gauntlets@@N~
+@@WDyingFire gauntlets@@N lie in a pile.~
 9 65 129 1
 8 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 10
 A 19 10
 L 35
 #23076
-cinder shield~
-@@WCinder shield@@N~
-A @@WCinder shield@@N leans against the wall.~
+dyingfire shield~
+@@WDyingFire shield@@N~
+A @@WDyingFire shield@@N leans against the wall.~
 9 65 513 1
 8 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 10
 A 19 10
 L 35
 #23077
-cinder cloak~
-@@WCinder cloak@@N~
-A @@WCinder cloak@@N is folded here.~
+dyingfire cloak~
+@@WDyingFire cloak@@N~
+A @@WDyingFire cloak@@N is folded here.~
 9 65 1025 1
 8 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 10
 A 12 40
 L 35
 #23078
-cinder ring~
-@@WCinder ring@@N~
-A @@WCinder ring@@N glints on the ground.~
+dyingfire ring~
+@@WDyingFire ring@@N~
+A @@WDyingFire ring@@N glints on the ground.~
 9 65 3 1
 8 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 10
 A 19 10
 L 35
 #23079
-cinder amulet~
-@@WCinder amulet@@N~
-A @@WCinder amulet@@N hangs from a peg.~
+dyingfire amulet~
+@@WDyingFire amulet@@N~
+A @@WDyingFire amulet@@N hangs from a peg.~
 9 65 5 1
 8 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #23081
 unique obsidian greatsword legendary~
-@@Rthe Fire Giant King's weapon@@N~
-@@RThe legendary weapon of the Fire Giant King@@N lies here.~
+@@Rthe Caldera King's weapon@@N~
+@@RThe legendary weapon of the Caldera King@@N lies here.~
 5 67 8193 1
 3 20 0 3
 12

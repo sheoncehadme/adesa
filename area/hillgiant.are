@@ -1,23 +1,23 @@
 #AREA
-@@ySteading of the Hill Giant Chief@@N~
+@@yBone-Bridge Canyons@@N~
 Z 3
 C 9228
-K hillgiant~
+K bonebridge~
 L @@W{ @@r15 25@@W }@@N~
 N 49
 I 15 25
 V 22800 22899
 X 0
 F 15
-U The ground trembles under giant footfalls.~
+U A span of fused vertebrae groans under giant steps.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #22800
-Entrance to Steading of the Hill Giant Chief~
-You stand in entrance to steading of the hill giant chief. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant. The path west returns toward Caves of Chaos.~
+Entrance to Bone-Bridge Canyons~
+Entrance to Bone-Bridge Canyons. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25. The path west returns toward Claw-Mark Ravines.~
 0 1
 D1
 East.~
@@ -33,8 +33,8 @@ West.~
 0 -1 22701
 S
 #22801
-Steading Gates~
-You stand in steading gates. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant. A trail leads east toward Glacial Hold of the Frost Giants.~
+Bone-Bridge Gates~
+Bone-Bridge Gates. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25. A trail leads east toward Wing-Shadow Valleys.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #22802
 Hidden Crawl~
-You stand in hidden crawl. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Hidden Crawl. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #22803
 Larder~
-You stand in larder. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Larder. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #22804
 Boulder Field~
-You stand in boulder field. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Boulder Field. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #22805
 Chief's Bedchamber~
-You stand in chief's bedchamber. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Chief's Bedchamber. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D1
 East.~
@@ -119,7 +119,7 @@ West.~
 S
 #22806
 Giant Boot Rack~
-You stand in giant boot rack. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Giant Boot Rack. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #22807
 Back Gate~
-You stand in back gate. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Back Gate. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #22808
 Weapon Rack Room~
-You stand in weapon rack room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Weapon Rack Room. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #22809
 Woodpile Yard~
-You stand in woodpile yard. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Woodpile Yard. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #22810
 Sheep Pen~
-You stand in sheep pen. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Sheep Pen. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #22811
 Beer Vat Room~
-You stand in beer vat room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Beer Vat Room. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #22812
 Slave Pens~
-You stand in slave pens. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Slave Pens. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #22813
 Messy Pantry~
-You stand in messy pantry. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Messy Pantry. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #22814
 Stone Circle~
-You stand in stone circle. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Stone Circle. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #22815
 Prison Pit~
-You stand in prison pit. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Prison Pit. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #22816
 Chief's Throne~
-You stand in chief's throne. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Chief's Throne. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #22817
 Chimney Flue~
-You stand in chimney flue. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Chimney Flue. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #22818
 Storage Barn~
-You stand in storage barn. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Storage Barn. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #22819
 Rubble Court~
-You stand in rubble court. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Rubble Court. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #22820
 Loot Vault~
-You stand in loot vault. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Loot Vault. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #22821
 Smokehouse~
-You stand in smokehouse. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Smokehouse. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -427,7 +427,7 @@ South.~
 S
 #22822
 Barracks Bunks~
-You stand in barracks bunks. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Barracks Bunks. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -447,8 +447,8 @@ West.~
 0 -1 22821
 S
 #22823
-Great Hall~
-You stand in great hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Great Hall of Vertebrae~
+Great Hall of Vertebrae. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #22824
 Root Tunnel~
-You stand in root tunnel. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Root Tunnel. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #22825
 Mead Cellar~
-You stand in mead cellar. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Mead Cellar. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -510,8 +510,8 @@ West.~
 0 -1 22824
 S
 #22826
-Concubine Room~
-You stand in concubine room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Side Chamber~
+Side Chamber. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #22827
 Smith Corner~
-You stand in smith corner. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Smith Corner. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #22828
 Courtyard Muck~
-You stand in courtyard muck. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Courtyard Muck. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #22829
 Kitchen Hearth~
-You stand in kitchen hearth. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Kitchen Hearth. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #22830
 Outer Palisade~
-You stand in outer palisade. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Outer Palisade. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #22831
 Giant Footprint Mud~
-You stand in giant footprint mud. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Giant Footprint Mud. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #22832
 Armory~
-You stand in armory. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Armory. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #22833
 Trophy Hall~
-You stand in trophy hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Trophy Hall. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #22834
 Map Room~
-You stand in map room. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Map Room. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #22835
 Outer Ditch~
-You stand in outer ditch. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Outer Ditch. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -704,8 +704,8 @@ South.~
 0 -1 22842
 S
 #22836
-Hilltop Approach~
-You stand in hilltop approach. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Bridge Approach~
+Bridge Approach. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #22837
 Side Corridor~
-You stand in side corridor. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Side Corridor. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -746,8 +746,8 @@ West.~
 0 -1 22836
 S
 #22838
-Hill Path~
-You stand in hill path. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Canyon Path~
+Canyon Path. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #22839
 Watch Platform~
-You stand in watch platform. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Watch Platform. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #22840
 Dog Kennels~
-You stand in dog kennels. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Dog Kennels. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #22841
 Watch Cairn~
-You stand in watch cairn. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Watch Cairn. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -826,8 +826,8 @@ West.~
 0 -1 22840
 S
 #22842
-Hill Crest~
-You stand in hill crest. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Canyon Crest~
+Canyon Crest. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #22843
 Lower Cellar~
-You stand in lower cellar. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Lower Cellar. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #22844
 Feasting Table~
-You stand in feasting table. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Feasting Table. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #22845
 Upper Gallery~
-You stand in upper gallery. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Upper Gallery. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #22846
 Guard Nook~
-You stand in guard nook. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+Guard Nook. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #22847
 War Planning Hall~
-You stand in war planning hall. The surroundings show rough timber and churned earth. This place tests travelers of roughly levels 15-25. Paths lead onward through the hillgiant.~
+War Planning Hall. Around you: fused bone spans and churned canyon earth. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 15-25.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 22846
 S
 #22848
-Sanctum of the Hill Giant Chief~
-This is the heart of Steading of the Hill Giant Chief. The Hill Giant Chief fills the throne. The air itself feels heavier here.~
+Sanctum of the Bone-Bridge Chief~
+This is the heart of Bone-Bridge Canyons. The Bone-Bridge Chief fills a throne of fused vertebrae. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,11 +939,11 @@ S
 #0
 #MOBILES
 #22850
-hill giant~
-a hill giant~
-A hill giant brandishes a tree trunk.
+bone giant~
+a bone-bridge giant~
+A bone-bridge giant brandishes a tree trunk.
 ~
-A hill giant looks ready for battle.
+A bone-bridge giant looks ready for battle.
 ~
 97 0 -300 S
 14 1
@@ -961,11 +961,11 @@ An ogre mercenary looks ready for battle.
 -59 25 19 170 0
 ! 0 0 0 7 0 0 0
 #22852
-orc servant~
-an orc servant~
-An orc servant scurries.
+servant~
+a canyon servant~
+A servant scurries underfoot.
 ~
-An orc servant looks ready for battle.
+A canyon servant looks ready for battle.
 ~
 97 0 -300 S
 19 1
@@ -983,7 +983,7 @@ A dire wolf looks ready for battle.
 -49 27 20 190 0
 ! 0 0 0 7 0 0 0
 #22854
-giant thrall~
+thrall~
 a giant thrall~
 A battered thrall looks up.
 ~
@@ -994,11 +994,11 @@ A giant thrall looks ready for battle.
 -44 28 21 200 0
 ! 0 0 0 7 0 0 0
 #22855
-hill giant guard~
-a hill giant guard~
-A hill giant guard blocks the way.
+giant guard~
+a bridge giant guard~
+A giant guard blocks the way.
 ~
-A hill giant guard looks ready for battle.
+A bridge giant guard looks ready for battle.
 ~
 97 0 -300 S
 22 1
@@ -1018,7 +1018,7 @@ A stone-throwing giant looks ready for battle.
 #22857
 ogre mage~
 an ogre mage~
-An ogre mage fingers a charm.
+An ogre mage fingers a charm of scale.
 ~
 An ogre mage looks ready for battle.
 ~
@@ -1028,10 +1028,10 @@ An ogre mage looks ready for battle.
 ! 0 0 0 7 0 0 0
 #22858
 hill giant chief~
-the Hill Giant Chief~
-The Hill Giant Chief fills the throne.
+the Bone-Bridge Chief~
+The Bone-Bridge Chief fills a throne of fused vertebrae.
 ~
-The Hill Giant Chief radiates terrible power.
+The Bone-Bridge Chief radiates terrible power.
 ~
 35 0 -1000 S
 28 1
@@ -1040,9 +1040,9 @@ The Hill Giant Chief radiates terrible power.
 #0
 #OBJECTS
 #22870
-tree-trunk club~
-@@ytree-trunk club@@N~
-@@yTree-trunk club@@N lies here, humming with power.~
+vertebra club~
+@@yvertebra club@@N~
+@@yVertebra club@@N lies here, humming with power.~
 5 64 8193 1
 1 6 0 3
 10
@@ -1051,9 +1051,9 @@ A 19 6
 A 1 1
 L 15
 #22871
-steading breastplate armor~
-@@WSteading breastplate@@N~
-A @@WSteading breastplate@@N rests here.~
+bonebridge breastplate armor~
+@@WBoneBridge breastplate@@N~
+A @@WBoneBridge breastplate@@N rests here.~
 9 64 9 1
 4 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 5
 A 12 20
 L 15
 #22872
-steading helm~
-@@WSteading helm@@N~
-A @@WSteading helm@@N lies on the ground.~
+bonebridge helm~
+@@WBoneBridge helm@@N~
+A @@WBoneBridge helm@@N lies on the ground.~
 9 64 17 1
 4 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 5
 A 19 5
 L 15
 #22873
-steading greaves~
-@@WSteading greaves@@N~
-@@WSteading greaves@@N are discarded here.~
+bonebridge greaves~
+@@WBoneBridge greaves@@N~
+@@WBoneBridge greaves@@N are discarded here.~
 9 64 33 1
 4 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 5
 A 19 5
 L 15
 #22874
-steading boots~
-@@WSteading boots@@N~
-A pair of @@WSteading boots@@N sits here.~
+bonebridge boots~
+@@WBoneBridge boots@@N~
+A pair of @@WBoneBridge boots@@N sits here.~
 9 64 65 1
 4 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 5
 A 19 5
 L 15
 #22875
-steading gauntlets~
-@@WSteading gauntlets@@N~
-@@WSteading gauntlets@@N lie in a pile.~
+bonebridge gauntlets~
+@@WBoneBridge gauntlets@@N~
+@@WBoneBridge gauntlets@@N lie in a pile.~
 9 64 129 1
 4 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 5
 A 19 5
 L 15
 #22876
-steading shield~
-@@WSteading shield@@N~
-A @@WSteading shield@@N leans against the wall.~
+bonebridge shield~
+@@WBoneBridge shield@@N~
+A @@WBoneBridge shield@@N leans against the wall.~
 9 64 513 1
 4 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 5
 A 19 5
 L 15
 #22877
-steading cloak~
-@@WSteading cloak@@N~
-A @@WSteading cloak@@N is folded here.~
+bonebridge cloak~
+@@WBoneBridge cloak@@N~
+A @@WBoneBridge cloak@@N is folded here.~
 9 64 1025 1
 4 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 5
 A 12 20
 L 15
 #22878
-steading ring~
-@@WSteading ring@@N~
-A @@WSteading ring@@N glints on the ground.~
+bonebridge ring~
+@@WBoneBridge ring@@N~
+A @@WBoneBridge ring@@N glints on the ground.~
 9 64 3 1
 4 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 5
 A 19 5
 L 15
 #22879
-steading amulet~
-@@WSteading amulet@@N~
-A @@WSteading amulet@@N hangs from a peg.~
+bonebridge amulet~
+@@WBoneBridge amulet@@N~
+A @@WBoneBridge amulet@@N hangs from a peg.~
 9 64 5 1
 4 0 0 0
 5
@@ -1169,9 +1169,9 @@ A red healing potion sits here.~
 1
 L 1
 #22881
-unique tree-trunk club legendary~
-@@Rthe Hill Giant Chief's weapon@@N~
-@@RThe legendary weapon of the Hill Giant Chief@@N lies here.~
+unique vertebra club legendary~
+@@Rthe Bone-Bridge Chief's weapon@@N~
+@@RThe legendary weapon of the Bone-Bridge Chief@@N lies here.~
 5 67 8193 1
 2 10 0 3
 12

@@ -1,23 +1,23 @@
 #AREA
-@@eTemple of the Four Elements@@N~
+@@eWill-Fragment Temples@@N~
 Z 3
 C 9233
-K elementaltemple~
+K willtemples~
 L @@W{ @@r55 65@@W }@@N~
 N 49
 I 55 65
 V 23300 23399
 X 0
 F 15
-U The four elements roar in unnatural harmony.~
+U Shards of the Wyrm's will hum in fourfold shrines.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23300
-Entrance to Temple of the Four Elements~
-You stand in entrance to temple of the four elements. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple. The path west returns toward Vault of Shadows.~
+Entrance to Will-Fragment Temples~
+Entrance to Will-Fragment Temples. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65. The path west returns toward Star-Metal Veins.~
 0 1
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23301
 Outer Cloister~
-You stand in outer cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple. A trail leads east toward Tomb of Whispering Bones.~
+Outer Cloister. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65. A trail leads east toward Memory-Bone Catacombs.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #23302
 Central Nexus~
-You stand in central nexus. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Central Nexus. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D1
 East.~
@@ -67,8 +67,8 @@ West.~
 0 -1 23301
 S
 #23303
-Heart of the Temple~
-You stand in heart of the temple. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Heart of the Temples~
+Heart of the Temples. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #23304
 Scriptorium~
-You stand in scriptorium. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Scriptorium. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D1
 East.~
@@ -101,8 +101,8 @@ West.~
 0 -1 23303
 S
 #23305
-Air Gallery~
-You stand in air gallery. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Breath Gallery~
+Breath Gallery. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D1
 East.~
@@ -118,8 +118,8 @@ West.~
 0 -1 23304
 S
 #23306
-Elemental Crossroads~
-You stand in elemental crossroads. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Will Crossroads~
+Will Crossroads. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23307
 Ice Font~
-You stand in ice font. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Ice Font. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -149,7 +149,7 @@ South.~
 S
 #23308
 Processional~
-You stand in processional. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Processional. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23309
 Root Cellar of Stone~
-You stand in root cellar of stone. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Root Cellar of Stone. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -191,7 +191,7 @@ West.~
 S
 #23310
 Balance Scale Room~
-You stand in balance scale room. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Balance Scale Room. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -212,7 +212,7 @@ West.~
 S
 #23311
 Ash Altar~
-You stand in ash altar. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Ash Altar. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -233,7 +233,7 @@ West.~
 S
 #23312
 Stone Garden~
-You stand in stone garden. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Stone Garden. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -254,7 +254,7 @@ West.~
 S
 #23313
 Last Seal~
-You stand in last seal. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Last Seal. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #23314
 Guardian Circle~
-You stand in guardian circle. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Guardian Circle. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #23315
 Observatory~
-You stand in observatory. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Observatory. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -308,8 +308,8 @@ West.~
 0 -1 23314
 S
 #23316
-Fourfold Gate~
-You stand in fourfold gate. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Fourfold Gate of Will~
+Fourfold Gate of Will. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23317
 Inferno Aisle~
-You stand in inferno aisle. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Inferno Aisle. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -351,7 +351,7 @@ West.~
 S
 #23318
 Fire Shrine~
-You stand in fire shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Fire Shrine. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23319
 Containment Rune~
-You stand in containment rune. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Containment Rune. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -392,8 +392,8 @@ West.~
 0 -1 23318
 S
 #23320
-Trial of Air~
-You stand in trial of air. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Trial of Breath~
+Trial of Breath. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -409,8 +409,8 @@ West.~
 0 -1 23319
 S
 #23321
-Earth Shrine~
-You stand in earth shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Bone Shrine~
+Bone Shrine. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -426,8 +426,8 @@ South.~
 0 -1 23328
 S
 #23322
-Air Shrine~
-You stand in air shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Breath Shrine~
+Breath Shrine. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23323
 Broken Seal Hall~
-You stand in broken seal hall. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Broken Seal Hall. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #23324
 Lightning Spire~
-You stand in lightning spire. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Lightning Spire. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23325
 Trial of Fire~
-You stand in trial of fire. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Trial of Fire. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23326
 Crystal Cavern~
-You stand in crystal cavern. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Crystal Cavern. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -531,8 +531,8 @@ West.~
 0 -1 23325
 S
 #23327
-Trial of Water~
-You stand in trial of water. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Trial of Blood~
+Trial of Blood. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #23328
 Relic Vault~
-You stand in relic vault. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Relic Vault. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -565,8 +565,8 @@ South.~
 0 -1 23335
 S
 #23329
-Earth Crypt~
-You stand in earth crypt. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Bone Crypt~
+Bone Crypt. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23330
 Whirlwind Chamber~
-You stand in whirlwind chamber. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Whirlwind Chamber. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #23331
 Flooded Crypt~
-You stand in flooded crypt. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Flooded Crypt. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #23332
 Mist Cloister~
-You stand in mist cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Mist Cloister. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #23333
 Ember Choir~
-You stand in ember choir. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Ember Choir. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #23334
 Quake Hall~
-You stand in quake hall. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Quake Hall. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -688,7 +688,7 @@ West.~
 S
 #23335
 Storm Balcony~
-You stand in storm balcony. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Storm Balcony. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -704,8 +704,8 @@ South.~
 0 -1 23342
 S
 #23336
-Water Shrine~
-You stand in water shrine. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Blood Shrine~
+Blood Shrine. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23337
 Thunder Stair~
-You stand in thunder stair. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Thunder Stair. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -746,8 +746,8 @@ West.~
 0 -1 23336
 S
 #23338
-Trial of Earth~
-You stand in trial of earth. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Trial of Bone~
+Trial of Bone. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23339
 Inner Sanctum~
-You stand in inner sanctum. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Inner Sanctum. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23340
 Fire Sanctum~
-You stand in fire sanctum. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Fire Sanctum. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #23341
 Magma Font~
-You stand in magma font. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Magma Font. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23342
 Antechamber~
-You stand in antechamber. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Antechamber. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -840,7 +840,7 @@ East.~
 S
 #23343
 Rift Leak~
-You stand in rift leak. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Rift Leak. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -856,8 +856,8 @@ West.~
 0 -1 23342
 S
 #23344
-Water Cloister~
-You stand in water cloister. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Blood Cloister~
+Blood Cloister. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #23345
 Hall of Balance~
-You stand in hall of balance. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Hall of Balance. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23346
 High Priest Quarters~
-You stand in high priest quarters. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+High Priest Quarters. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23347
 Tidal Basin~
-You stand in tidal basin. The surroundings show  triumphal stone etched with elemental runes. This place tests travelers of roughly levels 55-65. Paths lead onward through the elementaltemple.~
+Tidal Basin. Around you: triumphal stone etched with will-runes of the First Wyrm. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 55-65.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23346
 S
 #23348
-Sanctum of the Elemental Tyrant~
-This is the heart of Temple of the Four Elements. The Elemental Tyrant wears all four crowns. The air itself feels heavier here.~
+Sanctum of the Tyrant of Will-Fragments~
+This is the heart of Will-Fragment Temples. The Tyrant of Will-Fragments wears four broken crowns. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,22 +939,22 @@ S
 #0
 #MOBILES
 #23350
-air elemental~
-an air elemental~
-An air elemental howls.
+breath elemental~
+a breath elemental~
+A breath elemental howls.
 ~
-An air elemental looks ready for battle.
+A breath elemental looks ready for battle.
 ~
 97 0 -300 S
 55 1
 -152 68 55 480 0
 ! 0 0 0 7 0 0 0
 #23351
-earth elemental~
-an earth elemental~
-An earth elemental grinds forward.
+bone elemental~
+a bone elemental~
+A bone elemental grinds forward.
 ~
-An earth elemental looks ready for battle.
+A bone elemental looks ready for battle.
 ~
 97 0 -300 S
 55 1
@@ -963,7 +963,7 @@ An earth elemental looks ready for battle.
 #23352
 fire elemental~
 a fire elemental~
-A fire elemental blazes.
+A fire elemental blazes with residual flame.
 ~
 A fire elemental looks ready for battle.
 ~
@@ -972,22 +972,22 @@ A fire elemental looks ready for battle.
 -142 70 56 500 0
 ! 0 0 0 7 0 0 0
 #23353
-water elemental~
-a water elemental~
-A water elemental surges.
+blood elemental~
+a blood elemental~
+A blood elemental surges like quicksilver.
 ~
-A water elemental looks ready for battle.
+A blood elemental looks ready for battle.
 ~
 97 0 -300 S
 60 1
 -137 71 56 510 0
 ! 0 0 0 7 0 0 0
 #23354
-elemental cultist~
-an elemental cultist~
-An elemental cultist chants.
+will cultist~
+a will-fragment cultist~
+A will-fragment cultist chants.
 ~
-An elemental cultist looks ready for battle.
+A will-fragment cultist looks ready for battle.
 ~
 97 0 -300 S
 59 1
@@ -1005,7 +1005,7 @@ A temple guardian looks ready for battle.
 -127 73 57 530 0
 ! 0 0 0 7 0 0 0
 #23356
-mephit swarm~
+mephit~
 a mephit~
 A mephit zips past your ear.
 ~
@@ -1017,10 +1017,10 @@ A mephit looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23357
 high cultist~
-a high cultist~
-A high cultist raises four symbols.
+a high will-cultist~
+A high will-cultist raises four symbols of the Wyrm.
 ~
-A high cultist looks ready for battle.
+A high will-cultist looks ready for battle.
 ~
 97 0 -300 S
 65 1
@@ -1028,10 +1028,10 @@ A high cultist looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23358
 elemental tyrant~
-the Elemental Tyrant~
-The Elemental Tyrant wears all four crowns.
+the Tyrant of Will-Fragments~
+The Tyrant of Will-Fragments wears four broken crowns.
 ~
-The Elemental Tyrant radiates terrible power.
+The Tyrant of Will-Fragments radiates terrible power.
 ~
 35 0 -1000 S
 68 1
@@ -1040,9 +1040,9 @@ The Elemental Tyrant radiates terrible power.
 #0
 #OBJECTS
 #23370
-elemental warblade~
-@@yelemental warblade@@N~
-@@yElemental warblade@@N lies here, humming with power.~
+will-forged warblade~
+@@ywill-forged warblade@@N~
+@@yWill-forged warblade@@N lies here, humming with power.~
 5 67 8193 1
 4 20 0 3
 10
@@ -1051,9 +1051,9 @@ A 19 20
 A 1 3
 L 55
 #23371
-elemental breastplate armor~
-@@WElemental breastplate@@N~
-A @@WElemental breastplate@@N rests here.~
+willfragment breastplate armor~
+@@WWillFragment breastplate@@N~
+A @@WWillFragment breastplate@@N rests here.~
 9 65 9 1
 12 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 15
 A 12 60
 L 55
 #23372
-elemental helm~
-@@WElemental helm@@N~
-A @@WElemental helm@@N lies on the ground.~
+willfragment helm~
+@@WWillFragment helm@@N~
+A @@WWillFragment helm@@N lies on the ground.~
 9 65 17 1
 12 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 15
 A 19 15
 L 55
 #23373
-elemental greaves~
-@@WElemental greaves@@N~
-@@WElemental greaves@@N are discarded here.~
+willfragment greaves~
+@@WWillFragment greaves@@N~
+@@WWillFragment greaves@@N are discarded here.~
 9 65 33 1
 12 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 15
 A 19 15
 L 55
 #23374
-elemental boots~
-@@WElemental boots@@N~
-A pair of @@WElemental boots@@N sits here.~
+willfragment boots~
+@@WWillFragment boots@@N~
+A pair of @@WWillFragment boots@@N sits here.~
 9 65 65 1
 12 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 15
 A 19 15
 L 55
 #23375
-elemental gauntlets~
-@@WElemental gauntlets@@N~
-@@WElemental gauntlets@@N lie in a pile.~
+willfragment gauntlets~
+@@WWillFragment gauntlets@@N~
+@@WWillFragment gauntlets@@N lie in a pile.~
 9 65 129 1
 12 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 15
 A 19 15
 L 55
 #23376
-elemental shield~
-@@WElemental shield@@N~
-A @@WElemental shield@@N leans against the wall.~
+willfragment shield~
+@@WWillFragment shield@@N~
+A @@WWillFragment shield@@N leans against the wall.~
 9 65 513 1
 12 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 15
 A 19 15
 L 55
 #23377
-elemental cloak~
-@@WElemental cloak@@N~
-A @@WElemental cloak@@N is folded here.~
+willfragment cloak~
+@@WWillFragment cloak@@N~
+A @@WWillFragment cloak@@N is folded here.~
 9 65 1025 1
 12 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 15
 A 12 60
 L 55
 #23378
-elemental ring~
-@@WElemental ring@@N~
-A @@WElemental ring@@N glints on the ground.~
+willfragment ring~
+@@WWillFragment ring@@N~
+A @@WWillFragment ring@@N glints on the ground.~
 9 65 3 1
 12 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 15
 A 19 15
 L 55
 #23379
-elemental amulet~
-@@WElemental amulet@@N~
-A @@WElemental amulet@@N hangs from a peg.~
+willfragment amulet~
+@@WWillFragment amulet@@N~
+A @@WWillFragment amulet@@N hangs from a peg.~
 9 65 5 1
 12 0 0 0
 5
@@ -1169,9 +1169,9 @@ A red healing potion sits here.~
 1
 L 1
 #23381
-unique elemental warblade legendary~
-@@Rthe Elemental Tyrant's weapon@@N~
-@@RThe legendary weapon of the Elemental Tyrant@@N lies here.~
+unique will-forged warblade legendary~
+@@Rthe Tyrant of Will-Fragments's weapon@@N~
+@@RThe legendary weapon of the Tyrant of Will-Fragments@@N lies here.~
 5 67 8193 1
 5 30 0 3
 12

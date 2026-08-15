@@ -1,5 +1,5 @@
 #AREA
-@@WThe @@dGraveyard@@N~
+@@WWhispering Marrow Groves@@N~
 Z 3
 C 43
 K graveyard~
@@ -18,19 +18,27 @@ T You can teleport into here
 #11090
 @@NA small ledge@@N~
 @@NAs you shimmy down the pit, you are suddenly overcome by the smell of
-@@ebrimstone@@N, and you senses begin to reel!!
- 
-   Suddenly, you slip, and break your fall on a small ledge.  There seems no
-way back up, but you can hear water flowing beneath you.
-~
+
+@@ebrimstone@@N, and you senses begin to reel!!
+
+ 
+
+   Suddenly, you slip, and break your fall on a small ledge.  There seems no
+
+way back up, but you can hear water flowing beneath you.
+
+~
 24589 11
 S
 #11088
 Lost in the woods~
 Lost now, not even sure which way is safe to turn back. A haven of some kind
-seems to be visible to the north. But what creatures call it home is yet to be
-determined.
-~
+
+seems to be visible to the north. But what creatures call it home is yet to be
+
+determined.
+
+~
 8 8
 D0
 ~
@@ -44,10 +52,14 @@ S
 #11087
 Deeper into the woods.~
 The path is barely visable here, as the trees ascend above you in a manner in
-which they seem to be awaiting there next victim. The sounds of the howling
-creatures can be heard as the first glimpse of what appears to be a sacred
-space can be seen.
-~
+
+which they seem to be awaiting there next victim. The sounds of the howling
+
+creatures can be heard as the first glimpse of what appears to be a sacred
+
+space can be seen.
+
+~
 8 8
 D0
 ~
@@ -61,9 +73,12 @@ S
 #11060
 A familiar yet unused path~
 The ground is trodden here, as what barely seems to be a negotiatable path
-reaches far into the surrounding wood. The howl of the wolves can be heard, as
-the ground beneath your feet shifts with the moving of the undead.
-~
+
+reaches far into the surrounding wood. The howl of the wolves can be heard, as
+
+the ground beneath your feet shifts with the moving of the undead.
+
+~
 9 8
 D1
 ~
@@ -77,7 +92,8 @@ S
 #11043
 The Pit~
 Below you is the deepest, darkest pit you have ever seen.
-~
+
+~
 9 11
 D0
 ~
@@ -108,8 +124,10 @@ S
 #11042
 Shadows~
 The shadows are much deeper here, and you can barely sense movement to the
-east, or is it to the south?
-~
+
+east, or is it to the south?
+
+~
 9 11
 D1
 ~
@@ -127,8 +145,10 @@ S
 #11041
 Corner of the crypt~
 Behind the cobwebs, the walls of this ancient crypt meet.  It seems that you
-can go no farther to the west or north.
-~
+
+can go no farther to the west or north.
+
+~
 9 11
 D1
 ~
@@ -142,10 +162,14 @@ S
 #11040
 Shadowy cell~
 @@gThis small room was obviously used as a cell, or maybe an execution chamber.
-There is a set of shackles hanging from the wall, encrusted with dried
-@@Rblood@@g. On the floor of the chamber is a body, and as you stare at it,
-the @@cmist@@g above it slowly coelesces into the corpse, which stands up!
-~
+
+There is a set of shackles hanging from the wall, encrusted with dried
+
+@@Rblood@@g. On the floor of the chamber is a body, and as you stare at it,
+
+the @@cmist@@g above it slowly coelesces into the corpse, which stands up!
+
+~
 9 11
 D1
 ~
@@ -155,7 +179,8 @@ S
 #11039
 Before the dark niche~
 You see a deep dark niche to the west..the door appears to be locked.
-~
+
+~
 1 11
 D0
 ~
@@ -177,9 +202,12 @@ S
 #11033
 Disturbed Ground~
 The ground around here looks recently marked, as if a large battle has occured
-recently..
- 
-~
+
+recently..
+
+ 
+
+~
 5 2
 D0
 ~
@@ -192,9 +220,11 @@ D3
 S
 #11018
 Western path around Graveyard.
-~
+
+~
 A north-south path leads around the graveyard.
-~
+
+~
 1 2
 D0
 ~
@@ -207,9 +237,11 @@ D2
 S
 #11017
 South-Western corner.
-~
+
+~
 @@dA darkened corner of the path around the graveyard.@@g
-~
+
+~
 1 2
 D0
 ~
@@ -222,10 +254,13 @@ D1
 S
 #11016
 Southern path.
-~
+
+~
 The path continues east and west.
-\br @@BA chilling screams abruptly destroys the silence.@@g
-~
+
+\br @@BA chilling screams abruptly destroys the silence.@@g
+
+~
 1 2
 D0
 ~
@@ -242,10 +277,13 @@ D3
 S
 #11015
 Rocky path south of Graveyard.
-~
+
+~
 @@dThe wall to the south has caved in slightly, possibly the result of
-shifting earth causing the foundation to crumble.@@N
-~
+
+shifting earth causing the foundation to crumble.@@N
+
+~
 1 2
 D1
 ~
@@ -265,10 +303,13 @@ wall~
 S
 #11014
 Southern edge of Graveyard.
-~
+
+~
 The path runs east and west.
-@@dA chill wind touches your spine.  You spin around, but no one is there.@@g
-~
+
+@@dA chill wind touches your spine.  You spin around, but no one is there.@@g
+
+~
 1 2
 D1
 ~
@@ -281,10 +322,13 @@ D3
 S
 #11013
 @@dBend in Path.@@g
-~
+
+~
 The path bends to the west here, following the stone wall holding the denizens
-of this graveyard at bay.
-~
+
+of this graveyard at bay.
+
+~
 1 2
 D0
 ~
@@ -297,10 +341,13 @@ D3
 S
 #11012
 Overgrown Path.
-~
+
+~
 @@GA mass of black and green vines covers the ground here. The path goes both
-north and south.@@g
-~
+
+north and south.@@g
+
+~
 1 2
 D0
 ~
@@ -323,10 +370,13 @@ vines~
 S
 #11011
 @@dEerie Path@@g
-~
+
+~
 You can't be sure, but it seems that, under the overgrown weeds, there is a
-north-south path here.
-~
+
+north-south path here.
+
+~
 1 2
 D0
 ~
@@ -339,11 +389,15 @@ D2
 S
 #11010
 Eastern Path around Graveyard.
-~
+
+~
 @@dThe shadowy darkness adds a strange gloom to the mood of this place.  You
-can barely see the overgrown path that leads north and south. 
-\br @@dA thick @@pm@@mi@@ps@@mt @@dbillows out from the wall, obscuring your vision to the east.@@N
-~
+
+can barely see the overgrown path that leads north and south. 
+
+\br @@dA thick @@pm@@mi@@ps@@mt @@dbillows out from the wall, obscuring your vision to the east.@@N
+
+~
 1 2
 D0
 ~
@@ -364,9 +418,11 @@ D3
 S
 #11009
 Eastern Path around Graveyard.
-~
+
+~
 The path heads both north and south.
-~
+
+~
 1 2
 D0
 ~
@@ -379,10 +435,13 @@ D2
 S
 #11008
 Northeast corner of Graveyard path.
-~
+
+~
 The path heads both south and west.  Claw marks on the wall to the left make
-you wonder about the inhabitants in this eerie world.
-~
+
+you wonder about the inhabitants in this eerie world.
+
+~
 1 2
 D0
 ~
@@ -399,10 +458,13 @@ D3
 S
 #11007
 Northern Path around Graveyard.
-~
+
+~
 The path continues to the east and west.
-@@B A low moaning sound comes from somewhere to the southeast.@@g
-~
+
+@@B A low moaning sound comes from somewhere to the southeast.@@g
+
+~
 1 2
 D1
 ~
@@ -415,12 +477,16 @@ D3
 S
 #11006
 Northern path around Graveyard.
-~
-The path leads both east and west, continuing your gloomy tour of this ancient
-graveyard.
 
-@@dTo the south is a small, overgrown path.@@g
-~
+~
+The path leads both east and west, continuing your gloomy tour of this ancient
+
+graveyard.
+
+
+@@dTo the south is a small, overgrown path.@@g
+
+~
 1 2
 D1
 ~
@@ -437,10 +503,13 @@ D3
 S
 #11005
 Northern path around Graveyard.
-~
+
+~
 The path leads to the east and west.  In the distance to the south, you see a
-slowly wandering light.
-~
+
+slowly wandering light.
+
+~
 1 2
 D1
 ~
@@ -453,9 +522,11 @@ D3
 S
 #11004
 Corner in path
-~
+
+~
 The path bends to the east and south here.
-~
+
+~
 1 2
 D1
 ~
@@ -468,10 +539,13 @@ D2
 S
 #11003
 Path around Graveyard
-~
+
+~
 The path continues to the north.  You can see a pair of pale eyes winking in
-and out of existence to the east.
-~
+
+and out of existence to the east.
+
+~
 1 2
 D0
 ~
@@ -484,12 +558,17 @@ D2
 S
 #11002
 Path around Graveyard
- 
-~
+
+ 
+
+~
 You wonder if you should enter the graveyard itself, or just continue wandering around it...
-@@cA loud wail comes from the east.
-@@g
-~
+
+@@cA loud wail comes from the east.
+
+@@g
+
+~
 1 2
 D0
 ~
@@ -506,10 +585,13 @@ D2
 S
 #11001
 Graveyard Path
-~
+
+~
 This is the entrance to the graveyard itself.  A path leads north and south,
-and to the east you see many broken down gravestones.
-~
+
+and to the east you see many broken down gravestones.
+
+~
 1 2
 D0
 ~
@@ -527,9 +609,12 @@ S
 #11030
 Cave Entrance~
 A small cave is formed from the crumbling wall surrounding the graveyard to
-the north.  The air is tainted with an evil smell coming from the mouldering
-corpses at your feet.
-~
+
+the north.  The air is tainted with an evil smell coming from the mouldering
+
+corpses at your feet.
+
+~
 1 11
 D0
 ~
@@ -543,7 +628,8 @@ S
 #11024
 @@RBeneath the Crypt@@g~
 @@dSmall stairs lead further down into the darkness... @@g
-~
+
+~
 1 11
 D4
 ~
@@ -556,16 +642,25 @@ D5
 S
 #11000
 @@BShadow Gate@@g
-~
+
+~
 @@BBefore you stands wrought iron gates, seemingly touching the storm clouds
-above you. While they seem to have been locked long ago, time and vandals
-have destroyed the mighty chains that held them closed. @@g
- 
- 
- 
-\br\br@@GYou know that it will be certain death for the unwary here.
-Go back if you value your lives!!! Only the most powerful will live!@@N
-~
+
+above you. While they seem to have been locked long ago, time and vandals
+
+have destroyed the mighty chains that held them closed. @@g
+
+ 
+
+ 
+
+ 
+
+\br\br@@GYou know that it will be certain death for the unwary here.
+
+Go back if you value your lives!!! Only the most powerful will live!@@N
+
+~
 4 2
 D1
 ~
@@ -586,10 +681,13 @@ You see one mark here with the innitials L.M. carved by it.~
 S
 #11019
 @@da very dark pit@@g
-~
+
+~
 As you climb into this subterranean chamber, your spine shivers as the
-temperature drops quickly. You aren't sure you should continue down...
-~
+
+temperature drops quickly. You aren't sure you should continue down...
+
+~
 1 2
 D4
 ~
@@ -602,10 +700,13 @@ D5
 S
 #11020
 @@BThe Ghoul's Lair@@g
-~
+
+~
 Now you know why the room above was so cold--a piercing shriek numbs you as
-the Ghouls attack!!
-~
+
+the Ghouls attack!!
+
+~
 0 2
 D4
 ~
@@ -615,10 +716,14 @@ S
 #11021
 Amongst the graves~
 @@dYou glance upon a crumbled tombstone, the words obliterated beneath years
-of decay.  You can almost make out the name, but some spongy moss covers the
-words etched there.
-@@BA chilling scream pierces your soul!@@g
-~
+
+of decay.  You can almost make out the name, but some spongy moss covers the
+
+words etched there.
+
+@@BA chilling scream pierces your soul!@@g
+
+~
 1 2
 D1
 ~
@@ -641,8 +746,10 @@ S
 #11022
 The Empty Grave.~
 As you glance into this empty grave, you wonder where it's most recent
-occupant might be...
-~
+
+occupant might be...
+
+~
 1 2
 D0
 ~
@@ -656,10 +763,14 @@ S
 #11023
 The darkened Mausoleum.~
 @@NIn front of you is an ancient stone crypt, it's Lid covered with deep claw
-marks. The age-blackened stone walls amaze you with detailed scenes and runic
-phrases.  As you peer a little closer, something strange about the crypt draws
-your attention.
-~
+
+marks. The age-blackened stone walls amaze you with detailed scenes and runic
+
+phrases.  As you peer a little closer, something strange about the crypt draws
+
+your attention.
+
+~
 1 2
 D0
 ~
@@ -680,7 +791,8 @@ S
 #11025
 Base of Stairs~
 At the base of the stairs, you see the darkness spread out like a fog....
-~
+
+~
 9 11
 D0
 ~
@@ -706,7 +818,8 @@ S
 #11026
 North of the Mausoleum~
 This area is strangely empty of any graves, but you can glimpse a large structure to the south.
-~
+
+~
 1 2
 D0
 ~
@@ -720,10 +833,14 @@ S
 #11027
 Entering the graveyard~
 @@d All around you are graves in various states of disorder.  There seems to
-be some sort of raised structure farther along to the south, and tombstones
-are shining evilly in the moonlight.
-@@m In the distance a yellow light slowly dims, then brightens again.@@g
-~
+
+be some sort of raised structure farther along to the south, and tombstones
+
+are shining evilly in the moonlight.
+
+@@m In the distance a yellow light slowly dims, then brightens again.@@g
+
+~
 1 2
 D0
 ~
@@ -737,7 +854,8 @@ S
 #11028
 Broken Tombstone~
 You shiver as a cold wind assails you out of the north.  A cloud starts to cover the moon as you once again wonder just what you are doing here!
-~
+
+~
 1 2
 D0
 ~
@@ -751,7 +869,8 @@ S
 #11029
 The Pit~
 @@dA dank and fetid pit hold many bones strewn about, gnawed and broken.@@N
-~
+
+~
 1 11
 D2
 ~
@@ -761,10 +880,14 @@ S
 #11031
 Littered Path~
 @@mThe path continues to the east, with larger and somewhat fresher piles of
-rancid flesh littering the floor. The stench has begun to wrack your senses,
-and the miasma in the air affects your vision. @@g @@mA small patch of fog
-covers the ground@@N
-~
+
+rancid flesh littering the floor. The stench has begun to wrack your senses,
+
+and the miasma in the air affects your vision. @@g @@mA small patch of fog
+
+covers the ground@@N
+
+~
 1 11
 D0
 ~
@@ -778,10 +901,14 @@ S
 #11032
 Lair of Evil~
 This darkened room overwhelms you with an incredibly foul stench.  Decaying
-fragments of corpses lie scattered about, the bones gnawed to pieces. As you
-glance amongst the bodies, you notice that one of them is still moving.  In
-fact, it is staring at you!!@@g
-~
+
+fragments of corpses lie scattered about, the bones gnawed to pieces. As you
+
+glance amongst the bodies, you notice that one of them is still moving.  In
+
+fact, it is staring at you!!@@g
+
+~
 1 11
 D3
 ~
@@ -791,8 +918,10 @@ S
 #11034
 Maniac's Retreat~
 This small area seems cut off from the rest of the graveyard, and it looks
-like someone has made a small home here..
-~
+
+like someone has made a small home here..
+
+~
 8194 2
 D2
 ~
@@ -802,7 +931,8 @@ S
 #11035
 Eerie darkness~
 Sounds come out of the darkness around you..
-~
+
+~
 9 11
 D1
 ~
@@ -816,7 +946,8 @@ S
 #11036
 Eerie darkness~
 Sounds come out of the darkness around you..
-~
+
+~
 9 11
 D0
 ~
@@ -838,7 +969,8 @@ S
 #11037
 Eerie darkness~
 Sounds come out of the darkness around you..
-~
+
+~
 9 11
 D0
 ~
@@ -852,8 +984,10 @@ S
 #11038
 Empty grave~
 A broken coffin lies here, covered with dust.  Once again you wonder just
-where its latest occupant might be..
-~
+
+where its latest occupant might be..
+
+~
 9 11
 D0
 ~
@@ -871,7 +1005,8 @@ S
 #11044
 Eerie darkness~
 Sounds come out of the darkness around you..
-~
+
+~
 9 11
 D0
 ~
@@ -893,9 +1028,12 @@ S
 #11047
 Another desecrated grave~
 Just like the rest, this grave has been opened recently.  However, peering
-closer, you can see the mouldering remains of it's occupant still lying there.
-How wierd!
-~
+
+closer, you can see the mouldering remains of it's occupant still lying there.
+
+How wierd!
+
+~
 9 11
 D0
 ~
@@ -926,8 +1064,10 @@ S
 #11079
 Beneath the Corpse~
 @@mAs the corpse falls to pieces in your hands, you see a large key underneath
-it!@@g
-~
+
+it!@@g
+
+~
 73 11
 D4
 ~
@@ -937,8 +1077,10 @@ S
 #11046
 Open area~
 The crypt seems more open here, at least you can sense a larger space about
-you.
-~
+
+you.
+
+~
 8 11
 D0
 ~
@@ -961,7 +1103,8 @@ S
 Deepening shadows~
 To the east, the shadows seem even darker than elsewhere, if that is possible.
 
-~
+
+~
 9 11
 D1
 ~
@@ -979,9 +1122,12 @@ S
 #11050
 Entrance to the Shadowy Hall~
 The darkness is just about complete as it wraps itself like a cloak about you.
-You can almost make out a small hallway to the north, and the temperature has
-dropped a few degrees, seemingly colder as you approach the northern exit.
-~
+
+You can almost make out a small hallway to the north, and the temperature has
+
+dropped a few degrees, seemingly colder as you approach the northern exit.
+
+~
 9 11
 D0
 ~
@@ -999,7 +1145,8 @@ S
 #11049
 Covered niche~
 You can't be sure, but it seems that there is a niche in the wall here.  On second thought, it must be your imagination.
-~
+
+~
 9 11
 D0
 ~
@@ -1017,8 +1164,10 @@ S
 #11048
 Eerie shadows~
 You think you can make out a shadowy figure watching you.  As you look closer,
-you see that is is just a moist spot on the wall.
-~
+
+you see that is is just a moist spot on the wall.
+
+~
 9 11
 D0
 ~
@@ -1035,19 +1184,25 @@ D3
 E
 spot~
 Holding your torch closer, you see some scratchings in an unknown, ancient
-language.
-~
+
+language.
+
+~
 E
 wall~
 As you peer at the wall closely, you see some scratchings that could possibly
-form words, but the language is beyond you.
-~
+
+form words, but the language is beyond you.
+
+~
 S
 #11051
 The Shadowy Hall~
 The light from your torch casts tremendously confusing shadows all about you.
-@@BIt is MUCH colder here.@@g
-~
+
+@@BIt is MUCH colder here.@@g
+
+~
 73 11
 D1
 ~
@@ -1061,8 +1216,10 @@ S
 #11053
 The Shadowy Hall.~
 The light from your torch casts tremendously confusing shadows all about you.
-@@BIt is MUCH colder here.@@g
-~
+
+@@BIt is MUCH colder here.@@g
+
+~
 155737 11
 D2
 ~
@@ -1076,9 +1233,12 @@ S
 #11052
 Eternal rest~
 @@cThis room seems so peaceful and calming that you feel you must rest here.
-In fact, a sweet, numbing feeling begins to flood your senses, making you
-desire sleep, ever lasting sleep...@@g .
-~
+
+In fact, a sweet, numbing feeling begins to flood your senses, making you
+
+desire sleep, ever lasting sleep...@@g .
+
+~
 155737 8
 D0
 ~
@@ -1092,8 +1252,10 @@ S
 #11054
 A dark corridor~
 To the east you can see a very dimly lit corrider, and the crypt opens up to
-the west.
-~
+
+the west.
+
+~
 9 11
 D1
 ~
@@ -1107,8 +1269,10 @@ S
 #11055
 Farther along the corridor~
 The corridor continues to the east and west.  A haunting glow coming from the
-air around you lends a small amount of illumination to the corridor.
-~
+
+air around you lends a small amount of illumination to the corridor.
+
+~
 0 11
 D1
 ~
@@ -1122,8 +1286,10 @@ S
 #11056
 T intersection~
 This corridor ends in two small alcoves, each filled with a decayed body
-shackled to the wall.
-~
+
+shackled to the wall.
+
+~
 0 11
 D0
 ~
@@ -1141,10 +1307,14 @@ S
 #11057
 Northern Alcove~
 This alcove is completely filled with the putrid stench of a decaying body.
-Oddly enough, the corpse seems much more recently dead than other occupants of
-the crypt behind you.
- 
-~
+
+Oddly enough, the corpse seems much more recently dead than other occupants of
+
+the crypt behind you.
+
+ 
+
+~
 8 11
 D2
 ~
@@ -1154,8 +1324,10 @@ S
 #11058
 Southern alcove~
 This alcove is also filled with a corpse shackled to the wall, which seems much
-more dead.  Or is it?  In fact, it has just broken the shackles!!
-~
+
+more dead.  Or is it?  In fact, it has just broken the shackles!!
+
+~
 8 11
 D0
 ~
@@ -1165,7 +1337,8 @@ S
 #11059
 T intersection~
 Through the dim shadows you can see small alcoves to the west and east.
-~
+
+~
 9 11
 D0
 ~
@@ -1183,8 +1356,10 @@ S
 #11061
 Eastern alcove~
 Brushing the cobwebs aside, you peer closely into this dank alcove, but see
-nothing of interest.
-~
+
+nothing of interest.
+
+~
 9 11
 D3
 ~
@@ -1194,8 +1369,10 @@ S
 #11062
 Western alcove~
 Although looking as if it was recently occupied, the broken shackles on the
-wall attest to the fact that it's occupant is now gone.
-~
+
+wall attest to the fact that it's occupant is now gone.
+
+~
 9 11
 D1
 ~
@@ -1205,7 +1382,8 @@ S
 #11063
 A small corridor~
 This corridor leads to another set of alcoves.
-~
+
+~
 9 11
 D0
 ~
@@ -1219,10 +1397,14 @@ S
 #11064
 T intersection~
 Ordinary alcoves lie to the east and the west.  Wait a minute,
-did you see something move? Nah, must have been your flickering torch...you
-think...
-@@cA slight breeze comes from the west.@@g
-~
+
+did you see something move? Nah, must have been your flickering torch...you
+
+think...
+
+@@cA slight breeze comes from the west.@@g
+
+~
 9 11
 D0
 ~
@@ -1240,7 +1422,8 @@ S
 #11065
 Eastern alcove~
 Hmmm, another empty alcove..or is it?
-~
+
+~
 9 11
 D3
 ~
@@ -1250,7 +1433,8 @@ S
 #11066
 Western alcove~
 Well, another ho-hum alcove...wait! That body is moving!!
-~
+
+~
 1 11
 D1
 ~
@@ -1264,8 +1448,10 @@ S
 #11067
 A very small tunnel~
 This is the entrance to a very small tunnel leading into the darkness to the
-south.
-~
+
+south.
+
+~
 9 11
 D1
 ~
@@ -1279,9 +1465,11 @@ S
 #11068
 A very small tunnel~
 The tunnel continues south.  You sure hope you don't see any more undead,
-since you could never fight crawling like this!!
 
-~
+since you could never fight crawling like this!!
+
+
+~
 9 11
 D0
 ~
@@ -1296,7 +1484,8 @@ S
 Sharp bend~
 The tunnel takes a sharp bend here to the east.  At least, you think it's east
 
-~
+
+~
 9 11
 D0
 ~
@@ -1310,8 +1499,10 @@ S
 #11070
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 0 11
 D1
 ~
@@ -1325,8 +1516,10 @@ S
 #11071
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1340,8 +1533,10 @@ S
 #11072
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1355,8 +1550,10 @@ S
 #11073
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1370,8 +1567,10 @@ S
 #11074
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1385,8 +1584,10 @@ S
 #11075
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 0 11
 D1
 ~
@@ -1404,8 +1605,10 @@ S
 #11076
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1419,8 +1622,10 @@ S
 #11077
 Tunnel~
 The tunnel twists and turns sharply.  You THINK the exits are to the east and
-west. Are we lost yet?
-~
+
+west. Are we lost yet?
+
+~
 9 11
 D1
 ~
@@ -1434,9 +1639,12 @@ S
 #11078
 End of the tunnel~
 AWESOME! You weren't lost after all!  You finally made it to the end of the
-tunnel, to see, hmm... It seems that the entire tunnel has opened up into a
-dead end! Boulders mark where the roof of this tunnel has fallen in to
-~
+
+tunnel, to see, hmm... It seems that the entire tunnel has opened up into a
+
+dead end! Boulders mark where the roof of this tunnel has fallen in to
+
+~
 1024 11
 D3
 ~
@@ -1467,10 +1675,14 @@ S
 #11080
 Tunnel exit~
 Well, you thought you were outside.  No, you are, it's just that it is very
-gloomy and dark here. To the east you think you see a large set of gates.
- 
-@@BA chilling scream suddenly erupts out of the darkness!@@g
-~
+
+gloomy and dark here. To the east you think you see a large set of gates.
+
+ 
+
+@@BA chilling scream suddenly erupts out of the darkness!@@g
+
+~
 0 2
 D1
 ~
@@ -1484,8 +1696,10 @@ S
 #11081
 Gloomy tunnel~
 It looks like the tunnel has almost ended.  You think you sense an opening the
-the outside to the east.
-~
+
+the outside to the east.
+
+~
 9 2
 D1
 ~
@@ -1499,7 +1713,8 @@ S
 #11082
 Gloomy Tunnel~
 The seemingly endless tunnel turns to the north here.
-~
+
+~
 1 11
 D0
 ~
@@ -1513,7 +1728,8 @@ S
 #11083
 Slanting tunnel~
 The tunnel slants down here.  Will it ever end?
-~
+
+~
 0 11
 D1
 ~
@@ -1527,7 +1743,8 @@ S
 #11084
 Endless tunnel~
 The tunnel slants up here.
-~
+
+~
 1 11
 D3
 ~
@@ -1541,8 +1758,10 @@ S
 #11085
 Narrowing tunnel~
 The hole in the ground quickly darkens, and closes in on you.  Forced to crawl
-you hope that nothing attacks you in this position!
-~
+
+you hope that nothing attacks you in this position!
+
+~
 1 11
 D1
 ~
@@ -1556,9 +1775,12 @@ S
 #11086
 Deep dark pit~
 The hole above lets in little light as you wonder if you really should enter
-this subterranean area.  What adventurer in their right mind would climb into
-an evil pit?
-~
+
+this subterranean area.  What adventurer in their right mind would climb into
+
+an evil pit?
+
+~
 0 11
 D4
 ~
@@ -1572,7 +1794,8 @@ S
 #11089
 Stinking Pit~
 @@NThis small pit seems to have no end, and smells of @@Rbrimstone@@N.
-~
+
+~
 16393 11
 D4
 ~
@@ -1589,7 +1812,8 @@ S
 death knight~
 @@dA Death Knight@@N~
 @@da knight trained in the ways of death stands here, barring your way@@N
-~
+
+~
 ~
 278563 533160 -1000 S
 72 1
@@ -1599,7 +1823,8 @@ death knight~
 sentinel~
 @@dThe Death Guardian@@N~
 @@da huge shadowy sentinel stands before you.@@N
-~
+
+~
 ~
 81971 631486 0 S
 98 1
@@ -1609,7 +1834,8 @@ sentinel~
 a harpie~
 A @@Bscreeching@@N @@Gharpie@@N~
 A sceaming harpie wails as you as it dives foerm the air above.
-~
+
+~
 ~
 82017 98366 0 S
 89 2
@@ -1620,7 +1846,8 @@ S spec_poison~
 legion death~
 @@gA @@RLegion of Death@@g~
 @@ga decaying member of the @@RLegion of Death@@g attacks you!@@g
-~
+
+~
 ~
 3563625 98856 -600 S
 66 1
@@ -1631,7 +1858,8 @@ S spec_thief~
 zombie lord~
 @@mA Zombie Lord@@g~
 @@RAn animated corpse of a long dead hero @@gstands in front of you.@@g
-~
+
+~
 ~
 3424283 680 1000 S
 76 0
@@ -1642,7 +1870,8 @@ S spec_poison~
 Gillian~
 @@WGillian@@g~
 @@RGillian@@g is here, comforting @@cManiac.@@g
-~
+
+~
 ~
 19922969 33448 1000 S
 78 2
@@ -1652,7 +1881,8 @@ Gillian~
 zombie~
 @@ma slow moving zombie@@g~
 @@m a shambling zombie decays into pieces in front of you.@@g
-~
+
+~
 ~
 278613 2600 -450 S
 54 0
@@ -1663,9 +1893,11 @@ S spec_poison~
 skeleton~
 a nasty skeleton~
 @@bA silent skeleton wanders about.@@g
-~
+
+~
 All bones, the skeleton laughs at your attempts to hurt it!!
-~
+
+~
 3555413 33320 -450 S
 55 0
 -40 23 22 0 0
@@ -1674,10 +1906,13 @@ All bones, the skeleton laughs at your attempts to hurt it!!
 ghoul~
 a vicious ghoul~
 @@RAn evil ghoul with filthy claws lunges at you!@@g
-~
+
+~
 @@RA pale skinned creature with blackened teeth, dirty claws, and @@RA putrid
-stench growls at you!@@g
-~
+
+stench growls at you!@@g
+
+~
 3424319 552 -500 S
 60 0
 -50 45 50 0 0
@@ -1687,10 +1922,13 @@ S spec_poison~
 vicious ghoul~
 a vicious ghoul~
 @@RAn evil ghoul with filthy claws lunges at you!@@g
-~
+
+~
 @@RA pale skinned creature with blackened teeth, dirty claws, and A putrid
-stench stares back at you!@@g
-~
+
+stench stares back at you!@@g
+
+~
 3424311 40 -500 S
 57 0
 -50 45 50 0 0
@@ -1700,9 +1938,11 @@ S spec_poison~
 wight~
 @@ma ghastly Wight@@g~
 @@Ra disgustingly filthy wight with an overpowering stench stares at you.@@g
-~
+
+~
 @@RThe Wight's bloody eyes peer into your soul.@@g
-~
+
+~
 3563615 68128 -850 S
 63 0
 -100 100 100 0 0
@@ -1712,7 +1952,8 @@ S spec_cast_bigtime~
 maniac~
 @@cManiac@@g the @@mLost@@g~
 A fear crazed adventurer named @@cManiac@@g attacks you!!
-~
+
+~
 ~
 19922961 32936 1000 S
 61 1
@@ -1722,7 +1963,8 @@ A fear crazed adventurer named @@cManiac@@g attacks you!!
 shadow evil~
 @@Ran evil shadow@@g~
 @@Ran evil shadow@@g waits here, watching you!
-~
+
+~
 ~
 82027 117502 -950 S
 94 0
@@ -1733,7 +1975,8 @@ S spec_cast_bigtime~
 spirit~
 An @@eangered@@N spirit~
 An @@eangered@@N entity floats here, adding its troubled cries to the @@cair.@@N
-~
+
+~
 ~
 16419 2066 0 S
 64 0
@@ -1743,7 +1986,8 @@ An @@eangered@@N entity floats here, adding its troubled cries to the @@cair.@@N
 abraham helsing~
 @@aAbraham van Helsing@@N~
 Abraham van Helsing
-~
+
+~
 ~
 3145729 1614572 1000 S
 89 1
@@ -1755,7 +1999,8 @@ Abraham van Helsing
 citadel pass~
 a tiny key~
 A tiny key lies here.
-~
+
+~
 18 0 8388608 1
 0 0 0 0
 1
@@ -1784,7 +2029,8 @@ L 1
 plate platemail archon~
 @@gPlatemail of the @@RArchon@@g~
 @@ga glimmering, iridescent suit of platemail lies here..
-~
+
+~
 9 1281 8650752 4224
 40 0 0 0
 20
@@ -1815,7 +2061,8 @@ O objfun_healing~
 A Fleshy Plant~
 a Thick Fleshy Plant~
 A Large fleshy plant grows here.
-~
+
+~
 17 0 8388616 1
 50 50 0 0
 3
@@ -1824,7 +2071,8 @@ L 1
 shield iron black~
 a black iron shield~
 @@Ra badly dented iron shield lies here, covered in @@bgraveyard filth.@@g
-~
+
+~
 9 20 8421376 1
 20 0 0 0
 15
@@ -1850,7 +2098,8 @@ L 50
 mace dirty~
 a dirty mace~
 A short mace, covered in graveyard dirt lies here.
-~
+
+~
 5 20 8421376 1
 20 0 0 7
 10
@@ -1872,7 +2121,8 @@ L 1
 guard faceguard archon~
 @@gFaceguard of the @@RArchon@@g~
 A glimmering, irridescent faceguard is waiting to be worn.
-~
+
+~
 9 321 8388624 3594
 25 0 0 0
 3
@@ -1886,8 +2136,10 @@ L 60
 Cabrilaan~
 @@BCabrilaan@@g~
 @@ga beautiful @@csylver@@g longsword with @@BCabrilaan@@g engraved on the
-blade lies here.
-~
+
+blade lies here.
+
+~
 5 1283 8421376 384
 25 0 0 3
 1
@@ -1915,8 +2167,10 @@ L 53
 sword death legion~
 @@ga @@RDeath Legion@@g Sword~
 @@ga nasty longsword with @@Rbloody@@g spikes and an @@Reye@@g on the pommel
-floats here.
-~
+
+floats here.
+
+~
 5 86 8421376 257
 35 0 0 3
 1
@@ -1929,7 +2183,8 @@ O objfun_cast_fight~
 bottom piece1~
 the bottom section of a broken staff.~
 What seems to be the bottom section of a broken staff lies here.
-~
+
+~
 29 0 8388608 1
 0 11014 11015 0
 1
@@ -1938,8 +2193,10 @@ L 50
 middle piece2~
 the middle section~
 The middle piece of a broken staff lies here, looking for it's connecting
-parts.
-~
+
+parts.
+
+~
 29 0 8388608 1
 11013 0 11015 0
 1
@@ -1948,7 +2205,8 @@ L 50
 section bottom~
 the bottom section.~
 The connected bottom section of a staff lies here.
-~
+
+~
 29 0 8388608 1
 0 11016 11017 0
 1
@@ -1957,7 +2215,8 @@ L 50
 top piece3~
 the top piece.~
 The top piece of a beautiful staff lies here.
-~
+
+~
 29 0 8388608 1
 11015 0 11017 0
 1
@@ -1966,8 +2225,10 @@ L 50
 staff shaft~
 the shaft of an alomst completed staff~
 A mostly completed staff lies here, looking for a beautiful gem to fit inside
-it's cap.
-~
+
+it's cap.
+
+~
 29 0 8388608 1
 0 11018 11019 0
 1
@@ -1976,7 +2237,8 @@ L 50
 globe gem~
 a brilliant gem~
 A beautiful glittering gem lies here, looking perfect for a moagical staff.
-~
+
+~
 29 0 8388608 1
 11017 0 11019 0
 1
@@ -1985,7 +2247,8 @@ L 50
 staff cure heal~
 a pure white staff~
 A beautiful white staff, topped with a shimmering gem lies here.
-~
+
+~
 4 321 8421376 1
 70 8 8 635
 1

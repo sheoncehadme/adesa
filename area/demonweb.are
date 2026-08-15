@@ -1,23 +1,23 @@
 #AREA
-@@RDemonweb Approaches@@N~
+@@RResidual-Dragonstorm@@N~
 Z 3
 C 9235
-K demonweb~
+K dragonstorm~
 L @@W{ @@r70 80@@W }@@N~
 N 49
 I 70 80
 V 23500 23599
 X 0
 F 15
-U Silk threads vibrate with planar malice.~
+U Storm-silk still falling from the firmament tears the air.~
 O adesa-gen~
 R all~
 W all~
 T You can teleport into here
 #ROOMS
 #23500
-Entrance to Demonweb Approaches~
-You stand in entrance to demonweb approaches. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb. The path west returns toward Tomb of Whispering Bones.~
+Entrance to Residual-Dragonstorm~
+Entrance to Residual-Dragonstorm. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80. The path west returns toward Memory-Bone Catacombs.~
 0 1
 D1
 East.~
@@ -34,7 +34,7 @@ West.~
 S
 #23501
 Strand Maze~
-You stand in strand maze. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb. A trail leads east toward Dragonspire Peaks.~
+Strand Maze. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80. A trail leads east toward Fossilized Wing Ruins.~
 0 1
 D1
 East.~
@@ -51,7 +51,7 @@ West.~
 S
 #23502
 Escape Line~
-You stand in escape line. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Escape Line. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D1
 East.~
@@ -68,7 +68,7 @@ West.~
 S
 #23503
 Hunter's Nest~
-You stand in hunter's nest. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Hunter's Nest. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D1
 East.~
@@ -85,7 +85,7 @@ West.~
 S
 #23504
 Judgment Web~
-You stand in judgment web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Judgment Web. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D1
 East.~
@@ -102,7 +102,7 @@ West.~
 S
 #23505
 War Spire~
-You stand in war spire. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+War Spire. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D1
 East.~
@@ -118,8 +118,8 @@ West.~
 0 -1 23504
 S
 #23506
-Demonic Barracks~
-You stand in demonic barracks. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Storm Barracks~
+Storm Barracks. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D2
 South.~
@@ -132,7 +132,7 @@ West.~
 S
 #23507
 Lower Web~
-You stand in lower web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Lower Web. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -148,8 +148,8 @@ South.~
 0 -1 23514
 S
 #23508
-Demonweb Landing~
-You stand in demonweb landing. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Dragonstorm Landing~
+Dragonstorm Landing. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -170,7 +170,7 @@ West.~
 S
 #23509
 Black Silk Vault~
-You stand in black silk vault. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Black Silk Vault. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -190,8 +190,8 @@ West.~
 0 -1 23508
 S
 #23510
-Retrievers' Den~
-You stand in retrievers' den. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Hunters' Den~
+Hunters' Den. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -211,8 +211,8 @@ West.~
 0 -1 23509
 S
 #23511
-Spider Court~
-You stand in spider court. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Storm Court~
+Storm Court. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -232,8 +232,8 @@ West.~
 0 -1 23510
 S
 #23512
-Gate of Eight Legs~
-You stand in gate of eight legs. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Gate of Eight Storms~
+Gate of Eight Storms. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -253,8 +253,8 @@ West.~
 0 -1 23511
 S
 #23513
-Lolthite Shrine~
-You stand in lolthite shrine. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Echo Shrine~
+Echo Shrine. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -271,7 +271,7 @@ West.~
 S
 #23514
 Egg Sac Nursery~
-You stand in egg sac nursery. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Egg Sac Nursery. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -288,7 +288,7 @@ South.~
 S
 #23515
 Web Cathedral~
-You stand in web cathedral. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Web Cathedral. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -309,7 +309,7 @@ West.~
 S
 #23516
 Strand Bridge~
-You stand in strand bridge. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Strand Bridge. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -330,7 +330,7 @@ West.~
 S
 #23517
 Upper Spindle~
-You stand in upper spindle. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Upper Spindle. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -350,8 +350,8 @@ West.~
 0 -1 23516
 S
 #23518
-Silk Approach~
-You stand in silk approach. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Storm-Silk Approach~
+Storm-Silk Approach. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -372,7 +372,7 @@ West.~
 S
 #23519
 Poison Mist Hall~
-You stand in poison mist hall. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Poison Mist Hall. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -393,7 +393,7 @@ West.~
 S
 #23520
 Abyssal Overlook~
-You stand in abyssal overlook. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Abyssal Overlook. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -410,7 +410,7 @@ West.~
 S
 #23521
 Silk Throne Approach~
-You stand in silk throne approach. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Silk Throne Approach. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -426,8 +426,8 @@ South.~
 0 -1 23528
 S
 #23522
-Yochlol Chamber~
-You stand in yochlol chamber. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Shifter Chamber~
+Shifter Chamber. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -448,7 +448,7 @@ West.~
 S
 #23523
 Broken Strand~
-You stand in broken strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Broken Strand. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -469,7 +469,7 @@ West.~
 S
 #23524
 Web Map Room~
-You stand in web map room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Web Map Room. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -490,7 +490,7 @@ West.~
 S
 #23525
 Silk Stair~
-You stand in silk stair. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Silk Stair. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -511,7 +511,7 @@ West.~
 S
 #23526
 Outer Void~
-You stand in outer void. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Outer Void. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -532,7 +532,7 @@ West.~
 S
 #23527
 Void Between Strands~
-You stand in void between strands. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Void Between Strands. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -549,7 +549,7 @@ West.~
 S
 #23528
 Abyss Wind Platform~
-You stand in abyss wind platform. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Abyss Wind Platform. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -566,7 +566,7 @@ South.~
 S
 #23529
 Ivory Gate~
-You stand in ivory gate. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Ivory Gate. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -587,7 +587,7 @@ West.~
 S
 #23530
 Scrying Web~
-You stand in scrying web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Scrying Web. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -608,7 +608,7 @@ West.~
 S
 #23531
 Falling Silk~
-You stand in falling silk. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Falling Silk. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -629,7 +629,7 @@ West.~
 S
 #23532
 Last Strand~
-You stand in last strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Last Strand. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -650,7 +650,7 @@ West.~
 S
 #23533
 Cocoon Prison~
-You stand in cocoon prison. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Cocoon Prison. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -671,7 +671,7 @@ West.~
 S
 #23534
 Dead God Shrine~
-You stand in dead god shrine. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Dead God Shrine. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -687,8 +687,8 @@ West.~
 0 -1 23533
 S
 #23535
-Web Nexus~
-You stand in web nexus. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Storm Nexus~
+Storm Nexus. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -705,7 +705,7 @@ South.~
 S
 #23536
 Venom Armory~
-You stand in venom armory. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Venom Armory. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -726,7 +726,7 @@ West.~
 S
 #23537
 Tremor Strand~
-You stand in tremor strand. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Tremor Strand. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -747,7 +747,7 @@ West.~
 S
 #23538
 Venom Font~
-You stand in venom font. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Venom Font. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -768,7 +768,7 @@ West.~
 S
 #23539
 Shadow Spinner Room~
-You stand in shadow spinner room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Shadow Spinner Room. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -789,7 +789,7 @@ West.~
 S
 #23540
 Sacrificial Web~
-You stand in sacrificial web. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Sacrificial Web. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -810,7 +810,7 @@ West.~
 S
 #23541
 Court of Whispers~
-You stand in court of whispers. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Court of Whispers. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -827,7 +827,7 @@ West.~
 S
 #23542
 Mirror of Planes~
-You stand in mirror of planes. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Mirror of Planes. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -839,8 +839,8 @@ East.~
 0 -1 23543
 S
 #23543
-Heart of the Demonweb~
-You stand in heart of the demonweb. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Heart of the Dragonstorm~
+Heart of the Dragonstorm. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -857,7 +857,7 @@ West.~
 S
 #23544
 Floating Platform~
-You stand in floating platform. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Floating Platform. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -874,7 +874,7 @@ West.~
 S
 #23545
 Priestess Balcony~
-You stand in priestess balcony. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Priestess Balcony. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -891,7 +891,7 @@ West.~
 S
 #23546
 Spindle Gallery~
-You stand in spindle gallery. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Spindle Gallery. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -908,7 +908,7 @@ West.~
 S
 #23547
 Hanging Cocoon Room~
-You stand in hanging cocoon room. The surroundings show endless silk over a hungry abyss. This place tests travelers of roughly levels 70-80. Paths lead onward through the demonweb.~
+Hanging Cocoon Room. Around you: endless storm-silk over a hungry sky-wound. Residual magic of the Plunge lingers here. Expeditions through this reach of the Scar suit roughly levels 70-80.~
 0 1
 D0
 North.~
@@ -924,8 +924,8 @@ West.~
 0 -1 23546
 S
 #23548
-Sanctum of the Web Queen~
-This is the heart of Demonweb Approaches. The Web Queen sits upon a throne of silk. The air itself feels heavier here.~
+Sanctum of the Dragonstorm Queen~
+This is the heart of Residual-Dragonstorm. The Dragonstorm Queen sits upon a throne of still-falling silk. The stone carries the slow pulse of residual Wyrm-life.~
 0 1
 D0
 North.~
@@ -939,22 +939,22 @@ S
 #0
 #MOBILES
 #23550
-bebilith~
-a bebilith~
-A bebilith hunts across the strands.
+storm hunter~
+a storm-silk hunter~
+A storm-silk hunter stalks across the strands.
 ~
-A bebilith looks ready for battle.
+A storm-silk hunter looks ready for battle.
 ~
 97 0 -300 S
 69 1
 -185 84 68 600 0
 ! 0 0 0 7 0 0 0
 #23551
-yochlol~
-a yochlol servant~
-A yochlol servant melts and reforms.
+shifter~
+a shifting servant~
+A shifting servant melts and reforms.
 ~
-A yochlol servant looks ready for battle.
+A shifting servant looks ready for battle.
 ~
 97 0 -300 S
 73 1
@@ -962,10 +962,10 @@ A yochlol servant looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23552
 vrock~
-a vrock~
-A vrock screeches.
+a storm-vrock~
+A storm-vrock screeches.
 ~
-A vrock looks ready for battle.
+A storm-vrock looks ready for battle.
 ~
 97 0 -300 S
 74 1
@@ -973,10 +973,10 @@ A vrock looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23553
 glabrezu~
-a glabrezu~
-A glabrezu offers a false bargain.
+a false bargainer~
+A false bargainer offers ruin dressed as mercy.
 ~
-A glabrezu looks ready for battle.
+A false bargainer looks ready for battle.
 ~
 97 0 -300 S
 76 1
@@ -984,21 +984,21 @@ A glabrezu looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23554
 drider champion~
-a drider champion~
-A drider champion salutes.
+a storm-drider champion~
+A storm-drider champion salutes.
 ~
-A drider champion looks ready for battle.
+A storm-drider champion looks ready for battle.
 ~
 97 0 -300 S
 76 1
 -165 88 70 640 0
 ! 0 0 0 7 0 0 0
 #23555
-demonweb spider~
-a demonweb spider~
-A demonweb spider drops from above.
+storm spider~
+a dragonstorm spider~
+A dragonstorm spider drops from above.
 ~
-A demonweb spider looks ready for battle.
+A dragonstorm spider looks ready for battle.
 ~
 97 0 -300 S
 78 1
@@ -1006,21 +1006,21 @@ A demonweb spider looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23556
 marilith~
-a marilith~
+a blade-storm marilith~
 A marilith's blades whirl.
 ~
-A marilith looks ready for battle.
+A blade-storm marilith looks ready for battle.
 ~
 97 0 -300 S
 77 1
 -155 90 71 660 0
 ! 0 0 0 7 0 0 0
 #23557
-priestess of lolth~
-a priestess of Lolth~
-A priestess of Lolth laughs.
+storm priestess~
+a residual-storm priestess~
+A residual-storm priestess laughs.
 ~
-A priestess of Lolth looks ready for battle.
+A residual-storm priestess looks ready for battle.
 ~
 97 0 -300 S
 82 1
@@ -1028,10 +1028,10 @@ A priestess of Lolth looks ready for battle.
 ! 0 0 0 7 0 0 0
 #23558
 web queen~
-the Web Queen~
-The Web Queen sits upon a throne of silk.
+the Dragonstorm Queen~
+The Dragonstorm Queen sits upon a throne of still-falling silk.
 ~
-The Web Queen radiates terrible power.
+The Dragonstorm Queen radiates terrible power.
 ~
 35 0 -1000 S
 83 1
@@ -1051,9 +1051,9 @@ A 19 25
 A 1 3
 L 70
 #23571
-demonweb breastplate armor~
-@@WDemonweb breastplate@@N~
-A @@WDemonweb breastplate@@N rests here.~
+dragonstorm breastplate armor~
+@@WDragonstorm breastplate@@N~
+A @@WDragonstorm breastplate@@N rests here.~
 9 65 9 1
 15 0 0 0
 15
@@ -1064,9 +1064,9 @@ A 19 18
 A 12 75
 L 70
 #23572
-demonweb helm~
-@@WDemonweb helm@@N~
-A @@WDemonweb helm@@N lies on the ground.~
+dragonstorm helm~
+@@WDragonstorm helm@@N~
+A @@WDragonstorm helm@@N lies on the ground.~
 9 65 17 1
 15 0 0 0
 5
@@ -1076,9 +1076,9 @@ A 18 18
 A 19 18
 L 70
 #23573
-demonweb greaves~
-@@WDemonweb greaves@@N~
-@@WDemonweb greaves@@N are discarded here.~
+dragonstorm greaves~
+@@WDragonstorm greaves@@N~
+@@WDragonstorm greaves@@N are discarded here.~
 9 65 33 1
 15 0 0 0
 5
@@ -1088,9 +1088,9 @@ A 18 18
 A 19 18
 L 70
 #23574
-demonweb boots~
-@@WDemonweb boots@@N~
-A pair of @@WDemonweb boots@@N sits here.~
+dragonstorm boots~
+@@WDragonstorm boots@@N~
+A pair of @@WDragonstorm boots@@N sits here.~
 9 65 65 1
 15 0 0 0
 5
@@ -1100,9 +1100,9 @@ A 18 18
 A 19 18
 L 70
 #23575
-demonweb gauntlets~
-@@WDemonweb gauntlets@@N~
-@@WDemonweb gauntlets@@N lie in a pile.~
+dragonstorm gauntlets~
+@@WDragonstorm gauntlets@@N~
+@@WDragonstorm gauntlets@@N lie in a pile.~
 9 65 129 1
 15 0 0 0
 5
@@ -1112,9 +1112,9 @@ A 18 18
 A 19 18
 L 70
 #23576
-demonweb shield~
-@@WDemonweb shield@@N~
-A @@WDemonweb shield@@N leans against the wall.~
+dragonstorm shield~
+@@WDragonstorm shield@@N~
+A @@WDragonstorm shield@@N leans against the wall.~
 9 65 513 1
 15 0 0 0
 5
@@ -1124,9 +1124,9 @@ A 18 18
 A 19 18
 L 70
 #23577
-demonweb cloak~
-@@WDemonweb cloak@@N~
-A @@WDemonweb cloak@@N is folded here.~
+dragonstorm cloak~
+@@WDragonstorm cloak@@N~
+A @@WDragonstorm cloak@@N is folded here.~
 9 65 1025 1
 15 0 0 0
 5
@@ -1137,9 +1137,9 @@ A 19 18
 A 12 75
 L 70
 #23578
-demonweb ring~
-@@WDemonweb ring@@N~
-A @@WDemonweb ring@@N glints on the ground.~
+dragonstorm ring~
+@@WDragonstorm ring@@N~
+A @@WDragonstorm ring@@N glints on the ground.~
 9 65 3 1
 15 0 0 0
 5
@@ -1149,9 +1149,9 @@ A 18 18
 A 19 18
 L 70
 #23579
-demonweb amulet~
-@@WDemonweb amulet@@N~
-A @@WDemonweb amulet@@N hangs from a peg.~
+dragonstorm amulet~
+@@WDragonstorm amulet@@N~
+A @@WDragonstorm amulet@@N hangs from a peg.~
 9 65 5 1
 15 0 0 0
 5
@@ -1170,8 +1170,8 @@ A red healing potion sits here.~
 L 1
 #23581
 unique strandrazor legendary~
-@@Rthe Web Queen's weapon@@N~
-@@RThe legendary weapon of the Web Queen@@N lies here.~
+@@Rthe Dragonstorm Queen's weapon@@N~
+@@RThe legendary weapon of the Dragonstorm Queen@@N lies here.~
 5 67 8193 1
 6 37 0 3
 12
