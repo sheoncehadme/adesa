@@ -16,15 +16,14 @@ W stephen jer~
 T You can teleport into here
 #ROOMS
 #9601
-Edge of the Forest~
-You are standing at the edge of a large, gloomy forest.  Looking inside, you
+@@mEdge of the Bone-Lattice@@N~
+@@mEdge of the Bone-Lattice.@@N
 
-find it hard to see more than a few feet in any direction.  The trees inside
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-are short and withered, as if some force has mutated them.  You realize that
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-the forest is deathly quiet.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -41,15 +40,14 @@ Roc Road.
 0 -1 3240
 S
 #9602
-Inside the Mist~
-You are within the forest, surrounded by strange, withered trees.  A strange,
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-thick mist wafts about, obscuring your view of anything but that immediately
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-in front of you.  You find it very hard to keep to bearings in this strange
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-mist, which seems almost alive, and intent of keeping you out.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D2
@@ -66,15 +64,14 @@ The Edge of the Forest.
 0 -1 9601
 S
 #9603
-Inside the Mist~
-You are within the forest, surrounded by strange, withered trees.  A strange,
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
-thick mist wafts about, obscuring your view of anything but that immediately
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-in front of you.  You find it very hard to keep to bearings in this strange
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-mist, which seems almost alive, and intent of keeping you out.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D2
@@ -91,15 +88,14 @@ Inside the Mist.
 0 -1 9604
 S
 #9604
-Inside the Mist~
-You are within the forest, surrounded by strange, withered trees.  A strange,
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-thick mist wafts about, obscuring your view of anything but that immediately
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-in front of you.  You find it very hard to keep to bearings in this strange
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-mist, which seems almost alive, and intent of keeping you out.
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -116,17 +112,14 @@ Inside the Mist.
 0 -1 9605
 S
 #9605
-Inside the Mist~
-You are within the forest, surrounded by strange, withered trees.  A strange,
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-thick mist wafts about, obscuring your view of anything but that immediately
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-in front of you.  You find it very hard to keep to bearings in this strange
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-mist, which seems almost alive, and intent of keeping you out.  You are able
-
-to see more clearly to the east.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -143,11 +136,14 @@ The Forest Path.
 0 -1 9606
 S
 #9606
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -164,11 +160,14 @@ Inside The Mist.
 0 -1 9605
 S
 #9607
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -185,11 +184,14 @@ The Path.
 0 -1 9606
 S
 #9608
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -212,11 +214,14 @@ The Path.
 0 -1 9607
 S
 #9609
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -233,11 +238,14 @@ The Path.
 0 -1 9608
 S
 #9610
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -260,11 +268,14 @@ The Path.
 0 -1 9609
 S
 #9611
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -281,11 +292,14 @@ The Path.
 0 -1 9610
 S
 #9612
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D2
@@ -302,11 +316,14 @@ The Path.
 0 -1 9611
 S
 #9613
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -323,11 +340,14 @@ The Path.
 0 -1 9610
 S
 #9614
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -350,11 +370,14 @@ The Path.
 0 -1 9617
 S
 #9615
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -371,11 +394,14 @@ The Path.
 0 -1 9614
 S
 #9616
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D3
@@ -386,11 +412,14 @@ The Path.
 0 -1 9615
 S
 #9617
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -413,11 +442,14 @@ The Path.
 0 -1 9618
 S
 #9618
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -440,11 +472,14 @@ The Path.
 0 -1 9619
 S
 #9619
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -455,11 +490,14 @@ The Path.
 0 -1 9618
 S
 #9620
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -476,13 +514,14 @@ The Path.
 0 -1 9621
 S
 #9621
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-forest, full of stunted, withered trees and an enormous silence. One tree
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-draws your attention, a large carving embossed in it's bark.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -538,11 +577,14 @@ glance.@@N
 ~
 S
 #9622
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -565,11 +607,14 @@ The Path.
 0 -1 9625
 S
 #9623
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -586,11 +631,14 @@ The Path.
 0 -1 9622
 S
 #9624
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D2
@@ -607,11 +655,14 @@ The Path.
 0 -1 9623
 S
 #9625
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -628,11 +679,14 @@ The Path.
 0 -1 9626
 S
 #9626
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -649,11 +703,14 @@ The Path.
 0 -1 9627
 S
 #9627
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -676,11 +733,14 @@ The Path.
 0 -1 9628
 S
 #9628
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -703,11 +763,14 @@ The Path.
 0 -1 9631
 S
 #9629
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -724,11 +787,14 @@ The Path.
 0 -1 9628
 S
 #9630
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D2
@@ -745,11 +811,14 @@ The Undergrowth.
 0 -1 9723
 S
 #9631
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -766,11 +835,14 @@ The Path.
 0 -1 9632
 S
 #9632
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -787,11 +859,14 @@ The Path.
 0 -1 9633
 S
 #9633
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -808,11 +883,14 @@ The Path.
 0 -1 9632
 S
 #9634
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -829,11 +907,14 @@ The Path.
 0 -1 9633
 S
 #9635
-The Forest Path~
-You are on a narrow, winding path, running through this strange, twisted
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
-forest, full of stunted, withered trees and an enormous silence.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -850,11 +931,14 @@ The Path.
 0 -1 9634
 S
 #9636
-A Small Track~
-You are on a small, narrow track, which runs North to the main path, or
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
-continues South, through the twisted undergrowth.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -871,13 +955,14 @@ Further along the Track.
 0 -1 9637
 S
 #9637
-Further along the Track~
-You are on a small, narrow track, which runs through the forest's bitter,
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
-twisted undergrowth.  The main path lies to the North, whilst the track meets
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-a corner to the South.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -894,13 +979,14 @@ A Corner in the Track.
 0 -1 9638
 S
 #9638
-A Corner in the Track~
-You are at a corner of this small and narrow track.  You can head North, 
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
-through the thick undergrowth towards the main path, or travel East, further 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-into the undergrowth, where the track is lost between the thick bushes.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -917,13 +1003,14 @@ Into the Undergrowth.
 0 -1 9639
 S
 #9639
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -946,13 +1033,14 @@ The Corner of the Track.
 0 -1 9638
 S
 #9640
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -969,11 +1057,14 @@ The Undergrowth.
 0 -1 9639
 S
 #9641
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -996,11 +1087,14 @@ A Small Opening.
 0 -1 9659
 S
 #9642
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -1023,11 +1117,14 @@ A Passage.
 0 -1 9646
 S
 #9643
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D1
@@ -1050,11 +1147,14 @@ A Passage.
 0 -1 9642
 S
 #9644
-A Mining Room~
-You are in a small room, cut out of the rock, and by the looks of the walls,
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-it still is.  It looks like this room is currently being mined.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D3
@@ -1065,11 +1165,14 @@ A Passage.
 0 -1 9643
 S
 #9645
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -1092,11 +1195,14 @@ A Passage.
 0 -1 9668
 S
 #9646
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -1119,11 +1225,14 @@ A Mining Room.
 0 -1 9647
 S
 #9647
-A Mining Room~
-You are in a small room, cut out of the rock, and by the looks of the walls,
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
-it still is.  It looks like this room is currently being mined.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D0
@@ -1134,11 +1243,14 @@ A Passage.
 0 -1 9646
 S
 #9648
-A Mining Room~
-You are in a small room, cut out of the rock, and by the looks of the walls,
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-it still is.  It looks like this room is currently being mined.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -1149,11 +1261,14 @@ A Passage.
 0 -1 9643
 S
 #9649
-A Mining Room~
-You are in a small room, cut out of the rock, and by the looks of the walls,
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-it still is.  It looks like this room is currently being mined.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D2
@@ -1164,13 +1279,14 @@ A Passage.
 0 -1 9646
 S
 #9650
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -1187,13 +1303,14 @@ The Undergrowth.
 0 -1 9640
 S
 #9651
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D2
@@ -1204,13 +1321,14 @@ The Undergrowth.
 0 -1 9650
 S
 #9652
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -1233,13 +1351,14 @@ The Undergrowth.
 0 -1 9660
 S
 #9653
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D2
@@ -1256,13 +1375,14 @@ The Undergrowth.
 0 -1 9652
 S
 #9654
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -1279,15 +1399,14 @@ A Pond.
 0 -1 9655
 S
 #9655
-A Pond~
-You are standing in a small pond.  The water is dark, and smells worse than
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
-your underwear.  Now and again, you catch a glimpse of tiny beetle-like
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-insects scampering about on the water's edge.  Short, withered rushes line
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-the edge of the pond.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 6
 D0
@@ -1310,15 +1429,14 @@ The Pond.
 0 -1 9656
 S
 #9656
-A Pond~
-You are standing in a small pond, which appears to be fairly deep, despite its
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-size, like many things in this strange forest.  Short, twisted rushes attempt
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-to grow around the edge of the water, but aren't doing too well.  The smell
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-here is pretty gross.
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 6
 D1
@@ -1335,15 +1453,14 @@ The Pond.
 0 -1 9657
 S
 #9657
-A Pond~
-You are standing in a small pond.  A few dead fish float around here, looking
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
-pretty unwell.  Considering the sickly colour of the water, and the nose-
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-curdling smell, you're hardly surprised.  To the South, just past the water's
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-edge, you can see a small opening in the ground.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 6
 D0
@@ -1366,15 +1483,14 @@ A Small Opening.
 0 -1 9659
 S
 #9658
-A Pond~
-You are in a small pond.  The smell is worst here, and large swarms of flies
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-buzz around your head, just out of reach for a good swat.  What plant life
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-that manages to grow here only just manages to do so, but looks horrible
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-anyway.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 6
 D0
@@ -1391,15 +1507,14 @@ The Pond.
 0 -1 9657
 S
 #9659
-A Small Opening~
-You are in a small, cramped opening under the ground.  It is so narrow, that
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-it looks like there is only room for two people at most in here.  The earth
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-here looks dirty, and smells faintly.  The opening leads Down, whilst you
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-are able to see the pond to the North.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 521 0
 D0
@@ -1416,13 +1531,14 @@ Deeper Underground.
 0 -1 9641
 S
 #9660
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -1437,13 +1553,14 @@ D2
 0 -1 9661
 S
 #9661
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -1460,13 +1577,14 @@ The Undergrowth.
 0 -1 9662
 S
 #9662
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -1483,13 +1601,14 @@ The Undergrowth.
 0 -1 9661
 S
 #9663
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -1506,13 +1625,14 @@ The Undergrowth.
 0 -1 9662
 S
 #9664
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -1529,13 +1649,14 @@ The Undergrowth.
 0 -1 9663
 S
 #9666
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D2
@@ -1546,11 +1667,14 @@ The Undergrowth.
 0 -1 9670
 S
 #9667
-A Mining Room~
-You are in a small room, cut out of the rock, and by the looks of the walls,
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
-it still is.  It looks like this room is currently being mined.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D2
@@ -1561,11 +1685,14 @@ A Passage.
 0 -1 9645
 S
 #9668
-A Passage~
-You are in a small passage, cut out of the rock itself.  From the looks of the
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
-rough marks on the walls, it looks like this area has been mined in the past.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D0
@@ -1582,11 +1709,14 @@ A Passage.
 0 -1 9645
 S
 #9669
-A Small Cavern~
-You are in small cavern, cut out of the rock.  This is where the Neogi masters
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-come to meet sometimes, and discuss their latest plans for global domination.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D2
@@ -1597,13 +1727,14 @@ A Passage.
 0 -1 9668
 S
 #9670
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -1620,15 +1751,14 @@ The Undergrowth.
 0 -1 9664
 S
 #9671
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-and weeds seem to be everywhere, hampering your movement.  To the West you
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-can just about see the main path.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -1645,15 +1775,14 @@ The main path.
 0 -1 9635
 S
 #9672
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-and weeds seem to be everywhere, hampering your movement.  There is a large
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-mound of earth to the south.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -1676,11 +1805,14 @@ The Undergrowth.
 0 -1 9671
 S
 #9673
-A Small Cave~
-You are standing in a small cave, built into a large mound of earth.  There's
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
-not much special to see.  It looks unused.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -1697,13 +1829,14 @@ slab~
 1 -1 9696
 S
 #9674
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -1732,13 +1865,14 @@ The Undergrowth.
 0 -1 9672
 S
 #9675
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -1755,13 +1889,14 @@ The Undrgrowth.
 0 -1 9676
 S
 #9676
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -1784,13 +1919,14 @@ The Undergrowth.
 0 -1 9675
 S
 #9677
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -1807,13 +1943,14 @@ The Undergrowth.
 0 -1 9678
 S
 #9678
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -1830,11 +1967,14 @@ bush~
 1 -1 9684
 S
 #9679
-A Clearing~
-You are in a medium-sized clearing within this strange forest.  The grass
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-growing around your feet looks brown, and poisoned.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 2
 D0
@@ -1851,11 +1991,14 @@ The Undergrowth.
 0 -1 9676
 S
 #9680
-A Clearing~
-You are in a medium-sized clearing within this strange forest.  The grass
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-growing around your feet looks brown, and poisoned.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 2
 D2
@@ -1872,11 +2015,14 @@ A Clearing.
 0 -1 9681
 S
 #9681
-A Clearing~
-You are in a medium-sized clearing within this strange forest.  The grass
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-growing around your feet looks brown, and poisoned.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 2
 D0
@@ -1899,11 +2045,14 @@ The Undergrowth.
 0 -1 9674
 S
 #9682
-A Clearing~
-You are in a medium-sized clearing within this strange forest.  The grass
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-growing around your feet looks brown, and poisoned.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 2
 D2
@@ -1920,11 +2069,14 @@ A Clearing.
 0 -1 9683
 S
 #9683
-A Clearing~
-You are in a medium-sized clearing within this strange forest.  The grass
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
-growing around your feet looks brown, and poisoned.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 2
 D1
@@ -1941,9 +2093,14 @@ The Undergrowth.
 0 -1 9674
 S
 #9684
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -1966,9 +2123,14 @@ Woodland.
 0 -1 9687
 S
 #9685
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D1
@@ -1991,9 +2153,14 @@ Woodland.
 0 -1 9684
 S
 #9686
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D2
@@ -2010,9 +2177,14 @@ Woodland.
 0 -1 9685
 S
 #9687
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -2035,9 +2207,14 @@ Woodland.
 0 -1 9690
 S
 #9688
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -2066,9 +2243,14 @@ Woodland.
 0 -1 9687
 S
 #9689
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -2091,9 +2273,14 @@ Woodland.
 0 -1 9688
 S
 #9690
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -2110,9 +2297,14 @@ Woodland.
 0 -1 9693
 S
 #9691
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -2129,9 +2321,14 @@ Woodland.
 0 -1 9692
 S
 #9692
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -2148,9 +2345,14 @@ Woodland.
 0 -1 9691
 S
 #9693
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -2167,9 +2369,14 @@ Woodland.
 0 -1 9694
 S
 #9694
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -2192,9 +2399,14 @@ A Large Tree.
 0 -1 9706
 S
 #9695
-Dense Woodland~
-You are in an area of very dense woodland, full of withered, stunted trees.
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D3
@@ -2205,11 +2417,14 @@ Woodland.
 0 -1 9694
 S
 #9696
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D2
@@ -2232,11 +2447,14 @@ slab~
 1 -1 9673
 S
 #9697
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D1
@@ -2253,11 +2471,14 @@ The Cave.
 0 -1 9698
 S
 #9698
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -2280,11 +2501,14 @@ The Cave.
 0 -1 9700
 S
 #9699
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -2307,11 +2531,14 @@ The Cave.
 0 -1 9698
 S
 #9700
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D0
@@ -2334,11 +2561,14 @@ The Cave.
 0 -1 9702
 S
 #9701
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -2361,11 +2591,14 @@ The Cave.
 0 -1 9700
 S
 #9702
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -2388,11 +2621,14 @@ The Cave.
 0 -1 9704
 S
 #9703
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -2415,11 +2651,14 @@ The Cave.
 0 -1 9702
 S
 #9704
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D0
@@ -2436,11 +2675,14 @@ The Cave.
 0 -1 9705
 S
 #9705
-A large Cave~
-You are in a large, damp, dark cave, under the strange forest above.  Small
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-piles of bones lie on the floor, among the occasional pool of blood.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -2457,11 +2699,14 @@ The Cave.
 0 -1 9704
 S
 #9706
-A Large Tree~
-You are halfway up a large tree.  It doesn't look like you can climb any 
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-higher up, although a large branch to the East has a large nest built on it.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -2478,13 +2723,14 @@ Woodland.
 0 -1 9694
 S
 #9707
-The Hippogriff's Nest~
-You are in a VERY large nest, built out of branches and bones, as well as
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-many other types of assorted junk that the Hippogriffs have collected from
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-the bizare forest.
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D3
@@ -2495,13 +2741,14 @@ The Tree.
 0 -1 9706
 S
 #9709
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -2518,13 +2765,14 @@ The Main Path.
 0 -1 9617
 S
 #9710
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -2541,15 +2789,14 @@ The Undergrowth.
 0 -1 9709
 S
 #9711
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-able to grow much.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -2572,17 +2819,14 @@ The Glade.
 0 -1 9720
 S
 #9712
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-able to grow much.
-
-@@GA small @@rbush@@G obscures the view to the south.@@N
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -2611,15 +2855,14 @@ The Glade.
 0 -1 9711
 S
 #9713
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-able to grow much.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -2636,15 +2879,14 @@ The Glade.
 0 -1 9712
 S
 #9714
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-able to grow much.
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -2667,15 +2909,14 @@ The Glade.
 0 -1 9711
 S
 #9715
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-able to grow much.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -2704,15 +2945,14 @@ The Glade.
 0 -1 9714
 S
 #9716
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-able to grow much.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -2741,15 +2981,14 @@ The Glade.
 0 -1 9715
 S
 #9717
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-able to grow much.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -2766,15 +3005,14 @@ The Glade.
 0 -1 9714
 S
 #9718
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-able to grow much.
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D1
@@ -2797,15 +3035,14 @@ The Glade.
 0 -1 9717
 S
 #9719
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-able to grow much.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -2828,15 +3065,14 @@ The Glade.
 0 -1 9718
 S
 #9720
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-able to grow much.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -2847,15 +3083,14 @@ The Glade.
 0 -1 9711
 S
 #9721
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-able to grow much.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D3
@@ -2866,19 +3101,14 @@ The Glade.
 0 -1 9716
 S
 #9722
-The Glade~
-You are in a large glade within this strange forest.  It appears that the trees
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
-here were felled many years ago, and have never grown back.  The odd weed
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-pokes its head through the dirty ground, but they don't seem to have been
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-able to grow much.
-
- 
-
-@@dTo the north, you can faintly here the sounds of a hammer striking wood.@@N
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -2893,13 +3123,14 @@ The Glade.
 0 -1 9719
 S
 #9723
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -2916,13 +3147,14 @@ The Undergrowth.
 0 -1 9724
 S
 #9724
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -2939,15 +3171,14 @@ The Undergrowth.
 0 -1 9725
 S
 #9725
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-and weeds seem to be everywhere, hampering your movement.  To the West you can
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-see the door to a small cabin.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D1
@@ -2964,13 +3195,14 @@ door~
 1 -1 9726
 S
 #9726
-Inside the Cabin~
-You are standing in a small hallway within the cabin.  The room is bare, and
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-dust covers the rotten, wooden floor.  The hallway continues to the North and
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-South, whilst there is a door to the East.
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -2993,11 +3225,14 @@ End of the Hallway.
 0 -1 9728
 S
 #9727
-A Small Strong-Room~
-You are in a secret Strong-Room, used to hold items of value to its owner.
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-A thick coating of dust covers just about everything in here.
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mThe air tastes of chalk and old star-metal dust.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 13 0
 D5
@@ -3008,9 +3243,14 @@ trapdoor~
 1 -1 9732
 S
 #9728
-Inside the Cabin~
-You are at the Southern end of a small hallway within the cabin.
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -3027,13 +3267,14 @@ wooden door~
 1 -1 9729
 S
 #9729
-Inside the Cabin~
-You are in a small room within the cabin, which looks like it has been used
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-for experiments of some sort.  Various parts of different beasts lie around
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-you on the floor - lion's bodies, parts of bats and others you can't identify.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D1
@@ -3044,9 +3285,14 @@ wooden door~
 1 -1 9728
 S
 #9730
-Inside the Cabin~
-You are at the Northern end of the Hallway, within the cabin.
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
+
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D2
@@ -3063,13 +3309,14 @@ iron door~
 33 9619 9731
 S
 #9731
-Ymmas' Lair~
-You are in a small, dark room, home to the evil Ymmas, creator of this sick
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-and depraved forest, and all its inhabitants.  Just being in this room makes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-you feel ill.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D1
@@ -3086,11 +3333,14 @@ Ymmas's Throne room.
 0 -1 9732
 S
 #9732
-Ymmas' Throne Room~
-You are in a small room inside the cabin, dominated by an impressive throne,
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-which appears to have been built out of the bones of many creatures.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -3107,13 +3357,14 @@ trapdoor~
 1 -1 9727
 S
 #9733
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -3130,13 +3381,14 @@ The Undergrowth.
 0 -1 9734
 S
 #9734
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -3153,15 +3405,14 @@ The Undergrowth.
 0 -1 9735
 S
 #9735
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-and weeds seem to be everywhere, hampering your movement.  A huge, thick
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-thorn bush lies to the South.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D0
@@ -3178,15 +3429,14 @@ bush~
 1 -1 9736
 S
 #9736
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-try to kill everything that moves.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -3215,15 +3465,14 @@ The Glade.
 0 -1 9739
 S
 #9737
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-try to kill everything that moves.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D2
@@ -3240,9 +3489,14 @@ The Glade.
 0 -1 9736
 S
 #9738
-A Centaur's Hut~
-You are in a small, simple hut, built out of various parts of trees.
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 8 0
 D0
@@ -3253,15 +3507,14 @@ door~
 1 -1 9737
 S
 #9739
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-try to kill everything that moves.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D1
@@ -3278,9 +3531,14 @@ door~
 1 -1 9740
 S
 #9740
-A Centaur's Hut~
-You are in a small, simple hut, built out of various parts of trees.
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 8 0
 D0
@@ -3291,15 +3549,14 @@ door~
 1 -1 9739
 S
 #9741
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-try to kill everything that moves.
-
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -3316,15 +3573,14 @@ The Glade.
 0 -1 9742
 S
 #9742
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-try to kill everything that moves.
-
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -3353,15 +3609,14 @@ The Glade.
 0 -1 9744
 S
 #9743
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-try to kill everything that moves.
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 0 3
 D2
@@ -3378,15 +3633,14 @@ The Glade.
 0 -1 9742
 S
 #9744
-A Secluded Glade~
-You are in a small, secluded glade, hiden within this strange forest.  Home
+@@mCage of Ribs@@N~
+@@mCage of Ribs.@@N
 
-to a small tribe of Centaurs, who, created along with all the other horrific
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-creatures here, have decided to create an area of peace, rather than just
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-try to kill everything that moves.
-
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D1
@@ -3403,9 +3657,14 @@ door~
 1 -1 9745
 S
 #9745
-A Centaur's Hut~
-You are in a small, simple hut, built out of various parts of trees.
+@@mIvory Blind@@N~
+@@mIvory Blind.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 8 0
 D0
@@ -3416,9 +3675,14 @@ door~
 1 -1 9744
 S
 #9746
-A Centaur's Hut~
-You are in a small, simple hut, built out of various parts of trees.
+@@mFalse Opening@@N~
+@@mFalse Opening.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mGaps in the lattice show only more lattice, receding forever.@@N
+
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 8 0
 D0
@@ -3429,9 +3693,14 @@ A Door.
 1 -1 9742
 S
 #9747
-A Centaur's Hut~
-You are in a small, simple hut, built out of various parts of trees.
+@@mTrue Fracture@@N~
+@@mTrue Fracture.@@N
 
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
+
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 8 0
 D0
@@ -3442,13 +3711,14 @@ door~
 1 -1 9743
 S
 #9748
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mEcho Chamber of Bone@@N~
+@@mEcho Chamber of Bone.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 0 3
 D0
@@ -3465,13 +3735,14 @@ The Undergrowth.
 0 -1 9749
 S
 #9749
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mDust of Ages@@N~
+@@mDust of Ages.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 0 3
 D0
@@ -3488,13 +3759,14 @@ The Undergrowth.
 0 -1 9750
 S
 #9750
-In the Undergrowth~
-You are deep within this strange, monstrous forest.  The undergrowth here,
+@@mNeedle Corridor@@N~
+@@mNeedle Corridor.@@N
 
-like all life in the forest, is strange and mutated.  The large, thick bushes
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-and weeds seem to be everywhere, hampering your movement.
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 0 3
 D0
@@ -3516,15 +3788,14 @@ Brushing aside the plants, you see an pit!
 ~
 S
 #9751
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mJoint of the Wyrm@@N~
+@@mJoint of the Wyrm.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-you are in is connected to other such caves, and so on....
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-@@bAbove you hangs a large nexus of roots.@@N
-
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 13 0
 D2
@@ -3541,13 +3812,14 @@ roots~
 1 -1 9750
 S
 #9752
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mClatter Gallery@@N~
+@@mClatter Gallery.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
-you are in is connected to other such caves, and so on....
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -3570,13 +3842,14 @@ Another Cave.
 0 -1 9754
 S
 #9753
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mSealed Socket@@N~
+@@mSealed Socket.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-you are in is connected to other such caves, and so on....
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D2
@@ -3593,13 +3866,14 @@ Another Cave.
 0 -1 9752
 S
 #9754
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mLattice Heart@@N~
+@@mLattice Heart.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-you are in is connected to other such caves, and so on....
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D1
@@ -3616,13 +3890,14 @@ Another Cave.
 0 -1 9755
 S
 #9755
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mMirror of Marrow@@N~
+@@mMirror of Marrow.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-you are in is connected to other such caves, and so on....
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -3639,13 +3914,14 @@ Another Cave.
 0 -1 9756
 S
 #9756
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mFallen Tooth Bridge@@N~
+@@mFallen Tooth Bridge.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-you are in is connected to other such caves, and so on....
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -3668,13 +3944,14 @@ Another Cave.
 0 -1 9758
 S
 #9757
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mKnuckle Stair@@N~
+@@mKnuckle Stair.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-you are in is connected to other such caves, and so on....
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D2
@@ -3685,13 +3962,14 @@ Another Cave.
 0 -1 9756
 S
 #9758
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mVeil of Ossein@@N~
+@@mVeil of Ossein.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-you are in is connected to other such caves, and so on....
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -3714,13 +3992,14 @@ Another Cave.
 0 -1 9764
 S
 #9759
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mBleached Garden@@N~
+@@mBleached Garden.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
-you are in is connected to other such caves, and so on....
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -3737,13 +4016,14 @@ Another Cave.
 0 -1 9760
 S
 #9760
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mRattle Court@@N~
+@@mRattle Court.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
-you are in is connected to other such caves, and so on....
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D1
@@ -3760,13 +4040,14 @@ Another Cave.
 0 -1 9761
 S
 #9761
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mHollow Coccyx@@N~
+@@mHollow Coccyx.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-you are in is connected to other such caves, and so on....
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D0
@@ -3789,13 +4070,14 @@ Another Cave.
 0 -1 9762
 S
 #9762
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mSpine-Wire Tunnel@@N~
+@@mSpine-Wire Tunnel.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-you are in is connected to other such caves, and so on....
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D1
@@ -3812,13 +4094,14 @@ Another Cave.
 0 -1 9758
 S
 #9763
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mPuzzle of Seven Bones@@N~
+@@mPuzzle of Seven Bones.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mSometimes a corridor ends where it began; the lattice rearranges when unwatched.@@N
 
-you are in is connected to other such caves, and so on....
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D0
@@ -3835,13 +4118,14 @@ Another Cave.
 0 -1 9766
 S
 #9764
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mAntechamber of Dust@@N~
+@@mAntechamber of Dust.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-you are in is connected to other such caves, and so on....
+@@mLight fails a few feet ahead, as if the bones drink it.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D0
@@ -3864,13 +4148,14 @@ Another Cave.
 0 -1 9770
 S
 #9765
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mLattice Threshold@@N~
+@@mLattice Threshold.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mA slow residual pulse vibrates through the structure - Scar-echo, not a heart.@@N
 
-you are in is connected to other such caves, and so on....
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 9 0
 D2
@@ -3881,13 +4166,14 @@ Another Cave.
 0 -1 9764
 S
 #9766
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mBone Crossway@@N~
+@@mBone Crossway.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-you are in is connected to other such caves, and so on....
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0
@@ -3904,13 +4190,14 @@ Another Cave.
 0 -1 9767
 S
 #9767
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mMarrow Riddle Path@@N~
+@@mMarrow Riddle Path.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mInterlocked bone forms walls that almost make sense, then refuse to.@@N
 
-you are in is connected to other such caves, and so on....
+@@mGaps in the lattice show only more lattice, receding forever.@@N
 
+@@mYou feel the First Wyrm's fall still sorting itself into geometry.@@N
 ~
 9 0
 D1
@@ -3927,13 +4214,14 @@ Another Cave.
 0 -1 9768
 S
 #9768
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mCalcified Arch@@N~
+@@mCalcified Arch.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
-you are in is connected to other such caves, and so on....
+@@mEvery step clicks as if walking on a vast dry instrument.@@N
 
+@@mSomething about this place is a wound that learned to maze.@@N
 ~
 9 0
 D1
@@ -3944,22 +4232,26 @@ Another Cave.
 0 -1 9767
 S
 #9769
-A Small Cavern~
-You are in a small cavern.  It has a high, rough ceiling, and a smooth, worn
+@@mWhispering Lattice@@N~
+@@mWhispering Lattice.@@N
 
-dusty floor.  Smells in here as well.
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
+
+@@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 13 0
 S
 #9770
-In a Maze of Caves~
-You are in a narrow cave, under the strange forest.  It is totally dark, so
+@@mSpiral of Fingers@@N~
+@@mSpiral of Fingers.@@N
 
-without a light source, you'd be blind down here.  It appears that the cave
+@@mOld explorers' marks are scored into ivory and half-overgrown with mineral marrow.@@N
 
-you are in is connected to other such caves, and so on....
+@@mThe air tastes of chalk and old star-metal dust.@@N
 
+@@mAsh-Claimers have left scrap markers; few return the same way they left.@@N
 ~
 9 0
 D0

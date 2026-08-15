@@ -15,23 +15,14 @@ R Aenima fripp~
 W Aenima fripp~
 #ROOMS
 #11300
-@@dThe @@mHidden @@dPassage@@N~
-@@dThe halls open further to reveal a long, narrow passage that extends about
+@@RApproach to the Rib-Cage Cathedrals@@N~
+@@RApproach to the Rib-Cage Cathedrals.@@N
 
-fifteen feet into a eerie silence and a complete darkness.  You hold up your
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-@@ylight@@d and see a large spiral staircase leading up into a newly revealed
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-section of the tower that you never noticed in past visits to this area.  The
-
-steps seem to be composed of a smooth cut @@Rruby@@d that are anchored by
-
-metal posts.  You proceed up the staircase and look up into a large vertical
-
-tunnel that must extend high into the cavern.  As you squint you notice some
-
-flickering @@mmagenta@@d lights from high up into the tunnel.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D2
@@ -44,17 +35,14 @@ D4
 0 -1 11301
 S
 #11301
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -67,17 +55,14 @@ D5
 0 -1 11300
 S
 #11302
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -90,17 +75,14 @@ D5
 0 -1 11301
 S
 #11303
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -113,17 +95,14 @@ D5
 0 -1 11302
 S
 #11304
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -136,17 +115,14 @@ D5
 0 -1 11303
 S
 #11305
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -159,17 +135,14 @@ D5
 0 -1 11304
 S
 #11306
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -182,17 +155,14 @@ D5
 0 -1 11305
 S
 #11307
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -205,17 +175,14 @@ D5
 0 -1 11306
 S
 #11308
-@@dT@@mo@@pw@@We@@gr @@dS@@mt@@pa@@Wi@@gr@@Wc@@pa@@ms@@de@@N~
-@@dYou continue up the dark stairwell as with each step the @@Rruby@@d on the
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-stairs seems to sparkle brighter in the small amount of light that seeps into
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-the tunnel.  The @@ylights@@d from above seem to flicker on and off more
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-frequently as with greater intensity.  Holding your light high in the air, you
-
-continue further.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -228,15 +195,14 @@ D5
 0 -1 11307
 S
 #11309
-@@dT@@mh@@pe @@WT@@go@@pp@@N~
-@@dThe top of this everlasting staircase is a room that is like the inside of
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-a sphere, completely round in all directions.  There are four
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-@@Gs@@et@@ya@@Bi@@dn@@le@@ed@@d glass window on all four directional sides of
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-the room.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -245,19 +211,14 @@ D0
 225 11302 11310
 S
 #11310
-@@dB@@me@@pf@@Wo@@gr@@pe @@dT@@mh@@pe @@dC@@ma@@ps@@Wt@@gl@@pe@@N~
-@@dEmerging from the doorway you find you are on the floor of a whole new
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-cavern.  It seems that what appeared to be the upper part of the tower was
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-just the tunnel with the stairway leading here.  This cavern is smaller than
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-the one that the tower is based in.  Ahead in the northern part of the cave is
-
-a large castle composed completely of @@mg@@ge@@pm@@Ws@@mt@@po@@gn@@me@@ps@@d
-
-@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -266,23 +227,14 @@ D0
 0 -1 11311
 S
 #11311
-@@dT@@mh@@pe @@dM@@ma@@pz@@We @@go@@pf @@dM@@mi@@ps@@gt@@N~
-@@dHeading towards the castle you become trapped in a maze of @@pmist@@d.  All
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-you exits vanished behind you and you only see patches of @@mfog@@d which
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-prevent any clear vision.  You can still see @@ylights@@d in all directions,
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-though you can not tell where they come from.  The ground is a @@Bsapphire@@d
-
-color although what you stand on feels just like @@bdirt@@d.  The mist which
-
-prevents vision is so @@Bthick@@d that with a swipe of your hand you can
-
-actually part the @@pfog@@d and see a bit of what is ahead of you, although
-
-all you see after that is more @@mm@@pi@@Ws@@gt@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -311,23 +263,14 @@ D5
 0 -1 11311
 S
 #11312
-@@dT@@mh@@pe @@dM@@ma@@pz@@We @@go@@pf @@dM@@mi@@ps@@gt@@N~
-@@dHeading towards the castle you become trapped in a maze of @@pmist@@d.  All
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-you exits vanished behind you and you only see patches of @@mfog@@d which
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-prevent any clear vision.  You can still see @@ylights@@d in all directions,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-though you can not tell where they come from.  The ground is a @@Bsapphire@@d
-
-color although what you stand on feels just like @@bdirt@@d.  The mist which
-
-prevents vision is so @@Bthick@@d that with a swipe of your hand you can
-
-actually part the @@pfog@@d and see a bit of what is ahead of you, although
-
-all you see after that is more @@mm@@pi@@Ws@@gt@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -356,23 +299,14 @@ D5
 0 -1 11313
 S
 #11313
-@@dT@@mh@@pe @@dM@@ma@@pz@@We @@go@@pf @@dM@@mi@@ps@@gt@@N~
-@@dHeading towards the castle you become trapped in a maze of @@pmist@@d.  All
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-you exits vanished behind you and you only see patches of @@mfog@@d which
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-prevent any clear vision.  You can still see @@ylights@@d in all directions,
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-though you can not tell where they come from.  The ground is a @@Bsapphire@@d
-
-color although what you stand on feels just like @@bdirt@@d.  The mist which
-
-prevents vision is so @@Bthick@@d that with a swipe of your hand you can
-
-actually part the @@pfog@@d and see a bit of what is ahead of you, although
-
-all you see after that is more @@mm@@pi@@Ws@@gt@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -401,11 +335,14 @@ D5
 0 -1 11313
 S
 #11314
-@@dT@@mh@@pe @@dM@@ma@@pz@@We @@go@@pf @@dM@@mi@@ps@@gt@@N~
-@@dYou continue parting the mist with your hands and waving your shield back
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-and forth in the air until you finally come to a wall with a doorway.@@N
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
+
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -418,13 +355,14 @@ D2
 0 -1 11313
 S
 #11315
-@@dT@@mh@@pe @@dC@@ma@@ps@@Wt@@gl@@pe @@dD@@mo@@po@@Wr@@gs@@N~
-@@dThe doors to the north lead into the castle.  They appear to be solid steel
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
-doors with two large carvings of giant beasts on each.  There is a tiny
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-keyhole in the dead center of them, but no key you have seems to fit.@@N
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -441,13 +379,14 @@ D3
 0 -1 11316
 S
 #11316
-@@dA Small Cave@@N~
-@@dA small cave off to the side of the path to the castle is what you find
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-yourself in.  The walls are slick and the air has a cool dampness to it.  In
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-the corner you see three @@Rred@@d eyes stare at you with an evil intent.@@N
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -456,13 +395,14 @@ D1
 0 -1 11315
 S
 #11317
-@@dA Small Cave@@N~
-@@dA small cave off to the side of the path to the castle is what you find
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-yourself in.  The walls are slick and the air has a cool dampness to it.  In
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-the corner you see three @@Rred@@d eyes stare at you with an evil intent.@@N
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D3
@@ -471,17 +411,14 @@ D3
 0 -1 11315
 S
 #11318
-@@dI@@mn@@ps@@Wi@@gd@@pe @@dT@@mh@@pe @@dC@@ma@@ps@@Wt@@gl@@pe@@N~
-@@dThe castle entrance is made of a small arched hallway and it quickly opens
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-into a great hall where a great party can be seen.  Many creatures are dancing
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-on the ballroom floor dressed in extravagent evening wear.  There are hordes
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-of table set along the walls of the large room and a giant, royal table
-
-plastered with food and decorations.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -498,15 +435,14 @@ tomb~
 1 -1 11440
 S
 #11319
-@@dB@@me@@ph@@Wi@@gn@@pd @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou are a few feet behind the large ballroom dance floor in the center of
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-the grand hall of the C@@mr@@pi@@Wm@@gs@@po@@mn@@d Castle.  Many dark
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-creatures dance the night away having a grand old time.  Of the few that even
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-notice you standing there, they seem to give you no mind and continue on.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -527,15 +463,14 @@ D3
 0 0 11346
 S
 #11320
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -556,15 +491,14 @@ D3
 0 0 11345
 S
 #11321
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -585,15 +519,14 @@ D3
 0 0 11344
 S
 #11322
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -614,15 +547,14 @@ D3
 0 0 11343
 S
 #11323
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -643,15 +575,14 @@ D3
 0 -1 11329
 S
 #11324
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RNave of the Ninth Rib@@N~
+@@RNave of the Ninth Rib.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -664,19 +595,14 @@ D2
 0 -1 11323
 S
 #11325
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-bear clothes, some don't.  The one who prance nude seem to tease and taunt the
-
-king of the castle who sit in his throne behind a pair of thin gates to the
-
-north.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -697,15 +623,14 @@ D3
 0 -1 11327
 S
 #11326
-@@dJ@@mu@@pz@@Wa@@gm@@p'@@ms @@dChambers@@N~
-@@dOpening the grand doors you enter Juzam's new chambers.  He immediately
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-attacks you as you enter and you quickly notice he is not nearly as strong as
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-he was in your first encounter when he resided in the tower.  You make quick
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-work of him and his @@pthrone@@d glows ever so softly..@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -714,15 +639,14 @@ D2
 225 11322 11325
 S
 #11327
-@@dS@@mh@@pa@@Wd@@go@@pw@@m'@@ps @@dP@@mo@@ps@@gt@@N~
-@@dThis is the small post of the nether shadow, born and bred for one purpose.
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-To protect the lord of the tower.  They serve no other existance and by
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-bearing a piece of the key to the @@mL@@po@@Wr@@gd@@m'@@ps@@d, he keeps
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-unwanted mobiles from bothering his master.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D1
@@ -731,15 +655,14 @@ D1
 0 -1 11325
 S
 #11328
-@@dS@@mh@@pa@@Wd@@go@@pw@@m'@@ps @@dP@@mo@@ps@@gt@@N~
-@@dThis is the small post of the nether shadow, born and bred for one purpose.
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-To protect the lord of the tower.  They serve no other existance and by
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-bearing a piece of the key to the @@mL@@po@@Wr@@gd@@m'@@ps@@d, he keeps
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-unwanted mobiles from bothering his master.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D3
@@ -748,15 +671,14 @@ D3
 0 -1 11325
 S
 #11329
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -773,15 +695,14 @@ D3
 0 -1 11330
 S
 #11330
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -798,15 +719,14 @@ curtain~
 1 -1 11351
 S
 #11331
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -823,15 +743,14 @@ D3
 0 -1 11323
 S
 #11332
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -848,15 +767,14 @@ D3
 0 -1 11331
 S
 #11333
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -873,15 +791,14 @@ D3
 0 0 11347
 S
 #11334
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -898,15 +815,14 @@ D3
 0 0 11348
 S
 #11335
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -923,15 +839,14 @@ D3
 0 0 11349
 S
 #11336
-@@dB@@me@@ph@@Wi@@gn@@pd @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou are a few feet behind the large ballroom dance floor in the center of
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-the grand hall of the C@@mr@@pi@@Wm@@gs@@po@@mn@@d Castle.  Many dark
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-creatures dance the night away having a grand old time.  Of the few that even
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-notice you standing there, they seem to give you no mind and continue on.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -952,13 +867,14 @@ D3
 0 0 11350
 S
 #11337
-@@dS@@mt@@pa@@Wr@@gg@@Wa@@pz@@me@@dr@@p'@@ms @@dL@@ma@@pi@@gr@@N~
-@@dThis is just a small hallow dug out into the wall just large enough for a
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-man or two to fit inside.  Someone appears to have chiseled out the walls so
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-the gazer can stare out into the open night and marvel at the stars.@@N
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -967,15 +883,14 @@ D0
 0 -1 11336
 S
 #11338
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -992,15 +907,14 @@ D2
 0 -1 11339
 S
 #11339
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1017,15 +931,14 @@ D2
 0 -1 11340
 S
 #11340
-@@dA@@ms@@pi@@Wd@@ge @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou step aside from the @@gballroom@@d floor, and wander over to where the
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-elegant banquet tables are set up.  The are covered in @@psatin@@d coverings,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-and vases which contain hundreds of @@Rroses@@d seem to be made of pure
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-@@gd@@ci@@la@@gm@@ao@@ln@@cd@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1042,15 +955,14 @@ D2
 0 -1 11341
 S
 #11341
-@@dB@@me@@ph@@Wi@@gn@@pd @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou are a few feet behind the large ballroom dance floor in the center of
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-the grand hall of the C@@mr@@pi@@Wm@@gs@@po@@mn@@d Castle.  Many dark
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-creatures dance the night away having a grand old time.  Of the few that even
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-notice you standing there, they seem to give you no mind and continue on.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1071,13 +983,14 @@ curtain~
 1 -1 11353
 S
 #11342
-@@dS@@mt@@pa@@Wr@@gg@@Wa@@pz@@me@@dr@@p'@@ms @@dL@@ma@@pi@@gr@@N~
-@@dThis is just a small hallow dug out into the wall just large enough for a
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-man or two to fit inside.  Someone appears to have chiseled out the walls so
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-the gazer can stare out into the open night and marvel at the stars.@@N
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -1086,15 +999,14 @@ D0
 0 -1 11341
 S
 #11343
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1115,15 +1027,14 @@ D3
 0 -1 11338
 S
 #11344
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1144,15 +1055,14 @@ D3
 0 -1 11339
 S
 #11345
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1173,15 +1083,14 @@ D3
 0 -1 11340
 S
 #11346
-@@dB@@me@@ph@@Wi@@gn@@pd @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou are a few feet behind the large ballroom dance floor in the center of
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-the grand hall of the C@@mr@@pi@@Wm@@gs@@po@@mn@@d Castle.  Many dark
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-creatures dance the night away having a grand old time.  Of the few that even
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-notice you standing there, they seem to give you no mind and continue on.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1198,15 +1107,14 @@ D3
 0 0 11341
 S
 #11347
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1227,15 +1135,14 @@ D3
 0 -1 11322
 S
 #11348
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RNave of the Ninth Rib@@N~
+@@RNave of the Ninth Rib.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1256,15 +1163,14 @@ D3
 0 -1 11321
 S
 #11349
-@@dT@@mh@@pe @@gBallroom @@dD@@ma@@pn@@Wc@@ge @@dF@@ml@@po@@Wo@@gr@@N~
-@@dThe dance @@gfloor@@d is made of a polished white marble and has a thin
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-plastic like coating layered on top to prevent loss of grip while dancing.
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-Dancers stride along on the dance floor, some humaniod, some monstrous.  Some
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-bear clothes, some don't.  Suddenly you like this place.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1285,15 +1191,14 @@ D3
 0 -1 11320
 S
 #11350
-@@dB@@me@@ph@@Wi@@gn@@pd @@dThe @@gBallroom @@dF@@ml@@po@@Wo@@gr@@N~
-@@dYou are a few feet behind the large ballroom dance floor in the center of
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-the grand hall of the C@@mr@@pi@@Wm@@gs@@po@@mn@@d Castle.  Many dark
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-creatures dance the night away having a grand old time.  Of the few that even
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-notice you standing there, they seem to give you no mind and continue on.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1310,13 +1215,14 @@ D3
 0 -1 11319
 S
 #11351
-@@dA T@@mu@@pn@@Wn@@ge@@pl@@N~
-@@dYou find yourself in a small tunnel which seems to have once been a hallway
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-hallway, but the walls have crumbled and fragments of brick lie on the floor
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-@@N
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D1
@@ -1329,13 +1235,14 @@ D3
 0 0 11363
 S
 #11352
-@@dA T@@mu@@pn@@Wn@@ge@@pl@@N~
-@@dYou find yourself in a small tunnel which seems to have once been a hallway
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-hallway, but the walls have crumbled and fragments of brick lie on the floor
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-@@N
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D1
@@ -1348,13 +1255,14 @@ opening~
 1 -1 11332
 S
 #11354
-@@dA T@@mu@@pn@@Wn@@ge@@pl@@N~
-@@dYou find yourself in a small tunnel which seems to have once been a hallway
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-hallway, but the walls have crumbled and fragments of brick lie on the floor
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-@@N
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D1
@@ -1367,13 +1275,14 @@ opening~
 1 -1 11336
 S
 #11353
-@@dA T@@mu@@pn@@Wn@@ge@@pl@@N~
-@@dYou find yourself in a small tunnel which seems to have once been a hallway
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-hallway, but the walls have crumbled and fragments of brick lie on the floor
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-@@N
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D1
@@ -1386,17 +1295,14 @@ D3
 0 -1 11355
 S
 #11355
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1409,17 +1315,14 @@ D1
 0 -1 11353
 S
 #11356
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1432,17 +1335,14 @@ D2
 0 -1 11355
 S
 #11357
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1455,17 +1355,14 @@ D2
 0 -1 11356
 S
 #11358
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1482,13 +1379,14 @@ D3
 0 -1 11359
 S
 #11359
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-which leads north and south.@@N
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -1501,13 +1399,14 @@ D2
 0 -1 11360
 S
 #11360
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-which leads north and south.@@N
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1520,13 +1419,14 @@ D2
 0 -1 11361
 S
 #11361
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-which leads north and south.@@N
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1539,17 +1439,14 @@ D2
 0 -1 11362
 S
 #11362
-@@dG@@mr@@pa@@Wn@@gd @@dD@@mo@@po@@Wr@@gs@@N~
-@@dThe passage opens into a large cavern with a pair of grand doors to the
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-south.  The doors are at least 300 feet high and made of solid @@Wsilver@@d
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-and @@bbronze@@d.  Carvings and inscriptions are decorated all over the
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-massive doors and the only thing that doesn't look magestic is a small
-
-@@bsign@@d stuck into the ground right before the doors.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1563,17 +1460,14 @@ sign~
 ~
 S
 #11363
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1590,17 +1484,14 @@ D2
 0 -1 11358
 S
 #11364
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1617,17 +1508,14 @@ D3
 0 -1 11365
 S
 #11365
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -1640,17 +1528,14 @@ D3
 0 -1 11366
 S
 #11366
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1663,17 +1548,14 @@ D1
 0 -1 11365
 S
 #11367
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1686,17 +1568,14 @@ D2
 0 -1 11366
 S
 #11368
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -1705,17 +1584,14 @@ D2
 0 -1 11367
 S
 #11369
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -1728,17 +1604,14 @@ D2
 0 -1 11364
 S
 #11370
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1751,17 +1624,14 @@ D3
 0 -1 11369
 S
 #11371
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1774,17 +1644,14 @@ D2
 0 -1 11370
 S
 #11372
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RNave of the Ninth Rib@@N~
+@@RNave of the Ninth Rib.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1797,17 +1664,14 @@ D2
 0 -1 11371
 S
 #11373
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -1824,17 +1688,14 @@ D3
 0 -1 11374
 S
 #11374
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -1847,17 +1708,14 @@ D2
 0 -1 11375
 S
 #11375
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1866,17 +1724,14 @@ D0
 0 -1 11374
 S
 #11376
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1889,17 +1744,14 @@ D3
 0 -1 11354
 S
 #11377
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1912,17 +1764,14 @@ D2
 0 -1 11376
 S
 #11378
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1935,17 +1784,14 @@ D2
 0 -1 11377
 S
 #11379
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -1962,13 +1808,14 @@ D2
 0 -1 11378
 S
 #11380
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-which leads north and south.@@N
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -1981,13 +1828,14 @@ D3
 0 -1 11379
 S
 #11381
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-which leads north and south.@@N
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2000,13 +1848,14 @@ D2
 0 -1 11382
 S
 #11382
-@@dP@@ma@@ps@@Ws@@ga@@pg@@me@@N~
-@@dThis tiny passage leads south back towards where the front wall of the
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-castle would be.  Nothing special is here.  All the room is is a square hall
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-which leads north and south.@@N
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2019,17 +1868,14 @@ D2
 0 -1 11383
 S
 #11383
-@@dG@@mr@@pa@@Wn@@gd @@dD@@mo@@po@@Wr@@gs@@N~
-@@dThe passage opens into a large cavern with a pair of grand doors to the
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-south.  The doors are at least 300 feet high and made of solid @@Wsilver@@d
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and @@bbronze@@d.  Carvings and inscriptions are decorated all over the
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-massive doors and the only thing that doesn't look magestic is a small
-
-@@bsign@@d stuck into the ground right before the doors.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2043,17 +1889,14 @@ sign~
 ~
 S
 #11384
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2070,17 +1913,14 @@ D3
 0 -1 11352
 S
 #11385
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2097,17 +1937,14 @@ D2
 0 -1 11384
 S
 #11386
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2120,17 +1957,14 @@ D3
 0 -1 11385
 S
 #11387
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2143,17 +1977,14 @@ D3
 0 -1 11386
 S
 #11388
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2166,17 +1997,14 @@ D2
 0 -1 11387
 S
 #11389
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -2185,17 +2013,14 @@ D2
 0 -1 11388
 S
 #11390
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -2208,17 +2033,14 @@ D3
 0 -1 11391
 S
 #11391
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2231,17 +2053,14 @@ D1
 0 -1 11390
 S
 #11392
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2254,17 +2073,14 @@ D2
 0 -1 11391
 S
 #11393
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2277,17 +2093,14 @@ D2
 0 -1 11392
 S
 #11394
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2304,17 +2117,14 @@ D3
 0 -1 11397
 S
 #11395
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -2327,17 +2137,14 @@ D3
 0 -1 11394
 S
 #11396
-@@dD@@me@@ps@@We@@gr@@pt@@me@@dd H@@ma@@pl@@Wl@@gs@@N~
-@@dYou brush away @@Wcobwebs@@d and start to head down this old hallway. No
+@@RNave of the Ninth Rib@@N~
+@@RNave of the Ninth Rib.@@N
 
-light at all reaches here, and the light you carry starts to dim by some
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-mysterious force.  The passage is damp and you breath in the misty air.  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-smell makes you gag as you wonder who or what died in here and was left to rot
-
-away.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2346,17 +2153,14 @@ D0
 0 -1 11395
 S
 #11397
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2373,17 +2177,14 @@ D3
 0 -1 11398
 S
 #11398
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2396,17 +2197,14 @@ D3
 0 -1 11399
 S
 #11399
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2423,17 +2221,14 @@ D3
 0 -1 11400
 S
 #11400
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2446,17 +2241,14 @@ D3
 0 -1 11401
 S
 #11401
-@@dA@@mn@@pc@@Wi@@ge@@pn@@mt@@d H@@ma@@pl@@Wl@@gs@@N~
-@@dThe ancient halls around the main past of the castle are dusty and old, but
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-the walls still hold up and the floor is perfectly clean somehow. @@mviolet@@d
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-torches illuminate the halls.  You feel something sharp pierce into your foot,
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-and you look closer to the floor to see it is made of solid
-
-@@ad@@gi@@ca@@lm@@go@@ln@@ad@@d.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2473,13 +2265,14 @@ D3
 0 -1 11373
 S
 #11412
-@@dS@@mt@@pa@@Wi@@gr@@pc@@ma@@gs@@pe @@dTo The B@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThis is a small rusty old metal set of stairs which leads up to the north
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-into the barrack for the castle stormguards.  The walls are covered with a
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-slimy substance and there is just a small flickering light up ahead.@@N
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2492,15 +2285,14 @@ D2
 0 -1 11397
 S
 #11413
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2521,15 +2313,14 @@ D3
 0 0 11418
 S
 #11414
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2554,15 +2345,14 @@ secret~
 1 -1 11441
 S
 #11415
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2579,15 +2369,14 @@ D3
 0 -1 11416
 S
 #11416
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2600,15 +2389,14 @@ D2
 0 -1 11417
 S
 #11417
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2625,15 +2413,14 @@ D2
 0 -1 11418
 S
 #11418
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2646,15 +2433,14 @@ D1
 0 -1 11413
 S
 #11419
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -2667,15 +2453,14 @@ D3
 0 -1 11415
 S
 #11420
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2692,15 +2477,14 @@ D3
 0 -1 11414
 S
 #11421
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2713,13 +2497,14 @@ D3
 0 -1 11413
 S
 #11402
-@@dS@@mt@@pa@@Wi@@gr@@pc@@ma@@gs@@pe @@dTo The B@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThis is a small rusty old metal set of stairs which leads up to the north
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-into the barrack for the castle stormguards.  The walls are covered with a
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-slimy substance and there is just a small flickering light up ahead.@@N
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2732,15 +2517,14 @@ D2
 0 -1 11401
 S
 #11403
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2761,15 +2545,14 @@ D3
 0 0 11408
 S
 #11404
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2794,15 +2577,14 @@ secret~
 1 -1 11442
 S
 #11405
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2819,15 +2601,14 @@ D3
 0 -1 11406
 S
 #11406
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -2840,15 +2621,14 @@ D2
 0 -1 11407
 S
 #11407
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2865,15 +2645,14 @@ D2
 0 -1 11408
 S
 #11408
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2886,15 +2665,14 @@ D1
 0 -1 11403
 S
 #11409
-@@dC@@ma@@ps@@Wt@@gl@@pe @@dJ@@ma@@pi@@Wl@@gs@@N~
-@@dThese are the old, dusty jail cells for the castle where the crimson lords
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-keep the traitors and the enemies of the realm.  There is a small dusty bunk
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-which looks like it probually hasn't been used in ages.  The cell doors are
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-wide open and the lock is completely broken.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D2
@@ -2907,15 +2685,14 @@ D3
 0 -1 11405
 S
 #11410
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RNave of the Ninth Rib@@N~
+@@RNave of the Ninth Rib.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2932,15 +2709,14 @@ D3
 0 -1 11404
 S
 #11411
-@@BSt@@lor@@cmg@@aua@@grd @@dB@@ma@@pr@@Wr@@ga@@pc@@mk@@ds@@N~
-@@dThe walls are lined with bunks and small tables and chairs are pushed up
+@@RChoir of Fractures@@N~
+@@RChoir of Fractures.@@N
 
-against the sides.  Juzam must treat his guards well as their uniforms are
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-made of pure steel, but decorated in silk and satin fringe, with gold and
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-silver etchings in the armor.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -2953,15 +2729,14 @@ D3
 0 -1 11403
 S
 #11422
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RTransept of Scale@@N~
+@@RTransept of Scale.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -2970,15 +2745,14 @@ D4
 0 -1 11423
 S
 #11423
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RApse of Ember@@N~
+@@RApse of Ember.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -2991,15 +2765,14 @@ D5
 0 -1 11422
 S
 #11424
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RClerestory of Aurora@@N~
+@@RClerestory of Aurora.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3012,15 +2785,14 @@ D5
 0 -1 11423
 S
 #11425
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RCrypt Stair@@N~
+@@RCrypt Stair.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3033,15 +2805,14 @@ D5
 0 -1 11424
 S
 #11426
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RPulpit of Bone@@N~
+@@RPulpit of Bone.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3054,15 +2825,14 @@ D5
 0 -1 11425
 S
 #11427
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RSide Chapel of Breath@@N~
+@@RSide Chapel of Breath.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3075,15 +2845,14 @@ D5
 0 -1 11426
 S
 #11428
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RProcessional of Ash@@N~
+@@RProcessional of Ash.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3096,15 +2865,14 @@ D5
 0 -1 11427
 S
 #11429
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RHigh Vault@@N~
+@@RHigh Vault.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D4
@@ -3117,15 +2885,14 @@ D5
 0 -1 11428
 S
 #11430
-@@dT@@mh@@pe @@dL@@ma@@pd@@Wd@@ge@@pr@@N~
-@@dThis large ladder with @@aaquamarine@@d steps looks vaguely like the spiral
+@@RFlying Buttress of Ivory@@N~
+@@RFlying Buttress of Ivory.@@N
 
-staircases in the tower section of c@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@d  The
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ladder leads up a large square shaft with occasional flat pieces of marble
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-jetting out from the walls to where you can step on and rest.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -3138,13 +2905,14 @@ D5
 0 -1 11429
 S
 #11431
-@@dG@@mr@@pa@@gn@@Wd @@dD@@mo@@po@@Wr@@gs@@N~
-@@dTo the north lie a pair of grand marble doors with large inscriptions
+@@RRose Window of Glass-Fire@@N~
+@@RRose Window of Glass-Fire.@@N
 
-carved into the stone surface.  You see a giant keyhole and none of the other
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-keys from the tower seem to fit.@@N
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D0
@@ -3165,17 +2933,14 @@ D3
 0 -1 11433
 S
 #11432
-@@dT@@mh@@pe @@dT@@mr@@pu@@We @@dL@@mo@@pr@@Wd@@g'@@ps @@dT@@mh@@pr@@Wo@@gn@@pe@@N~
-@@dAfter your long battle through gruesome ugly powerful blood-hungry fiends
+@@RSacristy of Star-Metal@@N~
+@@RSacristy of Star-Metal.@@N
 
-and monsters, you successfully reach the true lair of @@dJ@@mu@@pz@@Wa@@gm@@d,
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
 
-the dark lord of the evil realm of the crimson empire.  He sees you out of the
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-corner of his eye and just as suddenly jumps up removing two large hammers
-
-from their holsters and positions himself in a ready stance for battle.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 131080 11
 D2
@@ -3184,17 +2949,14 @@ D2
 225 11317 11431
 S
 #11433
-@@dT@@mh@@pe @@dC@@ma@@pg@@ge @@dR@@mo@@po@@gm@@N~
-@@dYou enter a small opening in the wall which was completely dark, no light
+@@RConfessional Crack@@N~
+@@RConfessional Crack.@@N
 
-could be seen.  You feel your way along the walls and emerge into a large cage
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-with a @@ghuge@@d beast.  The beast eyes you carefully and starts to
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-@@fblur@@N@@d...Suddenly you feel the breath of something on your back but you
-
-turn to find no one.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D1
@@ -3203,17 +2965,14 @@ D1
 0 -1 11431
 S
 #11434
-@@dT@@mh@@pe @@dC@@ma@@pg@@ge @@dR@@mo@@po@@gm@@N~
-@@dYou enter a small opening in the wall which was completely dark, no light
+@@RBell-Empty Tower@@N~
+@@RBell-Empty Tower.@@N
 
-could be seen.  You feel your way along the walls and emerge into a large cage
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-with a @@ghuge@@d beast.  The beast eyes you carefully and starts to
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-@@fblur@@N@@d...Suddenly you feel the breath of something on your back but you
-
-turn to find no one.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D3
@@ -3222,29 +2981,14 @@ D3
 0 -1 11431
 S
 #11435
-@@dT@@mh@@pe @@dS@@mh@@pr@@Wi@@gn@@pe @@mO@@df @@mT@@ph@@We @@dM@@mi@@ps@@gt@@N~
-@@d  "She's in love with herself"
+@@RAmbulatory Mist@@N~
+@@RAmbulatory Mist.@@N
 
- "She likes the dark"
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
- 
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
-  "On her milk white neck"
-
- "The Devil's mark"
-
- 
-
-  "It's all Hallows Eve"
-
- "The moon is full"
-
- 
-
-  "Will she trick or treat"
-
- "I bet she will"
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 140302 11
 D0
@@ -3257,11 +3001,14 @@ D2
 0 -1 11399
 S
 #11436
-@@dW@@ma@@pl@@Wk@@gw@@pa@@my@@N~
-@@dYou march forth into the walkway that leads to the chambers of Lim-Dul, the
+@@RChapter House of Echoes@@N~
+@@RChapter House of Echoes.@@N
 
-reigning prince of C@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@N
+@@RWind through bone-gaps sounds almost like a hymn, almost like a roar.@@N
 
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
+
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -3274,11 +3021,14 @@ D2
 0 -1 11435
 S
 #11437
-@@dW@@ma@@pl@@Wk@@gw@@pa@@my@@N~
-@@dYou march forth into the walkway that leads to the chambers of Lim-Dul, the
+@@RScriptorium Dust@@N~
+@@RScriptorium Dust.@@N
 
-reigning prince of C@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@N
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
+
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -3291,11 +3041,14 @@ D2
 0 -1 11438
 S
 #11438
-@@dW@@ma@@pl@@Wk@@gw@@pa@@my@@N~
-@@dYou march forth into the walkway that leads to the chambers of Lim-Dul, the
+@@RReliquary Niche@@N~
+@@RReliquary Niche.@@N
 
-reigning prince of C@@mr@@pi@@Wm@@gs@@po@@mn@@d.@@N
+@@RResidual godfire glows faintly in the joints of the architecture.@@N
 
+@@RSomewhere deeper, a slow heart-pulse is felt more than heard.@@N
+
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139272 11
 D0
@@ -3304,17 +3057,14 @@ D0
 0 -1 11439
 S
 #11439
-@@dL@@mi@@pm@@W-@@dD@@mu@@pl@@d'@@ms @@dC@@mh@@pa@@Wm@@gb@@pe@@mr@@ds@@N~
-@@dThis is the large throne room of the prince of crimson.  The walls are
+@@ROuter Garth@@N~
+@@ROuter Garth.@@N
 
-decorated in large banners and drapestries hang up and down the walls in a
+@@RMurals of the Plunge cover every flat surface - wings, fire, the wound.@@N
 
-half circle fashion.  A ten foot pyramid of stairs leads up to where the
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-prince's throne is perched, which turns out the be next to a pair of large
-
-@@ms@@gt@@pa@@Wi@@mn@@pe@@gd @@dglass windows.@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 131592 11
 D2
@@ -3323,15 +3073,14 @@ D2
 0 -1 11438
 S
 #11440
-@@dT@@mh@@pe @@dT@@mo@@pm@@Wb@@gs@@N~
-@@dYou stumble in through the opening into a small dank room that was dug out
+@@RGate of Folded Wings@@N~
+@@RGate of Folded Wings.@@N
 
-from the earth.  The walls are jagged and a foul stench almost forces you to
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-hold your nose shut.  You hold up your light and rotting corpses scatter the
+@@REchoes return a half-second late, as if the stone still falls.@@N
 
-ground, decaying peacefully..@@N
-
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D4
@@ -3340,13 +3089,14 @@ D4
 1 -1 11318
 S
 #11441
-@@dT@@mr@@pe@@Wa@@gs@@pu@@mr@@de R@@mo@@po@@gm@@N~
-@@dYou move aside a bunk to find a small crack which you chip away at until it
+@@RSanctum Threshold@@N~
+@@RSanctum Threshold.@@N
 
-is large enough for you to fit through.  The room you find is a dusty storage
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
-room where the stormguards keep all the treasures they find or loot.@@N
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D4
@@ -3355,13 +3105,14 @@ D4
 1 -1 11414
 S
 #11442
-@@dT@@mr@@pe@@Wa@@gs@@pu@@mr@@de R@@mo@@po@@gm@@N~
-@@dYou move aside a bunk to find a small crack which you chip away at until it
+@@RGallery of Murals@@N~
+@@RGallery of Murals.@@N
 
-is large enough for you to fit through.  The room you find is a dusty storage
+@@RThe floor is impact-glass, smooth and cold, reflecting a sky that is not there.@@N
 
-room where the stormguards keep all the treasures they find or loot.@@N
+@@RRibs arch overhead like a nave built by impact rather than hands.@@N
 
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 D4
@@ -3370,11 +3121,14 @@ D4
 1 -1 11404
 S
 #11443
-@@dE@@mv@@pi@@gl@@N~
-@@dYou have stumbled upon the dwelling of pure evil.  These are the forces
+@@RUnder-choir@@N~
+@@RUnder-choir.@@N
 
-which are the true powers of crimson.  Destroy them and free the realm..@@N
+@@RScalewright graffiti and Spinewarden seals compete on the pillars.@@N
 
+@@REchoes return a half-second late, as if the stone still falls.@@N
+
+@@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
 S
