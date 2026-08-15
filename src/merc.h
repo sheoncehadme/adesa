@@ -60,15 +60,15 @@ char *crypt args((const char *key, const char *salt));
  */
 
 #ifndef BPORT
-# define mudnamecolor  "@@aA@@cd@@de@@gs@@Wa@@N"
-# define mudnamenocolor  "Adesa"
+# define mudnamecolor  "@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@N"
+# define mudnamenocolor  "Dragonfall"
 # define sacgodname  "Muffin"
 # define goodgodname  "Q"
 # define neutralgodname  "Ogma"
 # define evilgodname  "Erigol"
 #else
-# define mudnamecolor  "@@aA@@cd@@de@@gs@@Wa @@g(@@dBUILDER@@g)@@N"
-# define mudnamenocolor  "Adesa (BUILDER)"
+# define mudnamecolor  "@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@g(@@dBUILDER@@g)@@N"
+# define mudnamenocolor  "Dragonfall (BUILDER)"
 # define sacgodname  "Muffin"
 # define goodgodname  "Q"
 # define neutralgodname  "Ogma"

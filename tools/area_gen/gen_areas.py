@@ -1024,7 +1024,7 @@ class AreaBuilder:
         out.append("X 0\n")
         out.append("F 15\n")
         out.append("U " + tilde(z.reset_msg.rstrip("~")))
-        out.append("O " + tilde("adesa-gen"))
+        out.append("O " + tilde("dragonfall-gen"))
         out.append("R " + tilde("all"))
         out.append("W " + tilde("all"))
         out.append("T You can teleport into here\n")

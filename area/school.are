@@ -9,7 +9,7 @@ I 1 5
 V 3700 3779
 X 0
 F 5
-U @@aA@@cd@@de@@gs@@Wa @@dc@@gh@@ce@@ae@@dr@@gs @@dy@@go@@cu @@ao@@gn@@W!@@c!@@N~
+U @@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@dc@@gh@@ce@@ae@@dr@@gs @@dy@@go@@cu @@ao@@gn@@W!@@c!@@N~
 O hatchet~
 R hatchet aliaser que~
 W hatchet aliaser  que~
@@ -17,7 +17,7 @@ T You can teleport into here
 M No bad room spells allowed.
 #ROOMS
 #3700
-@@d*@@c*@@a*@@g*@@aA@@cd@@de@@gs@@Wa@@g*@@a*@@c*@@d*@@N~
+@@d*@@c*@@a*@@g*@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@g*@@a*@@c*@@d*@@N~
 @@d*@@c*@@a*@@g*@@dWelcome to our realm@@g*@@a*@@c*@@d*@@c We hope that you enjoy your stay@@a.@@c To go
 
 through @@WM@@gud @@WS@@gchool@@a,@@c please type @@lnorth@@a.@@c If you have been through
@@ -1773,8 +1773,8 @@ You see the south wall.
 0 0 3755
 S
 #3757
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WM@@gud @@WS@@gchool@@N~
-@@cYou are in a room in Scale-Touched Grounds in the @@aA@@cd@@de@@gs@@Wa@@c realm@@a.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@WM@@gud @@WS@@gchool@@N~
+@@cYou are in a room in Scale-Touched Grounds in the @@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@c realm@@a.@@N
 
 @@cDark @@Rpatches of blood@@c from ancient adventures are scribbled with@@N
 
@@ -1833,8 +1833,8 @@ E
 ~
 S
 #3758
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WT@@graining @@WR@@goom@@N~
-@@WY@@gou are in @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WT@@graining @@WR@@goom@@W.  @@gAround you are all sorts
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@WT@@graining @@WR@@goom@@N~
+@@WY@@gou are in @@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@WT@@graining @@WR@@goom@@W.  @@gAround you are all sorts
 
 of physical and mental training tools.  The whole room is filled with magic@@W,
 
@@ -1863,7 +1863,7 @@ the attribute you want increased.  Type 'help train' for more information.
 ~
 S
 #3759
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WP@@gractice @@WR@@goom@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@WP@@gractice @@WR@@goom@@N~
 @@WY@@gou are in a room filled with weapons@@W,@@g books@@W,@@g and many combat dummies@@W,@@g some@@N
 
 @@gcut and stabbed many times@@W,@@g others burnt to a crisp@@W.@@g  The room is filled with@@N
@@ -1898,7 +1898,7 @@ S
 A Safe Room~
 @@dYou are on a safe @@glooking platform, built into@@d a large cloud floating peacefully
 
-@@dabove the @@aA@@cd@@de@@gs@@Wa @@aA@@cr@@de@@gn@@Wa@@d.@@g  Below you, you can just make out @@dwhat seems to be
+@@dabove the @@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@aA@@cr@@de@@gn@@Wa@@d.@@g  Below you, you can just make out @@dwhat seems to be
 
 @@dan arena, while above you a strange @@gportal glows brightly.
 

@@ -1131,7 +1131,7 @@ new_descriptor(int control)
         sprintf(buf, "greeting%d", number_range(0, 2));
 
         if (!send_help(dnew, buf, HELP_NORMAL, TRUE))
-            write_to_buffer(dnew, "Welcome to Adesa. Please enter a name: ", 0);
+            write_to_buffer(dnew, "Welcome to Dragonfall. Please enter a name: ", 0);
 #else
         write_to_buffer(dnew, "Username: ", 0);
 #endif

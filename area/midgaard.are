@@ -144,12 +144,12 @@ D4
 0 -1 3054
 S
 #3004
-@@dThe Undead Shrine To The Adesa Gods@@N~
+@@dThe Undead Shrine To The Dragonfall Gods@@N~
 @@dThis horrid place is predominately black.  If you look closely, you see
 
 that blood seeps from the walls, pools here and there on the floor.  This is
 
-where the devout followers of the Adesas Gods come to worship them, and
+where the devout followers of the Dragonfall Gods come to worship them, and
 
 where they come to hire thier minions.@@N
 
@@ -2695,8 +2695,8 @@ bank deposit (amount)
 ~
 S
 #3003
-@@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cR@@do@@go@@Wm@@N~
-@@gYou are in Adesa's Idea Room, please leave your ideas here and we will consider them.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@a'@@cs @@dI@@gd@@We@@aa @@cR@@do@@go@@Wm@@N~
+@@gYou are in Dragonfall's Idea Room, please leave your ideas here and we will consider them.@@N
 
 ~
 12 0
@@ -2859,7 +2859,7 @@ D5
 0 -1 3014
 S
 #3063
-@@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard@@m R@@doom@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@mC@@dlan @@mB@@doard@@m R@@doom@@N~
 @@mT@@dhis room is for players to post there ideas about clans@@m.  P@@dlease
 
 use the board here to put up your clan@@m'@@ds history@@m,@@d symbol@@m,@@d and anything
@@ -2886,7 +2886,7 @@ D5
 0 -1 3005
 S
 #3064
-@@aA@@cd@@de@@gs@@Wa @@aI@@cn@@df@@go@@Wr@@am@@ca@@dt@@gi@@Wo@@an @@cR@@do@@go@@Wm@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@aI@@cn@@df@@go@@Wr@@am@@ca@@dt@@gi@@Wo@@an @@cR@@do@@go@@Wm@@N~
 In here you will be able to get the latest information as to what has been 
 
 added to our realm.  
@@ -3390,7 +3390,7 @@ D3
 0 0 3116
 S
 #3065
-@@aA@@cd@@de@@gs@@Wa @@aB@@cu@@di@@gl@@Wd@@ae@@cr @@dR@@go@@Wo@@am@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@aB@@cu@@di@@gl@@Wd@@ae@@cr @@dR@@go@@Wo@@am@@N~
 @@gThis room contains a board with building/area changes. Note that some changes
 
 @@gwill NOT be posted here if the Immortals intend to keep it 'secret'. Typical
@@ -3464,8 +3464,8 @@ postmaster post master~
 ! 0 0 0 7 0 0 0
 #3020
 black avenger~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@N~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@d is here@@m,@@d staring at you with brilliant @@Rred @@deyes@@m.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dBlack @@aA@@cv@@de@@gn@@Wg@@de@@cr@@d is here@@m,@@d staring at you with brilliant @@Rred @@deyes@@m.@@N
 
 ~
 ~
@@ -4096,11 +4096,11 @@ He looks greasy, and not very trustworthy.  Go figure.
 ! 0 0 0 7 8328 0 0
 #3016
 collector soul~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@N~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@d is here looking for your SOUL@@y!!@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dSoul @@dC@@go@@cl@@Wl@@de@@cc@@gt@@do@@cr@@d is here looking for your SOUL@@y!!@@N
 
 ~
-@@dThe Soul C@@Wo@@cl@@gl@@de@@cc@@Wt@@do@@cr @@dof the Realm of @@aA@@cd@@de@@gs@@Wa @@dis a tall, dark, eyeless being, who shrouds himself in @@gs@@dh@@ga@@dd@@go@@dw@@gs@@d.@@N
+@@dThe Soul C@@Wo@@cl@@gl@@de@@cc@@Wt@@do@@cr @@dof the Realm of @@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@dis a tall, dark, eyeless being, who shrouds himself in @@gs@@dh@@ga@@dd@@go@@dw@@gs@@d.@@N
 
 ~
 3473409 1591528 0 S
@@ -4286,8 +4286,8 @@ The lover's board is stuck to the wall with 4 arrows.
 L 1
 #3089
 board~
-@@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@N~
-@@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@d is here waiting for your ideas.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@a'@@cs @@dI@@gd@@We@@aa @@cB@@do@@ga@@Wr@@ad@@d is here waiting for your ideas.@@N
 
 ~
 27 0 0 1
@@ -5252,8 +5252,8 @@ The board for thought sharing is here, floating downwind slowly.
 L 1
 #3098
 board~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBuilder Board@@N~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dBuilder Board is here with the latest area changes.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dBuilder Board@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dBuilder Board is here with the latest area changes.@@N
 
 ~
 27 0 0 1
@@ -5381,8 +5381,8 @@ board~
 L 1
 #3199
 board~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dB@@gu@@al@@cl@@de@@gt@@Wi@@cn @@aB@@co@@da@@gr@@Wd@@N~
-@@aA@@cd@@de@@gs@@Wa@@a'@@cs @@dB@@gu@@Wl@@al@@ce@@dt@@gi@@Wn @@aB@@co@@da@@gr@@Wd @@ai@@cs @@dh@@ge@@Wr@@ae@@c, @@dw@@ga@@Wi@@at@@ci@@dn@@gg @@Wt@@ao @@ci@@dn@@gf@@Wo@@ar@@cm @@dy@@go@@Wu@@a.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dB@@gu@@al@@cl@@de@@gt@@Wi@@cn @@aB@@co@@da@@gr@@Wd@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@a'@@cs @@dB@@gu@@Wl@@al@@ce@@dt@@gi@@Wn @@aB@@co@@da@@gr@@Wd @@ai@@cs @@dh@@ge@@Wr@@ae@@c, @@dw@@ga@@Wi@@at@@ci@@dn@@gg @@Wt@@ao @@ci@@dn@@gf@@Wo@@ar@@cm @@dy@@go@@Wu@@a.@@N
 
 ~
 27 0 0 1
@@ -5565,8 +5565,8 @@ exploding star~
 L 100
 #3197
 board~
-@@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard@@m.@@N~
-@@aA@@cd@@de@@Ws@@ga @@mC@@dlan @@mB@@doard is here@@m.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@mC@@dlan @@mB@@doard@@m.@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el @@mC@@dlan @@mB@@doard is here@@m.@@N
 
 ~
 27 0 0 1
@@ -5575,8 +5575,8 @@ board~
 L 1
 #3196
 board~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dChanges Board@@N~
-@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@dChanges Board is here with the latest up to date code modifications.@@N
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dChanges Board@@N~
+@@eD@@Rr@@ya@@eg@@Ro@@yn@@Rf@@ea@@yl@@el@@d'@@cs @@dChanges Board is here with the latest up to date code modifications.@@N
 
 ~
 27 0 0 1
