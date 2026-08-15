@@ -41,8 +41,12 @@ else
 fi
 
 echo ""
-echo ">>> 6/6 world connectivity (Temple -> player areas)"
+echo ">>> 6/7 world connectivity (school -> player areas)"
 python3 tests/scripts/check_connectivity.py
+
+echo ""
+echo ">>> 7/7 auto-quest prerequisites (objs + pathfindable mob pools)"
+python3 tests/scripts/check_quests.py
 
 echo ""
 echo "############################################"

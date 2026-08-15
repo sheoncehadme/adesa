@@ -546,6 +546,141 @@ A board for global announcements is here.
 0 81 81 4
 1
 L 1
+#66
+scale shard quest~
+@@ya scarred scale-shard@@N~
+@@yA scarred scale-shard@@N of the First Wyrm lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#67
+blood vial quest~
+@@Ra vial of residual dragon-blood@@N~
+@@RA sealed vial of residual dragon-blood@@N rests here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#68
+bone chip quest~
+@@Wa chip of impact-bone@@N~
+@@WA chip of fused impact-bone@@N lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#69
+breath mist quest~
+@@ca phial of last-breath mist@@N~
+@@cA phial of last-breath mist@@N swirls softly here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#70
+will fragment quest~
+@@ea will-fragment of the Wyrm@@N~
+@@eA will-fragment of the First Wyrm@@N pulses here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#71
+star metal quest~
+@@da nugget of star-metal@@N~
+@@dA nugget of cooled star-metal@@N lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#72
+marrow crystal quest~
+@@mmarrow-crystal@@N~
+@@mA glowing marrow-crystal@@N rests here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#73
+aurora thread quest~
+@@ya thread of aurora-fire@@N~
+@@yA thread of aurora-fire@@N drifts above the floor.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#74
+spine token quest~
+@@WGreat Spine token@@N~
+@@WA Great Spine expedition token@@N lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#75
+heart pulse quest~
+@@Rheart-pulse charm@@N~
+@@RA heart-pulse charm@@N ticks slowly here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#76
+scar glass quest~
+@@dshard of impact-glass@@N~
+@@dA sharp shard of impact-glass@@N lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#77
+wing membrane quest~
+@@cwing-membrane scrap@@N~
+@@cA translucent wing-membrane scrap@@N lies here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#78
+claw mark quest~
+@@yclaw-mark talisman@@N~
+@@yA claw-mark talisman@@N rests here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#79
+ember ash quest~
+@@Rember-ash censer@@N~
+@@RAn ember-ash censer@@N smolders quietly here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#80
+axis seal quest~
+@@aaxis-seal of the new age@@N~
+@@aAn axis-seal of the new age@@N lies here, heavy with purpose.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
 #0
 #RESETS
 M 0 4 1 8 (null)
