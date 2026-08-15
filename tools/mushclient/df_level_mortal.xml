@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE muclient>
+<!--
+  Dragonfall functional test — mortal class → 80
+
+  Install into MUSHclient worlds/plugins and enable on the IMMORTAL world.
+  Requires implementor trust: setclass is level 90 (see src/interp.c).
+
+  Commands used:
+    setclass <player> <Mag|Cle|Thi|War|Psi> <level>
+    force <player> save
+-->
+<muclient>
+<plugin
+   name="Dragonfall_Level_Mortal"
+   author="Dragonfall"
+   id="0d4f81a2b7c639e45f18a0c3"
+   language="Lua"
+   purpose="Level a defined mortal class to 80 via setclass"
+   save_state="y"
+   date_written="2026-08-14 00:00:00"
+   requires="4.60"
+   version="1.0"
+   >
+<description trim="y">
+<![CDATA[
+Dragonfall — mortal class leveler (immortal functional test)
+
+  dfmortal [player] [class] [level]
+  dfconfig char <name>
+  dfconfig class <Mag|Cle|Thi|War|Psi>
+  dfconfig level <1-80>
+  dfshow
+
+Examples:
+  dfmortal
+  dfmortal Testchar Mag 80
+  dfmortal Testchar Warrior
+  dfconfig char Testchar
+
+Classes: Mag/Mage  Cle/Cleric  Thi/Thief  War/Warrior  Psi/Psionicist
+]]>
+</description>
+</plugin>
+
+<aliases>
+  <alias
+     script="OnDfMortal"
+     match="^dfmortal(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="n"
+     sequence="100"
+  />
+  <alias
+     script="OnDfConfig"
+     match="^dfconfig(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+  <alias
+     script="OnDfShow"
+     match="^dfshow$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+</aliases>
+
+<script>
+<![CDATA[
+
+-- Canonical who_name values from src/const.c class_table[].
+local MORTAL = {
+  mag = "Mag", mage = "Mag",
+  cle = "Cle", cleric = "Cle",
+  thi = "Thi", thief = "Thi",
+  war = "War", warrior = "War",
+  psi = "Psi", psionicist = "Psi", psion = "Psi",
+}
+
+local DEFAULT_CHAR  = "Testchar"
+local DEFAULT_CLASS = "Mag"
+local DEFAULT_LEVEL = 80
+local MIN_LEVEL     = 1
+local MAX_LEVEL     = 80   -- just below LEVEL_HERO (81)
+
+local function say(msg)
+  ColourNote("deepskyblue", "", "[dfmortal] ", "white", "", msg)
+end
+
+local function fail(msg)
+  ColourNote("red", "", "[dfmortal] ", "white", "", msg)
+end
+
+local function trim(s)
+  return (string.gsub(tostring(s or ""), "^%s*(.-)%s*$", "%1"))
+end
+
+local function split_words(s)
+  local out = {}
+  for w in string.gmatch(trim(s), "%S+") do
+    out[#out + 1] = w
+  end
+  return out
+end
+
+local function valid_name(s)
+  return string.match(s, "^[%a][%a%d_]*$") ~= nil
+end
+
+function NormalizeMortal(token)
+  if not token or token == "" then
+    return nil
+  end
+  return MORTAL[string.lower(token)]
+end
+
+local function get_char()
+  local v = trim(GetVariable("char") or "")
+  if v ~= "" then return v end
+  return DEFAULT_CHAR
+end
+
+local function get_class()
+  local v = NormalizeMortal(GetVariable("class") or "")
+  if v then return v end
+  return DEFAULT_CLASS
+end
+
+local function get_level()
+  local n = tonumber(GetVariable("level"))
+  if n and n >= MIN_LEVEL and n <= MAX_LEVEL then
+    return math.floor(n)
+  end
+  return DEFAULT_LEVEL
+end
+
+function ShowUsage()
+  say("usage: dfmortal [player] [class] [level]")
+  Note("  classes: Mag Cle Thi War Psi  (full names also accepted)")
+  Note("  defaults: char=" .. get_char()
+       .. "  class=" .. get_class()
+       .. "  level=" .. tostring(get_level()))
+  Note("  config:   dfconfig char <name> | class <abbr> | level <n>")
+  Note("  show:     dfshow")
+  Note("  sends:    setclass <player> <class> <level>   then   force <player> save")
+  Note("  requires: immortal trust 90 (setclass)")
+end
+
+function DoLevelMortal(player, class_who, level)
+  if not valid_name(player) then
+    fail("bad player name '" .. tostring(player) .. "' (letters/digits/underscore)")
+    return
+  end
+  if not class_who then
+    fail("unknown mortal class (want Mag Cle Thi War Psi)")
+    return
+  end
+  level = tonumber(level)
+  if not level or level < MIN_LEVEL or level > MAX_LEVEL then
+    fail("level must be " .. MIN_LEVEL .. "–" .. MAX_LEVEL)
+    return
+  end
+  level = math.floor(level)
+
+  local cmd = string.format("setclass %s %s %d", player, class_who, level)
+  say(cmd)
+  Send(cmd)
+  Send(string.format("force %s save", player))
+end
+
+function OnDfMortal(name, line, wildcards)
+  local rest = trim(wildcards[1] or "")
+  if rest == "help" or rest == "?" or rest == "-h" or rest == "--help" then
+    ShowUsage()
+    return
+  end
+
+  local w = split_words(rest)
+  local player, class_who, level = get_char(), get_class(), get_level()
+
+  if #w == 0 then
+    -- defaults
+  elseif #w == 1 then
+    local as_class = NormalizeMortal(w[1])
+    local as_level = tonumber(w[1])
+    if as_class then
+      class_who = as_class
+    elseif as_level then
+      level = as_level
+    else
+      player = w[1]
+    end
+  elseif #w == 2 then
+    if NormalizeMortal(w[1]) and tonumber(w[2]) then
+      class_who, level = NormalizeMortal(w[1]), tonumber(w[2])
+    elseif tonumber(w[2]) then
+      player, level = w[1], tonumber(w[2])
+    else
+      player, class_who = w[1], NormalizeMortal(w[2]) or class_who
+      if not NormalizeMortal(w[2]) then
+        fail("unknown mortal class '" .. w[2] .. "'")
+        return
+      end
+    end
+  elseif #w >= 3 then
+    player = w[1]
+    class_who = NormalizeMortal(w[2])
+    level = tonumber(w[3])
+    if not class_who then
+      fail("unknown mortal class '" .. w[2] .. "'")
+      return
+    end
+  end
+
+  DoLevelMortal(player, class_who, level)
+end
+
+function OnDfConfig(name, line, wildcards)
+  local w = split_words(wildcards[1] or "")
+  if #w == 0 then
+    OnDfShow()
+    return
+  end
+
+  local key = string.lower(w[1])
+  local val = w[2]
+  if key == "char" or key == "name" or key == "player" then
+    if not val or not valid_name(val) then
+      fail("dfconfig char <PlayerName>")
+      return
+    end
+    SetVariable("char", val)
+    say("char = " .. val)
+  elseif key == "class" then
+    local who = NormalizeMortal(val)
+    if not who then
+      -- remort plugin owns Sor/Ass/Kni/Nec/Mon — ignore unknown here
+      return
+    end
+    SetVariable("class", who)
+    say("class = " .. who)
+  elseif key == "level" then
+    local n = tonumber(val)
+    if not n or n < MIN_LEVEL or n > MAX_LEVEL then
+      fail("dfconfig level <" .. MIN_LEVEL .. "-" .. MAX_LEVEL .. ">")
+      return
+    end
+    SetVariable("level", tostring(math.floor(n)))
+    say("level = " .. tostring(math.floor(n)))
+  else
+    -- another plugin's dfconfig key (e.g. remort-only) — ignore quietly
+    return
+  end
+end
+
+function OnDfShow()
+  say("char=" .. get_char()
+      .. "  class=" .. get_class()
+      .. "  level=" .. tostring(get_level())
+      .. "  (mortal → setclass)")
+end
+
+function OnPluginInstall()
+  if trim(GetVariable("char") or "") == "" then
+    SetVariable("char", DEFAULT_CHAR)
+  end
+  if not NormalizeMortal(GetVariable("class") or "") then
+    SetVariable("class", DEFAULT_CLASS)
+  else
+    SetVariable("class", NormalizeMortal(GetVariable("class")))
+  end
+  if not tonumber(GetVariable("level")) then
+    SetVariable("level", tostring(DEFAULT_LEVEL))
+  end
+  say("loaded — dfmortal [player] [class] [level]   (dfshow for defaults)")
+end
+
+]]>
+</script>
+</muclient>

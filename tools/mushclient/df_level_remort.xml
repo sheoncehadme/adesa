@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE muclient>
+<!--
+  Dragonfall functional test — remort class → 80
+
+  Install into MUSHclient worlds/plugins and enable on the IMMORTAL world.
+  Requires implementor trust: setclass is level 90 (see src/interp.c).
+
+  Commands used:
+    setclass <player> <Sor|Ass|Kni|Nec|Mon> <level>
+    force <player> save
+
+  setclass remort works even if lvl2[class] is still -1 (not yet gained).
+-->
+<muclient>
+<plugin
+   name="Dragonfall_Level_Remort"
+   author="Dragonfall"
+   id="1e5a92b3c8d740f56a29b1d4"
+   language="Lua"
+   purpose="Level a defined remort class to 80 via setclass"
+   save_state="y"
+   date_written="2026-08-14 00:00:00"
+   requires="4.60"
+   version="1.0"
+   >
+<description trim="y">
+<![CDATA[
+Dragonfall — remort class leveler (immortal functional test)
+
+  dfremort [player] [class] [level]
+  dfconfig char <name>
+  dfconfig class <Sor|Ass|Kni|Nec|Mon>
+  dfconfig level <1-80>
+  dfshow
+
+Examples:
+  dfremort
+  dfremort Testchar Kni 80
+  dfremort Testchar Sorcerer
+  dfconfig char Testchar
+
+Classes: Sor/Sorcerer  Ass/Assassin  Kni/Knight  Nec/Necromancer  Mon/Monk
+]]>
+</description>
+</plugin>
+
+<aliases>
+  <alias
+     script="OnDfRemort"
+     match="^dfremort(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="n"
+     sequence="100"
+  />
+  <alias
+     script="OnDfConfig"
+     match="^dfconfig(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+  <alias
+     script="OnDfShow"
+     match="^dfshow$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+</aliases>
+
+<script>
+<![CDATA[
+
+-- Canonical who_name values from src/const.c remort_table[].
+local REMORT = {
+  sor = "Sor", sorcerer = "Sor",
+  ass = "Ass", assassin = "Ass",
+  kni = "Kni", knight = "Kni",
+  nec = "Nec", necromancer = "Nec",
+  mon = "Mon", monk = "Mon",
+}
+
+local DEFAULT_CHAR  = "Testchar"
+local DEFAULT_CLASS = "Sor"
+local DEFAULT_LEVEL = 80
+local MIN_LEVEL     = 1
+local MAX_LEVEL     = 80   -- just below LEVEL_HERO (81)
+
+local function say(msg)
+  ColourNote("mediumorchid", "", "[dfremort] ", "white", "", msg)
+end
+
+local function fail(msg)
+  ColourNote("red", "", "[dfremort] ", "white", "", msg)
+end
+
+local function trim(s)
+  return (string.gsub(tostring(s or ""), "^%s*(.-)%s*$", "%1"))
+end
+
+local function split_words(s)
+  local out = {}
+  for w in string.gmatch(trim(s), "%S+") do
+    out[#out + 1] = w
+  end
+  return out
+end
+
+local function valid_name(s)
+  return string.match(s, "^[%a][%a%d_]*$") ~= nil
+end
+
+function NormalizeRemort(token)
+  if not token or token == "" then
+    return nil
+  end
+  return REMORT[string.lower(token)]
+end
+
+local function get_char()
+  local v = trim(GetVariable("char") or "")
+  if v ~= "" then return v end
+  return DEFAULT_CHAR
+end
+
+local function get_class()
+  local v = NormalizeRemort(GetVariable("class") or "")
+  if v then return v end
+  return DEFAULT_CLASS
+end
+
+local function get_level()
+  local n = tonumber(GetVariable("level"))
+  if n and n >= MIN_LEVEL and n <= MAX_LEVEL then
+    return math.floor(n)
+  end
+  return DEFAULT_LEVEL
+end
+
+function ShowUsage()
+  say("usage: dfremort [player] [class] [level]")
+  Note("  classes: Sor Ass Kni Nec Mon  (full names also accepted)")
+  Note("  defaults: char=" .. get_char()
+       .. "  class=" .. get_class()
+       .. "  level=" .. tostring(get_level()))
+  Note("  config:   dfconfig char <name> | class <abbr> | level <n>")
+  Note("  show:     dfshow")
+  Note("  sends:    setclass <player> <class> <level>   then   force <player> save")
+  Note("  requires: immortal trust 90 (setclass)")
+end
+
+function DoLevelRemort(player, class_who, level)
+  if not valid_name(player) then
+    fail("bad player name '" .. tostring(player) .. "' (letters/digits/underscore)")
+    return
+  end
+  if not class_who then
+    fail("unknown remort class (want Sor Ass Kni Nec Mon)")
+    return
+  end
+  level = tonumber(level)
+  if not level or level < MIN_LEVEL or level > MAX_LEVEL then
+    fail("level must be " .. MIN_LEVEL .. "–" .. MAX_LEVEL)
+    return
+  end
+  level = math.floor(level)
+
+  local cmd = string.format("setclass %s %s %d", player, class_who, level)
+  say(cmd)
+  Send(cmd)
+  Send(string.format("force %s save", player))
+end
+
+function OnDfRemort(name, line, wildcards)
+  local rest = trim(wildcards[1] or "")
+  if rest == "help" or rest == "?" or rest == "-h" or rest == "--help" then
+    ShowUsage()
+    return
+  end
+
+  local w = split_words(rest)
+  local player, class_who, level = get_char(), get_class(), get_level()
+
+  if #w == 0 then
+    -- defaults
+  elseif #w == 1 then
+    local as_class = NormalizeRemort(w[1])
+    local as_level = tonumber(w[1])
+    if as_class then
+      class_who = as_class
+    elseif as_level then
+      level = as_level
+    else
+      player = w[1]
+    end
+  elseif #w == 2 then
+    if NormalizeRemort(w[1]) and tonumber(w[2]) then
+      class_who, level = NormalizeRemort(w[1]), tonumber(w[2])
+    elseif tonumber(w[2]) then
+      player, level = w[1], tonumber(w[2])
+    else
+      player, class_who = w[1], NormalizeRemort(w[2]) or class_who
+      if not NormalizeRemort(w[2]) then
+        fail("unknown remort class '" .. w[2] .. "'")
+        return
+      end
+    end
+  elseif #w >= 3 then
+    player = w[1]
+    class_who = NormalizeRemort(w[2])
+    level = tonumber(w[3])
+    if not class_who then
+      fail("unknown remort class '" .. w[2] .. "'")
+      return
+    end
+  end
+
+  DoLevelRemort(player, class_who, level)
+end
+
+function OnDfConfig(name, line, wildcards)
+  local w = split_words(wildcards[1] or "")
+  if #w == 0 then
+    OnDfShow()
+    return
+  end
+
+  local key = string.lower(w[1])
+  local val = w[2]
+  if key == "char" or key == "name" or key == "player" then
+    if not val or not valid_name(val) then
+      fail("dfconfig char <PlayerName>")
+      return
+    end
+    SetVariable("char", val)
+    say("char = " .. val)
+  elseif key == "class" then
+    local who = NormalizeRemort(val)
+    if not who then
+      -- mortal plugin owns Mag/Cle/... — ignore unknown here
+      return
+    end
+    SetVariable("class", who)
+    say("class = " .. who)
+  elseif key == "level" then
+    local n = tonumber(val)
+    if not n or n < MIN_LEVEL or n > MAX_LEVEL then
+      fail("dfconfig level <" .. MIN_LEVEL .. "-" .. MAX_LEVEL .. ">")
+      return
+    end
+    SetVariable("level", tostring(math.floor(n)))
+    say("level = " .. tostring(math.floor(n)))
+  else
+    return
+  end
+end
+
+function OnDfShow()
+  say("char=" .. get_char()
+      .. "  class=" .. get_class()
+      .. "  level=" .. tostring(get_level())
+      .. "  (remort → setclass)")
+end
+
+function OnPluginInstall()
+  if trim(GetVariable("char") or "") == "" then
+    SetVariable("char", DEFAULT_CHAR)
+  end
+  if not NormalizeRemort(GetVariable("class") or "") then
+    SetVariable("class", DEFAULT_CLASS)
+  else
+    SetVariable("class", NormalizeRemort(GetVariable("class")))
+  end
+  if not tonumber(GetVariable("level")) then
+    SetVariable("level", tostring(DEFAULT_LEVEL))
+  end
+  say("loaded — dfremort [player] [class] [level]   (dfshow for defaults)")
+end
+
+]]>
+</script>
+</muclient>

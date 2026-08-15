@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE muclient>
+<!--
+  Dragonfall functional test — adept → max (20)
+
+  Install into MUSHclient worlds/plugins and enable on the IMMORTAL world.
+  Requires:
+    setclass  trust 90   (first-time adept only)
+    mset      trust 89   (adept rank 0–20)
+
+  Commands used:
+    setclass <player> ADEPT     — first adept only; errors if already adept
+    mset     <player> adept 20  — set rank (src/act_wiz.c: range 0–20)
+    force    <player> save
+-->
+<muclient>
+<plugin
+   name="Dragonfall_Level_Adept"
+   author="Dragonfall"
+   id="2f6b03c4d9e851067b3ac2e5"
+   language="Lua"
+   purpose="Make a test character an adept and set rank to the game max (20)"
+   save_state="y"
+   date_written="2026-08-14 00:00:00"
+   requires="4.60"
+   version="1.0"
+   >
+<description trim="y">
+<![CDATA[
+Dragonfall — adept max-rank (immortal functional test)
+
+  dfadept [player]
+  dfconfig char <name>
+  dfshow
+
+Examples:
+  dfadept
+  dfadept Testchar
+  dfconfig char Testchar
+
+Always:
+  1. setclass <player> ADEPT   (no-op / error if already adept — ignore it)
+  2. mset <player> adept 20
+  3. force <player> save
+
+Game cap is 20 (see do_mset "adept" in src/act_wiz.c).
+]]>
+</description>
+</plugin>
+
+<aliases>
+  <alias
+     script="OnDfAdept"
+     match="^dfadept(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="n"
+     sequence="100"
+  />
+  <alias
+     script="OnDfConfig"
+     match="^dfconfig(?:\s+(.*))?$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+  <alias
+     script="OnDfShow"
+     match="^dfshow$"
+     enabled="y"
+     regexp="y"
+     ignore_case="y"
+     keep_evaluating="y"
+     sequence="100"
+  />
+</aliases>
+
+<script>
+<![CDATA[
+
+local DEFAULT_CHAR  = "Testchar"
+local ADEPT_MAX     = 20
+
+local function say(msg)
+  ColourNote("gold", "", "[dfadept] ", "white", "", msg)
+end
+
+local function fail(msg)
+  ColourNote("red", "", "[dfadept] ", "white", "", msg)
+end
+
+local function trim(s)
+  return (string.gsub(tostring(s or ""), "^%s*(.-)%s*$", "%1"))
+end
+
+local function split_words(s)
+  local out = {}
+  for w in string.gmatch(trim(s), "%S+") do
+    out[#out + 1] = w
+  end
+  return out
+end
+
+local function valid_name(s)
+  return string.match(s, "^[%a][%a%d_]*$") ~= nil
+end
+
+local function get_char()
+  local v = trim(GetVariable("char") or "")
+  if v ~= "" then return v end
+  return DEFAULT_CHAR
+end
+
+function ShowUsage()
+  say("usage: dfadept [player]")
+  Note("  default:  char=" .. get_char() .. "  adept max=" .. tostring(ADEPT_MAX))
+  Note("  config:   dfconfig char <name>")
+  Note("  show:     dfshow")
+  Note("  sends:    setclass <player> ADEPT")
+  Note("            mset <player> adept " .. tostring(ADEPT_MAX))
+  Note("            force <player> save")
+  Note("  requires: immortal trust 90 (setclass) and 89 (mset)")
+end
+
+function DoAdeptMax(player)
+  if not valid_name(player) then
+    fail("bad player name '" .. tostring(player) .. "' (letters/digits/underscore)")
+    return
+  end
+
+  -- First-time only. If they are already adept the mud replies
+  -- "They are already an adept." and we still raise the rank.
+  local make = string.format("setclass %s ADEPT", player)
+  local rank = string.format("mset %s adept %d", player, ADEPT_MAX)
+  say(make .. "  &&  " .. rank)
+  Send(make)
+  Send(rank)
+  Send(string.format("force %s save", player))
+end
+
+function OnDfAdept(name, line, wildcards)
+  local rest = trim(wildcards[1] or "")
+  if rest == "help" or rest == "?" or rest == "-h" or rest == "--help" then
+    ShowUsage()
+    return
+  end
+
+  local w = split_words(rest)
+  local player = get_char()
+  if #w >= 1 then
+    player = w[1]
+  end
+  DoAdeptMax(player)
+end
+
+function OnDfConfig(name, line, wildcards)
+  local w = split_words(wildcards[1] or "")
+  if #w == 0 then
+    OnDfShow()
+    return
+  end
+
+  local key = string.lower(w[1])
+  local val = w[2]
+  if key == "char" or key == "name" or key == "player" then
+    if not val or not valid_name(val) then
+      fail("dfconfig char <PlayerName>")
+      return
+    end
+    SetVariable("char", val)
+    say("char = " .. val)
+  else
+    -- class / level belong to the other plugins
+    return
+  end
+end
+
+function OnDfShow()
+  say("char=" .. get_char()
+      .. "  adept max=" .. tostring(ADEPT_MAX)
+      .. "  (setclass ADEPT + mset adept)")
+end
+
+function OnPluginInstall()
+  if trim(GetVariable("char") or "") == "" then
+    SetVariable("char", DEFAULT_CHAR)
+  end
+  say("loaded — dfadept [player]   (dfshow for defaults)")
+end
+
+]]>
+</script>
+</muclient>
