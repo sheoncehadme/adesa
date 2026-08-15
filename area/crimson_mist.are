@@ -29,6 +29,11 @@ D0
 ~
 ~
 0 -1 8351
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 8370
 S
 #8351
 @@mTide of Quicksilver Blood@@N~
@@ -3197,6 +3202,11 @@ S
 @@mThe Blood-Tide Marshes are a Lower Wound remnant: arteries of the Sky-Breaker gone soft and wide.@@N
 ~
 24590 11
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 8350
 S
 #8489
 @@mWaderist of Veins@@N~

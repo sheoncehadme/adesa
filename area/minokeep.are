@@ -34,6 +34,11 @@ D0
 ~
 ~
 1 -1 1310
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 1379
 S
 #1310
 @@dA Road Within @@eMinotaur@@d Keep@@N~
@@ -1800,6 +1805,11 @@ S
 
 ~
 4 11
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 1300
 S
 #1380
 @@bA well trod path@@N~

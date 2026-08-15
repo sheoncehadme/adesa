@@ -38,6 +38,11 @@ Roc Road.
 ~
 ~
 0 -1 3240
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 9769
 S
 #9602
 @@mBone Crossway@@N~
@@ -4242,6 +4247,11 @@ S
 @@mThe Scar's memory of impact is written here in white architecture.@@N
 ~
 13 0
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 9601
 S
 #9770
 @@mSpiral of Fingers@@N~

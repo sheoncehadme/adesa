@@ -183,6 +183,11 @@ A long winding path that leads slowly onwards off into the distance.
 
 ~
 4 1
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 9200
 S
 #9250
 Outside the South Gate of Evermeet~
@@ -576,6 +581,16 @@ D5
 ~
 ~
 0 -1 9201
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 9251
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 9256
 S
 #9201
 The Temple of Evermeet~
@@ -1306,6 +1321,11 @@ A long path indeed, unfortunately you are travelling down it and it may take som
 
 ~
 4 1
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 9200
 S
 #9257
 Main Street~

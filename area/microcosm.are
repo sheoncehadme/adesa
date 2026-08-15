@@ -391,6 +391,11 @@ characters stick out in here.@@N
 
 ~
 24588 11
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 5600
 S
 #5769
 @@yBakery@@N~
@@ -2223,6 +2228,11 @@ D0
 ~
 ~
 353 -1 5622
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 5602
 S
 #5620
 @@eFirst Riddle:@@N~
@@ -2392,6 +2402,11 @@ D4
 ~
 ~
 0 -1 5754
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 5602
 S
 #5614
 @@eSome Help They Were!@@N~
@@ -2547,6 +2562,21 @@ D5
 ~
 ~
 0 -1 5603
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 5615
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 5621
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 5600
 E
 badge~
 ~
@@ -2569,6 +2599,21 @@ D5
 ~
 ~
 0 -1 5601
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 5602
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 5770
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 5790
 E
 sign~
 This isnt a joke, this is your last chance until you have cleared the
@@ -4081,6 +4126,11 @@ univers
 
 ~
 25614 11
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 5600
 S
 #0
 #MOBILES

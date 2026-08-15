@@ -1195,6 +1195,16 @@ D2
 ~
 ~
 0 -1 20618
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 20603
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 20683
 E
 doorway~
 @@GThis black maw which leads into the Geodesic Dome appears to be a simple
@@ -1405,6 +1415,16 @@ D2
 ~
 ~
 0 -1 20604
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 20663
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 20600
 E
 scratchings~
 @@lExamining these scratchings in the wall a little closer, you notice that one gouge in the wall contains small scraps of torn flesh.@@g~
@@ -2399,6 +2419,11 @@ D2
 ~
 ~
 0 -1 20665
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 20603
 E
 carvings~
 @@gIn Ephesians Paul was at pains to point out that people cannot respond to
@@ -2736,6 +2761,11 @@ D1
 ~
 ~
 0 -1 20684
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 20600
 S
 #20684
 @@dVault Threshold@@N~

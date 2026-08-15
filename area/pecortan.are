@@ -335,6 +335,11 @@ D4
 ~
 ~
 33 -1 16885
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 16800
 S
 #16844
 The summoning chamber~
@@ -663,6 +668,21 @@ D2
 ~
 ~
 0 -1 16893
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 16873
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 16845
+D4
+A passage leads up into a side wing.
+~
+~
+0 -1 16892
 S
 #16805
 The dark entrance~
@@ -1681,6 +1701,11 @@ D5
 ~
 ~
 0 0 16871
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 16800
 E
 cold~
 ~
@@ -2080,6 +2105,11 @@ D3
 ~
 ~
 0 -1 16891
+D5
+A passage leads down into the greater halls.
+~
+~
+0 -1 16800
 S
 #16893
 @@dPerversion@@N~

@@ -955,6 +955,11 @@ D3
 ~
 ~
 0 -1 3923
+D5
+A passage leads down into the greater halls.
+~
+~
+0 -1 3900
 S
 #3923
 New room~
@@ -1545,6 +1550,11 @@ D3
 ~
 ~
 0 -1 3902
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 3990
 S
 #3900
 @@NPathway to the @@dArkham Asylum@@N~
@@ -1578,6 +1588,21 @@ D3
 ~
 ~
 0 -1 3901
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 3975
+D4
+A passage leads up into a side wing.
+~
+~
+0 -1 3922
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 3974
 E
 sign~
 @@NWelcome to the @@dArkham Asylum for the Criminally @@eInsane@@N.  @@lPlease:
@@ -1690,6 +1715,11 @@ S
 carriage house inside, north wall~
 No description~
 4 11
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 3900
 S
 #3975
 New room~
@@ -1703,6 +1733,11 @@ D3
 ~
 ~
 0 -1 3976
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 3900
 S
 #3976
 Gateway to level 2~
@@ -1930,6 +1965,11 @@ to hastily depart.
 
 ~
 4 11
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 3901
 S
 #3991
 @@GWoods@@N~

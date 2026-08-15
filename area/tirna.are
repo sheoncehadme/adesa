@@ -139,6 +139,11 @@ D2
 ~
 ~
 0 -1 9099
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 9001
 S
 #9093
 Gabe's Grocery~
@@ -151,6 +156,11 @@ around helping where he can.
 
 ~
 12 0
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 9001
 S
 #9072
 Izan Drive~
@@ -223,9 +233,10 @@ D2
 ~
 0 -1 9087
 D3
+West returns toward the Scar-side approaches of Tirna.
 ~
 ~
-0 -1 9081
+0 -1 9003
 S
 #9067
 Room of Questing~
@@ -237,6 +248,11 @@ the board.
 
 ~
 12 0
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 9002
 S
 #9066
 Clan Information~
@@ -250,6 +266,11 @@ carefully!
 
 ~
 12 0
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 9002
 S
 #9003
 Crypt~
@@ -269,6 +290,11 @@ D4
 ~
 ~
 0 -1 3054
+D1
+The path opens east into the wider Aurora-Bloom meadows.
+~
+~
+0 -1 9068
 S
 #9001
 The Unholy Citadel~
@@ -296,6 +322,26 @@ D5
 ~
 ~
 0 -1 9002
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 9094
+D4
+A passage leads up into a side wing.
+~
+~
+0 -1 9081
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 9004
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 9093
 S
 #9073
 Izan Drive~
@@ -419,6 +465,11 @@ D3
 ~
 ~
 0 -1 9082
+D5
+A passage leads down into the greater halls.
+~
+~
+0 -1 9001
 S
 #9082
 Izan Drive~
@@ -581,6 +632,16 @@ D4
 ~
 ~
 0 -1 9001
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 9067
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 9066
 S
 #9004
 @@bSanctuary@@N~
@@ -608,6 +669,11 @@ D5
 ~
 ~
 0 -1 9006
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 9001
 S
 #9005
 @@bThe Holy Shrine@@N~

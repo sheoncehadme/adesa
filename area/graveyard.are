@@ -29,6 +29,11 @@ way back up, but you can hear water flowing beneath you.
 
 ~
 24589 11
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 11000
 S
 #11088
 Lost in the woods~
@@ -670,11 +675,26 @@ D3
 ~
 ~
 0 -1 11080
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 11090
+D0
+A passage leads north into a side wing.
+~
+~
+0 -1 11099
 S
 #11099
 Doran's Bedroom~
 No description~
 16909 11
+D2
+A passage leads south into the greater halls.
+~
+~
+0 -1 11000
 E
 bedpost~
 You see one mark here with the innitials L.M. carved by it.~

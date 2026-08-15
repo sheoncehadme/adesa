@@ -712,6 +712,11 @@ D2
 ~
 ~
 0 -1 7303
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 7300
 S
 #7301
 Isileth's Poison chamber.~
@@ -752,6 +757,21 @@ D0
 ~
 ~
 0 -1 7336
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 7302
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 7346
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 7345
 S
 #7344
 home of my spiritual tormentor~
@@ -798,6 +818,11 @@ Jellicle songs for Jellicle cats
 
 ~
 26140 3
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 7300
 S
 #7315
 The darkening woods~
@@ -822,6 +847,11 @@ This is a cave entrance.
 
 ~
 20 3
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 7300
 S
 #7347
 Off the main path~

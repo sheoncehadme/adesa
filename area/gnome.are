@@ -49,6 +49,11 @@ Through a small tunnel in the cave wall is the exit back to the town
 walk-ways.~
 ~
 0 -1 6002
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 6032
 S
 #6002
 Walk-way through Erin's-Burrow~
@@ -734,6 +739,11 @@ D3
 The temple altar.~
 ~
 0 -1 6017
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 6001
 S
 #6033
 The Training Room~

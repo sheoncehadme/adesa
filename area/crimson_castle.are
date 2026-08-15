@@ -33,6 +33,16 @@ D4
 ~
 ~
 0 -1 11301
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 11422
+D0
+A passage leads north into a side wing.
+~
+~
+0 -1 11443
 S
 #11301
 @@RChoir of Fractures@@N~
@@ -2743,6 +2753,11 @@ D4
 ~
 ~
 0 -1 11423
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 11300
 S
 #11423
 @@RApse of Ember@@N~
@@ -3131,6 +3146,11 @@ S
 @@RCivilizations have prayed here to the fall itself; some still do.@@N
 ~
 139276 11
+D2
+A passage leads south into the greater halls.
+~
+~
+0 -1 11300
 S
 #0
 #MOBILES

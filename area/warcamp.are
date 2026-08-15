@@ -32,6 +32,26 @@ D2
 ~
 ~
 0 0 9722
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 6615
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 6616
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 6617
+D4
+A passage leads up into a side wing.
+~
+~
+0 -1 6618
 S
 #6601
 @@GForest @@dPath@@N~
@@ -51,6 +71,16 @@ D2
 ~
 ~
 0 -1 6600
+D3
+A passage leads west into a side wing.
+~
+~
+0 -1 6619
+D1
+A passage leads east into a side wing.
+~
+~
+0 -1 6630
 E
 stump~
 @@WA large @@bstump @@Wlooks like it was recently cut.@@N
@@ -334,26 +364,51 @@ S
 New room~
 No description~
 221188 11
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 6600
 S
 #6616
 New room~
 No description~
 221188 11
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 6600
 S
 #6617
 New room~
 No description~
 221188 11
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 6600
 S
 #6618
 New room~
 No description~
 221188 11
+D5
+A passage leads down into the greater halls.
+~
+~
+0 -1 6600
 S
 #6619
 New room~
 No description~
 221188 11
+D1
+A passage leads east into the greater halls.
+~
+~
+0 -1 6601
 S
 #6620
 @@dMain Path@@N~
@@ -453,6 +508,11 @@ S
 New room~
 No description~
 4 11
+D3
+A passage leads west into the greater halls.
+~
+~
+0 -1 6601
 S
 #6624
 @@bA dirt path.@@N~

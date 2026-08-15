@@ -29,6 +29,11 @@ you are currently entertaining.  It seems like whoever had enough
 
 ~
 17950 0
+D0
+A passage leads north into the greater halls.
+~
+~
+0 -1 3300
 S
 #3307
 The Pleasure Palace~
@@ -352,6 +357,11 @@ Stairs descend into Moribund's halls.
 ~
 ~
 0 -1 3304
+D2
+A passage leads south into a side wing.
+~
+~
+0 -1 3308
 S
 #0
 #MOBILES

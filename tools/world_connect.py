@@ -287,6 +287,137 @@ def ensure_noshow(files: Dict[str, str], fname: str) -> Optional[str]:
     return f"{fname}: added AREA_NOSHOW (S)"
 
 
+def _room_exits_from_text(text: str, vnum: int) -> Dict[int, int]:
+    """Parse exits for one room from area file text."""
+    rooms = parse_rooms_from_text(text, "(memory)")
+    r = rooms.get(vnum)
+    return dict(r["exits"]) if r else {}
+
+
+def parse_rooms_from_text(text: str, fname: str) -> Dict[int, dict]:
+    """Like parse_rooms(Path) but from in-memory file contents."""
+    rooms: Dict[int, dict] = {}
+    for rooms_m in re.finditer(r"#ROOMS\b", text):
+        sec = text[rooms_m.end() :]
+        m = re.search(r"\n#(MOBILES|OBJECTS|RESETS|SHOPS|SPECIALS|MOBPROGS|\$)\b", sec)
+        if m:
+            sec = sec[: m.start()]
+        for rm in re.finditer(r"^#(\d+)\s*$", sec, re.M):
+            vnum = int(rm.group(1))
+            if vnum == 0:
+                continue
+            start = rm.end()
+            nm = re.search(r"^#(\d+)\s*$", sec[start:], re.M)
+            block = sec[start : start + nm.start()] if nm else sec[start:]
+            exits = {}
+            for dm in re.finditer(r"^D([0-5])\s*$", block, re.M):
+                d = int(dm.group(1))
+                rest = block[dm.end() :]
+                for line in rest.splitlines():
+                    line = line.strip()
+                    nums = line.split()
+                    if len(nums) >= 3 and all(re.fullmatch(r"-?\d+", x) for x in nums[:3]):
+                        dest = int(nums[2])
+                        if dest > 0:
+                            exits[d] = dest
+                        break
+            rooms[vnum] = {"exits": exits, "file": fname}
+    return rooms
+
+
+def free_dirs(exits: Dict[int, int]) -> List[int]:
+    return [d for d in range(6) if d not in exits]
+
+
+def components_in_file(rooms: Dict[int, dict], fname: str) -> List[List[int]]:
+    vs = [v for v, r in rooms.items() if r["file"] == fname]
+    seen = set()
+    comps: List[List[int]] = []
+    for s in vs:
+        if s in seen:
+            continue
+        q = deque([s])
+        seen.add(s)
+        comp = []
+        while q:
+            v = q.popleft()
+            comp.append(v)
+            for dest in rooms[v]["exits"].values():
+                if dest in rooms and rooms[dest]["file"] == fname and dest not in seen:
+                    seen.add(dest)
+                    q.append(dest)
+        comps.append(sorted(comp))
+    comps.sort(key=len, reverse=True)
+    return comps
+
+
+def stitch_area_islands(files: Dict[str, str], fname: str) -> List[str]:
+    """Connect every room-component inside an area to the largest component."""
+    notes: List[str] = []
+    if fname not in files:
+        return notes
+    # Iterate until one component (or no free dirs left)
+    for _ in range(32):
+        rooms = parse_rooms_from_text(files[fname], fname)
+        comps = components_in_file(rooms, fname)
+        if len(comps) <= 1:
+            break
+        main = comps[0]
+        island = comps[1]
+        linked = False
+        # Prefer lower vnums as "entries"
+        for a in island:
+            if linked:
+                break
+            a_ex = rooms[a]["exits"]
+            for b in main:
+                b_ex = rooms[b]["exits"]
+                for d in free_dirs(a_ex):
+                    rd = REV[d]
+                    if rd in free_dirs(b_ex) or b_ex.get(rd) == a:
+                        notes += link_bidirectional(
+                            files,
+                            fname,
+                            a,
+                            d,
+                            fname,
+                            b,
+                            rd,
+                            a_desc=f"A passage leads {DIR_NAMES[d]} into the greater halls.",
+                            b_desc=f"A passage leads {DIR_NAMES[rd]} into a side wing.",
+                        )
+                        linked = True
+                        break
+                if linked:
+                    break
+        if not linked:
+            # Force: overwrite a free dir on island toward main entry, and free/rev on main
+            a = island[0]
+            b = main[0]
+            a_ex = _room_exits_from_text(files[fname], a)
+            b_ex = _room_exits_from_text(files[fname], b)
+            af = free_dirs(a_ex)
+            bf = free_dirs(b_ex)
+            if not af or not bf:
+                notes.append(f"{fname}: could not stitch island {island[0]} (no free exits)")
+                break
+            d = af[0]
+            # pick reverse free if possible else any free on b
+            rd = REV[d] if REV[d] in bf else bf[0]
+            notes += link_bidirectional(
+                files,
+                fname,
+                a,
+                d,
+                fname,
+                b,
+                rd,
+                a_desc=f"A newly cleared passage leads {DIR_NAMES[d]}.",
+                b_desc=f"A newly cleared passage leads {DIR_NAMES[rd]}.",
+            )
+    return notes
+
+
 def apply_links(files: Dict[str, str]) -> List[str]:
     notes: List[str] = []
 
@@ -303,17 +434,43 @@ def apply_links(files: Dict[str, str]) -> List[str]:
         b_desc="North lies the West Gate of the Scar.",
     )
 
-    # 2) Mud School down <-> Giganthia temple (already has up to 3700)
+    # 2a) CRITICAL: Scale-Touched Grounds entrance (3700) down -> Heart-Pulse Sanctum (3001).
+    # New players spawn at 3700; temple already has up to 3700. Without this, they are
+    # trapped in school/gigant and cannot reach the Scar or campaign spine.
     notes += link_bidirectional(
         files,
         "school.are",
         3700,
         5,  # down
+        "midgaard.are",
+        3001,
+        4,  # up (already present; ensure dest is school)
+        a_desc="Stone steps descend into the Heart-Pulse Sanctum of the Scar.",
+        b_desc="Steps lead up into the Scale-Touched Grounds.",
+    )
+
+    # 2b) School interior stitching + Giganthia off the main school halls (not the spawn room)
+    notes += link_bidirectional(
+        files,
+        "school.are",
+        3700,
+        1,  # east
+        "school.are",
+        3717,
+        3,  # west
+        a_desc="A corridor opens east into the training halls.",
+        b_desc="West returns to the entrance of the Scale-Touched Grounds.",
+    )
+    notes += link_bidirectional(
+        files,
+        "school.are",
+        3717,
+        5,  # down
         "gigant.are",
         3430,
         4,  # up
         a_desc="Stone steps descend into the cavern-city of Giganthia.",
-        b_desc="Steps lead up into Adesa's Mud School.",
+        b_desc="Steps lead up into the Scale-Touched Grounds.",
     )
 
     # 3) Midgaard Dump up -> Ethereal (exit portals already return to Midgaard)
@@ -400,11 +557,43 @@ def apply_links(files: Dict[str, str]) -> List[str]:
         300,
         3,  # west
         a_desc="A heavy gate opens east into the old arena grounds.",
-        b_desc="West leads back toward Mud School.",
+        b_desc="West leads back toward the Scale-Touched Grounds.",
     )
 
     # 8) Maze of Icarus repair + link
     notes += repair_maze(files)
+
+    # 9) Tirna main island (bulk of Aurora-Bloom) <-> entry already linked to Scar temple
+    # Entry cluster 9001-9003 reaches Midgaard 3054; main mass starts ~9068.
+    notes += link_bidirectional(
+        files,
+        "tirna.are",
+        9003,
+        1,  # east
+        "tirna.are",
+        9068,
+        3,  # west
+        a_desc="The path opens east into the wider Aurora-Bloom meadows.",
+        b_desc="West returns toward the Scar-side approaches of Tirna.",
+    )
+
+    # 10) Stitch internal islands in every player-facing area so no orphan wings
+    SYSTEM = {
+        "limbo.are",
+        "utility.are",
+        "ceiling.are",
+        "enchant-eq.are",
+        "auction.are",
+        "micro_mob_generator.are",
+        "immort.are",
+        "players.are",
+    }
+    for fname in sorted(files.keys()):
+        if fname in SYSTEM:
+            continue
+        n = stitch_area_islands(files, fname)
+        if n:
+            notes.extend(n)
 
     # System / builder areas: keep off quest lists
     for sys_area in (

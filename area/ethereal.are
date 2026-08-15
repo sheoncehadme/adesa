@@ -222,6 +222,11 @@ D3
 ~
 ~
 0 -1 3851
+D5
+A passage leads down into a side wing.
+~
+~
+0 -1 3871
 S
 #3851
 Ethereal Plane~
@@ -643,6 +648,11 @@ D5
 ~
 ~
 0 -1 3862
+D4
+A passage leads up into the greater halls.
+~
+~
+0 -1 3850
 S
 #3872
 Within the Planes~
